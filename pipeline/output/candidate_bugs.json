@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "candidate_id": "bug_20260614050146_1",
+    "type": "bug_report",
+    "title": "Goliath与Overheal及护盾装备的交互Bug",
+    "champions": [
+      "山隐之焰"
+    ],
+    "augments": [
+      "Goliath",
+      "Overheal"
+    ],
+    "description": "Goliath增强生命值后，Sterak's Gage和Overheal的护盾量仍基于未增强前的生命值计算，导致实际收益低于预期。",
+    "trigger": "选择Goliath强化后，装备Sterak's Gage或使用Overheal符文，在触发护盾时出现计算错误。",
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://www.reddit.com/r/leagueoflegends/comments/1f5b2cd/goliath_augment_interaction_with_overheal_and_shields/",
+        "summary": "Goliath增强生命值后，Sterak's Gage和Overheal的护盾量仍基于未增强前的生命值计算，导致实际收益低于预期。"
+      }
+    ],
+    "patch": "unknown",
+    "severity": "major",
+    "status": "investigating",
+    "confidence": 40,
+    "needs_review": true,
+    "created_at": "2026-06-14T05:02:32.546002+00:00"
+  }
+]

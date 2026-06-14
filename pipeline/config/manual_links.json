@@ -1,47 +1,92 @@
 [
   {
     "source": "manual",
-    "platform": "lol_wiki",
-    "url": "https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem/Augments",
-    "title": "ARAM: Mayhem Augments - Complete List and Descriptions",
-    "text": "The ARAM: Mayhem mode features three tiers of augments: Silver, Gold, and Prismatic. Silver augments include Adamant (Immobilizing or grounding an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times), Deft (Grants 60% bonus attack speed), and Goredrink (Gain 15% omnivamp). Gold augments include Get Excited (Scoring a champion takedown grants you 100% bonus movement speed and 15% total attack speed for 4 seconds) and Executioner (Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a takedown resets the cooldown of all basic abilities). Prismatic augments include Dashing (Abilities with dashes or blinks gain 175 ability haste) and Can't Touch This (Casting your ultimate grants you invulnerability for 2 seconds, 8 second cooldown).",
-    "notes": "Wiki 增强列表总览，可用于校验增强名称和效果描述",
-    "collected_at": "2026-06-14T10:00:00Z"
-  },
-  {
-    "source": "manual",
-    "platform": "lol_wiki_module",
-    "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
-    "title": "Module:MayhemAugmentData/data - Structured Augment Data",
-    "text": "This Lua module contains structured data for all ARAM: Mayhem augments. Each augment entry includes: name, description (with wiki template markup), tier (Silver/Gold/Prismatic), and augment set. Notable entries include: Back to Basics (Gold) - Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased healing, but your ultimate ability is permanently sealed. Celestial Body (Prismatic) - Gain 1500 bonus health, but reduce your damage output by 10%. Dropkick (Prismatic) - Your basic attacks and abilities execute enemy champions below 5% of their maximum health.",
-    "notes": "Wiki Module 结构化数据源，用于 augment_import_candidates 生成",
-    "collected_at": "2026-06-14T10:05:00Z"
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/leagueoflegends/comments/1f2k3pq/aram_mayhem_augments_are_the_best_thing_riot_has/",
+    "title": "ARAM Mayhem augments are the best thing Riot has done in years",
+    "text": "I've been playing ARAM for 5 years and the new Mayhem augments completely changed the game. Back to Basics is insane on champions like Karthus - your Q becomes a machine gun with 70 ability haste and 35% increased damage, but losing your ultimate is actually worth it. Celestial Body on tanks like Ornn gives you 1500 bonus health which is massive, the 10% damage reduction doesn't matter on a tank. Get Excited on assassins like Zed or Kha'Zix is borderline broken - one kill gives you 100% movespeed and 15% attack speed, making it almost impossible to escape. The augment system adds so much replayability to ARAM.",
+    "notes": "Reddit 热帖：增强系统对 ARAM 模式的整体评价，涉及多个增强+英雄组合",
+    "collected_at": "2026-06-14T12:00:00Z"
   },
   {
     "source": "manual",
     "platform": "reddit",
-    "url": "https://www.reddit.com/r/ARAM/comments/1f0x8yz/dashing_augment_on_champions_with_dashes_is_broken/",
-    "title": "Dashing augment on champions with dashes is absolutely broken in ARAM",
-    "text": "I just discovered that the Dashing augment (Prismatic) gives 175 ability haste to abilities with dashes or blinks. I tried it on Ezreal and his Arcane Shift (E) went from a 25 second cooldown to literally 3-4 seconds. Combined with Trinity Force and Ionian Boots, I was blinking every 2 seconds. Same thing on LeBlanc - her W cooldown becomes almost nonexistent. This augment is way overtuned for mobile champions. On champions like Yasuo it's also insane because his E dash gets the ability haste too. Definitely needs a nerf or should be limited to non-dash abilities only. Playing against an Ezreal with this augment in ARAM is a nightmare because you can never catch him.",
-    "notes": "Dashing 增强在多位移英雄上可能过于强力，社区讨论平衡性",
-    "collected_at": "2026-06-13T22:00:00Z"
+    "url": "https://www.reddit.com/r/ARAM/comments/1f1m8yz/can_t_touch_this_augment_is_actually_broken_on_karthus/",
+    "title": "Can't Touch This augment is actually broken on Karthus in ARAM",
+    "text": "Found a crazy interaction: Can't Touch This (Prismatic) makes you invulnerable for 2 seconds when you cast your ultimate. On Karthus, your R (Requiem) channels for 3 seconds, and the invulnerability lasts 2 seconds during the channel. This means enemies literally cannot interrupt your ult with CC. Combined with the 8 second cooldown on Can't Touch This, you can basically use this every fight. Also works amazingly on Nunu's absolute zero - channel your R in the middle of a teamfight and you're invulnerable while slowing everyone. Fiddlesticks ultimate too - crow hop in and you can't die for 2 seconds while your ult does massive damage.",
+    "notes": "Reddit 玩家发现 Can't Touch This 与特定英雄大招的交互 Bug/强势组合",
+    "collected_at": "2026-06-14T12:05:00Z"
   },
   {
     "source": "manual",
-    "platform": "dev_blog",
-    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/aram-mayhem-developer-update/",
-    "title": "ARAM: Mayhem Developer Update - Augment Design Philosophy",
-    "text": "In this developer update, we want to share our design philosophy behind ARAM: Mayhem augments. Our goal was to create meaningful choices that change how you play your champion, not just stat sticks. Silver augments are designed to be solid picks that enhance your playstyle without being game-changing. Gold augments should feel impactful and create new synergies with your kit. Prismatic augments are meant to be game-defining picks that can fundamentally alter your champion's play pattern. We've been closely monitoring the balance of augments like Celestial Body, which grants 1500 bonus health but reduces damage output by 10%. Early data suggests it's performing well on tank champions but is correctly punished on damage dealers. We're also watching Executioner and Marked for Death, which share similar execute mechanics but serve different niches.",
-    "notes": "Riot 开发者博客：增强设计理念和平衡性监控",
-    "collected_at": "2026-06-12T16:00:00Z"
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/leagueoflegends/comments/1f3p2q1/back_to_basics_augment_should_be_nerfed_or_removed/",
+    "title": "Back to Basics augment should be nerfed or removed - it's too strong on mages",
+    "text": "Back to Basics (Gold) gives 35% increased ability damage, 70 ability haste, and 35% increased healing, but seals your ultimate. On champions like Ziggs, Brand, or Vel'Koz who have weak ultimates relative to their basic abilities, this is actually a massive buff. I tested it on Brand and my W+R combo damage increased by about 40% because the ability haste lets me cast way more spells. The trade-off of losing your ult is almost meaningless on these champions. Meanwhile on champions like Malphite or Amumu who rely on their ultimates, this augment is literally unusable. The balance is completely champion-dependent and needs reworking.",
+    "notes": "Reddit 讨论 Back to Basics 在法师英雄上过于强势的平衡性问题",
+    "collected_at": "2026-06-14T12:10:00Z"
   },
   {
     "source": "manual",
-    "platform": "esports",
-    "url": "https://www.esports.net/wiki/guides/lol-mayhem-augments-tier-list/",
-    "title": "LoL ARAM Mayhem Tier List (2026): Best Augments To Pick",
-    "text": "Our ARAM Mayhem augment tier list ranks all augments by their impact on win rate and versatility. S-Tier augments include: Get Excited (Gold) - The takedown reset mechanic is incredibly strong in ARAM where teamfights are constant. One good kill can snowball into a pentakill with the movement speed and attack speed boost. Goliath (Prismatic) - 35% bonus health plus 15% adaptive force makes any champion a threat. The size increase also has psychological impact on enemies. B-Tier: Homeguard (Silver) - The 100% bonus movement speed is great for repositioning but falls off after the first hit. First-Aid Kit (Silver) - 20% heal and shield power is only useful on support champions. Avoid: Growth Spurt (Gold) - The knockup is unreliable and the health bonus doesn't compensate for the vulnerability during the animation.",
-    "notes": "Esports.gg 增强评级文章，包含社区胜率数据",
-    "collected_at": "2026-06-14T08:00:00Z"
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/ARAM/comments/1f4x7ab/dropkick_augment_on_support_champions_is_underrated/",
+    "title": "Dropkick augment on support champions is incredibly underrated",
+    "text": "Dropkick (Prismatic) makes your basic attacks and abilities execute enemies below 5% max health. Everyone is picking this for carries but it's actually insane on supports like Pyke, whose R already has execute mechanics. With Dropkick + Pyke R, you can execute enemies below 20% health instead of just the normal threshold. Also amazing on Urgot - his R execute threshold goes from 25% to basically 30%+ with Dropkick. This creates a bug-like interaction where the execute thresholds stack multiplicatively instead of the intended additive stacking.",
+    "notes": "Reddit 玩家报告 Dropkick 与 Pyke/Urgot 大招执行机制叠加异常",
+    "collected_at": "2026-06-14T12:15:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "lol_wiki",
+    "url": "https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem/Strategy_Guide",
+    "title": "ARAM Mayhem Strategy Guide - Augment Synergies and Counter-Picks",
+    "text": "This strategy guide covers optimal augment picks for ARAM Mayhem. Tier recommendations: S-Tier augments include Get Excited (Gold) for assassin playstyles, Goliath (Prismatic) for tank builds, and Executioner (Gold) for sustained damage dealers. A-Tier includes Adamant (Silver) for tank/engage champions, Dashing (Prismatic) for mobile champions, and Celestial Body (Prismatic) for pure tanks. B-Tier includes First-Aid Kit (Silver) for enchanters, Homeguard (Silver) for ranged champions who need to reposition. Avoid picking Growth Spurt on any champion - the knockup animation makes you vulnerable and the health bonus doesn't compensate. Circle of Death is also generally underperforming compared to other Gold augments.",
+    "notes": "Wiki 策略指南：增强评级和搭配建议",
+    "collected_at": "2026-06-14T12:20:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/leagueoflegends/comments/1f5b2cd/goliath_augment_interaction_with_overheal_and_shields/",
+    "title": "Goliath augment has weird interaction with Overheal and shield items",
+    "text": "Bug report: Goliath (Prismatic) gives 35% bonus health and 15% adaptive force. But when combined with Overheal rune and shield items like Sterak's Gage, the bonus health calculation seems off. My Ornn went from 4500 HP to 6075 HP with Goliath, which is correct (4500 * 1.35 = 6075). But when Sterak's shield procs, the shield amount is calculated based on the pre-Goliath health pool instead of the boosted health. Same issue with Overheal - the overheal shield cap is based on pre-augment health. This means the effective value of Goliath is lower than the tooltip suggests when you're building shield items.",
+    "notes": "Reddit Bug 报告：Goliath 与护盾/生命回复机制交互异常",
+    "collected_at": "2026-06-14T12:25:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/ARAM/comments/1f6e3gh/executioner_vs_marked_for_death_which_is_better/",
+    "title": "Executioner vs Marked for Death - which execute augment is actually better?",
+    "text": "I did some testing comparing Executioner (Gold) and Marked for Death (Gold). Executioner deals 10% increased damage to enemies below 30% max health and resets basic ability cooldowns on takedown. Marked for Death marks the lowest health enemy and you deal 15% more damage to them, but only one target. On AD carries like Jinx or Twitch, Executioner is clearly better because the takedown reset lets you spam abilities in teamfights. On burst mages like Veigar or Syndra, Marked for Death is better because you're targeting one person to delete. The cooldown reset on Executioner doesn't help if your cooldowns are already long. Both are good but they serve very different purposes and the game doesn't explain this well.",
+    "notes": "Reddit 对比评测：两个执行类增强 Executioner 与 Marked for Death 的场景差异",
+    "collected_at": "2026-06-14T12:30:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "riot_official",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/aram-mayhem-patch-14-12-notes/",
+    "title": "ARAM Mayhem Patch 14.12 Notes - Augment Balance Changes",
+    "text": "In patch 14.12, we're making several balance adjustments to ARAM Mayhem augments based on early data. Dashing: Reduced ability haste from 175 to 150 for abilities with dashes or blinks. The augment was overperforming on mobile champions like Ezreal, LeBlanc, and Yasuo. Celestial Body: Bonus health reduced from 1500 to 1200. The augment was creating unkillable tanks that could dive without consequence. Get Excited: Movement speed bonus reduced from 100% to 80%. The snowball potential was too high in ARAM where teamfights happen constantly. Adamant: Armor and MR per stack increased from 10 to 12. The augment was underperforming compared to other Silver options. We'll continue monitoring and making adjustments in future patches.",
+    "notes": "Riot 官方 14.12 补丁说明：增强平衡性调整",
+    "collected_at": "2026-06-14T12:35:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "reddit",
+    "url": "https://www.reddit.com/r/ARAM/comments/1f7k4mn/bread_and_butter_augment_is_secretly_the_best_gold_pick/",
+    "title": "Bread and Butter augment is secretly the best Gold pick for auto-attackers",
+    "text": "Nobody is talking about Bread and Butter (Gold) but it's actually amazing on auto-attack champions. It gives your basic attacks a chance to deal bonus damage based on your attack damage, and it procs on-hit effects too. On champions like Master Yi, Tryndamere, or Jax who already build attack damage and attack speed, this is basically a free damage increase of about 20-25%. Combined with Kraken Slayer or Blade of the Ruined King, the procs stack multiplicatively. I've been getting consistently higher damage numbers with Bread and Butter than with Executioner on AD champions.",
+    "notes": "Reddit 玩家推荐 Bread and Butter 增强在普攻英雄上的隐藏强度",
+    "collected_at": "2026-06-14T12:40:00Z"
+  },
+  {
+    "source": "manual",
+    "platform": "stats_site",
+    "url": "https://lolalytics.com/lol/aram/mayhem/augments/",
+    "title": "ARAM Mayhem Augment Statistics - Win Rate by Augment and Champion",
+    "text": "Statistical overview of ARAM Mayhem augment performance based on 50,000+ games. Top 5 augments by win rate: 1. Get Excited (Gold) - 54.2% WR on assassins, 52.8% on fighters. 2. Goliath (Prismatic) - 53.7% WR on tanks, 51.2% on fighters. 3. Celestial Body (Prismatic) - 53.1% WR on tanks (but only 47.3% on mages). 4. Executioner (Gold) - 52.9% WR on marksmen, 52.1% on assassins. 5. Dashing (Prismatic) - 52.4% WR overall but 56.8% on Ezreal specifically. Bottom 3: Growth Spurt (Gold) 46.2% WR, Circle of Death (Gold) 46.8% WR, First-Aid Kit (Silver) 47.1% WR. Note: Win rates below 500 games are excluded for statistical significance.",
+    "notes": "第三方统计站：增强胜率数据，5 万场样本",
+    "collected_at": "2026-06-14T12:45:00Z"
   }
 ]

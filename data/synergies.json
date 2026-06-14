@@ -806,5 +806,30 @@
     ],
     "updated_at": "2026-06-14T04:39:07Z",
     "source_note": ""
+  },
+  {
+    "hero": "卡尔萨斯",
+    "aug": "Can't Touch This",
+    "rar": "prism",
+    "tier": "transform",
+    "delta": null,
+    "conf": 40,
+    "sample": null,
+    "ver": "unknown",
+    "src": "community",
+    "status": "investigating",
+    "desc": "Can't Touch This强化符文配合Karthus大招提供2秒无敌，使大招无法被中断且冷却短，极其强力。同样适用于Nunu和Fiddlesticks。",
+    "trigger": "在ARAM中选择Can't Touch This后，使用Karthus的R技能（Requiem）时",
+    "notes": [],
+    "combos": [],
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://www.reddit.com/r/ARAM/comments/1f1m8yz/can_t_touch_this_augment_is_actually_broken_on_karthus/",
+        "summary": "Can't Touch This强化符文配合Karthus大招提供2秒无敌，使大招无法被中断且冷却短，极其强力。同样适用于Nunu和Fiddlesticks。"
+      }
+    ],
+    "updated_at": "2026-06-14T05:03:50Z",
+    "source_note": ""
   }
 ]

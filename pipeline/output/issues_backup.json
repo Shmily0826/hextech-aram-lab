@@ -134,5 +134,31 @@
     ],
     "updated_at": "2026-06-14T01:14:56Z",
     "source_note": ""
+  },
+  {
+    "sev": "major",
+    "title": "Teemo mushroom traps do not trigger Chain Lightning augment",
+    "heroes": [
+      "提莫"
+    ],
+    "augs": [
+      "连锁闪电"
+    ],
+    "desc": "Teemo's R mushroom traps should trigger Chain Lightning based on the augment description ('skill hits trigger chain lightning'), but they do not. The augment only procs from Teemo's E passive on auto attacks, not from trap-type abilities. Tested and confirmed across 3 separate games.",
+    "ver": "15.12",
+    "time": "2026-06-14",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "",
+    "confidence": 60,
+    "evidence": [
+      {
+        "type": "reddit",
+        "url": "https://www.reddit.com/r/ARAM/comments/1de5m3n/teemo_mushrooms_dont_proc_chain_lightning_bug/",
+        "summary": "Teemo mushrooms consistently fail to trigger Chain Lightning across 3 games, while E passive burn does trigger it"
+      }
+    ],
+    "updated_at": "2026-06-14T01:14:56Z",
+    "source_note": ""
   }
 ]

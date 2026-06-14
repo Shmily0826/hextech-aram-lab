@@ -1,0 +1,65 @@
+{
+  "total_warnings": 145,
+  "by_category": {
+    "effect_missing": {
+      "count": 24,
+      "examples": [
+        "⚠ [augments.json] 第 17 条增强 'Adamant' effect 为空",
+        "⚠ [augments.json] 第 18 条增强 'Blunt Force' effect 为空",
+        "⚠ [augments.json] 第 19 条增强 'Deft' effect 为空"
+      ]
+    },
+    "patch_missing": {
+      "count": 24,
+      "examples": [
+        "⚠ [augments.json] 第 17 条增强 'Adamant' patch_added 为空",
+        "⚠ [augments.json] 第 18 条增强 'Blunt Force' patch_added 为空",
+        "⚠ [augments.json] 第 19 条增强 'Deft' patch_added 为空"
+      ]
+    },
+    "missing_zh": {
+      "count": 24,
+      "examples": [
+        "[augments.json] 第 17 条增强 'Adamant' localization_status=missing_zh (中文名待翻译)",
+        "[augments.json] 第 18 条增强 'Blunt Force' localization_status=missing_zh (中文名待翻译)",
+        "[augments.json] 第 19 条增强 'Deft' localization_status=missing_zh (中文名待翻译)"
+      ]
+    },
+    "prototype_or_unknown_augments": {
+      "count": 13,
+      "examples": [
+        "[augments.json] 第 1 条增强 '连锁闪电' source_status=prototype (原型数据)",
+        "[augments.json] 第 2 条增强 '毒性增幅' source_status=prototype (原型数据)",
+        "[augments.json] 第 4 条增强 '穿甲弹头' source_status=prototype (原型数据)"
+      ]
+    },
+    "missing_evidence": {
+      "count": 31,
+      "examples": [
+        "⚠ [synergies.json] 第 1 条组合 status=verified 但 evidence 为空，建议补充证据链接",
+        "⚠ [synergies.json] 第 2 条组合 status=verified 但 evidence 为空，建议补充证据链接",
+        "⚠ [synergies.json] 第 3 条组合 status=verified 但 evidence 为空，建议补充证据链接"
+      ]
+    },
+    "missing_source_url": {
+      "count": 27,
+      "examples": [
+        "⚠ [synergies.json] 第 1 条组合 src=data 且 sample=2847 但 evidence 为空，建议补充数据来源",
+        "⚠ [synergies.json] 第 2 条组合 src=data 且 sample=3201 但 evidence 为空，建议补充数据来源",
+        "⚠ [synergies.json] 第 3 条组合 src=data 且 sample=856 但 evidence 为空，建议补充数据来源"
+      ]
+    },
+    "sample_null": {
+      "count": 2,
+      "examples": [
+        "[synergies.json] 第 32 条组合 吉格斯×连锁闪电 sample=None",
+        "[synergies.json] 第 33 条组合 伊泽瑞尔×Dashing sample=None"
+      ]
+    },
+    "other": {
+      "count": 0,
+      "examples": []
+    }
+  },
+  "generated_at": "2026-06-14T16:59:47.182689"
+}

@@ -781,5 +781,30 @@
     ],
     "updated_at": "2026-06-14T01:14:56Z",
     "source_note": ""
+  },
+  {
+    "hero": "伊泽瑞尔",
+    "aug": "Dashing",
+    "rar": "prism",
+    "tier": "transform",
+    "delta": null,
+    "conf": 40,
+    "sample": null,
+    "ver": "unknown",
+    "src": "community",
+    "status": "investigating",
+    "desc": "Dashing强化符文让有位移技能的英雄技能冷却极短，过于强势，需要削弱",
+    "trigger": "在ARAM中选择Dashing强化符文后，使用带有位移或闪烁技能的英雄（如Ezreal的E）",
+    "notes": [],
+    "combos": [],
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://www.reddit.com/r/ARAM/comments/1f0x8yz/dashing_augment_on_champions_with_dashes_is_broken/",
+        "summary": "Dashing强化符文让有位移技能的英雄技能冷却极短，过于强势，需要削弱"
+      }
+    ],
+    "updated_at": "2026-06-14T04:39:07Z",
+    "source_note": ""
   }
 ]

@@ -160,5 +160,32 @@
     ],
     "updated_at": "2026-06-14T01:14:56Z",
     "source_note": ""
+  },
+  {
+    "sev": "major",
+    "title": "Dropkick强化符文与Pyke/Urgot处决阈值叠加异常",
+    "heroes": [
+      "血港鬼影",
+      "无畏战车"
+    ],
+    "augs": [
+      "Dropkick"
+    ],
+    "desc": "Dropkick（棱彩）使基础攻击和技能处决低于5%最大生命值的敌人。与Pyke的R技能叠加时，处决阈值从原本的5%+Pyke R的阈值提升至约20%；与Urgot的R叠加时，阈值从25%提升至30%以上。实际表现为阈值以乘算方式叠加，而非预期的加算，导致处决能力异常增强。",
+    "ver": "unknown",
+    "time": "2026-06-14",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "",
+    "confidence": 50,
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://www.reddit.com/r/ARAM/comments/1f4x7ab/dropkick_augment_on_support_champions_is_underrated/",
+        "summary": "Dropkick（棱彩）使基础攻击和技能处决低于5%最大生命值的敌人。与Pyke的R技能叠加时，处决阈值从原本的5%+Pyke R的阈值提升至约20%；与Urgot的R叠加时，阈值从25%提升至30%以上。实际表现为阈值以乘算方式叠加，而非预期的加算，导致处决能力异常增强。"
+      }
+    ],
+    "updated_at": "2026-06-14T05:03:43Z",
+    "source_note": ""
   }
 ]

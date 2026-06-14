@@ -38,5 +38,25 @@
     "status": "investigating",
     "source": "review_approve",
     "evidence_count": 1
+  },
+  {
+    "date": "2026-06-14T05:03:43Z",
+    "type": "bug",
+    "title": "Dropkick强化符文与Pyke/Urgot处决阈值叠加异常",
+    "hero": "血港鬼影, 无畏战车",
+    "augment": "Dropkick",
+    "status": "investigating",
+    "source": "review_approve_dev",
+    "evidence_count": 1
+  },
+  {
+    "date": "2026-06-14T05:03:50Z",
+    "type": "synergy",
+    "title": "卡尔萨斯 x Can't Touch This",
+    "hero": "卡尔萨斯",
+    "augment": "Can't Touch This",
+    "status": "investigating",
+    "source": "review_approve_dev",
+    "evidence_count": 1
   }
 ]
