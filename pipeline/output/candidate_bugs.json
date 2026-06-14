@@ -1,29 +1,55 @@
 [
   {
-    "candidate_id": "bug_20260614050146_1",
+    "candidate_id": "bug_20260614102703_0",
     "type": "bug_report",
-    "title": "Goliath与Overheal及护盾装备的交互Bug",
+    "title": "Cerberus增强拿到双基石符文后Hail of Blades不触发",
     "champions": [
-      "山隐之焰"
+      "Cerberus"
     ],
     "augments": [
-      "Goliath",
-      "Overheal"
+      "Hail of Blades",
+      "Press the Attack"
     ],
-    "description": "Goliath增强生命值后，Sterak's Gage和Overheal的护盾量仍基于未增强前的生命值计算，导致实际收益低于预期。",
-    "trigger": "选择Goliath强化后，装备Sterak's Gage或使用Overheal符文，在触发护盾时出现计算错误。",
+    "description": "选到Cerberus棱彩增强后，应该同时获得Hail of Blades和Press the Attack两个基石符文，但Hail of Blades经常不触发，只有Press the Attack生效。经多次测试，部分对局完全不触发，部分前几分钟正常后突然失效。",
+    "trigger": "选择Cerberus棱彩增强后进入游戏",
     "evidence": [
       {
         "source": "manual",
-        "url": "https://www.reddit.com/r/leagueoflegends/comments/1f5b2cd/goliath_augment_interaction_with_overheal_and_shields/",
-        "summary": "Goliath增强生命值后，Sterak's Gage和Overheal的护盾量仍基于未增强前的生命值计算，导致实际收益低于预期。"
+        "url": "https://tieba.baidu.com/p/9023456789",
+        "summary": "选到Cerberus棱彩增强后，应该同时获得Hail of Blades和Press the Attack两个基石符文，但Hail of Blades经常不触发，只有Press the Attack生效。经多次测试，部分对局完全不触发，部分前几分钟正常后突然失效。"
       }
     ],
     "patch": "unknown",
-    "severity": "major",
+    "severity": "critical",
     "status": "investigating",
-    "confidence": 40,
+    "confidence": 60,
     "needs_review": true,
-    "created_at": "2026-06-14T05:02:32.546002+00:00"
+    "created_at": "2026-06-14T10:27:15.076019+00:00"
+  },
+  {
+    "candidate_id": "bug_20260614102703_1",
+    "type": "bug_report",
+    "title": "Brand + Toxic Amplifier 实际伤害异常（疑似2.5倍而非1.4倍）",
+    "champions": [
+      "布兰德"
+    ],
+    "augments": [
+      "毒性增幅"
+    ],
+    "description": "玩家根据统计数据指出，Brand搭配Toxic Amplifier强化符文时，实际伤害约为2.5倍，而非预期的1.4倍，疑似存在Bug。",
+    "trigger": "在ARAM模式中选择Toxic Amplifier强化后，Brand使用技能造成伤害时触发。",
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://arammayhem.com/augments/statistics",
+        "summary": "玩家根据统计数据指出，Brand搭配Toxic Amplifier强化符文时，实际伤害约为2.5倍，而非预期的1.4倍，疑似存在Bug。"
+      }
+    ],
+    "patch": "unknown",
+    "severity": "critical",
+    "status": "investigating",
+    "confidence": 60,
+    "needs_review": true,
+    "created_at": "2026-06-14T10:28:19.010854+00:00"
   }
 ]

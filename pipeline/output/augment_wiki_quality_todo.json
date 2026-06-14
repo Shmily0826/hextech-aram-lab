@@ -1,0 +1,434 @@
+[
+  {
+    "id": "adamant",
+    "name_en": "Adamant",
+    "current_name": "Adamant",
+    "tier": "silver",
+    "effect_en": "immobilize or ground an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
+    "current_effect": "",
+    "suggested_zh_name": "坚不可摧",
+    "suggested_effect_zh": "定身或禁锢敌方英雄时，获得10点额外护甲和魔法抗性，持续10秒，最多叠加10次，共100点额外双抗，后续触发时刷新（每次施法5秒冷却）。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "blunt_force",
+    "name_en": "Blunt Force",
+    "current_name": "Blunt Force",
+    "tier": "silver",
+    "effect_en": "Increases attack damage by 20%.",
+    "current_effect": "",
+    "suggested_zh_name": "钝击",
+    "suggested_effect_zh": "攻击力提升20%。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "deft",
+    "name_en": "Deft",
+    "current_name": "Deft",
+    "tier": "silver",
+    "effect_en": "Grants 60% bonus attack speed.",
+    "current_effect": "",
+    "suggested_zh_name": "灵巧",
+    "suggested_effect_zh": "获得60%额外攻击速度。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "erosion",
+    "name_en": "Erosion",
+    "current_name": "Erosion",
+    "tier": "silver",
+    "effect_en": "Each instance of damage dealt to an enemy reduces their armor and magic resistance by 1.5% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
+    "current_effect": "",
+    "suggested_zh_name": "侵蚀",
+    "suggested_effect_zh": "每次对敌人造成伤害时，使其护甲和魔法抗性降低1.5%，持续4秒，最多叠加20次，共降低30%双抗。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "first_aid_kit",
+    "name_en": "First-Aid Kit",
+    "current_name": "First-Aid Kit",
+    "tier": "silver",
+    "effect_en": "Grants 20% heal and shield power.",
+    "current_effect": "",
+    "suggested_zh_name": "急救包",
+    "suggested_effect_zh": "获得20%治疗与护盾强度。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "goredrink",
+    "name_en": "Goredrink",
+    "current_name": "Goredrink",
+    "tier": "silver",
+    "effect_en": "Gain 15% omnivamp.",
+    "current_effect": "",
+    "suggested_zh_name": "嗜血",
+    "suggested_effect_zh": "获得15%全能吸血。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "homeguard",
+    "name_en": "Homeguard",
+    "current_name": "Homeguard",
+    "tier": "silver",
+    "effect_en": "Gain 100% bonus movement speed. This bonus is lost for 6 seconds after taking damage from champions.",
+    "current_effect": "",
+    "suggested_zh_name": "家园卫士",
+    "suggested_effect_zh": "获得100%额外移动速度。受到英雄伤害后此加成失效6秒。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "guilty_pleasure",
+    "name_en": "Guilty Pleasure",
+    "current_name": "Guilty Pleasure",
+    "tier": "silver",
+    "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
+    "current_effect": "",
+    "suggested_zh_name": "罪恶快感",
+    "suggested_effect_zh": "定身或禁锢敌方英雄时，为你治疗30至250点生命值（每次施法5秒冷却）。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "back_to_basics",
+    "name_en": "Back to Basics",
+    "current_name": "Back to Basics",
+    "tier": "prismatic",
+    "effect_en": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased heal and shield from all sources, but your ultimate ability is permanently lockout.",
+    "current_effect": "",
+    "suggested_zh_name": "回归本源",
+    "suggested_effect_zh": "你的基础技能伤害提升35%，获得70点技能急速和35%来自所有来源的治疗与护盾增强，但你的终极技能将被永久锁定。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "biggest_snowball_ever",
+    "name_en": "Biggest Snowball Ever",
+    "current_name": "Biggest Snowball Ever",
+    "tier": "prismatic",
+    "effect_en": "Upgrades your Mark into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal magic damage (+ 100% bonus AD) (+ 60% AP) magic damage to all nearby enemies, airborne for 0.75 seconds, and slow}} them by 20% for 2 seconds. Additionally, your {{sis cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark. Non-champions hit by the snowball are stun for 1.25 seconds.",
+    "current_effect": "",
+    "suggested_zh_name": "史上最大雪球",
+    "suggested_effect_zh": "将你的标记升级为一个巨大的雪球，增大命中半径并可以穿过非英雄单位。雪球命中目标后爆炸，对附近所有敌人造成魔法伤害（+100%额外攻击力）（+60%法术强度），击飞0.75秒并减速20%持续2秒。此外，你的标记冷却时间缩减相当于100点技能急速。如果未装备标记，系统将提示你用标记替换一个召唤师技能。被雪球命中的非英雄单位会被眩晕1.25秒。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "low",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "circle_of_death",
+    "name_en": "Circle of Death",
+    "current_name": "Circle of Death",
+    "tier": "prismatic",
+    "effect_en": "Heal and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
+    "current_effect": "",
+    "suggested_zh_name": "死亡之环",
+    "suggested_effect_zh": "你的治疗和健康回复效果会使你对1000码内最近的敌方英雄造成该数值70%的魔法伤害。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "get_excited",
+    "name_en": "Get Excited",
+    "current_name": "Get Excited",
+    "tier": "gold",
+    "effect_en": "Scoring a champion takedown}} grants you {{as and 15% total attack speed for 4 seconds.",
+    "current_effect": "",
+    "suggested_zh_name": "兴奋起来",
+    "suggested_effect_zh": "参与击杀英雄后，获得攻击速度和15%总攻击速度，持续4秒。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "goliath",
+    "name_en": "Goliath",
+    "current_name": "Goliath",
+    "tier": "prismatic",
+    "effect_en": "Grants 35% bonus health, 15% adaptive force, and 50% increased size.",
+    "current_effect": "",
+    "suggested_zh_name": "巨人",
+    "suggested_effect_zh": "获得35%额外生命值、15%自适应之力和50%体型增大。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "growth_spurt",
+    "name_en": "Growth Spurt",
+    "current_name": "Growth Spurt",
+    "tier": "gold",
+    "effect_en": "Replace a summoner spell with Growth Spurt. 20px|link= Growth Spurt: geteffect",
+    "current_effect": "",
+    "suggested_zh_name": "急速生长",
+    "suggested_effect_zh": "将一个召唤师技能替换为急速生长。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "low",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "bread_and_butter",
+    "name_en": "Bread And Butter",
+    "current_name": "Bread And Butter",
+    "tier": "gold",
+    "effect_en": "Your champion's first basic ability (Q) gains 100 ability haste.",
+    "current_effect": "",
+    "suggested_zh_name": "看家本领",
+    "suggested_effect_zh": "你的英雄第一个基础技能（Q）获得100点技能急速。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "fan_the_hammer",
+    "name_en": "Fan the Hammer",
+    "current_name": "Fan the Hammer",
+    "tier": "prismatic",
+    "effect_en": "Your next basic attack against an enemy champion in each cardinal direction within attack range additionally on-attack fires 5 Firecrackers at the target that each deal physical damage (+ 14% bonus AD) physical damage, for a total of physical damage (+ physical damage (5 second cooldown per direction). Firecrackers' damage is increased by type=distance travelled. Each Firecracker can critically strike}} for {{critical damage damage and applies on-hit effects at 20% effectiveness.",
+    "current_effect": "",
+    "suggested_zh_name": "扇形锤击",
+    "suggested_effect_zh": "对攻击范围内的敌方英雄进行普攻时，在每个十字方向上的下一次普攻额外发射5发鞭炮，每发造成物理伤害（+14%额外攻击力），每个方向5秒冷却。鞭炮伤害随飞行距离增加。每发鞭炮可以暴击并附带20%攻击特效。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "low",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "celestial_body",
+    "name_en": "Celestial Body",
+    "current_name": "Celestial Body",
+    "tier": "gold",
+    "effect_en": "Gain 1500 bonus health, but reduce your damage output by 10%.",
+    "current_effect": "",
+    "suggested_zh_name": "星界之躯",
+    "suggested_effect_zh": "获得1500点额外生命值，但你的伤害输出降低10%。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "cerberus",
+    "name_en": "Cerberus",
+    "current_name": "Cerberus",
+    "tier": "prismatic",
+    "effect_en": "Gain the Hail of Blades and Press the Attack keystone runes.",
+    "current_effect": "",
+    "suggested_zh_name": "地狱三头犬",
+    "suggested_effect_zh": "获得丛刃和强攻两个基石符文。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "dashing",
+    "name_en": "Dashing",
+    "current_name": "Dashing",
+    "tier": "prismatic",
+    "effect_en": "Abilities with dash or blink gain 175 ability haste.",
+    "current_effect": "",
+    "suggested_zh_name": "冲刺",
+    "suggested_effect_zh": "拥有冲刺或闪现效果的技能获得175点技能急速。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "dive_bomber",
+    "name_en": "Dive Bomber",
+    "current_name": "Dive Bomber",
+    "tier": "silver",
+    "effect_en": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
+    "current_effect": "",
+    "suggested_zh_name": "俯冲轰炸机",
+    "suggested_effect_zh": "死亡时爆炸，对500码内的敌人造成相当于目标最大生命值20%的真实伤害。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "dropkick",
+    "name_en": "Dropkick",
+    "current_name": "Dropkick",
+    "tier": "prismatic",
+    "effect_en": "Your basic attacks and abilities execute}} enemy champions below (+ 2% per 1000 bonus health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal magic damage (+ 100% bonus armor) (+ 100% bonus magic resistance) magic damage to nearby enemies. Successful executions heal}} you for {{pp (+ 25% bonus health). The execution may also be triggered by the explosion and goes through shields.",
+    "current_effect": "",
+    "suggested_zh_name": "飞身踢",
+    "suggested_effect_zh": "你的普攻和技能对低于一定生命值百分比（+每1000额外生命值增加2%）的敌方英雄执行，使其尸体沿直线飞出。尸体撞击敌方英雄或地形后爆炸，对附近敌人造成魔法伤害（+100%额外护甲）（+100%额外魔抗）。成功执行后为你恢复生命值（+25%额外生命值）。执行也可由爆炸触发且无视护盾。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "low",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "executioner",
+    "name_en": "Executioner",
+    "current_name": "Executioner",
+    "tier": "gold",
+    "effect_en": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
+    "current_effect": "",
+    "suggested_zh_name": "刽子手",
+    "suggested_effect_zh": "对生命值低于最大生命值30%的敌人造成10%额外伤害。参与击杀英雄后重置所有基础技能的冷却时间。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "don_t_blink",
+    "name_en": "Don't Blink",
+    "current_name": "Don't Blink",
+    "tier": "silver",
+    "effect_en": "Deal 1% increased damage per 10 movement speed you have more than the target.",
+    "current_effect": "",
+    "suggested_zh_name": "别眨眼",
+    "suggested_effect_zh": "你的移动速度每比目标高10点，造成的伤害提升1%。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  },
+  {
+    "id": "can_t_touch_this",
+    "name_en": "Can't Touch This",
+    "current_name": "Can't Touch This",
+    "tier": "prismatic",
+    "effect_en": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "current_effect": "",
+    "suggested_zh_name": "碰不到我",
+    "suggested_effect_zh": "施放终极技能后获得2秒无敌效果（8秒冷却）。",
+    "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+    "confidence": "medium",
+    "needs_human_review": true,
+    "missing_fields": [
+      "effect",
+      "patch_added",
+      "localization_status"
+    ]
+  }
+]
