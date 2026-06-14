@@ -1,0 +1,1234 @@
+-- <pre>
+return {
+	["ADAPt"] = {
+		["description"] = "Convert '''all''' of your {{as|'''bonus''' attack damage}} into {{as|ability power}} at a rate of {{as|1 ability power|ap}} per {{as|{{fd|0.6}} '''bonus''' attack damage|ad}}. Additionally, increase your {{as|ability power by 15%}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Adamant"] = {
+		["description"] = "{{tip|immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion grants 10 {{as|'''bonus''' armor}} and {{as|'''bonus''' magic resistance}} for 10 seconds, stacking up to 10 times for a total of 100 '''bonus''' resistances, and refreshing on subsequent triggers (5 second cooldown per {{tip|cast instance}}).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Blunt Force"] = {
+		["description"] = "Increases {{as|attack damage}} by {{as|20%|AD}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Buff Buddies"] = {
+		["description"] = "Grants the {{bi|Crest of Cinders}} and {{bi|Crest of Insight}} buffs permanently.<br><br>{{sbc|Crest of Cinders:}} Empowers your basic attacks to {{tip|slow}} the target by {{rd|10;15;25|5;7.5;12.5|levels=1;6;11|key=%|pp=true}} for 3 seconds and inflict them with a burn for 2 seconds, which deals {{as|{{pp|8;20;24;28;32;36;40;44;48;52;56;60;64;68;72;76|3 to 18|formula=8 at level 3, then 20 at level 4, and then +4 per level}} '''total''' true damage}} over 3 instances over the duration. Each instance deals {{as|{{pp|2.67;6.67;8;9.33;10.67;12;13.33;14.67;16;17.33;18.67;20;21.33;22.67;24;25.33|3 to 18|formula=2.67 at level 3, then 6.67 at level 4, and then +1.33 per level}} true damage}}, with the first instance being applied {{tip|on-hit}} and the second and third instances dealt each second over the burn's duration. Subsequent attacks against a burning target will only refresh its duration. While [[combat status|out-of-combat]] with enemy champions and {{tip|turret|turrets}}, you {{as|regenerate|health regeneration}}{{ft|{{as|{{pp|key=%|0.5;1;3;9|1;4;6;11}} '''maximum''' health}} every 5 seconds.|{{as|{{pp|key=%|0.5/10;1/10;3/10;9/10|1;4;6;11}} '''maximum''' health}} every {{fd|0.5}} seconds.}}This effect counts as a {{as|Burn}} source.<br><br>{{sbc|Crest of Insight:}} Grants {{as|10 ability haste}}. If your champion uses {{tip|mana}}, {{as|restores|mana}}{{ft|{{as|{{fd|5.5}}% of '''maximum''' mana}} every 5 seconds;|{{as|{{ap|5.5/10}}% of '''maximum''' mana}} every {{fd|0.5}} seconds;}}if your champion uses {{tip|energy}}, instead {{as|restores|energy}}{{ft|{{as|{{fd|5.5}}% of '''maximum''' energy}} every 5 seconds.|{{as|{{ap|5.5/10}}% of '''maximum''' energy}} every {{fd|0.5}} seconds.}}",
+		["tier"] = "Silver",
+		["set"] = "[[File:Archmage set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Archmage]]",
+		["notes"] = [=[
+        * The buff is not transferred to the killer when slain.
+        ]=]
+	},
+	["Deft"] = {
+		["description"] = "Grants {{as|60% '''bonus''' attack speed}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Dive Bomber"] = {
+		["description"] = "Upon death, you explode to deal {{as|true damage}} equal to {{as|20% of the target's '''maximum''' health}} to enemies within 500 units.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Deathknell set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Dive Bomb]]",
+	},
+	["Don't Blink"] = {
+		["description"] = "Deal 1% increased damage per {{as|10 movement speed}} you have more than the target.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Erosion"] = {
+		["description"] = "Each instance of damage dealt to an enemy reduces their {{as|armor}} and {{as|magic resistance}} by {{fd|1.5}}% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Escape Plan"] = {
+		["description"] = "Upon dropping below {{as|35% of your '''maximum''' health}}, gain a {{tip|shield}} for {{as|65% of your '''maximum''' health}}, {{as|150% '''bonus''' movement speed}}, and reduced size (75 second cooldown). These effects all decay over {{fd|5.5}} seconds.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Fetch"] = {
+		["description"] = "Gain {{as|40% '''bonus''' movement speed}} towards enemies marked by {{si|Mark}}. Additionally, nearby allied champions that use {{si|Mark}} will cause it to drop a snowball on the ground after reaching maximum range or hitting an enemy. You can pick up this snowball to refresh the cooldown of your {{si|Mark}}.<br><br>{{as|'''This augment is currently disabled.'''|buzzword3}}",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["First-Aid Kit"] = {
+		["description"] = "Grants 20% {{stil|heal and shield power}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Flashbang"] = {
+		["description"] = "Using {{si|Flash}} creates an explosion around the blink location that deals {{as|{{pp|70 to 240}}|magic damage}} {{as|(+ 70% AD)}} {{as|(+ 60% AP)}} {{as|magic damage}} to nearby enemies and {{tip|slow|slows}} them by 35% for {{fd|1.25}} seconds. Additionally, the cooldown of your {{si|Flash}} resets upon your death.<br><br>''If {{si|Flash}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Flash}}.''",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Frost Wraith"] = {
+		["description"] = "{{as|Automatically}} cast a modified version of {{cai|Ring of Frost|Lissandra}}, creating a cold pulse around you in 450 radius that {{tip|root|roots}} nearby enemies for {{fd|1.25}} seconds ({{fd|6.5}} second cooldown). This modified ability does not deal damage.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Goredrink"] = {
+		["description"] = "Gain {{as|15% omnivamp}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Guilty Pleasure"] = {
+		["description"] = "{{tip|Immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion {{tip|heal|heals}} you for {{pp|30 to 250}} {{as|(+ {{fd|1.5}}% '''maximum''' health)}} (5 second cooldown per {{tip|cast instance}}).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Hat on a Hat"] = {
+		["description"] = "Gain {{as|15 ability power}} and {{as|8 '''bonus''' magic resistance}} for each headwear item or hat you have in your inventory, reduced to {{as|8 ability power}} and {{as|4 '''bonus''' magic resistance}} for hats obtained from {{ii|Cappa Juice}} and {{ii|Stat Bonus}}.<br><br>{{sbc|Eligible Epic Items:}} {{ii|Haunting Guise}}, {{ii|Spectre's Cowl}}<br>{{sbc|Eligible Legendary Items:}} {{ii|Abyssal Mask}}, {{ii|Bloodletter's Curse}}, {{ii|Cosmic Drive}}, {{ii|Diadem of Songs}}, {{ii|Edge of Night}}, {{ii|Experimental Hexplate}}, {{ii|Fimbulwinter}}, , {{ii|Hollow Radiance}}, {{ii|Hubris}}, {{ii|Jak'Sho, The Protean}}, {{ii|Knight's Vow}}, {{ii|Liandry's Torment}}, {{ii|Rabadon's Deathcap}}, {{ii|Riftmaker}}, {{ii|Shurelya's Battlesong}}, {{ii|Whispering Circlet}}, {{ii|Wooglet's Witchcap}}<!--interaction with Quest and Upgraded Items?-->",
+		["tier"] = "Silver",
+		["set"] = "-",
+		["notes"] = [=[
+		* The stats gained for an eligible item is equal to {{g|460}}. 
+        * The stats gained for a stack of {{ii|Cappa Juice}} and {{ii|Stat Bonus}} is equal to {{g|240}}.
+        ]=]	
+	},
+	["Heavy Hitter"] = {
+		["description"] = "Basic attacks deal {{as|'''bonus''' physical damage}} equal to {{as|{{fd|3.5}}% of your '''maximum''' health}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Homeguard"] = {
+		["description"] = "Gain {{as|100% '''bonus''' movement speed}}. This bonus is lost for 6 seconds after taking damage from champions.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Ice Cold"] = {
+		["description"] = "Your {{tip|slow|slowing}} effects reduce the {{as|movement speed}} of targets by an additional {{as|75|ms}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Infernal Soul"] = {
+		["description"] = "Grants the {{bi|Infernal Dragon Soul}}, or a different {{bi|Dragon Soul}} if you aleady have it.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Leg Day"] = {
+		["description"] = "Gain {{as|50 '''bonus''' movement speed}} and 40% {{tip|slow resist}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Light 'em Up!"] = {
+		["description"] = "Basic attacks generate a stack, up to 4. The fourth stack consumes them all to quickly launch 4 {{as|Firecrackers|fury}} at the target that each deal {{as|{{pp|11 to 80}}|magic damage}} {{as|(+ 35% '''bonus''' AD)}} {{as|(+ 19% AP)}} {{as|'''bonus''' magic damage}} on-hit, for a total of {{as|{{pp|11*4 to 80*4}}|magic damage}} {{as|(+ {{ap|35*4}}% '''bonus''' AD)}} {{as|(+ {{ap|19*4}}% AP)}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+	},
+	["Mountain Soul"] = {
+		["description"] = "Grants the {{bi|Mountain Dragon Soul}}, or a different {{bi|Dragon Soul}} if you aleady have it.",--is it modified?
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Mighty Shield"] = {
+		["description"] = "Gain {{pp|40 to 100}} {{tip|adaptive force}} for 3 seconds upon gaining a {{tip|shield}} (5 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Mind to Matter"] = {
+		["description"] = "Grants {{as|'''bonus''' health}} equal to {{as|50% '''maximum''' mana}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Archmage set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Archmage]]",
+		["notes"] = [=[
+        * Maximum bonus health granted by this effect is capped at {{as|99,999 '''bonus''' health}}.
+        ]=]		
+	},
+	["Ocean Soul"] = {
+		["description"] = "Grants the {{bi|Ocean Dragon Soul}}, which has a modified base heal value of 100, or a different {{bi|Dragon Soul}} if you aleady have it.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Archmage set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Archmage]]",
+	},
+	["Poltergeist"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Poltergeist}}''.<br><br>[[File:Poltergeist.png|20px|link=]] {{sbc|Poltergeist:}} {{#invoke:SpellData|geteffect|Poltergeist}}",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["ReEnergize"] = {
+		["description"] = "Your {{tip|Energized}} attacks against targets not hit by your previous ''Energized'' attack do not consume any ''Energize'' stacks on-hit. Additionally, when fully {{tip|Energized}}, your next basic attack deals {{as|'''bonus''' magic damage}} [[on-hit]] equal to {{as|10% of the target's '''current''' health}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Repulsor"] = {
+		["description"] = "Upon dropping below {{as|35% of your '''maximum''' health}}, you {{tip|airborne|knock back}} all enemies within a 500 radius by 750 units and {{tip|slow}} them by 90% for {{fd|1.5}} seconds (25 second cooldown, resets upon death).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Scoped Weapons"] = {
+		["description"] = "Gain {{rd|75|50}} '''bonus''' attack range.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Self Destruct"] = {
+		["description"] = "{{as|Automatically}} attach a bomb to yourself that detonates after 5 seconds, creating an explosion that deals {{as|true damage}} equal to {{as|20% of the target's '''maximum''' health}} to enemies within 350 units and {{tip|airborne|knocks them up}} for {{fd|0.75}} seconds (25 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "[[File:Deathknell set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Dive Bomb]]<br>[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+		["notes"] = [=[
+        * The {{tip|airborne}} status effect from the knock back does not interrupt {{tip|channel|channels}} nor disable {{tip|ability|abilities}}, and is not resisted by {{tip|cc-immune|immunity}} nor {{tip|spell shield}}.{{bug}}
+        ]=]
+	},
+	["Shadow Runner"] = {
+		["description"] = "After {{tip|dash|dashing}}, {{tip|blink|blinking}}, or exiting {{tip|stealth}}, gain {{as|300 '''bonus''' movement speed}} for 2 seconds.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Sonic Boom"] = {
+		["description"] = "Granting a [[buff]], {{tip|heal}}, or {{tip|shield}} to your ally deals {{as|{{pp|30 to 150}} true damage}} to enemies within 450 units of them and {{tip|slow|slows}} targets by 30% for 2 seconds (2 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Spin To Win"] = {
+		["description"] = "Your {{tt|spinning abilities|Any ability with 'spinning' properties}} deal 30% increased damage and have their cooldown reduced equivalent to 30 ability haste.",
+		["tier"] = "Silver",
+		["set"] = "-",
+		["notes"] = [=[
+		{{Editors needed|This note is not fully complete. If you wish to contribute, please do so on [{{fullurl:{{TALKPAGENAME}}}} Discussion page]|There are a lot of abilities that would not usually spin...|}}
+		* {{sbc|Eligible Abilities}}: {{cai|Fox-Fire|Ahri}} and {{ai|Spirit Rush|Ahri}}, {{cai|Tantrum|Amumu}}, {{cai|Lacerate|Ambessa}}, {{cai|Decimate|Darius}}, {{cai|Spinning Axe|Draven}}, {{ai|Stand Aside|Draven}}, and {{ai|Whirling Death|Draven}}, {{cai|Judgment|Garen}}, {{cai|Rampage|Hecarim}}, {{cai|Counter Strike|Jax}}, {{cai|Voracity|Katarina}} and {{ai|Death Lotus|Katarina}}, {{cai|Reaping Slash|Kayn}}, {{cai|Blooming Blows|Lillia}}, {{cai|Umbra Blades|Nocturne}}, {{cai|Powerball|Rammus}}, {{cai|Cull the Meek|Renekton}}, {{cai|Broken Wings|Riven}}, {{cai|Blade Whirl|Samira}} and {{ai|Inferno Trigger|Samira}}, {{cai|Petricite Burst|Sylas}}, {{cai|Cyclone|Wukong}}, {{cai|Spinning Slash|Tryndamere}}, {{cai|Crescent Guard|Xin Zhao}}, {{cai|Shadow Slash|Zed}}
+		* {{Pending for test}}: {{cai|Avengerang|Akshan}} and {{ai|Heroic Swing|Akshan}}, {{cai|Watch Out! Eep!|Lillia}} and {{ai|Swirlseed|Lillia}}, {{cai|Keeper's Verdict|Poppy}}, etc.
+		]=]	
+	},
+	["Swift and Safe"] = {
+		["description"] = "After {{tip|dash|dashing}} or {{tip|blink|blinking}}, gain a {{tip|shield}} that lasts for 2 seconds and absorbs {{pp|65 to 290}} {{as|(+ 65% AD)}} {{as|(+ 26% AP)}} damage (5 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Tank It Or Leave It"] = {
+		["description"] = "Gain ''Critical Defend Chance'' equal to {{as|100% critical strike chance}}, up to 50%. Additionally, gain {{as|25% critical strike chance}}.<br><br>{{sbc|Critical Defend Chance:}} Grants you a chance to reduce an instance of damage taken by 20% (5 second cooldown per enemy spell {{tip|cast instance}}).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["The Brutalizer"] = {
+		["description"] = "Grants {{as|20 '''bonus''' attack damage}}, {{as|10 ability haste}}, and {{as|5 lethality}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Tormentor"] = {
+		["description"] = "{{tip|Immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion inflicts them with a {{as|Burn}} for 5 seconds, dealing {{as|magic damage}} equal to{{ft|{{as|{{ap|4/5}}% of the target's '''maximum''' health}} per second|{{as|4% of the target's '''maximum''' health}} over the duration}}(5 second cooldown per {{tip|cast instance}}). This {{as|Burn}} stacks infinitely and refreshes with each application.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Transmute: Gold"] = {
+		["description"] = "Gain one random Gold augment, excluding the other two offerings in your current assortment.",
+		["tier"] = "Silver",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Typhoon"] = {
+		["description"] = "Basic attacks launch a {{as|Firecracker|fury}} at a nearby enemy champion that deals {{as|30% AD}} {{as|physical damage}} and applies {{tip|on-hit}} effects.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+	},
+	["Ultimate Unstoppable"] = {
+		["description"] = "Casting your ultimate ability grants you {{tip|cc-immune|crowd control immunity}} for 3 seconds (8 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Upgrade Collector"] = {
+		["description"] = "Upgrades {{ii|The Collector}}, empowering {{nie|Death}} to have its execution threshold increased by {{fd|0.5}}% each time you kill an enemy champion, capped at a threshold of {{as|12.5% of the target's '''maximum''' health}}, and {{nie|Taxes}} to generate a further {{g|25}} (total {{g|50}}) from kills. Additionally, gain {{g|250}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+	},
+	["Upgrade Immolate"] = {
+		["description"] = "Upgrades {{ii|Bami's Cinder}}, {{ii|Hollow Radiance}}, {{ii|Sunfire Aegis}}, and {{ii|Void Immolation}}, empowering {{nie|Immolate}} to additionally grant you {{g|12}} per tick for each enemy champion afflicted by its effect. Additionally, gain {{g|250}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+		["notes"] = [=[
+        * {{tip|Clones}} do not count as valid targets for the effect.
+        ]=]		
+	},
+	["Upgrade Zhonya's"] = {
+		["description"] = "Upgrades {{ii|Seeker's Armguard}}, {{ii|Wooglet's Witchcap}}, and {{ii|Zhonya's Hourglass}}, empowering {{nie|Stasis}} to allow you to move during its active effect, during which time you also gain {{as|50% '''bonus''' movement speed}}. Additionally, the cooldown of {{iis|Zhonya's Hourglass}} Stasis is reduced to 45 seconds.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Veil of Warding"] = {
+		["description"] = "Grants a {{tip|spell shield}} that blocks the next hostile ability (30 second cooldown, timer does '''not''' restart from champion damage taken).",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Wind Beneath Blade"] = {
+		["description"] = "Gain {{as|{{fd|1.5}} '''bonus''' movement speed}} per 1 {{as|Lethality}} or {{as|flat magic penetration}}, and {{as|5 '''bonus''' movement speed}} per 10% {{as|armor penetration}} or {{as|magic penetration}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Witchful Thinking"] = {
+		["description"] = "Grants {{as|{{pp|20 to 80}} ability power}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["EscAPADe"] = {
+		["description"] = "Convert '''all''' of your {{as|ability power}} into {{as|'''bonus''' attack damage}} at a rate of {{as|1 '''bonus''' attack damage|ad}} per {{as|{{fd|1.66}} ability power|ap}}. Additionally, increase your {{as|'''total''' attack damage by 15%}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+		["notes"] = [=[
+        * Does not convert the {{as|Ability Power}} obtained from {{ii|Riftmaker}}'s {{sbc|Void Infusion}}, nor from {{ii|Archangel's Staff}} or {{ii|Seraph's Embrace}}'s {{sbc|Awe}}.{{bug}}
+        ]=]	
+	},
+	["All For You"] = {
+		["description"] = "Your {{tip|heals}} and {{tip|shields}} on allied champions are increased in effectiveness by 30%.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Apex Inventor"] = {
+		["description"] = "Grants {{as|100 item haste|ability haste}}, which is equivalent to 50% cooldown reduction for items.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+{| class="article-table article-table-selected" style="width: 750px;
+! rowspan="1" colspan="11" style="width:150px; text-align:center;" | Item Cooldowns
+|-{{#vardefine:AIHaste|100}}
+! style="text-align:center;" |Items
+! style="text-align:center;" |Base Cooldown
+! style="text-align:center;" |Reduced Cooldown with [[File:Apex_Inventor_mayhem_augment.png|35px]] Apex Inventor
+|-
+! style="text-align:center;" | {{ii|Diadem of Songs|icononly=yes}}
+| style="text-align:center;" |{{fd|1}} 
+| style="text-align:center;" |{{fd|{{#expr:(1-1*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Sheen|icononly=yes}}{{ii|Iceborn Gauntlet|icononly=yes}}{{ii|Lich Bane|icononly=yes}}{{ii|Trinity Force|icononly=yes}}{{ii|Dusk and Dawn|icononly=yes}}
+| style="text-align:center;" |{{fd|1.5}} 
+| style="text-align:center;" |{{fd|{{#expr:(1.5-1.5*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Malignance|icononly=yes}}
+| style="text-align:center;" |3
+| style="text-align:center;" |{{fd|{{#expr:(3-3*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Unending Despair|icononly=yes}}
+| style="text-align:center;" |4
+| style="text-align:center;" |{{#expr:(4-4*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Eclipse|icononly=yes}}
+| style="text-align:center;" |6
+| style="text-align:center;" |{{#expr:(6-6*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Tear of the Goddess|icononly=true}}{{ii|Archangel's Staff|icononly=yes}}{{ii|Fimbulwinter|icononly=yes}}{{ii|Manamune|icononly=yes}}{{ii|Winter's Approach|icononly=yes}}{{ii|Whispering Circlet|icononly=yes}}
+| style="text-align:center;" |8
+| style="text-align:center;" |{{#expr:(8-8*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Imperial Mandate|icononly=yes}}
+| style="text-align:center;" |9 
+| style="text-align:center;" |{{fd|{{#expr:(9-9*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Tiamat|icononly=yes}}{{ii|Profane Hydra|icononly=yes}}{{ii|Ravenous Hydra|icononly=yes}}{{ii|Titanic Hydra|icononly=yes}}{{ii|Sundered Sky|icononly=yes}}
+| style="text-align:center;" |10 
+| style="text-align:center;" |{{#expr:(10-10*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Luden's Echo|icononly=yes}}
+| style="text-align:center;" |12
+| style="text-align:center;" |{{#expr:(12-12*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Blade of the Ruined King|icononly=yes}}{{ii|Stridebreaker|icononly=yes}}{{ii|Kaenic Rookern|icononly=yes}}
+| style="text-align:center;" |15 
+| style="text-align:center;" |{{fd|{{#expr:(15-15*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Banshee's Veil|icononly=yes}}{{ii|Experimental Hexplate|icononly=yes}}{{ii|Heartsteel|icononly=yes}}{{ii|Horizon Focus|icononly=yes}}{{ii|Stormsurge|icononly=yes}}{{ii|Yun Tal Wildarrows|icononly=yes}}
+| style="text-align:center;" |30 
+| style="text-align:center;" |{{#expr:(30-30*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Hextech Alternator|icononly=yes}}{{ii|Scout's Slingshot|icononly=yes}}{{ii|Edge of Night|icononly=yes}}{{ii|Hextech Rocketbelt|icononly=yes}}
+| style="text-align:center;" |40 
+| style="text-align:center;" |{{#expr:(40-40*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Youmuu's Ghostblade|icononly=yes}}{{ii|Zeke's Convergence|icononly=yes}}{{ii|Fiendhunter Bolts|icononly=yes}}{{ii|Lifeline|icononly=yes}}{{ii|Spectral Cutlass|icononly=yes}}
+| style="text-align:center;" |45 
+| style="text-align:center;" |{{fd|{{#expr:(45-45*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" | {{ii|Verdant Barrier|icononly=yes}}{{ii|Cryptbloom|icononly=yes}}{{ii|Knight's Vow|icononly=yes}}{{ii|Hextech Gunblade|icononly=yes}}{{ii|Actualizer|icononly=yes}}{{ii|Shurelya's Battlesong|icononly=yes}}{{ii|Immortal Shieldbow|icononly=yes}}{{ii|Maw of Malmortius|icononly=yes}}{{ii|Sterak's Gage|icononly=yes}}{{ii|Protoplasm Harness|icononly=yes}}{{ii|Randuin's Omen|icononly=yes}}
+| style="text-align:center;" |60 
+| style="text-align:center;" |{{#expr:(60-60*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" |{{ii|Hexdrinker|icononly=yes}}{{ii|Locket of the Iron Solari|icononly=yes}}{{ii|Seraph's Embrace|icononly=yes}}
+| style="text-align:center;" |75 
+| style="text-align:center;" |{{fd|{{#expr:(75-75*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}}}
+|-
+! style="text-align:center;" |{{ii|Quicksilver Sash|icononly=yes}}{{ii|Mercurial Scimitar|icononly=yes}}{{ii|Redemption|icononly=yes}}
+{{ii|Umbral Glaive|icononly=yes}}
+| style="text-align:center;" |90
+| style="text-align:center;" |{{#expr:(90-90*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+|-
+! style="text-align:center;" | {{ii|Mikael's Blessing|icononly=true}}{{ii|Zhonya's Hourglass|icononly=true}}
+| style="text-align:center;" |120
+| style="text-align:center;" |{{#expr:(120-120*(1-1/(1+({{#var:AIHaste}})/100))) round 2}}
+        ]=]		
+	},
+	["Big Brain"] = {
+		["description"] = "Gain a {{tip|shield}} that absorbs damage equal to {{as|300% AP}} and lasts until destroyed. Shield is replenished upon respawn and every 70 seconds.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Bread And Butter"] = {
+		["description"] = "Your champion's first basic ability ''(Q)'' gains {{as|100 ability haste}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Bread And Cheese"] = {
+		["description"] = "Your champion's third basic ability ''(E)'' gains {{as|100 ability haste}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Bread And Jam"] = {
+		["description"] = "Your champion's second basic ability ''(W)'' gains {{as|100 ability haste}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Celestial Body"] = {
+		["description"] = "Gain {{as|1500 '''bonus''' health}}, but reduce your damage output by 10%.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Cheating"] = {
+		["description"] = "Your {{si|Recall}} is now functional and is upgraded to {{si|Empowered Recall}}. Completing an {{si|Empowered Recall}} channel enables the [[shop]]. Additionally, the [[spawn]] platform will now provide healing and resource restoration for you.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Critical Healing"] = {
+		["description"] = "Your {{tip|heals}} and {{tip|shields}} now have a chance equal to your {{sti|critical strike chance|{{as|critical strike chance}}}} to increase in effectiveness by 40% (5 second cooldown per {{tip|cast instance}}). Additionally, gain {{as|25% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Critical Rhythm"] = {
+		["description"] = "Your {{tip|critical strikes}} grant you {{as|6% '''bonus''' attack speed}} for 6 seconds, stacking up to 10 times for a total of {{as|60%|attack speed}}. Additionally, gain {{as|25% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Dawnbringer's Resolve"] = {
+		["description"] = "Upon dropping below {{as|50% '''maximum''' health}}, you are {{tip|heal|healed}} for {{as|30% '''maximum''' health}} over 3 seconds (45 second cooldown, reset upon death).",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Demon's Dance"] = {
+		["description"] = "Gain the {{ri|Fleet Footwork}} and {{ri|Grasp of the Undying}} keystone runes.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+		* {{ri|Fleet Footwork}}
+		** {{sbc|Removed:}} No longer has an effectiveness modifier for ranged or minions.
+		** Base heal changed to {{pp|10 to 100}}.
+		** Heal bonus AD ratio changed to {{as|30% '''bonus''' AD}}.
+		** Heal AP ratio changed to {{as|20% AP}}.
+		** Movement speed changed to 20%.
+		* {{ri|Grasp of the Undying}}
+		** Triggered attack bonus health changed to {{rd|7|4}}.
+		** {{sbc|New Effect:}} Triggered attack now has a base heal of {{rd|3|{{ap|3*0.4}}}}.
+		** Triggered attack heal health ratio changed to {{as|{{rd|{{fd|1.2}}%|{{ap|1.2*0.4}}%}} '''maximum''' health}}.
+        ]=]
+	},
+	["Divine Intervention"] = {
+		["description"] = "{{as|Automatically}} cast {{cai|Cosmic Radiance|Taric}}, calling down a protective star upon you that descends over {{fd|2.5}} seconds. Afterwards, you and all allied champions within {{tip|cr|icononly=true}} 400 units become {{tip|invulnerable}} for {{fd|2.5}} seconds (35 second cooldown).",
+		["tier"] = "Gold",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Ethereal Weapon"] = {
+		["description"] = "Your abilities apply {{tip|on-hit}} effects (1 second cooldown per target).",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Executioner"] = {
+		["description"] = "Deal 10% increased damage to enemies below {{as|30% of their '''maximum''' health}}. Scoring a champion {{tip|takedown}} resets the cooldown of all your basic abilities.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Firebrand"] = {
+		["description"] = "Basic attacks apply a {{as|Burn}} for 5 seconds that deals {{as|'''bonus''' magic damage}} equal to{{ft|{{as|{{ap|2/5}}% of the target's '''maximum''' health}} per second.|{{as|2% of the target's '''maximum''' health}} over the duration.}}This {{as|Burn}} stacks infinitely and refreshes with each application.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Flash 2"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Flash}}''. Additionally, gain 70 summoner spell haste.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Flashy"] = {
+		["description"] = "Your {{si|Flash}} now has 3 charges with a 2-second cooldown between casts (120 seconds recharge time for all 3 charges).<br><br>''If {{si|Flash}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Flash}}.''",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["From Beginning to End"] = {
+		["description"] = "Gain the {{ri|Dark Harvest}} and {{ri|First Strike}} keystone runes.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+		["notes"] = [=[
+		* {{ri|Dark Harvest}}
+		** Base damage changed to {{pp|50 to 100}}.
+		** Damage per soul changed to 20.
+		** Bonus AD ratio changed to {{as|35% '''bonus''' AD}}.
+		** AP ratio changed to {{as|25% AP}}.
+		** Gain 8 bonus souls for selecting this augment as not your first augment.
+		* {{ri|First Strike}}
+		** Base gold increased to {{g|20}} from {{g|15}} (ARAM override value).
+		** Bonus damage increased to 10% from 7%.
+        ]=]
+	},
+	["Get Excited"] = {
+		["description"] = "Scoring a champion {{tip|takedown}} grants you {{as|100% '''bonus''' movement speed}} and {{as|15% '''total''' attack speed}} for 4 seconds.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Holy Fire"] = {
+		["description"] = "Your {{tip|heals}} and {{tip|shields}} cause you to fire a missile to the nearest enemy unit within 650 units over {{fd|0.32}} seconds, applying a {{as|Burn}} upon arrival that deals {{as|magic damage}} equal to {{as|{{fd|0.2}}% of the target's '''maximum''' health}} every second over 5 seconds, for a total of {{as|1%|hp}} ({{fd|1.5}}-second cooldown).<br><br>The {{as|Burn's}} per-tick damage increases to up to {{as|{{fd|0.8}}% of the target's '''maximum''' health}} based on the relative value of the triggering heal or shield against the {{as|'''maximum''' health}} of the ally recipient, for a total maximum damage of {{as|4% of the target's '''maximum''' health}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Impassable"] = {
+		["description"] = "Gain the {{ri|Aftershock}} and {{ri|Glacial Augment}} keystone runes.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+		* {{ri|Aftershock}}
+		** Cooldown reduced to 15 seconds from 20.
+		* {{ri|Glacial Augment}}
+		** Cooldown reduced to 15 seconds from 25.
+        ]=]	
+	},
+	["It's Critical"] = {
+		["description"] = "Grants {{as|50% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["It's Killing Time"] = {
+		["description"] = "Upon casting your ultimate ability, you apply {{cai|Death Mark|Zed}} to all enemy champions (8 second cooldown). The mark stores 40% of all {{tt|post-mitigation|Damage calculated before modifiers}} damage you deal to the affected target, detonating after 5 seconds to deal {{as|true damage}} equal to the damage stored against them.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Keystone Conjurer"] = {
+		["description"] = "Gain the {{ri|Arcane Comet}} and {{ri|Summon Aery}} keystone runes.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+        * {{ri|Summon Aery}}
+        ** Base damage changed to {{pp|30 to 100}}.
+        ]=]	
+	},
+	["Lightning Strikes"] = {
+		["description"] = "Increase your {{as|'''bonus''' attack speed}} gained from all sources by {{as|20%|as}}. While at {{as|{{fd|1.75}}|as}} attack speed or higher, your basic attacks deal {{as|40 '''bonus''' magic damage}} on-hit.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Magic Missile"] = {
+		["description"] = "Dealing damage to an enemy champion with an ability fires 3 {{as|Firecrackers|fury}} at them that each deal {{as|true damage}} equal to {{as|{{fd|0.3{{recurring|3}}}}% of the target's '''maximum''' health}}, increased to up to {{as|1%|health}} based on distance travelled (maximum damage reached at 1000 units). This effect can only trigger once every 6 seconds from the same cast.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+	},
+	["Marksmage"] = {
+		["description"] = "Basic attacks deal {{as|'''bonus''' physical damage}} equal to {{as|75% AP}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Minionmancer"] = {
+		["description"] = "Your {{tip|pet|pets}} deal 40% increased damage as well as gain 40% {{as|'''bonus''' health}} and size.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Nightstalking"] = {
+		["description"] = "Scoring a {{tip|takedown}} against an enemy champion within 3 seconds of damaging them renders you {{tip|invisible}} for {{fd|1.5}} seconds. Attacking or casting abilites ends the stealth immediately.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["OK Boomerang"] = {
+		["description"] = "{{as|Automatically}} cast an improved version of {{cai|Boomerang Blade|Sivir}} at the closest nearby enemy champion within 1250 units, dealing {{pp|40 to 200}} {{as|(+ 30% '''bonus''' AD)}} {{as|(+ 20% AP)}} {{tip|adaptive damage}} to enemies hit (10 second cooldown).",
+		["tier"] = "Gold",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Outlaw's Grit"] = {
+		["description"] = "{{tip|Dash|Dashing}} or {{tip|blink|blinking}} grants 12 {{as|'''bonus''' armor}} and {{as|'''bonus''' magic resistance}} for 15 seconds, stacking up to 5 times for a total of 60 '''bonus''' resistances, and refreshing on subsequent triggers.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Overflow"] = {
+		["description"] = "Your abilities' {{as|mana}} costs are doubled, but you also gain 10% {{as|(+ {{fd|0.5}}% per 100 '''maximum''' mana)|mana}} increased damage as well as self and outgoing {{tip|heal|healing}} and {{tip|shield|shielding}}.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Archmage set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Archmage]]",
+	},
+	["Perseverance"] = {
+		["description"] = "Grants {{as|1000% '''base''' health regeneration}}, increased to {{as|2000%|health}} while below {{as|25% '''maximum''' health}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+        * This augment prevents the user from being offered the [[File:Vampirism mayhem augment.png|24px|link=]] Vampirism augment.
+        ]=]		
+	},
+	["Rabble Rousing"] = {
+		["description"] = "Casting an ability {{tip|heal|heals}} you for {{pp|5 to 60}} {{as|(+ 1% '''maximum''' health)}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+		* Toggled abilities will not trigger this augment as they do not count as ability activations for the purposes of on-cast effects.
+		]=]
+	},
+	["Recursion"] = {
+		["description"] = "Grants {{as|60 ability haste}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Restless Restoration"] = {
+		["description"] = "{{tip|Heal}} for {{pp|20/100 to 120/100}} {{as|(+ {{ap|1/100}}% '''maximum''' health)}} per 10 units travelled.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Scopier Weapons"] = {
+		["description"] = "Gain {{rd|200|100}} '''bonus''' attack range.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Searing Dawn"] = {
+		["description"] = "Gain {{cai|Sunlight|Leona}}.<br><br>{{sbc|Sunlight:}} Your damaging abilities mark enemies, causing them to take {{as|{{pp|40 to 200}}|magic damage}} {{as|'''bonus''' magic damage}} from your ally's next basic attack or ability hit against them ({{fd|0.75}}-second cooldown per target).",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Shrink Ray"] = {
+		["description"] = "Basic attacks {{tip|on-hit}} reduce the target's damage dealt by 15% for 3 seconds, refreshing with each hit. Their size is also reduced significantly for the duration.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Skilled Sniper"] = {
+		["description"] = "Hitting an enemy champion with a basic ability while located at least {{tip|er|icononly=true}} 700 units away from them at the time of the hit reduces its '''current''' cooldown by 80% of its '''total''' cooldown, modified to 65% for [[damage over time]] abilities.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Slow and Steady"] = {
+		["description"] = "Your {{sti|attack speed|{{as|'''base''' attack speed}}}} is set to a static amount of {{as|{{fd|0.625}}|as}} and your attack rate no longer benefits from any source of attack speed bonuses. In return, you gain {{as|25 '''bonus''' attack damage}} and convert every {{as|1% '''bonus''' attack speed}} into {{as|1 '''bonus''' attack damage}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Snowball Upgrade"] = {
+		["description"] = "Your {{si|Mark}} is empowered to hail a snowstorm at the location where the target was hit for 2 seconds, granting {{tip|sight}} of the area and dealing{{ft|{{as|200|magic damage}} {{as|(+ 200% '''bonus''' AD)}} {{as|(+ 120% AP)}} {{as|magic damage}}|{{as|{{ap|200/8}}|magic damage}} {{as|(+ {{ap|200/8}}% '''bonus''' AD)}} {{as|(+ {{ap|120/8}}% AP)}} {{as|magic damage}} every {{fd|0.25}} seconds}}to enemies within over the duration, as well as {{tip|slow|slowing}} them by 50% {{as|(+ 6% per 100 AP)}}. Additionally, your {{sis|Mark}} cooldown is reduced equivalent to 50 ability haste.<br><br>''If {{si|Mark}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Mark}}.''",
+		["tier"] = "Gold",
+		["set"] = "[[File:Snowday set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Snowday]]",
+	},
+	["Soul Siphon"] = {
+		["description"] = "{{tip|Heal}} for 12% of the {{tt|post-mitigation damage|Damage calculated after modifiers}} dealt by your {{tip|critical strikes}}. Additionally, gain {{as|25% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+        *  Any damage from {{tip|critical strike|Critical strikes}} will heal, including those from non-basic attack sources ({{cai|Noxian Diplomacy|Talon}}, {{cai|Volley|Ashe}}, etc<!--might heal from cosmetic crits?-->).
+        ]=]	
+	},
+	["Spiritual Purification"] = {
+		["description"] = "Scoring a champion {{tip|takedown}} causes the area around the slain champion to explode in a 500 unit radius, dealing {{tip|adaptive damage}} to enemies within equal to {{as|15% of their '''current''' health}} and leaving behind a zone for {{fd|1.5}} seconds that {{tip|slow|slows}} enemies within by 60%.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Tank Engine"] = {
+		["description"] = "Scoring a champion {{tip|takedown}} generates a stack, stacking infinitely. For each stack, increase your {{as|'''maximum''' health}} and [[size]] by 5%. Lose 65% of stacks on death.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Thread the Needle"] = {
+		["description"] = "Grants 18% {{as|armor penetration}} and {{as|magic penetration|magic resistance}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Transmute: Prismatic"] = {
+		["description"] = "Gain one random Prismatic augment, excluding the other two offerings in your current assortment.",
+		["tier"] = "Gold",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Twice Thrice"] = {
+		["description"] = "Basic attacks generate a stack, up to 2 times. At 2 stacks, your next basic attack consumes all stacks to apply {{tip|on-hit}} effects again at 150% effectiveness.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Upgrade Hubris"] = {
+		["description"] = "Upgrades {{ii|Hubris}}, empowering {{nie|Eminence}} to {{tip|heal}} you for {{as|{{fd|2.5}}%|health}} (+ {{fd|0.5}}% per stack) {{as|'''maximum''' health}} upon being triggered and grant you {{as|10|ms}} (+ 5 per stack) {{as|'''bonus''' movement speed}} for its duration. Additionally, gain {{g|250}}.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Upgrade Infinity Edge"] = {
+		["description"] = "Upgrades {{ii|Infinity Edge}}, empowering it to gain {{iis|Sword of the Divine}} {{nie|Excoriate}}. Additionally, gain {{g|500}} and {{as|25% critical strike chance}}.<br><br>{{sbc|Excoriate:}} Gain a random amount of {{as|'''bonus''' critical strike damage|critical damage}} that scales up to {{as|50% of your critical strike chance}}, with the value of this amount changing every {{fd|0.25}} seconds.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Upgrade Sheen"] = {
+		["description"] = "Upgrades all {{tip|Spellblade}} items, empowering the passive effect to deal additional {{as|'''bonus''' physical damage}} equal to {{as|4% of the target's '''maximum''' health}} and {{tip|heal}} you for {{as|{{fd|3.5}}% of your '''maximum''' health}}. Additionally, gain {{g|250}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Vampirism"] = {
+		["description"] = "You can no longer be {{tip|heal|healed}} by allies and your {{as|health regeneration}} is set to {{as|0|hp}}. Gain {{as|25% omnivamp}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+        * {{iis|Diadem of Songs}} {{nie|Consonance}} and {{iis|Moonstone Renewer}} {{nie|Starlit Grace}} will specifically not target champions with this augment.
+        * This augment prevents the user from being offered the [[File:Perseverance mayhem augment.png|24px|link=]] Perseverance augment.
+        * This augment is not offered if the champion has built {{ii|Warmog's Armor}}.
+        ]=]		
+	},
+	["Vulnerability"] = {
+		["description"] = "Damage dealt by items and damage over time effects can now {{tip|critical strike|critically strike}} for (145% + {{sti|{{as|'''bonus''' critical damage}}}}) damage (5 second cooldown per {{tip|cast instance}}). Additionally, gain {{as|25% critical strike chance}}.<br><br>If both [[File:Jeweled_Gauntlet_mayhem_augment.png|20px|link=|An icon for the ARAM: Mayhem augment Jeweled Gauntlet]] Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+        * The interaction between ''Jeweled Gauntlet'' and ''Vulnerability'' may behave incorrectly with {{tip|persistent area damage}} effects.{{bug}}
+        ]=]
+	},
+	["With Haste"] = {
+		["description"] = "Grants {{as|'''bonus''' movement speed}} equal to {{as|70% ability haste}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["I'm a Baby Kitty Where is Mama"] = {
+		["description"] = "Bind with the nearest allied champion to you after 2 seconds, forming a {{tip|tether}} between you and them (400 radius). While the tether persists, you gain {{as|75% '''bonus''' movement speed}} and {{as|50% heal and shield power}}. Additionally, gain {{as|{{fd|37.5}}% '''bonus''' movement speed}} while facing your bound ally within 1500 units.<br><br>''The tether will break when you or your bound ally dies, allowing you to form a new tether.''",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Back to Basics"] = {
+		["description"] = "Your [[champion ability|champion abilities]] deal 35% increased damage and you gain {{as|70 ability haste}} and 35% increased {{tip|heal|healing}} and {{tip|shield|shielding}} from all sources, but your ultimate ability is permanently {{tip|lockout|sealed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Biggest Snowball Ever"] = {
+		["description"] = "Upgrades your {{si|Mark}} into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal {{as|{{pp|200 to 350}}|magic damage}} {{as|(+ 100% '''bonus''' AD)}} {{as|(+ 60% AP)}} {{as|magic damage}} to all nearby enemies, {{tip|airborne|knock them up}} for {{fd|0.75}} seconds, and {{tip|slow}} them by 20% for 2 seconds. Additionally, your {{sis|Mark}} cooldown is reduced equivalent to 100 ability haste.<br><br>''If {{si|Mark}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Mark}}. Non-champions hit by the snowball are {{tip|stun|stunned}} for {{fd|1.25}} seconds.''",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Snowday set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Snowday]]",
+	},
+	["Blade Waltz"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Blade Waltz}}''.<br><br>[[File:Blade Waltz.png|20px|link=]] {{sbc|Blade Waltz:}} {{#invoke:SpellData|geteffect|Blade Waltz}}",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Can't Touch This"] = {
+		["description"] = "Casting your ultimate grants you {{tip|invulnerability}} for 2 seconds (8 second cooldown).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Circle of Death"] = {
+		["description"] = "{{tip|Heal|Healing}} and {{stil|health regeneration}} you do causes you to deal 70% of that value in {{as|magic damage}} to the nearest enemy champion within 1000 units.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Clown College"] = {
+		["description"] = "Gain {{cis|Shaco}} {{ai|Backstab|Shaco}}, {{ai|Deceive|Shaco}} and {{ais|Hallucinate|Shaco}} explosion. Replace a summoner spell with ''{{ai|Deceive|Shaco}}''.<br><br>[[File:Backstab.png|20px|link=]] {{sbc|Passive - Backstab:}} Your basic attacks deal {{as|{{pp|20 to 35}}|physical damage}} {{as|(+ 50% '''bonus''' AD)}} {{as|(+ 35% AP)}} {{ccs|{{as|'''bonus''' physical damage}}|physical}} on-hit when hitting an enemy from behind.<br><br>[[File:Deceive.png|20px|link=]] {{sbc|Active - Deceive:}} Become {{tip|invisible}} for up to 3 seconds and {{tip|blink}} to the target location within 400 units after a {{fd|0.125}}-second delay. Your next basic attack while in stealth deals {{as|100|physical damage}} {{as|(+ 150% '''bonus''' AD)}} {{as|(+ 55% AP)}} {{as|'''bonus''' physical damage}}, increased to{{ft|{{as|{{ap|100*1.55}}|physical damage}} {{as|(+ {{ap|150*1.55}}% '''bonus''' AD)}} {{as|(+ {{ap|55*1.55}}% AP)}} {{as|'''bonus''' physical damage}}|155% damage}}if [[File:Backstab.png|20px|link=]] ''Backstab'' was applied (45 second cooldown).<br><br>[[File:Hallucinate.png|20px|link=]] {{sbc|Passive - Hallucinate Death:}} Upon your death, release an explosion in a {{tip|cr|icononly=true}} 350 radius of your death location, dealing {{as|25% of target's '''maximum''' health}} {{as|true damage}} to enemies within. Additionally, you deploy a {{ai|Jack in the Box|Shaco|box}} at the location of your death that instantly {{tip|fear|fears}} nearby enemies for 1 second. This box does not attack but lasts for 3 seconds.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Deathknell set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Dive Bomb]]",
+	},
+	["Courage of the Colossus"] = {
+		["description"] = "{{tip|immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion grants a {{tip|shield}} for 3 seconds that absorbs {{pp|150 to 450}} {{as|(+ 4% '''maximum''' health)}} damage (5 second cooldown per {{tip|cast instance}}). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Cruelty"] = {
+		["description"] = "{{tip|Immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion summons a comet above them that lands at their current location after 1 second, dealing {{as|{{pp|50 to 150}}|magic damage}} {{as|(+ 40% AP)}} {{as|(+ 4% of your '''maximum''' health)}} {{as|magic damage}} to enemies within the area (6 second cooldown per target per {{tip|cast instance}}).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Dashing"] = {
+		["description"] = "Abilities with {{tip|dash|dashes}} or {{tip|blink|blinks}} gain {{as|175 ability haste}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * On {{ci|Kalista}}, this augment instead grants her {{as|125% '''bonus''' attack speed}}.[https://www.bilibili.com/video/BV1Tnm4B6E5a]
+        ]=]		
+	},
+	["Draw Your Sword"] = {
+		["description"] = "Become {{tip|melee}}, modifying your attack range to 200 (+ 100% '''bonus''' {{sti|attack range}} from augments) units. Additionally, gain {{as|30% '''bonus''' attack damage}}, {{as|25% '''bonus''' attack speed}}, {{as|30% '''bonus''' health}}, {{as|25% '''bonus''' movement speed}}, and 20% life steal. These bonuses are increased by {{pp|key=%|type=champion's default attack range|0 to 30 for 11|500 to 650|formula=3% for every 15 attack range starting from 500 attack range and with the maximum at 650 range}}.<br><br>''This augment is only available for {{tip|ranged}} champions.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * This augment is not offered if the champion has built {{ii|Runaan's Hurricane}}.
+        ]=]	
+        
+	},
+	["Dual Wield"] = {
+		["description"] = "Your basic attacks launch a bolt at the target that fires after a {{tt|{{fd|0.225}}-second delay|Estimated}} {{tip|on-attack}}, deals 40% of the triggering attack's {{tt|pre-mitigation|Damage calculated before modifiers}} damage, and applies {{tip|on-hit}} effects at 40% effectiveness. Additionally, increase your {{as|'''total''' attack speed}} by {{as|10%|attack speed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Empyrean Promise"] = {
+		["description"] = "Replace a summoner spell with ''{{iis|Empyrean Promise}}'' {{nie|Vigilance}} active. Additionally, gain {{as|15% heal and shield power}}.<br><br>{{sbc|Active - Vigilance:}} After a {{fd|0.25}}-second delay, {{tip|dash}} to the current location of the target allied champion and gain a {{pp|100 to 250}} {{as|(+ 100% AP)}} {{as|(+ 10% '''bonus''' health)}} {{tip|shield}} for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Eureka"] = {
+		["description"] = "Gain {{as|ability haste}} equal to {{as|30% AP}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Fan the Hammer"] = {
+		["description"] = "Your next basic attack against an enemy champion in each cardinal direction within {{sti|attack range|750 range}} additionally on-attack fires 5 {{as|Firecrackers|fury}} at the target that each deal {{as|{{pp|8 to 51}}|physical damage}} {{as|(+ 14% '''bonus''' AD)}} {{as|physical damage}}, for a total of {{as|{{pp|8*5 to 51*5}}|physical damage}} {{as|(+ {{ap|14*5}}% '''bonus''' AD)}} {{as|physical damage}} (5 second cooldown per direction). {{as|Firecrackers'|fury}} damage is increased by {{pp|type=distance travelled|0 to 50 for 11|0 to 750|key=%}}. Each {{as|Firecracker|fury}} can {{tip|critically strike}} for {{critical damage|200|100}} damage and applies {{tip|on-hit}} effects at 20% effectiveness.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+	},
+	["Feel the Burn"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Feel the Burn}}''.<br><br>[[File:Feel the Burn.png|20px|link=]] {{sbc|Feel the Burn:}} Casts both {{si|Exhaust}} and {{si|Ignite}} on all enemy champions within 800 units, with the former having its {{tip|slow}} strength increased to 50% and the latter modified to deal {{as|{{pp|70 to 410}} true damage}} over the duration.<br><br>''This effect counts as a {{as|Burn}} source.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Fey Magic"] = {
+		["description"] = "Damaging enemies with your ultimate ability {{tip|polymorph|polymorphs}} them into harmless critters for 2 seconds, during which their {{as|'''base''' movement speed}} is reduced by {{as|60|ms}}, and {{tip|disarm|disarms}} them for the same duration (15 second cooldown per target).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Final Form"] = {
+		["description"] = "Casting your ultimate ability empowers you for 10 seconds, causing you to gain a {{tip|shield}} for {{as|50% of your '''maximum''' health}}, {{as|20% omnivamp}}, and {{as|30% '''bonus''' movement speed}} for the duration (20 second cooldown).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Gash"] = {
+		["description"] = "Basic attacks [[on-hit]] deal {{as|{{rd|20 to 40|10 to 20|pp=true}}|true damage}} {{as|(+ {{rd|25%|20%}} '''bonus''' armor)|armor}} {{as|'''bonus''' true damage}}. Additionally, gain {{as|50% '''bonus''' attack speed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Giant Slayer"] = {
+		["description"] = "Become tiny, reducing your size by 75% and granting you {{as|20% '''bonus''' movement speed}}. Additionally, deal {{pp|key=%|type=target's size|10;15;25;30|Small;Medium;Large;Extra Large}} '''bonus''' damage against enemy champions with greater size than you.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Glass Cannon"] = {
+		["description"] = "You gain a [[Health#Health_threshold|health threshold]] equal to {{sti|{{as|70% '''maximum''' health}}}} which cannot be {{tt|modified|By increases or decreases to maximum health}} nor {{tt|exceeded|By healing and health regeneration}} by any means. In return, you deal {{as|'''bonus''' true damage}} equal to 15% of all of the damage you deal {{tt|pre-mitigation|Damage calculated before modifiers}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Goldrend"] = {
+		["description"] = "Damaging basic attacks or abilities against enemy champions deal {{as|{{pp|50 to 150}}|magic damage}} {{as|(+ 40% '''bonus''' AD)}} {{as|(+ 20% AP)}} {{as|'''bonus''' magic damage}}, and grant you {{g|30}} and {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds (30 second cooldown per champion).",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+	},
+	["Goliath"] = {
+		["description"] = "Grants {{as|35% '''bonus''' health}}, 15% {{tip|adaptive force}}, and 50% increased size.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Infernal Conduit"] = {
+		["description"] = "Your ability hits against champions apply a {{as|Burn}} for 3 seconds that deals{{ft|{{pp|6/3 to 60/3|color=magic damage}} {{as|(+ {{fd|4.{{recurring|6}}}}% '''bonus''' AD)}} {{as|(+ {{ap|6/3}}% AP)}} {{as|'''bonus''' magic damage}} per second|{{pp|6 to 60|color=magic damage}} {{as|(+ 14% '''bonus''' AD)}} {{as|(+ 6% AP)}} {{as|'''bonus''' magic damage}} over the duration}}(1 second cooldown per {{tip|cast instance}}). This {{as|Burn}} stacks infinitely and refreshes with each application.<br><br>Additionally, all of your {{as|Burn}} effects reduce the cooldowns of all your basic abilities by {{fd|0.08}} seconds for each tick of damage they deal to a target.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+		* {{tip|Persistent damage|Damage over time}} effects from all sources except items{{bug|2}} count as {{as|Burn}} sources for triggering the cooldown reduction.
+        * {{sbc|Eligible Augments for {{as|Burn|buzzword3}}}}: [[File:Buff Buddies mayhem augment.png|24px|link=]] Buff Buddies, [[File:Feel_the_Burn_mayhem_augment.png|24px|link=]] Feel the Burn, [[File:Firebrand_mayhem_augment.png|24px|link=]] Firebrand, [[File:Grandma's Chili Oil mayhem augment.png|24px|link=]] Grandma's Chili Oil, [[File:Holy_Fire_mayhem_augment.png|24px|link=]] Holy Fire, [[File:Infernal_Conduit_mayhem_augment.png|24px|link=]] Infernal Conduit, [[File:Slow_Cooker_mayhem_augment.png|24px|link=]] Slow Cooker, [[File:Tormentor_mayhem_augment.png|24px|link=]] Tormentor
+        ]=]		
+	},
+	["Jeweled Gauntlet"] = {
+		["description"] = "Your abilities can now {{tip|critical strike|critically strike}} for (145% + {{sti|{{as|'''bonus''' critical damage}}}}) damage. Additionally, gain {{as|25%|critical strike chance}} {{as|(+ {{fd|4.5}}% per 100 AP)}} {{as|critical strike chance}}.<br><br>If both Jeweled Gauntlet and [[File:Vulnerability mayhem augment.png|20px|link=|An icon for the ARAM: Mayhem augment Vulnerability]] Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * The interaction between ''Jeweled Gauntlet'' and ''Vulnerability'' may behave incorrectly with {{tip|persistent area damage}} effects.{{bug}}
+        ]=]
+	},
+	["King Me"] = {
+		["description"] = "Upon entering the enemy team's {{tip|warp gate|gate}} or [[Catapult]] for the first time, either of which are located near their [[spawn]], you become [[File:King Me buff.png|20px|link=]] {{as|Kinged|buzzword5}}, causing you to gain one random Prismatic-tier augment and the first eligible [[Legendary item]] in your inventory to be upgraded with improved stats. The [[Gold efficiency (League of Legends)|gold value]] of all {{tt|upgradeable stats|Includes AH, AP, AD, AS, AR, MR, and HP}} on the item is increased by exactly {{g|1000}}.<br><br>''King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Laser Heal"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Laser Heal}}''.<br><br>[[File:Life Form Disintegration Ray.png|20px|link=]] {{sbc|Laser Heal:}} {{#invoke:SpellData|geteffect|Laser Heal}}<br><br>''Healing granted by the laser counts as {{tt|self-healing|Heal is attributed to the unit being healed, not the augment user}}.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Mad Scientist"] = {
+		["description"] = "Upon acquiring this augment and each time you respawn, gain either 30% {{tip|adaptive force}}, {{as|20% '''bonus''' health}}, and 40% increased size or {{as|70 ability haste}}, {{as|40% '''bonus''' movement speed}}, and 40% reduced size.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Master of Duality"] = {
+		["description"] = "Basic attacks {{tip|on-hit}} grant {{as|{{pp|6 to 18}} ability power}} and damaging abilities once per {{tip|cast instance}} grant {{as|{{pp|3 to 9}} '''bonus''' attack damage}}, lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Mystic Punch"] = {
+		["description"] = "Basic attacks {{tip|on-hit}} reduce the remaining cooldowns of your abilities by {{fd|1.25}} seconds.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Ominous Pact"] = {
+		["description"] = "Your abilities now have a {{tip|health resource|health cost}} of {{as|5% '''current''' health}} to cast them. In return, you gain {{as|ability power}} based on your {{as|'''missing''' health}}, up to {{as|{{pp|75 to 150}}|AP}} at {{as|70% '''missing''' health}}, {{pp|key=%|key1=%|type='''missing''' health|0 to 50 for 11|0 to 70|formula=0.714% per 1% '''missing''' health, capped at 70% '''missing''' health}} {{as|'''bonus''' movement speed}}, and {{pp|key=%|key1=%|type='''missing''' health|0 to 20 for 11|0 to 70|formula=0.286% per 1% '''missing''' health, capped at 70% '''missing''' health}} {{as|omnivamp}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Omni Soul"] = {
+		["description"] = "Grants 3 random {{bi|Dragon Soul|Dragon Souls}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Protein Shake"] = {
+		["description"] = "Gain {{as|25%|heal and shield power}} {{as|(+ 35% per 100 '''bonus''' armor)}} {{as|(+ 35% per 100 '''bonus''' magic resistance)}} {{as|heal and shield power}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Quantum Computing"] = {
+		["description"] = "{{as|Automatically}} cast an improved version of {{cai|Tactical Sweep|Camille}} when an enemy champion is within 650 units of you, winding up over {{fd|0.75}} seconds to slash in a 650 radius around you. The slash deals {{as|{{pp|200 to 350}}|physical damage}} {{as|(+ 75% '''bonus''' AD)}} {{as|(+ 45% AP)}} {{as|physical damage}} to enemies within the area (30 second cooldown). Enemies hit by the outer edge of the circle take {{as|'''bonus''' physical damage}} equal to {{as|10%|hp}} {{as|(+ {{fd|2.5}}% per 100 '''bonus''' AD)}} {{as|(+ {{fd|1.6}}% per 100 AP)}} {{as|(+ {{fd|0.1}}% per 100 '''bonus''' health)}} {{as|of their '''maximum''' health}} and are {{tip|slow|slowed}} by 80% decaying over 2 seconds. Additionally, you are {{tip|heal|healed}} for 80% of the '''bonus''' {{tt|post-mitigation|Damage calculated after modifiers}} damage against enemy champions hit by the outer edge.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Quest: Sneakerhead"] = {
+		["description"] = "You have now been assigned with a number of quests to complete that each involve performing specific tasks while equipped with a particular [https://wiki.leagueoflegends.com/en-us/Category:Boots_items Boots item], which is granted to you for free during its respective quest. Finish the following quests, which are assigned to you in a random order:<br><ul><li>{{sbc|Quest - {{ii|Berserker's Greaves}}:}} Basic attack 25 times.</li><li>{{sbc|Quest - {{ii|Boots of Swiftness}}:}} Run 300 steps.<!--extremely vague, needs in-game testing--></li><li>{{sbc|Quest - {{ii|Ionian Boots of Lucidity}}:}} Cast 20 abilities.</li><li>{{sbc|Quest - {{ii|Mercury's Treads}}:}} Become afflicted by {{tip|crowd control}} 5 times.</li><li>{{sbc|Quest - {{ii|Plated Steelcaps}}:}} Reduce a total of 200 damage with {{nie|Plating}}.</li><li>{{sbc|Quest - {{ii|Sorcerer's Shoes}}:}} Deal a total of 1500 damage with abilities.</li></ul><br>{{sbc|Reward:}} Upon completing all of the above quests, you receive {{ii|Jarvan I's}}.<br><br>''You cannot purchase any Boots items while equipped with this augment. If you already have a Boots item, it is replaced by the Boots granted by this effect. Boots items gained from this effect cannot be sold.''<br><br>{{as|'''This augment is currently disabled.'''|buzzword3}}",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+    },
+	["Quest: Steel Your Heart"] = {
+		["description"] = "{{sbc|Quest:}} Obtain {{ii|Heartsteel}} and accumulate over {{as|300 '''bonus''' health}} from ''Colossal Consumption''.<br><br>{{sbc|Reward:}} Upon completing your {{sbc|Quest}}, increase the {{as|'''bonus''' health}} gained from {{iis|Heartsteel}} ''Colossal Consumption'' by 200%.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Quest: Urf's Champion"] = {
+		["description"] = "{{sbc|Quest:}} Score 18 champion {{tip|takedown|takedowns}}.<br><br>{{sbc|Reward:}} Upon completing your {{sbc|Quest}}, you receive {{ii|The Golden Spatula}}.<br><br>''If your inventory is full at the time of quest completion, the item will be granted as soon as a slot in the inventory is available.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Quest: Wooglet's Witchcap"] = {
+		["description"] = "Gain a {{ii|Needlessly Large Rod}}.<br><br>{{sbc|Quest:}} Obtain {{ii|Rabadon's Deathcap}} and {{ii|Zhonya's Hourglass}}.<br><br>{{sbc|Reward:}} Upon completing your {{sbc|Quest}}, convert the items you obtained for the quest into {{ii|Wooglet's Witchcap}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Scopiest Weapons"] = {
+		["description"] = "Gain {{rd|250|150}} '''bonus''' attack range.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Slow Cooker"] = {
+		["description"] = "Surrounds you in flames, causing you to apply a {{as|Burn}} every second to enemy champions within 500 units for 3 seconds that deals {{as|magic damage}} equal to{{ft|{{as|{{fd|0.6{{recurring|6}}}}% of your '''maximum''' health}} per second.|{{as|2% of your '''maximum''' health}} over the duration.}}This {{as|Burn}} stacks infinitely and refreshes with each application.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Snowball Roulette"] = {
+		["description"] = "Hitting an enemy with {{si|Mark}} casts a random harmful summoner spell on them, and also casts a random beneficial summoner spell on yourself. Using {{si|Dash}} casts the beneficial summoner spell on yourself again upon arrival. Additionally, your {{sis|Mark}} cooldown is reduced equivalent to 100 ability haste.<br><br>If {{si|Mark}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Mark}}.''",
+		["tier"] = "Gold",
+		["set"] = "[[File:Snowday set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Snowday]]",
+		["notes"] = [=[
+        * Harmful summoner spells: {{si|Exhaust}} and {{si|Ignite}}
+        * Beneficial Summoner spells: {{si|Barrier}}, {{si|Clarity}}, {{si|Cleanse}}, {{si|Ghost}}, and {{si|Heal}}
+        ** Recasting {{si|Barrier}} and {{si|Cleanse}} refreshes the duration.
+        ** Recasted {{si|Heal}} will heal less since the ''Recently Healed'' debuff will be applied on the first.
+        ** {{si|Ghost}} can be stacked up to a maximum of 5 times (which is possible with [[File:Biggest_Snowball_Ever_mayhem_augment.png|20px|link=|An icon for the ARAM: Mayhem augment Biggest Snowball Ever]] Biggest Snowball Ever augment)
+        ]=]	
+	},
+	["Symphony of War"] = {
+		["description"] = "Gain the {{ri|Conqueror}} and {{ri|Lethal Tempo}} keystone runes.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+		* {{ri|Conqueror}}
+		** Adaptive force per stack changed to {{adaptive|3 to 5.5}}.
+		** Healing changed to {{rd|10%|8%}} of damage dealt.
+		* {{ri|Lethal Tempo}}
+		** Bonus attack speed per stack changed to {{rd|13 to 18|8 to 12|pp=true|key=%}}.
+		*** Maximum bonus attack speed changed to {{rd|13*6 to 18*6|8*6 to 12*6|pp=true|key=%}}.
+		** {{sbc|Removed:}} No longer empowers basic attacks at maximum stacks to fire a bolt that deals '''bonus''' adaptive damage.
+		** {{sbc|New Effect:}} At maximum stacks, gain {{sti|attack range|50 '''bonus''' attack range}} and increase the attack speed cap to 10.
+        ]=]	
+	},
+	["Tap Dancer"] = {
+		["description"] = "Basic attacks {{tip|on-hit}} against enemy champions and minions grant {{as|10 '''bonus''' movement speed}}, lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain {{as|'''bonus''' attack speed}} equal to {{as|10% '''total''' movement speed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Transmute: Chaos"] = {
+		["description"] = "Gain two completely random augments, excluding the other two offerings in your current assortment.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Ultimate Awakening"] = {
+		["description"] = "Casting your ultimate ability resets the {{sti|cooldowns}} of all your basic abilities and grants you 300 basic ability haste for 15 seconds (20 second cooldown). Additionally, gain 30 ultimate haste.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Ultimate Revolution"] = {
+		["description"] = "Casting your ultimate ability resets its {{sti|cooldown}} once its effect {{tt|starts|For instant-cast spells}} or has {{tt|elapsed|For duration-based spells}} (75 second cooldown, reset upon death).",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Upgrade Mikael's Blessing"] = {
+		["description"] = "Upgrades {{ii|Mikael's Blessing}}, reducing the cooldown of {{nie|Purify}} to 45 seconds and empowering its active to instead affect you and all nearby allied champions, {{tip|cleanse|cleansing}} all targets of {{tip|crowd control}} (excluding {{tip|Airborne}}), {{tip|heal|healing}} them for {{pp|150 to 450}} {{as|(+ 50% AP)}}, and granting them 65% {{tip|tenacity}} for 3 seconds. Additionally, you are granted {{ii|Mikael's Blessing}} for free.<br><br>''If you already have {{ii|Mikael's Blessing}}, gain {{g|2300}} instead. If your inventory is full, the item will be granted as soon as a slot in the inventory is available.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Windspeaker's Blessing"] = {
+		["description"] = "Your or allies' {{tip|heal|heals}} and {{tip|shield|shields}} on yourself, or your heals and shields on allies, grant the target {{pp|30 to 60}} {{as|'''bonus''' armor}} and {{as|'''bonus''' magic resistance}} for 3 seconds.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Cerberus"] = {
+		["description"] = "Gain the {{ri|Hail of Blades}} and {{ri|Press the Attack}} keystone runes.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+		* {{ri|Hail of Blades}}
+		** Bonus attack speed for {{tip|melee}} champions increased to 200% from 140%.
+		** Bonus attack speed for {{tip|ranged}} champions increased to 115% from 100% (ARAM override value).
+		* {{ri|Press the Attack}}
+		** Bonus damage increased to {{pp|120 to 360}} from {{pp|40 to 160}}.
+		** Damage amplifier increased to 15% from 8%.
+		** {{sbc|New Effect:}} Bonus damage now scales with {{as|40% AD}} and {{as|30% AP}}.
+        ]=]	
+	},
+	["Earthwake"] = {
+		["description"] = "{{tip|Dash|Dashing}} or {{tip|blink|blinking}} causes you to leave behind a trail {{tip|cr|icononly=true}} from the location you moved to your destination that detonates after {{fd|0.75}} seconds in a 300 radius, dealing {{as|{{pp|70 to 210}}|physical damage}} {{as|(+ 125% '''bonus''' AD)}} {{as|(+ 60% AP)}} {{as|physical damage}} per explosion to enemies hit, reduced to 70% against {{tip|minions}}. Enemies can be affected only once every second from all {{tip|cast instance|cast instances}}, and the effect is not triggered if you move beyond 2000 units with the dash or blink.<br><br>This augment is only offered to up to 2 players on each team for a given game.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Pandora's Box"] = {
+		["description"] = "Your current augments transform into an equal number of completely random ''Prismatic'' ones.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},	
+	["Trueshot Prodigy"] = {
+		["description"] = "Upon damaging an enemy while located at over {{tt|700 units away|center-to-edge}} at the time of the hit, cast {{cai|Trueshot Barrage|Ezreal}} in their direction. The barrage deals {{as|{{pp|100 to 350}}|magic damage}} {{as|(+ 80% '''bonus''' AD)}} {{as|(+ 60% AP)}} {{as|magic damage}} to enemies it passes through (15 second cooldown).<br><br>This augment is only offered to up to 1 player on each team for a given game.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},	
+	["Slap Around"] = {
+		["description"] = "{{tip|Immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion grants you {{adaptive|10}}, stacking infinitely (5 second cooldown per {{tip|cast instance}}). Lose 50% of stacks on death.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+		["notes"] = [=[
+		If the {{as|'''bonus''' attack damage}} and the {{as|ability power}} of the unit are '''equal''', the stat granted is always {{as|'''bonus''' AD}}.{{bug|2}}
+		]=]	
+	},		
+	["???"] = {
+		["description"] = "Your[[File:Enemy Missing ping.png|30px|link=]]''Enemy Missing'' pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal {{as|{{pp|100 to 400}}|magic damage}} {{as|(+ 10% of target's '''missing''' health)}} {{as|magic damage}} to enemies struck, and {{tip|heal}} allied champions within for {{pp|50 to 200}} {{as|(+ 10% of target's '''missing''' health)}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * While equipped with this augment, the player can only use up to 3 [[File:Enemy Missing ping.png|30px|link=]]''Enemy Missing'' pings each within 6 seconds at most. This incurs a separate cooldown from the global one, sending an alert to the player that reads: <code>You must wait before issuing more pings of that type.</code> Otherwise, the global ping cooldown is incurred as normal.
+        * The heal is not affected by the -50% outgoing healing penalty from the {{tip|Howling Abyss aura|ARAM global champion buff}}.
+        ]=]	
+	},
+	["Hextech Soul"] = {
+		["description"] = "Grants the {{bi|Hextech Dragon Soul}}, or a different {{bi|Dragon Soul}} if you aleady have it.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Infinite Recursion"] = {
+		["description"] = "Gain {{as|60 ability haste}}, increased by {{as|3|ability haste}} each time you score a champion {{tip|takedown}}.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Bounce of the Poro King"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Bounce of the Poro King}}''.<br><br>[[File:Bounce of the Poro King.png|20px|link=]] {{sbc|Bounce of the Poro King:}} {{#invoke:SpellData|geteffect|Bounce of the Poro King}}",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Crack Open That Egg"] = {
+		["description"] = "Your {{tip|shield|shields}} detonate upon expiration, creating an explosion that deals {{as|magic damage}} equal to 100% of the shield's strength to nearby enemies.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Crit 'n Cast"] = {
+		["description"] = "Gain {{as|ability haste}} equal to {{as|40% of your critical strike chance}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Critical Missile"] = {
+		["description"] = "{{tip|Critical strike|Critical strikes}} against enemy champions launch 1 {{as|(+ 1 per {{fd|33.33}}% critical strike chance)}} {{as|Firecrackers|fury}} at the target that each deal {{as|{{pp|20 to 100}}|magic damage}} {{as|magic damage}}. Additionally, gain {{as|25% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+		["notes"] = [=[
+        *  {{tip|critical strike|Critical strikes}} from [[File:Jeweled_Gauntlet_mayhem_augment.png|24px|link=]] Jeweled Gauntlet and [[File:Vulnerability_mayhem_augment.png|24px|link=]] Vulnerability will launch {{as|Firecrackers|fury}}.
+        ]=]	
+	},
+	["Devil on Your Shoulder"] = {
+		["description"] = "Forge a pact with {{csl|Teemo|Little Devil}}, who {{tip|health resource|drains}} {{as|{{fd|0.5%}} of your '''current''' health}} every second, increased to {{as|5%|hp}} if there are enemy champions within 1000 units. In return, you deal {{as|20% '''bonus''' true damage}} and your basic attacks and abilities summon a ''Life Remnant'' nearby for 5 seconds ({{fd|0.75}}-second spawn cooldown). You can absorb a ''Life Remnant'' by moving over it, {{tip|heal|healing}} you for {{pp|50 to 150}} {{as|(+ 50% '''bonus''' AD)}} {{as|(+ 25% AP)}} and granting you {{as|15% '''bonus''' movement speed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Donation"] = {
+		["description"] = "Gain {{g|1750}} upon acquiring this augment.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+	},
+	["Double Tap"] = {
+		["description"] = "Basic attacks that {{tip|critical strike|critically strike}} apply {{tip|on-hit}} effects an additional time. Additionally, gain {{as|25% critical strike chance}}.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Dropkick"] = {
+		["description"] = "Your basic attacks and abilities {{tip|execute}} enemy champions below {{as|5%|hp}} {{as|(+ {{fd|3.5}}% per 100 '''base''' AD)}} {{as|(+ 2% per 1000 '''bonus''' health)}} {{as|of their '''maximum''' health}}, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal {{as|{{pp|150 to 500}}|magic damage}} {{as|(+ 100% '''bonus''' armor)}} {{as|(+ 100% '''bonus''' magic resistance)}} {{as|magic damage}} to nearby enemies. Successful executions {{tip|heal}} you for {{pp|100 to 300}} {{as|(+ 25% '''bonus''' health)}}.<br><br>''The execution may also be triggered by the explosion and goes through {{tip|shields}}.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Droppybara"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Droppybara}}''.<br><br>[[File:Droppybara.png|20px|link=]] {{sbc|Droppybara:}} {{#invoke:SpellData|geteffect|Droppybara}}<br><br>This augment is only offered to up to 1 player on each team for a given game.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Empowered By The Faithful"] = {
+		["description"] = "Granting a {{tip|heal}} or {{tip|shield}} to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of ''Devotion'', stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals {{as|{{pp|50 to 300}}|magic damage}} {{as|(+ 750% heal and shield power)}} {{as|magic damage}} to nearby enemies. Enemy champions damaged below a percentage of their {{as|'''maximum''' health}} equal to {{as|25% of your heal and shield power}} are {{tip|execute|executed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Final City Transit"] = {
+		["description"] = "Upon death, you summon a train over 1 second that launches towards your killer at full speed, travelling in their direction at a global distance and dealing {{as|{{pp|150 to 750}}|physical damage}} {{as|(+ 65% '''bonus''' AD)}} {{as|(+ 50% AP)}} {{as|(+ 15% '''maximum''' health)}} {{as|physical damage}} to enemies it passes through.<br><br>''The train is summoned a slight distance away from the front of your killer, based on their facing direction at the time of your death, and launches towards the position they were located at the time of your death.''",
+		["tier"] = "Gold",
+		["set"] = "[[File:Deathknell set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Dive Bomb]]",
+	},
+	["Firefox"] = {
+		["description"] = "{{as|Automatically}} cast a modified version of {{cai|Fox-Fire|Ahri}}, gaining {{as|25% '''bonus''' movement speed}} that decays over 2 seconds and conjuring 3 flames that orbit you clockwise for up to {{fd|2.5}} seconds at a radius of {{tip|cr|icononly=true}} 150 units. The flames will {{tt|fly toward|On a 0.25-second delay after acquisition}} the nearest {{tip|sight|visible}} enemies within {{tip|cr|icononly=true}} 550 units, dealing {{pp|35 to 160}} {{as|(+ 25% '''bonus''' AD}} {{as|(+ 25% AP)}} {{tip|adaptive damage}}, reduced to{{ft|{{pp|35*0.3 to 160*0.3}} {{as|(+ {{ap|25*0.3}}% '''bonus''' AD}} {{as|(+ {{ap|25*0.3}}% AP)}}|30% of the original damage}}for enemies hit by subsequent flames from the same cast (7 second cooldown).",
+		["tier"] = "Silver",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Grandma's Chili Oil"] = {
+		["description"] = "Your next basic attack or ability hit, or {{as|Burn}} effect, against an enemy champion inflicts them with a {{as|Burn}} that deals{{ft|{{as|{{pp|100 to 350}} magic damage}} over 3 seconds,|{{as|{{pp|200/12 to 450/12}} magic damage}} every {{fd|0.25}} seconds over 3 seconds,}}as well as releases a canister of chili from the target that lands to a location near them after {{fd|0.75}} seconds (3 second cooldown). Upon landing, the canister shatters to create a pool of ''Chili Oil'' at the impact area with a radius of 175 units, lasting for 5 seconds. The pool {{tip|heal|heals}} you and allied champions within for {{pp|30 to 75}} upon entering and each second of the pool's lifetime thereafter. While enemies are within the pool, they are dealt {{as|150 magic damage}} every second.<br><br>For each unique {{as|Burn|buzzword3}} effect source that you have, up to 10, increase the pool's size by 40 units and its damage per tick by {{as|50 magic damage}}. The healing per tick is also increased by 25 for each unique {{as|Burn|buzzword3}} effect source that the unit being healed has, up to 10.<br><br>''Healing granted by pools counts as {{tt|self-healing|Heal is attributed to the unit being healed, not the augment user}}.''",
+		["tier"] = "Gold",
+		["set"] = "-",
+		["notes"] = [=[
+		* This effect can be triggered from only one target at a time.
+		* {{tip|Persistent damage|Damage over time}} effects from sources other than items and augments, such as champion abilities or summoner spells, do not count as {{as|Burn}} sources for ''Grandma's Chili Oil''. 
+        * {{sbc|Eligible Items for {{as|Burn|buzzword3}}}}: {{ii|Blackfire Torch}}, {{ii|Hollow Radiance}}, {{ii|Liandry's Torment}}, {{ii|Malignance}}, {{ii|Sunfire Aegis}}, {{ii|The Golden Spatula}}, {{ii|Void Immolation}}
+        ** {{ii|Void Immolation}} uniquely counts as 2 {{as|Burn}} sources.
+        * {{sbc|Eligible Augments for {{as|Burn|buzzword3}}}}: [[File:Buff Buddies mayhem augment.png|24px|link=]] Buff Buddies, [[File:Feel_the_Burn_mayhem_augment.png|24px|link=]] Feel the Burn, [[File:Firebrand_mayhem_augment.png|24px|link=]] Firebrand, [[File:Holy_Fire_mayhem_augment.png|24px|link=]] Holy Fire, [[File:Infernal_Conduit_mayhem_augment.png|24px|link=]] Infernal Conduit, [[File:Slow_Cooker_mayhem_augment.png|24px|link=]] Slow Cooker, [[File:Tormentor_mayhem_augment.png|24px|link=]] Tormentor
+        ** ''Grandma's Chili Oil'' does not count itself as a {{as|Burn}} effect.
+        * The pools of Chili Oil will follow their user in and out of {{cai|Realm of Death|Mordekaiser}} but will only be visible in the realm they were generated.{{bug}}
+        ]=]
+	},
+	["Growth Spurt"] = {
+		["description"] = "Replace a summoner spell with ''{{si|Growth Spurt}}''.<br><br>[[File:Growth Spurt.png|20px|link=]] {{sbc|Growth Spurt:}} {{#invoke:SpellData|geteffect|Growth Spurt}}",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Heads Up Cupcake!"] = {
+		["description"] = "Periodically, ''Cupcakes'' will fly across the map. Champions can consume a ''Cupcake'' by moving within 300 units of it, {{tip|heal|healing}} them and their nearby allied champions for {{pp|50 to 250}} {{as|(+ {{pp|5 to 15|key=%}} '''missing''' health)}}, as well as {{tip|slow|slowing}} all targets by 25% for {{fd|0.5}} seconds. ''Cupcakes'' also grant {{g|50}} to the champion who consumed it. Additionally, for every 1000 healing done by ''Cupcakes'', you gain {{g|150}}.<br><br>''Healing granted by Cupcakes counts as {{tt|self-healing|Heal is attributed to the unit being healed, not the augment user}}.''",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+	},
+	["Holy Snowball"] = {
+		["description"] = "After using the {{si|Dash}} spell from {{si|Mark}}, you become {{tip|invulnerable}} for {{fd|1.5}} seconds upon arrival. Additionally, your {{sis|Mark}} cooldown is reduced equivalent to 100 ability haste.<br><br>''If {{si|Mark}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Mark}}.''",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Snowday set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Snowday]]",
+	},
+	["Triggered Inferno"] = {
+		["description"] = "Your damaging basic attacks and abilities against at least one enemy {{tip|champion}} unique from the previous damaging hit made against champions generate a stack of ''Style'' for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain {{as|{{pp|4.25 to 5 for 4|1 to 16|key=%}} '''bonus''' movement speed}}, up to a maximum of {{as|{{pp|25.5 to 30 for 4|1 to 16|key=%}}|ms}}.<br><br>Upon reaching maximum ''Style'' stacks, you unleash a torrent of shots for {{rutngt|2.25}}, during which you rapidly shoot at nearby enemies over {{rutngt|2}} at sporadic times in {{tt|{{fd|0.2}}-second intervals|on average; total of 5 intervals of 0.231 and 5 of 0.198 seconds}} each (up to 10 times per enemy), dealing {{as|{{pp|20 to 40}}|physical damage}} {{as|(+ 40% AD)}} {{as|(+ 25% AP)}} {{as|physical damage}} with each shot, reduced by 75% against {{tip|minions}}. Enemies below {{as|30% of their '''maximum''' health}} are {{tip|critical strike|critically struck}} for{{ft|double damage|{{as|{{pp|20*2 to 40*2}}|physical damage}} {{as|(+ {{ap|40*2}}% AD)}} {{as|(+ {{ap|25*2}}% AP)}} {{as|physical damage}}}}(15 second cooldown). This effect ends prematurely if you become affected by {{tip|cast-inhibiting crowd control}}.<br><br>''Shot damage {{tip|applies lifesteal|applies}} {{as|life steal}}. Style stacks are consumed at the end of the shooting effect.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Juiced"] = {
+		["description"] = "Basic attacks {{tip|on-hit}} against enemy champions consume {{as|{{fd|2.5}}% of your '''maximum''' mana}} to deal {{as|'''bonus''' magic damage}} equal to {{as|{{fd|4.5}}% of your '''maximum''' mana}}. This damage can {{tip|critically strike}} for {{critical damage|100}} '''bonus''' damage.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Archmage set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Archmage]]",
+	},
+	["Kill Secured"] = {
+		["description"] = "Gain {{as|60% '''bonus''' movement speed}} towards enemy champions below {{as|40% of their '''maximum''' health}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Phenomenal Evil"] = {
+		["description"] = "Gain {{cai|Phenomenal Evil Power|Veigar}}.<br><br>{{sbc|Phenomenal Evil Power:}} Generate a permanent stack of ''Phenomenal Evil'' each time you damage an enemy champion with {{tip|ability damage}}. This effect cannot trigger more than once every second globally and once every 3 seconds from the same {{tip|cast instance}}. For each stack, gain {{as|1 ability power}}.<br><br>If this is not your first augment, start with 40 ''Phenomenal Evil'' stacks, granting you {{as|40 ability power}}.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+		["notes"] = [=[
+        * The 40 bonus stacks for selecting this augment as not your first augment are given once the first stack is earned.
+        ]=]		
+	},
+	["Pinball"] = {
+		["description"] = "Your {{si|Mark}} is empowered to instead throw a pinball, which deals {{as|{{pp|100 to 500}} '''bonus''' true damage}} and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset, it increases in radius by 25%, deals 20% increased damage, and reduces {{sis|Mark}} remaining cooldown by 30%. The pinball can ricochet up to 4 times, for a maximum radius increase of 100% and a damage increase of 80%. Additionally, your {{sis|Mark}} cooldown is reduced equivalent to 50 ability haste.<br><br>''If {{si|Mark}} is not equipped, you will be prompted to replace one of your summoner spells with {{si|Mark}}.''",
+		["tier"] = "Gold",
+		["set"] = "[[File:Snowday set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Snowday]]",
+	},
+	["Poro Blaster"] = {
+		["description"] = "You summon a [[File:Fat Poro Icon.png|20px|link=]] ''Poro'' alongside yourself every {{fd|3.5}} seconds, up to 5 at a time. Damaging an enemy champion with a basic attack or ability, excluding those which apply {{tip|persistent damage|damage over time}}, commands all of your ''Poros'' to launch themselves at the target, each dealing {{as|true damage}} equal to {{as|3% of the target's '''maximum''' health}}. If triggered while at the maximum number of summoned ''Poros'', the first ''Poro'' to hit the target also {{tip|airborne|knocks them up}} for {{fd|0.5}} seconds.<br><br>This augment is only offered to up to 1 player on each team for a given game.",
+		["tier"] = "Gold",
+		["set"] = "-",
+	},
+	["Prom Queen"] = {
+		["description"] = "{{as|Automatically}} cast a modified version of {{cai|The Quickness|Rakan}}, empowering you to break into a captivating sprint for 6 seconds. While empowered, you gain {{tip|ghosting}} and {{as|50% '''bonus''' movement speed}}, and enemies you {{tt|collide with|300 unit collision radius}} are {{tip|knockdown|knocked down}} and become {{tip|charm|charmed}} for {{fd|1.5}} seconds (35 second cooldown).<br><br>''A sparkly tiara will descend upon you {{fd|2.5}} seconds before the effect activates.''",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]",
+	},
+	["Purist - Caster"] = {
+		["description"] = "Convert '''all''' of your {{as|'''bonus''' attack speed}} into {{as|ability haste}} at a rate of {{as|{{fd|0.65}} ability haste}} per {{as|1% '''bonus''' attack speed}}. Additionally, your abilities' '''total''' cooldowns are reduced by 10%.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Quest: Icathia's Fall"] = {
+		["description"] = "Gain {{ii|Bami's Cinder}}. You can now purchase {{ii|Hollow Radiance}} and {{ii|Sunfire Aegis}} in spite of the item limit imposed by {{nie|Immolate}}.<br><br>{{sbc|Quest:}} Obtain {{ii|Hollow Radiance}} and {{ii|Sunfire Aegis}}.<br><br>{{sbc|Reward:}} Upon completing your {{sbc|Quest}}, convert the items you obtained for the quest into {{ii|Void Immolation}}.<br><br>''{{ii|Void Immolation}} counts as 2 {{as|Burn}} effect sources.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * When gaining {{ii|Bami's Cinder}}, you will lose an {{ii|Ruby Crystal}} or a {{ii|Glowing Mote}} in your inventory as it will get upgraded with no gold returned back to you.{{bug}}
+        ]=]
+	},
+	["Red Envelopes"] = {
+		["description"] = "Red envelopes will now randomly appear around you every {{pp|25 to 15}} seconds. You can pick up these envelopes by moving over them, granting you between {{g|{{pp|8 to 15}}}} and {{as|{{pp|22 to 46}}|gold}} {{as|gold}}, and {{as|100 '''bonus''' movement speed}} for 3 seconds.<br><br>Additionally, whenever you pick an envelope, you gain one of the following stats by random:<br><ul><li>{{as|5 '''bonus''' attack damage}}</li><li>{{as|5 ability power}}</li><li>{{as|5 ability haste}}</li><li>{{as|5 '''bonus''' armor}}</li><li>{{as|5 '''bonus''' magic resistance}}</li><li>{{as|50 '''bonus''' health}}</li><li>{{as|10% '''bonus''' attack speed}}</li><li>{{as|5 '''bonus''' movement speed}}</li><li>{{as|5 Lethality}}</li><li>{{as|5 magic penetration}}",
+		["tier"] = "Gold",
+		["set"] = "[[File:Make it Rain set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Make it Rain]]",
+	},
+	["Shrink Engine"] = {
+		["description"] = "Scoring a champion {{tip|takedown}} generates a stack, stacking infinitely. For each stack, gain {{as|8 ability haste}} and {{as|1% '''bonus''' movement speed}}, and reduce your size by 4%. Lose 65% of stacks on death.<br><br>''Size reduction is capped at 80% (20 stacks).''",
+		["tier"] = "Gold",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Sonata"] = {
+		["description"] = "Alternate between {{as|automatically}} casting a modified version of {{cai|Aria of Perseverance|Sona}} and modified {{ai|Song of Celerity|Sona}}, with the former being cast first (10 second cooldown).<br><br>{{sbc|Aria of Perseverance:}} {{tip|Heal}} yourself for 60 {{as|(+ 60% AP)}} and send out a tone to the {{tt|most wounded|Based on greatest % missing health}} allied champion within 1000 units that heals them for the same amount. Additionally, generate an {{tt|aura|400 unit radius, center-to-edge}} that grants you and tagged allied champions a 80 {{as|(+ 40% AP)}} {{tip|shield}} for {{fd|1.5}} seconds.<br><br>{{sbc|Song of Celerity:}} Gain {{as|30% '''bonus''' movement speed}} for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an {{tt|aura|400 unit radius, center-to-edge}} that grants tagged allied champions {{as|20% '''bonus''' movement speed}} for 3 seconds.",
+		["tier"] = "Gold",
+		["set"] = "[[File:Fully Automated set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Fully Automated]]<br>[[File:Wee Woo Wee Woo set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Wee Woo Wee Woo]]",
+	},
+	["Soul Eater"] = {
+		["description"] = "{{tip|Immobilize|Immobilizing}} or {{tip|ground|grounding}} an enemy champion grants you {{as|20 '''bonus''' health}}, stacking infinitely (5 second cooldown per {{tip|cast instance}}).",
+		["tier"] = "Gold",
+		["set"] = "[[File:Stackasaurus Rex set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Stackosaurus Rex]]",
+	},
+	["Speed Demon"] = {
+		["description"] = "Whenever you damage an enemy champion with an ability, gain {{as|200 '''bonus''' movement speed}} decaying over {{fd|0.75}} seconds.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Spin Me Right Round"] = {
+		["description"] = "Replace a summoner spell with ''{{cai|Heroic Swing|Akshan}}'' ({{tt|10 second cooldown|5.88 seconds after applying the 70 summoner spell haste from the global ARAM champion buff}}, starts post-effect).<br><br>{{sbc|Heroic Swing - Active:}} You can activate ''Heroic Swing'' three times before the ability goes on cooldown, and you can use the third cast only after {{fd|0.5}} seconds of the second cast. An attack or movement command may be inputted to use the second and third casts.<br><br>[[File:Heroic Swing.png|20px|link=]] {{sbc|First Cast:}} Fire a hook in the target direction that embeds in the first [[terrain]] hit for 2 seconds. ''Heroic Swing's'' second cast can be used while the hook is attached. If the hook fails to attach or you become {{tip|immobilize|immobilized}}, {{tip|ground|grounded}}, or {{tip|polymorph|polymorphed}} within the duration, ''Heroic Swing'' is cancelled and placed on full cooldown.<br><br>[[File:Heroic Swing 2.png|20px|link=]] {{sbc|Second Cast:}} {{tip|dash|Swing}} around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor {{tt|relative to your facing direction|Dash will move clockwise if the player's cursor is anywhere to the left of their champion from their facing direction (or perspective), and counterclockwise if the cursor is anywhere to their champion's right.}}, stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest {{tip|sight|visible}} enemy within 500 units every {{rutngt|0.2}} to deal them {{as|{{pp|15 to 75}}|physical damage}} {{as|(+ 15% AD)}} {{times}} {{as|(1 + {{fd|0.3}} per 100% '''bonus''' attack speed)}} {{as|physical damage}} and apply {{tip|on-hit}} effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be {{tip|knockdown|interrupted}} if you are affected by any {{tip|immobilize|immobilizing}} or {{tip|polymorph|polymorphing}} crowd control during the dash.<br><br>{{sbc|Third Cast:}} End the swing by {{tip|dash|jumping}} to the target location and fire one last shot at a nearby {{tip|sight|visible}} enemy.<br><br>Scoring an enemy champion {{tip|takedown}} reduces ''Heroic Swing's'' {{sti|'''current''' cooldown}} to {{fd|0.5}} seconds.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Stats!"] = {
+		["description"] = "Gain 2 {{ii|Stat Bonus|Stat Anvils}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Stats on Stats!"] = {
+		["description"] = "Gain 3 {{ii|Stat Bonus|Stat Anvils}}, with a higher chance of obtaining ''Gold'' and ''Prismatic'' tier anvils.",
+		["tier"] = "Gold",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Stats on Stats on Stats!"] = {
+		["description"] = "Gain 4 {{ii|Stat Bonus|Stat Anvils}}, with a higher chance of obtaining ''Gold'' and ''Prismatic'' tier anvils. Additionally, on the next round of augment selection, you gain an additional reroll per augment slot.",
+		["tier"] = "Prismatic",
+		["set"] = "[[File:High Roller set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|High Roller]]",
+	},
+	["Stuck in Here With Me"] = {
+		["description"] = "Casting your ultimate ability grants you an aura for 2 seconds, growing in size over the duration to up to 500 units. After the duration, you {{tip|taunt}} all enemies within the aura for 2 seconds and gain 50% damage reduction for the same duration (30 second cooldown). Additionally, gain 30 ultimate haste.<br><br>''Aura is activated once the ultimate's effect {{tt|starts|For instant-cast spells}} or has {{tt|elapsed|For duration-based spells}}.''",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+		["notes"] = [=[
+        * On {{ci|Katarina}}, this augment will activate at the start of {{ais|R|Katarina}} channel.
+        ]=]			
+	},
+	["Twin Fire"] = {
+		["description"] = "Damaging abilities against enemy champions launch 1 {{as|(+ 1 per {{fd|33.33}}% critical strike chance)}} {{as|Firecrackers|fury}} at the target that each deal {{as|{{pp|10 to 30}}|magic damage}} {{as|(+ 7% '''bonus''' AD)}} {{as|(+ 7% AP)}} {{as|magic damage}} (5 second cooldown). Additionally, gain {{as|15% critical strike chance}}.",
+		["tier"] = "Silver",
+		["set"] = "[[File:Firecracker set mayhem.png|30px|link=]] [[ARAM:_Mayhem/Augment_Sets|Firecracker]]",
+	},
+	["Upgrade Thornmail"] = {
+		["description"] = "Upgrades {{ii|Bramble Vest}} and {{ii|Thornmail}}, empowering {{nie|Thorns}} to generate a protective shell around you. The shell is broken by the next enemy champion to use a basic attack {{tip|on-hit}} against you, which causes them to take {{as|{{pp|50 to 250}}|magic damage}} {{as|(+ 30% armor)}} {{as|(+ 30% magic resistance)}} {{as|(+ 12% '''maximum''' health)}} {{as|magic damage}}. Shell regenerates after {{pp|20 to 5}} seconds of being [[combat status|out-of-combat]] with enemy champions.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Virtuous Cycle"] = {
+		["description"] = "Your {{tip|heal|heals}} grant a {{tip|shield}} for 5 seconds that is equal to 20% of the healing value, and your shields grant a heal equal to 20% of the shield's strength. This effect cannot trigger from itself.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Void Rift"] = {
+		["description"] = "Damaging an enemy champion with an ability summons a {{as|Void Scar|experience}} at the location they were damaged for 6 seconds ({{fd|0.75}}-second cooldown per target). If another {{as|Void Scar|experience}} is summoned within 1250 units, through the same condition, both {{as|Void Scars|experience}} are consumed to create a rift to the void between them that converges over {{fd|0.6}} seconds and has a width of 250 units. Enemies within the rift are dealt {{as|{{pp|100 to 450}}|magic damage}} {{as|(+ {{fd|5.5}} per 1 Lethality)}} {{as|(+ {{fd|5.5}} per 1 flat magic penetration)}} {{as|magic damage}} and {{tip|slow|slowed}} by 99% decaying over 1 second.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Weighted Popoffs"] = {
+		["description"] = "Hitting an enemy champion with an ability generates a stack of {{as|Popoff|buzzword6}} for 6 seconds, stacking up to 6 times. For each stack, your basic abilities' cooldowns progress {{fd|2.5}}% faster. At maximum {{as|Popoff|buzzword6}} stacks, this value is doubled, for a total of a 30% faster progression time.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Zealot"] = {
+		["description"] = "Gain {{as|35%|as}} {{as|(+ 5% per 100 AP)}} {{as|'''bonus''' attack speed}} and {{as|25%|critical strike chance}} {{as|(+ 5% per 100 AP)}} {{as|critical strike chance}}.",
+		["tier"] = "Silver",
+		["set"] = "-",
+	},
+	["Hand of Baron"] = {
+		["description"] = "Gain a modified {{bi|Hand of Baron}}, which only grants 25% increased {{tip|adaptive force}} and greatly empowers nearby allied {{tip|minions}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",
+	},
+	["Upgrade Sword of Blossoming Dawn"] = {
+		["description"] = "Upgrades {{ii|Sword of Blossoming Dawn}}, empowering {{nie|Peppermint}} to have its healing increased by 250%. Additionally, you gain {{as|100% '''bonus''' attack speed}}.",
+		["tier"] = "Prismatic",
+		["set"] = "-",		
+	}
+}
+-- </pre>
+-- [[Category:Lua]]

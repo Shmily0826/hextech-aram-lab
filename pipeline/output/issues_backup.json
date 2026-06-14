@@ -1,0 +1,138 @@
+[
+  {
+    "sev": "critical",
+    "title": "布兰德 - 毒性增幅叠加计算异常",
+    "heroes": [
+      "布兰德"
+    ],
+    "augs": [
+      "毒性增幅"
+    ],
+    "desc": "被动灼烧与毒性增幅叠加后，伤害计算疑似为乘法叠加而非加法叠加，持续伤害约为预期的2.5倍。",
+    "ver": "15.12",
+    "time": "3天前",
+    "status": "investigating",
+    "confirm": 342,
+    "tip": "暂时可利用此机制上分。注意Riot可能随时热修复。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 50
+  },
+  {
+    "sev": "critical",
+    "title": "卡尔萨斯 - 终极猎手导致R技能CD异常",
+    "heroes": [
+      "卡尔萨斯"
+    ],
+    "augs": [
+      "终极猎手"
+    ],
+    "desc": "选择终极猎手后，R技能CD偶现显示为0秒但无法释放，需重新进入战斗状态。发生概率约0.8%。",
+    "ver": "15.12",
+    "time": "5天前",
+    "status": "investigating",
+    "confirm": 218,
+    "tip": "遇到此问题时尝试进行一次普攻即可恢复。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 50
+  },
+  {
+    "sev": "major",
+    "title": "提莫 - R蘑菇不触发连锁闪电增强",
+    "heroes": [
+      "提莫"
+    ],
+    "augs": [
+      "连锁闪电"
+    ],
+    "desc": "蘑菇陷阱不触发连锁闪电增强效果，但技能描述中说明应触发。已确认为Bug。",
+    "ver": "15.12",
+    "time": "1周前",
+    "status": "investigating",
+    "confirm": 187,
+    "tip": "暂时不要给提莫选连锁闪电，等修复后再使用。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 50
+  },
+  {
+    "sev": "major",
+    "title": "亚索 - W风墙阻挡己方连锁闪电弹射",
+    "heroes": [
+      "亚索"
+    ],
+    "augs": [
+      "连锁闪电"
+    ],
+    "desc": "风墙会错误阻挡己方连锁闪电弹射效果。其他弹射效果（如电刀）不受影响。",
+    "ver": "15.11",
+    "time": "2周前",
+    "status": "community",
+    "confirm": 156,
+    "tip": "己方有亚索时避免选择连锁闪电。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 65
+  },
+  {
+    "sev": "minor",
+    "title": "穿甲弹头对亚索Q技能疑似不生效",
+    "heroes": [
+      "亚索"
+    ],
+    "augs": [
+      "穿甲弹头"
+    ],
+    "desc": "部分玩家反馈穿甲弹头对亚索Q不生效，仅普攻享受穿透。官方未确认。",
+    "ver": "15.12",
+    "time": "4天前",
+    "status": "disputed",
+    "confirm": 89,
+    "tip": "暂不建议亚索选择穿甲弹头。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 45
+  },
+  {
+    "sev": "minor",
+    "title": "增强选择界面偶现无法点击",
+    "heroes": [],
+    "augs": [],
+    "desc": "约0.3%的对局中增强选择界面无法点击。主要发生在网络延迟>150ms时。",
+    "ver": "15.12",
+    "time": "6天前",
+    "status": "investigating",
+    "confirm": 45,
+    "tip": "保持网络稳定可减少此问题发生概率。",
+    "evidence": [],
+    "updated_at": "2026-06-13T00:00:00Z",
+    "confidence": 50
+  },
+  {
+    "sev": "critical",
+    "title": "Brand + Toxic Amplifier damage calculation uses multiplicative stacking instead of additive",
+    "heroes": [
+      "布兰德"
+    ],
+    "augs": [
+      "毒性增幅"
+    ],
+    "desc": "When Brand picks Toxic Amplifier in ARAM, his passive burn damage appears to be approximately 2.5x the normal value rather than the expected 1.4x. This suggests the game applies the 40% multiplier twice - once on base damage and once on the burn tick itself.",
+    "ver": "15.12",
+    "time": "2026-06-14",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "",
+    "confidence": 55,
+    "evidence": [
+      {
+        "type": "reddit",
+        "url": "https://www.reddit.com/r/ARAM/comments/1dcf8x2/brand_toxic_amplifier_interaction_is_broken/",
+        "summary": "Multiple players report Brand + Toxic Amplifier dealing ~2.5x damage instead of expected 1.4x, confirmed across 5+ games"
+      }
+    ],
+    "updated_at": "2026-06-14T01:14:56Z",
+    "source_note": ""
+  }
+]

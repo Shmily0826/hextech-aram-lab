@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "chain_lightning",
+    "name": "连锁闪电",
+    "name_en": "Chain Lightning",
+    "aliases": [
+      "chain lightning",
+      "chainlightning",
+      "chain"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "技能命中后释放连锁闪电，对附近敌人造成额外魔法伤害。最多弹射3个目标。",
+    "effect_en": "Skill hits release chain lightning, dealing bonus magic damage to nearby enemies. Bounces up to 3 targets.",
+    "tags": [
+      "damage",
+      "aoe",
+      "magic"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Chain_Lightning_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "gold",
+    "wr": 56.8,
+    "pr": 22.4,
+    "desc": "技能命中后释放连锁闪电，对附近敌人造成额外魔法伤害。最多弹射3个目标。",
+    "trigger": "技能命中敌方英雄时触发，0.5秒内置CD。闪电优先弹射至最近未被命中的敌方英雄，弹射范围约450码。",
+    "best": [
+      {
+        "h": "布兰德",
+        "wr": 63.8,
+        "t": "transform"
+      },
+      {
+        "h": "吉格斯",
+        "wr": 64.2,
+        "t": "transform"
+      },
+      {
+        "h": "泽拉斯",
+        "wr": 59.5,
+        "t": "transform"
+      },
+      {
+        "h": "凯南",
+        "wr": 58.8,
+        "t": "transform"
+      },
+      {
+        "h": "婕拉",
+        "wr": 57.2,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "亚索",
+        "r": "风墙阻挡弹射"
+      },
+      {
+        "h": "薇恩",
+        "r": "AD加成不触发"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": true,
+        "t": "实测弹射范围450码，优先未被命中目标"
+      },
+      {
+        "a": "大乱斗之王",
+        "ok": true,
+        "t": "5人抱团时效果最佳"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "toxic_amplifier",
+    "name": "毒性增幅",
+    "name_en": "Toxic Amplifier",
+    "aliases": [
+      "toxic amplifier",
+      "toxic amp",
+      "toxic",
+      "amp"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "持续伤害效果（灼烧、中毒、流血）提升40%。多个持续伤害叠加时各自独立增幅。",
+    "effect_en": "Damage over time effects (burn, poison, bleed) are amplified by 40%. Multiple DoT sources are independently amplified.",
+    "tags": [
+      "damage",
+      "dot"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Toxic_Amplifier_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "gold",
+    "wr": 57.1,
+    "pr": 12.3,
+    "desc": "持续伤害效果（灼烧、中毒、流血）提升40%。多个持续伤害叠加时各自独立增幅。",
+    "trigger": "持续伤害效果tick时触发，与源技能伤害计算同步。",
+    "best": [
+      {
+        "h": "布兰德",
+        "wr": 64.9,
+        "t": "bug"
+      },
+      {
+        "h": "提莫",
+        "wr": 61.6,
+        "t": "transform"
+      },
+      {
+        "h": "婕拉",
+        "wr": 59.3,
+        "t": "transform"
+      },
+      {
+        "h": "卡尔萨斯",
+        "wr": 56.8,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "伊泽瑞尔",
+        "r": "无持续伤害技能"
+      },
+      {
+        "h": "亚索",
+        "r": "无持续伤害技能"
+      }
+    ],
+    "tests": [
+      {
+        "a": "蘑菇大师",
+        "ok": true,
+        "t": "提莫蘑菇灼烧实测提升约38%"
+      },
+      {
+        "a": "大乱斗之王",
+        "ok": false,
+        "t": "布兰德叠加效果疑似超过40%，可能是Bug"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "blade_waltz",
+    "name": "利刃华尔兹",
+    "name_en": "Blade Waltz",
+    "aliases": [
+      "blade waltz",
+      "bladewaltz",
+      "华尔兹",
+      "blade",
+      "waltz"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击时获得额外35%攻速和12%移速，连续攻击5次后触发剑舞效果。",
+    "effect_en": "Gain 35% bonus attack speed and 12% move speed on hit. After 5 consecutive attacks, trigger a blade waltz effect.",
+    "tags": [
+      "attack_speed",
+      "mobility"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Blade_Waltz_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "Tier 已从 gold 修正为 prismatic（来源: LoL Wiki Module）",
+    "rar": "prism",
+    "wr": 55.2,
+    "pr": 18.7,
+    "desc": "攻击时获得额外35%攻速和12%移速，连续攻击5次后触发剑舞效果。",
+    "trigger": "普攻命中时叠加，每5次触发一次剑舞。攻速加成持续3秒。",
+    "best": [
+      {
+        "h": "卡莎",
+        "wr": 61.3,
+        "t": "transform"
+      },
+      {
+        "h": "韦鲁斯",
+        "wr": 59.0,
+        "t": "transform"
+      },
+      {
+        "h": "薇恩",
+        "wr": 56.3,
+        "t": "recommend"
+      },
+      {
+        "h": "亚索",
+        "wr": 54.1,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "法师不需要攻速"
+      },
+      {
+        "h": "泽拉斯",
+        "r": "法师不需要攻速"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": true,
+        "t": "攻速流ADC核心增强，收益稳定"
+      }
+    ]
+  },
+  {
+    "id": "armor_piercing",
+    "name": "穿甲弹头",
+    "name_en": "Armor Piercing",
+    "aliases": [
+      "armor piercing",
+      "armor piercing rounds",
+      "piercing",
+      "armor pierce",
+      "ap round",
+      "ap rounds"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "物理伤害获得额外18%护甲穿透。对护盾的物理伤害提升25%。",
+    "effect_en": "Physical damage gains 18% bonus armor penetration. Physical damage against shields is increased by 25%.",
+    "tags": [
+      "damage",
+      "armor_pen"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Armor_Piercing_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "gold",
+    "wr": 51.8,
+    "pr": 14.5,
+    "desc": "物理伤害获得额外18%护甲穿透。对护盾的物理伤害提升25%。",
+    "trigger": "物理伤害计算时自动应用护甲穿透。",
+    "best": [
+      {
+        "h": "韦鲁斯",
+        "wr": 54.2,
+        "t": "recommend"
+      },
+      {
+        "h": "伊泽瑞尔",
+        "wr": 53.0,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "纯魔法伤害"
+      },
+      {
+        "h": "布兰德",
+        "r": "纯魔法伤害"
+      },
+      {
+        "h": "婕拉",
+        "r": "纯魔法伤害"
+      },
+      {
+        "h": "莫甘娜",
+        "r": "纯魔法伤害"
+      }
+    ],
+    "tests": [
+      {
+        "a": "快乐风男",
+        "ok": false,
+        "t": "对亚索Q疑似不生效"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "annihilation_gaze",
+    "name": "毁灭凝视",
+    "name_en": "Annihilation Gaze",
+    "aliases": [
+      "annihilation gaze",
+      "annihilation",
+      "gaze",
+      "execute gaze",
+      "execute"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "对生命值低于30%的敌人造成额外25%伤害。目标死亡后回复10%最大法力值。",
+    "effect_en": "Deal 25% bonus damage to enemies below 30% HP. Restores 10% max mana on champion kill.",
+    "tags": [
+      "damage",
+      "execute"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Annihilation_Gaze_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "prism",
+    "wr": 58.4,
+    "pr": 8.2,
+    "desc": "对生命值低于30%的敌人造成额外25%伤害。目标死亡后回复10%最大法力值。",
+    "trigger": "伤害命中低血量目标时自动触发。斩杀判定在伤害结算后进行。",
+    "best": [
+      {
+        "h": "卡尔萨斯",
+        "wr": 63.1,
+        "t": "transform"
+      },
+      {
+        "h": "吉格斯",
+        "wr": 61.4,
+        "t": "transform"
+      },
+      {
+        "h": "布兰德",
+        "wr": 60.2,
+        "t": "recommend"
+      },
+      {
+        "h": "泽拉斯",
+        "wr": 58.6,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "莫甘娜",
+        "r": "缺少爆发伤害"
+      }
+    ],
+    "tests": [
+      {
+        "a": "大乱斗之王",
+        "ok": true,
+        "t": "R+斩杀线约30%血量"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "ultimate_cooldown",
+    "name": "终极冷却",
+    "name_en": "Ultimate Cooldown",
+    "aliases": [
+      "ultimate cooldown",
+      "ult cooldown",
+      "ult cd",
+      "ultimate cool",
+      "ult cooldown"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "大招冷却时间缩短35%。大招命中后额外恢复5%最大法力值。",
+    "effect_en": "Ultimate ability cooldown is reduced by 35%. Restore 5% max mana on ultimate hit.",
+    "tags": [
+      "ability",
+      "cooldown"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Ultimate_Cooldown_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 54.5,
+    "pr": 25.6,
+    "desc": "大招冷却时间缩短35%。大招命中后额外恢复5%最大法力值。",
+    "trigger": "被动生效，R技能CD计算时自动应用。",
+    "best": [
+      {
+        "h": "吉格斯",
+        "wr": 58.2,
+        "t": "recommend"
+      },
+      {
+        "h": "卡尔萨斯",
+        "wr": 57.3,
+        "t": "recommend"
+      },
+      {
+        "h": "泽拉斯",
+        "wr": 56.1,
+        "t": "recommend"
+      },
+      {
+        "h": "凯南",
+        "wr": 55.8,
+        "t": "recommend"
+      },
+      {
+        "h": "莫甘娜",
+        "wr": 54.2,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "亚索",
+        "r": "亚索R的CD本身就短"
+      }
+    ],
+    "tests": [
+      {
+        "a": "团战指挥官",
+        "ok": true,
+        "t": "多一次大招就多一次翻盘机会"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "all_for_you",
+    "name": "全心为你",
+    "name_en": "All For You",
+    "aliases": [
+      "all for you",
+      "allforyou",
+      "heartshield",
+      "shield heal"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
+    "effect_en": "Healing and shielding effects are increased by 25%. Gain 8% bonus max health.",
+    "tags": [
+      "healing",
+      "tank"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/All_For_You_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "Tier 已从 silver 修正为 gold（来源: LoL Wiki Module）",
+    "rar": "gold",
+    "wr": 53.2,
+    "pr": 20.1,
+    "desc": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
+    "trigger": "施放治疗或护盾技能时自动增幅效果。",
+    "best": [
+      {
+        "h": "莫甘娜",
+        "wr": 55.5,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "布兰德",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "提莫",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "泽拉斯",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "凯南",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "婕拉",
+        "r": "无治疗/护盾"
+      }
+    ],
+    "tests": [
+      {
+        "a": "团战指挥官",
+        "ok": true,
+        "t": "莫甘娜黑盾增幅后几乎无法被控制"
+      }
+    ]
+  },
+  {
+    "id": "mana_fountain",
+    "name": "法力涌泉",
+    "name_en": "Mana Fountain",
+    "aliases": [
+      "mana fountain",
+      "manafountain",
+      "mana regen",
+      "fountain",
+      "mana"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "获得额外30%法力回复和15%最大法力值。技能法力消耗降低15%。",
+    "effect_en": "Gain 30% bonus mana regeneration and 15% max mana. Skill mana costs reduced by 15%.",
+    "tags": [
+      "ability",
+      "mana"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Mana_Fountain_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 52.8,
+    "pr": 18.9,
+    "desc": "获得额外30%法力回复和15%最大法力值。技能法力消耗降低15%。",
+    "trigger": "被动生效。",
+    "best": [
+      {
+        "h": "吉格斯",
+        "wr": 55.1,
+        "t": "recommend"
+      },
+      {
+        "h": "泽拉斯",
+        "wr": 54.8,
+        "t": "recommend"
+      },
+      {
+        "h": "维克托",
+        "wr": 54.3,
+        "t": "recommend"
+      },
+      {
+        "h": "卡尔萨斯",
+        "wr": 53.5,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "亚索",
+        "r": "不依赖法力"
+      },
+      {
+        "h": "卡莎",
+        "r": "蓝耗不高"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "lethal_tempo",
+    "name": "致命节奏",
+    "name_en": "Lethal Tempo",
+    "aliases": [
+      "lethal tempo",
+      "lethaltempo",
+      "tempo",
+      "attack speed"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "攻击叠加攻速（每层8%，最多6层），满层后获得50额外攻击距离和15%伤害加成。",
+    "effect_en": "Attacks stack attack speed (8% per stack, max 6). At max stacks, gain 50 bonus attack range and 15% damage amp.",
+    "tags": [
+      "attack_speed",
+      "damage"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Lethal_Tempo_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 53.5,
+    "pr": 16.2,
+    "desc": "攻击叠加攻速（每层8%，最多6层），满层后获得50额外攻击距离和15%伤害加成。",
+    "trigger": "普攻命中叠加，满层效果持续5秒。",
+    "best": [
+      {
+        "h": "卡莎",
+        "wr": 56.7,
+        "t": "recommend"
+      },
+      {
+        "h": "薇恩",
+        "wr": 55.2,
+        "t": "recommend"
+      },
+      {
+        "h": "韦鲁斯",
+        "wr": 54.8,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "布兰德",
+        "r": "法师不需要"
+      },
+      {
+        "h": "吉格斯",
+        "r": "法师不需要"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "untouchable",
+    "name": "你摸不到",
+    "name_en": "Untouchable",
+    "aliases": [
+      "untouchable",
+      "can't touch me",
+      "摸不到",
+      "cant touch",
+      "dodge"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "闪避敌方技能后获得20%移速加成和持续2秒的护盾。",
+    "effect_en": "After dodging an enemy ability, gain 20% move speed and a shield for 2 seconds.",
+    "tags": [
+      "mobility",
+      "tank"
+    ],
+    "patch_added": "14.12",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Untouchable_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 51.2,
+    "pr": 11.8,
+    "desc": "闪避敌方技能后获得20%移速加成和持续2秒的护盾。",
+    "trigger": "成功闪避后的0.3秒内触发。",
+    "best": [
+      {
+        "h": "亚索",
+        "wr": 52.8,
+        "t": "recommend"
+      },
+      {
+        "h": "薇恩",
+        "wr": 52.1,
+        "t": "recommend"
+      },
+      {
+        "h": "伊泽瑞尔",
+        "wr": 51.5,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "远程法师不需要近身闪避"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "physical_to_magical",
+    "name": "物理转魔法",
+    "name_en": "Physical to Magical",
+    "aliases": [
+      "physical to magical",
+      "phys to magic",
+      "ad to ap",
+      "物理转魔",
+      "phys2magic",
+      "conversion",
+      "ad2ap"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "将20%的物理伤害转化为魔法伤害，享受法术强度加成。",
+    "effect_en": "Convert 20% of physical damage to magic damage, scaling with ability power.",
+    "tags": [
+      "damage",
+      "conversion"
+    ],
+    "patch_added": "14.12",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Physical_to_Magical_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 52.1,
+    "pr": 9.5,
+    "desc": "将20%的物理伤害转化为魔法伤害，享受法术强度加成。",
+    "trigger": "被动生效，伤害结算时自动转化。",
+    "best": [
+      {
+        "h": "卡莎",
+        "wr": 54.8,
+        "t": "recommend"
+      },
+      {
+        "h": "伊泽瑞尔",
+        "wr": 53.2,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "纯AP英雄",
+        "r": "没有物理伤害可转化"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "big_brain",
+    "name": "超强大脑",
+    "name_en": "Big Brain",
+    "aliases": [
+      "big brain",
+      "bigbrain",
+      "超强大脑",
+      "xp boost",
+      "brain"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得额外25%经验值。18级后所有技能等级+1。",
+    "effect_en": "Gain 25% bonus experience. At level 18, all ability levels increase by 1.",
+    "tags": [
+      "ability",
+      "leveling"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Big_Brain_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "Tier 已从 prismatic 修正为 gold（来源: LoL Wiki Module）。注：Wiki 中 Big Brain 为 Gold 级别",
+    "rar": "gold",
+    "wr": 56.9,
+    "pr": 6.8,
+    "desc": "获得额外25%经验值。18级后所有技能等级+1。",
+    "trigger": "被动生效。",
+    "best": [
+      {
+        "h": "维克托",
+        "wr": 61.0,
+        "t": "transform"
+      },
+      {
+        "h": "卡尔萨斯",
+        "wr": 58.5,
+        "t": "recommend"
+      },
+      {
+        "h": "阿狸",
+        "wr": 56.2,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "亚索",
+        "r": "技能等级上限收益低"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": true,
+        "t": "18级后胜率提升7.3%"
+      }
+    ]
+  },
+  {
+    "id": "ultimate_hunter",
+    "name": "终极猎手",
+    "name_en": "Ultimate Hunter",
+    "aliases": [
+      "ultimate hunter",
+      "ult hunter",
+      "ultimatehunter",
+      "终极猎手",
+      "ult hunt",
+      "ult hunter"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "每次击杀参与后大招CD缩减20%，获得10点技能急速（永久叠加，最多5层）。",
+    "effect_en": "Each kill participation reduces ultimate CD by 20% and grants 10 ability haste (permanent, max 5 stacks).",
+    "tags": [
+      "ability",
+      "cooldown"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Ultimate_Hunter_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "prism",
+    "wr": 57.5,
+    "pr": 7.5,
+    "desc": "每次击杀参与后大招CD缩减20%，获得10点技能急速（永久叠加，最多5层）。",
+    "trigger": "击杀或助攻后触发。",
+    "best": [
+      {
+        "h": "卡莎",
+        "wr": 60.8,
+        "t": "recommend"
+      },
+      {
+        "h": "韦鲁斯",
+        "wr": 59.3,
+        "t": "recommend"
+      },
+      {
+        "h": "凯南",
+        "wr": 58.1,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "卡尔萨斯",
+        "r": "疑似CD计算冲突Bug"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": false,
+        "t": "卡尔萨斯+终极猎手偶现CD异常"
+      }
+    ],
+    "source_status": "prototype"
+  },
+  {
+    "id": "psionic_shield",
+    "name": "灵能护盾",
+    "name_en": "Psionic Shield",
+    "aliases": [
+      "psionic shield",
+      "psionicshield",
+      "psi shield",
+      "psionic",
+      "psi"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "受到致命伤害时自动获得护盾（300+等级×20），90秒冷却。",
+    "effect_en": "Automatically gain a shield (300 + level x 20) when taking lethal damage. 90 second cooldown.",
+    "tags": [
+      "tank",
+      "shield"
+    ],
+    "patch_added": "14.12",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Psionic_Shield_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "silver",
+    "wr": 51.5,
+    "pr": 8.8,
+    "desc": "受到致命伤害时自动获得护盾（300+等级×20），90秒冷却。",
+    "trigger": "生命值降至0时被动触发。",
+    "best": [
+      {
+        "h": "亚索",
+        "wr": 53.2,
+        "t": "recommend"
+      },
+      {
+        "h": "薇恩",
+        "wr": 52.4,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "远程法师",
+        "r": "很少处于致命危险中"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "echo",
+    "name": "回响",
+    "name_en": "Echo",
+    "aliases": [
+      "echo",
+      "echoshield",
+      "move charge"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "移动积累能量，下次技能命中释放回响造成范围魔法伤害。",
+    "effect_en": "Movement builds charge. Next skill hit releases an echo dealing AoE magic damage.",
+    "tags": [
+      "damage",
+      "aoe",
+      "mobility"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Echo_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "prism",
+    "wr": 57.1,
+    "pr": 4.8,
+    "desc": "移动积累能量，下次技能命中释放回响造成范围魔法伤害。",
+    "trigger": "移动200码后充满，下次技能命中释放。",
+    "best": [
+      {
+        "h": "吉格斯",
+        "wr": 61.2,
+        "t": "recommend"
+      },
+      {
+        "h": "阿狸",
+        "wr": 58.4,
+        "t": "recommend"
+      },
+      {
+        "h": "布兰德",
+        "wr": 59.8,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "站桩英雄",
+        "r": "需要移动充能"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "phantom_dance",
+    "name": "幻影之舞",
+    "name_en": "Phantom Dance",
+    "aliases": [
+      "phantom dance",
+      "phantomdance",
+      "phantom"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得12%移速。附近2+敌方英雄时获得25%伤害减免，持续3秒。",
+    "effect_en": "Gain 12% move speed. When 2+ enemy champions are nearby, gain 25% damage reduction for 3 seconds.",
+    "tags": [
+      "mobility",
+      "tank"
+    ],
+    "patch_added": "14.12",
+    "patch_removed": null,
+    "source": {
+      "type": "manual",
+      "url": "https://leagueoflegends.fandom.com/wiki/Phantom_Dance_(ARAM_Augment)",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
+    "rar": "gold",
+    "wr": 53.8,
+    "pr": 9.4,
+    "desc": "获得12%移速。附近2+敌方英雄时获得25%伤害减免，持续3秒。",
+    "trigger": "被动生效。减伤在检测到2+敌人时自动触发。",
+    "best": [
+      {
+        "h": "亚索",
+        "wr": 55.6,
+        "t": "recommend"
+      },
+      {
+        "h": "凯南",
+        "wr": 54.2,
+        "t": "recommend"
+      },
+      {
+        "h": "卡莎",
+        "wr": 53.5,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "远程poke英雄",
+        "r": "不会处于多敌人包围中"
+      }
+    ],
+    "tests": [],
+    "source_status": "prototype"
+  },
+  {
+    "id": "adamant",
+    "name": "Adamant",
+    "name_en": "Adamant",
+    "aliases": [
+      "adamant"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "immobilize or ground an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
+    "tags": [
+      "tank",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "blunt_force",
+    "name": "Blunt Force",
+    "name_en": "Blunt Force",
+    "aliases": [
+      "blunt force",
+      "bluntforce"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Increases attack damage by 20%.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "deft",
+    "name": "Deft",
+    "name_en": "Deft",
+    "aliases": [
+      "deft"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 60% bonus attack speed.",
+    "tags": [
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "erosion",
+    "name": "Erosion",
+    "name_en": "Erosion",
+    "aliases": [
+      "erosion"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Each instance of damage dealt to an enemy reduces their armor and magic resistance by 1.5% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
+    "tags": [
+      "damage",
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "first_aid_kit",
+    "name": "First-Aid Kit",
+    "name_en": "First-Aid Kit",
+    "aliases": [
+      "first-aid kit",
+      "first-aidkit"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 20% heal and shield power.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "goredrink",
+    "name": "Goredrink",
+    "name_en": "Goredrink",
+    "aliases": [
+      "goredrink"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 15% omnivamp.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "homeguard",
+    "name": "Homeguard",
+    "name_en": "Homeguard",
+    "aliases": [
+      "homeguard"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 100% bonus movement speed. This bonus is lost for 6 seconds after taking damage from champions.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "guilty_pleasure",
+    "name": "Guilty Pleasure",
+    "name_en": "Guilty Pleasure",
+    "aliases": [
+      "guilty pleasure",
+      "guiltypleasure"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
+    "tags": [
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "back_to_basics",
+    "name": "Back to Basics",
+    "name_en": "Back to Basics",
+    "aliases": [
+      "back to basics",
+      "backtobasics",
+      "btb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased heal and shield from all sources, but your ultimate ability is permanently lockout.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "biggest_snowball_ever",
+    "name": "Biggest Snowball Ever",
+    "name_en": "Biggest Snowball Ever",
+    "aliases": [
+      "biggest snowball ever",
+      "biggestsnowballever",
+      "bse"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades your Mark into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal magic damage (+ 100% bonus AD) (+ 60% AP) magic damage to all nearby enemies, airborne for 0.75 seconds, and slow}} them by 20% for 2 seconds. Additionally, your {{sis cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark. Non-champions hit by the snowball are stun for 1.25 seconds.",
+    "tags": [
+      "damage",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "circle_of_death",
+    "name": "Circle of Death",
+    "name_en": "Circle of Death",
+    "aliases": [
+      "circle of death",
+      "circleofdeath",
+      "cod"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Heal and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "get_excited",
+    "name": "Get Excited",
+    "name_en": "Get Excited",
+    "aliases": [
+      "get excited",
+      "getexcited"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown}} grants you {{as and 15% total attack speed for 4 seconds.",
+    "tags": [
+      "attack",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "goliath",
+    "name": "Goliath",
+    "name_en": "Goliath",
+    "aliases": [
+      "goliath"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 35% bonus health, 15% adaptive force, and 50% increased size.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "growth_spurt",
+    "name": "Growth Spurt",
+    "name_en": "Growth Spurt",
+    "aliases": [
+      "growth spurt",
+      "growthspurt"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Growth Spurt. 20px|link= Growth Spurt: geteffect",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "bread_and_butter",
+    "name": "Bread And Butter",
+    "name_en": "Bread And Butter",
+    "aliases": [
+      "bread and butter",
+      "breadandbutter",
+      "bab"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion's first basic ability (Q) gains 100 ability haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "fan_the_hammer",
+    "name": "Fan the Hammer",
+    "name_en": "Fan the Hammer",
+    "aliases": [
+      "fan the hammer",
+      "fanthehammer",
+      "fth"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your next basic attack against an enemy champion in each cardinal direction within attack range additionally on-attack fires 5 Firecrackers at the target that each deal physical damage (+ 14% bonus AD) physical damage, for a total of physical damage (+ physical damage (5 second cooldown per direction). Firecrackers' damage is increased by type=distance travelled. Each Firecracker can critically strike}} for {{critical damage damage and applies on-hit effects at 20% effectiveness.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "celestial_body",
+    "name": "Celestial Body",
+    "name_en": "Celestial Body",
+    "aliases": [
+      "celestial body",
+      "celestialbody"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 1500 bonus health, but reduce your damage output by 10%.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "cerberus",
+    "name": "Cerberus",
+    "name_en": "Cerberus",
+    "aliases": [
+      "cerberus"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Hail of Blades and Press the Attack keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "dashing",
+    "name": "Dashing",
+    "name_en": "Dashing",
+    "aliases": [
+      "dashing"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Abilities with dash or blink gain 175 ability haste.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "dive_bomber",
+    "name": "Dive Bomber",
+    "name_en": "Dive Bomber",
+    "aliases": [
+      "dive bomber",
+      "divebomber"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "dropkick",
+    "name": "Dropkick",
+    "name_en": "Dropkick",
+    "aliases": [
+      "dropkick"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your basic attacks and abilities execute}} enemy champions below (+ 2% per 1000 bonus health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal magic damage (+ 100% bonus armor) (+ 100% bonus magic resistance) magic damage to nearby enemies. Successful executions heal}} you for {{pp (+ 25% bonus health). The execution may also be triggered by the explosion and goes through shields.",
+    "tags": [
+      "damage",
+      "utility",
+      "tank",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "executioner",
+    "name": "Executioner",
+    "name_en": "Executioner",
+    "aliases": [
+      "executioner"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "don_t_blink",
+    "name": "Don't Blink",
+    "name_en": "Don't Blink",
+    "aliases": [
+      "don't blink",
+      "don'tblink"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Deal 1% increased damage per 10 movement speed you have more than the target.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  },
+  {
+    "id": "can_t_touch_this",
+    "name": "Can't Touch This",
+    "name_en": "Can't Touch This",
+    "aliases": [
+      "can't touch this",
+      "can'ttouchthis",
+      "ctt"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": null,
+    "pr": null,
+    "desc": "",
+    "trigger": "",
+    "best": [],
+    "avoid": [],
+    "tests": []
+  }
+]

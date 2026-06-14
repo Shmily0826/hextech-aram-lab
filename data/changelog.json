@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-06-14T01:14:56Z",
+    "type": "bug",
+    "title": "Brand + Toxic Amplifier damage calculation uses multiplicative stacking instead of additive",
+    "hero": "Brand",
+    "augment": "Toxic Amplifier",
+    "status": "investigating",
+    "source": "review_approve",
+    "evidence_count": 1
+  },
+  {
+    "date": "2026-06-14T01:14:56Z",
+    "type": "bug",
+    "title": "Teemo mushroom traps do not trigger Chain Lightning augment",
+    "hero": "Teemo",
+    "augment": "Chain Lightning",
+    "status": "investigating",
+    "source": "review_approve",
+    "evidence_count": 1
+  },
+  {
+    "date": "2026-06-14T01:14:56Z",
+    "type": "synergy",
+    "title": "Ziggs × Chain Lightning",
+    "hero": "Ziggs",
+    "augment": "Chain Lightning",
+    "status": "investigating",
+    "source": "review_approve",
+    "evidence_count": 1
+  },
+  {
+    "date": "2026-06-14T04:39:07Z",
+    "type": "synergy",
+    "title": "伊泽瑞尔 x Dashing",
+    "hero": "伊泽瑞尔",
+    "augment": "Dashing",
+    "status": "investigating",
+    "source": "review_approve",
+    "evidence_count": 1
+  }
+]

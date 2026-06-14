@@ -1,0 +1,14 @@
+{
+  "reddit": {
+    "subreddits": [
+      "leagueoflegends",
+      "ARAM",
+      "leaguepbe",
+      "summonerschool"
+    ],
+    "default_days": 7,
+    "default_limit": 50,
+    "max_comments_per_post": 5
+  },
+  "manual_links_file": "pipeline/config/manual_links.json"
+}

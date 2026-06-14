@@ -1,0 +1,1301 @@
+{
+  "generated_at": "2026-06-14T03:55:01.331191+00:00",
+  "source_url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+  "source_status": "potentially_outdated — Wiki 页面可能标注 WIP/outdated",
+  "existing_count": 16,
+  "imported_count": 201,
+  "matched_existing": 3,
+  "new_candidates": 198,
+  "possibly_removed_or_prototype": [
+    {
+      "id": "chain_lightning",
+      "name": "连锁闪电",
+      "name_en": "Chain Lightning",
+      "tier": "gold",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "toxic_amplifier",
+      "name": "毒性增幅",
+      "name_en": "Toxic Amplifier",
+      "tier": "gold",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "armor_piercing",
+      "name": "穿甲弹头",
+      "name_en": "Armor Piercing",
+      "tier": "gold",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "annihilation_gaze",
+      "name": "毁灭凝视",
+      "name_en": "Annihilation Gaze",
+      "tier": "prismatic",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "ultimate_cooldown",
+      "name": "终极冷却",
+      "name_en": "Ultimate Cooldown",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "mana_fountain",
+      "name": "法力涌泉",
+      "name_en": "Mana Fountain",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "lethal_tempo",
+      "name": "致命节奏",
+      "name_en": "Lethal Tempo",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "untouchable",
+      "name": "你摸不到",
+      "name_en": "Untouchable",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "physical_to_magical",
+      "name": "物理转魔法",
+      "name_en": "Physical to Magical",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "ultimate_hunter",
+      "name": "终极猎手",
+      "name_en": "Ultimate Hunter",
+      "tier": "prismatic",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "psionic_shield",
+      "name": "灵能护盾",
+      "name_en": "Psionic Shield",
+      "tier": "silver",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "echo",
+      "name": "回响",
+      "name_en": "Echo",
+      "tier": "prismatic",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    },
+    {
+      "id": "phantom_dance",
+      "name": "幻影之舞",
+      "name_en": "Phantom Dance",
+      "tier": "gold",
+      "note": "存在于当前数据但不在 Wiki 来源中，可能是原型数据或已被移除"
+    }
+  ],
+  "tier_changed": [
+    {
+      "name_en": "All For You",
+      "current_tier": "silver",
+      "wiki_tier": "gold"
+    },
+    {
+      "name_en": "Big Brain",
+      "current_tier": "prismatic",
+      "wiki_tier": "gold"
+    },
+    {
+      "name_en": "Blade Waltz",
+      "current_tier": "gold",
+      "wiki_tier": "prismatic"
+    }
+  ],
+  "effect_changed": [
+    {
+      "name_en": "All For You",
+      "current_effect_preview": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
+      "wiki_effect_preview": "Your heals}} and {{tip on allied champions are increased in effectiveness by 30%"
+    },
+    {
+      "name_en": "Big Brain",
+      "current_effect_preview": "获得额外25%经验值。18级后所有技能等级+1。",
+      "wiki_effect_preview": "Gain a shield}} that absorbs damage equal to {{as and lasts until destroyed. Shi"
+    }
+  ],
+  "alias_conflicts": [
+    {
+      "alias": "db",
+      "conflict_between": [
+        "Dive Bomber",
+        "Don't Blink"
+      ]
+    },
+    {
+      "alias": "ms",
+      "conflict_between": [
+        "Mountain Soul",
+        "Mighty Shield"
+      ]
+    },
+    {
+      "alias": "bb",
+      "conflict_between": [
+        "Buff Buddies",
+        "Big Brain"
+      ]
+    },
+    {
+      "alias": "ic",
+      "conflict_between": [
+        "Ice Cold",
+        "It's Critical"
+      ]
+    },
+    {
+      "alias": "rr",
+      "conflict_between": [
+        "Rabble Rousing",
+        "Restless Restoration"
+      ]
+    },
+    {
+      "alias": "sw",
+      "conflict_between": [
+        "Scoped Weapons",
+        "Scopier Weapons"
+      ]
+    },
+    {
+      "alias": "sd",
+      "conflict_between": [
+        "Self Destruct",
+        "Searing Dawn"
+      ]
+    },
+    {
+      "alias": "sr",
+      "conflict_between": [
+        "Shadow Runner",
+        "Shrink Ray"
+      ]
+    },
+    {
+      "alias": "sas",
+      "conflict_between": [
+        "Swift and Safe",
+        "Slow and Steady"
+      ]
+    },
+    {
+      "alias": "ss",
+      "conflict_between": [
+        "Skilled Sniper",
+        "Soul Siphon"
+      ]
+    },
+    {
+      "alias": "ep",
+      "conflict_between": [
+        "Escape Plan",
+        "Empyrean Promise"
+      ]
+    },
+    {
+      "alias": "ic",
+      "conflict_between": [
+        "Ice Cold",
+        "Infernal Conduit"
+      ]
+    },
+    {
+      "alias": "ms",
+      "conflict_between": [
+        "Mountain Soul",
+        "Mad Scientist"
+      ]
+    },
+    {
+      "alias": "os",
+      "conflict_between": [
+        "Ocean Soul",
+        "Omni Soul"
+      ]
+    },
+    {
+      "alias": "sw",
+      "conflict_between": [
+        "Scoped Weapons",
+        "Scopiest Weapons"
+      ]
+    },
+    {
+      "alias": "sr",
+      "conflict_between": [
+        "Shadow Runner",
+        "Snowball Roulette"
+      ]
+    },
+    {
+      "alias": "tp",
+      "conflict_between": [
+        "Transmute: Prismatic",
+        "Trueshot Prodigy"
+      ]
+    },
+    {
+      "alias": "gs",
+      "conflict_between": [
+        "Giant Slayer",
+        "Growth Spurt"
+      ]
+    },
+    {
+      "alias": "hs",
+      "conflict_between": [
+        "Hextech Soul",
+        "Holy Snowball"
+      ]
+    },
+    {
+      "alias": "pb",
+      "conflict_between": [
+        "Pandora's Box",
+        "Poro Blaster"
+      ]
+    },
+    {
+      "alias": "se",
+      "conflict_between": [
+        "Shrink Engine",
+        "Soul Eater"
+      ]
+    },
+    {
+      "alias": "sd",
+      "conflict_between": [
+        "Self Destruct",
+        "Speed Demon"
+      ]
+    }
+  ],
+  "missing_zh": [
+    "ADAPt",
+    "Adamant",
+    "Blunt Force",
+    "Buff Buddies",
+    "Deft",
+    "Dive Bomber",
+    "Don't Blink",
+    "Erosion",
+    "Escape Plan",
+    "Fetch",
+    "First-Aid Kit",
+    "Flashbang",
+    "Frost Wraith",
+    "Goredrink",
+    "Guilty Pleasure",
+    "Hat on a Hat",
+    "Heavy Hitter",
+    "Homeguard",
+    "Ice Cold",
+    "Infernal Soul",
+    "Leg Day",
+    "Light 'em Up!",
+    "Mountain Soul",
+    "Mighty Shield",
+    "Mind to Matter",
+    "Ocean Soul",
+    "Poltergeist",
+    "ReEnergize",
+    "Repulsor",
+    "Scoped Weapons",
+    "Self Destruct",
+    "Shadow Runner",
+    "Sonic Boom",
+    "Spin To Win",
+    "Swift and Safe",
+    "Tank It Or Leave It",
+    "The Brutalizer",
+    "Tormentor",
+    "Transmute: Gold",
+    "Typhoon",
+    "Ultimate Unstoppable",
+    "Upgrade Collector",
+    "Upgrade Immolate",
+    "Upgrade Zhonya's",
+    "Veil of Warding",
+    "Wind Beneath Blade",
+    "Witchful Thinking",
+    "EscAPADe",
+    "Apex Inventor",
+    "Bread And Butter",
+    "Bread And Cheese",
+    "Bread And Jam",
+    "Celestial Body",
+    "Cheating",
+    "Critical Healing",
+    "Critical Rhythm",
+    "Dawnbringer's Resolve",
+    "Demon's Dance",
+    "Divine Intervention",
+    "Ethereal Weapon",
+    "Executioner",
+    "Firebrand",
+    "Flash 2",
+    "Flashy",
+    "From Beginning to End",
+    "Get Excited",
+    "Holy Fire",
+    "Impassable",
+    "It's Critical",
+    "It's Killing Time",
+    "Keystone Conjurer",
+    "Lightning Strikes",
+    "Magic Missile",
+    "Marksmage",
+    "Minionmancer",
+    "Nightstalking",
+    "OK Boomerang",
+    "Outlaw's Grit",
+    "Overflow",
+    "Perseverance",
+    "Rabble Rousing",
+    "Recursion",
+    "Restless Restoration",
+    "Scopier Weapons",
+    "Searing Dawn",
+    "Shrink Ray",
+    "Skilled Sniper",
+    "Slow and Steady",
+    "Snowball Upgrade",
+    "Soul Siphon",
+    "Spiritual Purification",
+    "Tank Engine",
+    "Thread the Needle",
+    "Transmute: Prismatic",
+    "Twice Thrice",
+    "Upgrade Hubris",
+    "Upgrade Infinity Edge",
+    "Upgrade Sheen",
+    "Vampirism",
+    "Vulnerability",
+    "With Haste",
+    "I'm a Baby Kitty Where is Mama",
+    "Back to Basics",
+    "Biggest Snowball Ever",
+    "Can't Touch This",
+    "Circle of Death",
+    "Clown College",
+    "Courage of the Colossus",
+    "Cruelty",
+    "Dashing",
+    "Draw Your Sword",
+    "Dual Wield",
+    "Empyrean Promise",
+    "Eureka",
+    "Fan the Hammer",
+    "Feel the Burn",
+    "Fey Magic",
+    "Final Form",
+    "Gash",
+    "Giant Slayer",
+    "Glass Cannon",
+    "Goldrend",
+    "Goliath",
+    "Infernal Conduit",
+    "Jeweled Gauntlet",
+    "King Me",
+    "Laser Heal",
+    "Mad Scientist",
+    "Master of Duality",
+    "Mystic Punch",
+    "Ominous Pact",
+    "Omni Soul",
+    "Protein Shake",
+    "Quantum Computing",
+    "Quest: Sneakerhead",
+    "Quest: Urf's Champion",
+    "Quest: Wooglet's Witchcap",
+    "Scopiest Weapons",
+    "Slow Cooker",
+    "Snowball Roulette",
+    "Symphony of War",
+    "Tap Dancer",
+    "Transmute: Chaos",
+    "Ultimate Awakening",
+    "Ultimate Revolution",
+    "Upgrade Mikael's Blessing",
+    "Windspeaker's Blessing",
+    "Cerberus",
+    "Earthwake",
+    "Pandora's Box",
+    "Trueshot Prodigy",
+    "Slap Around",
+    "???",
+    "Hextech Soul",
+    "Infinite Recursion",
+    "Bounce of the Poro King",
+    "Crack Open That Egg",
+    "Crit 'n Cast",
+    "Critical Missile",
+    "Devil on Your Shoulder",
+    "Donation",
+    "Double Tap",
+    "Dropkick",
+    "Droppybara",
+    "Empowered By The Faithful",
+    "Final City Transit",
+    "Firefox",
+    "Grandma's Chili Oil",
+    "Growth Spurt",
+    "Heads Up Cupcake!",
+    "Holy Snowball",
+    "Triggered Inferno",
+    "Juiced",
+    "Kill Secured",
+    "Phenomenal Evil",
+    "Pinball",
+    "Poro Blaster",
+    "Prom Queen",
+    "Purist - Caster",
+    "Quest: Icathia's Fall",
+    "Red Envelopes",
+    "Shrink Engine",
+    "Sonata",
+    "Soul Eater",
+    "Speed Demon",
+    "Spin Me Right Round",
+    "Stats!",
+    "Stats on Stats!",
+    "Stats on Stats on Stats!",
+    "Stuck in Here With Me",
+    "Twin Fire",
+    "Upgrade Thornmail",
+    "Virtuous Cycle",
+    "Void Rift",
+    "Weighted Popoffs",
+    "Zealot",
+    "Hand of Baron",
+    "Upgrade Sword of Blossoming Dawn"
+  ],
+  "matched_details": [
+    {
+      "wiki_name_en": "All For You",
+      "current_name": "全心为你",
+      "current_name_en": "All For You",
+      "current_id": "all_for_you"
+    },
+    {
+      "wiki_name_en": "Big Brain",
+      "current_name": "超强大脑",
+      "current_name_en": "Big Brain",
+      "current_id": "big_brain"
+    },
+    {
+      "wiki_name_en": "Blade Waltz",
+      "current_name": "利刃华尔兹",
+      "current_name_en": "Blade Waltz",
+      "current_id": "blade_waltz"
+    }
+  ],
+  "new_candidate_details": [
+    {
+      "name_en": "ADAPt",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Adamant",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Blunt Force",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Buff Buddies",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Deft",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Dive Bomber",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Don't Blink",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Erosion",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Escape Plan",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Fetch",
+      "tier": "silver"
+    },
+    {
+      "name_en": "First-Aid Kit",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Flashbang",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Frost Wraith",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Goredrink",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Guilty Pleasure",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Hat on a Hat",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Heavy Hitter",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Homeguard",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Ice Cold",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Infernal Soul",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Leg Day",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Light 'em Up!",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Mountain Soul",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Mighty Shield",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Mind to Matter",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Ocean Soul",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Poltergeist",
+      "tier": "silver"
+    },
+    {
+      "name_en": "ReEnergize",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Repulsor",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Scoped Weapons",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Self Destruct",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Shadow Runner",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Sonic Boom",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Spin To Win",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Swift and Safe",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Tank It Or Leave It",
+      "tier": "silver"
+    },
+    {
+      "name_en": "The Brutalizer",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Tormentor",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Transmute: Gold",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Typhoon",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Ultimate Unstoppable",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Upgrade Collector",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Upgrade Immolate",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Upgrade Zhonya's",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Veil of Warding",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Wind Beneath Blade",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Witchful Thinking",
+      "tier": "silver"
+    },
+    {
+      "name_en": "EscAPADe",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Apex Inventor",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Bread And Butter",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Bread And Cheese",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Bread And Jam",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Celestial Body",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Cheating",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Critical Healing",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Critical Rhythm",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Dawnbringer's Resolve",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Demon's Dance",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Divine Intervention",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Ethereal Weapon",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Executioner",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Firebrand",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Flash 2",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Flashy",
+      "tier": "gold"
+    },
+    {
+      "name_en": "From Beginning to End",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Get Excited",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Holy Fire",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Impassable",
+      "tier": "gold"
+    },
+    {
+      "name_en": "It's Critical",
+      "tier": "gold"
+    },
+    {
+      "name_en": "It's Killing Time",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Keystone Conjurer",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Lightning Strikes",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Magic Missile",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Marksmage",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Minionmancer",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Nightstalking",
+      "tier": "gold"
+    },
+    {
+      "name_en": "OK Boomerang",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Outlaw's Grit",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Overflow",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Perseverance",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Rabble Rousing",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Recursion",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Restless Restoration",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Scopier Weapons",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Searing Dawn",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Shrink Ray",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Skilled Sniper",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Slow and Steady",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Snowball Upgrade",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Soul Siphon",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Spiritual Purification",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Tank Engine",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Thread the Needle",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Transmute: Prismatic",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Twice Thrice",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Upgrade Hubris",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Upgrade Infinity Edge",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Upgrade Sheen",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Vampirism",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Vulnerability",
+      "tier": "gold"
+    },
+    {
+      "name_en": "With Haste",
+      "tier": "gold"
+    },
+    {
+      "name_en": "I'm a Baby Kitty Where is Mama",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Back to Basics",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Biggest Snowball Ever",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Can't Touch This",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Circle of Death",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Clown College",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Courage of the Colossus",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Cruelty",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Dashing",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Draw Your Sword",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Dual Wield",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Empyrean Promise",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Eureka",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Fan the Hammer",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Feel the Burn",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Fey Magic",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Final Form",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Gash",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Giant Slayer",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Glass Cannon",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Goldrend",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Goliath",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Infernal Conduit",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Jeweled Gauntlet",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "King Me",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Laser Heal",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Mad Scientist",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Master of Duality",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Mystic Punch",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Ominous Pact",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Omni Soul",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Protein Shake",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Quantum Computing",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Quest: Sneakerhead",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Quest: Urf's Champion",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Quest: Wooglet's Witchcap",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Scopiest Weapons",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Slow Cooker",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Snowball Roulette",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Symphony of War",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Tap Dancer",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Transmute: Chaos",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Ultimate Awakening",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Ultimate Revolution",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Upgrade Mikael's Blessing",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Windspeaker's Blessing",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Cerberus",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Earthwake",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Pandora's Box",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Trueshot Prodigy",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Slap Around",
+      "tier": "silver"
+    },
+    {
+      "name_en": "???",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Hextech Soul",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Infinite Recursion",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Bounce of the Poro King",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Crack Open That Egg",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Crit 'n Cast",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Critical Missile",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Devil on Your Shoulder",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Donation",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Double Tap",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Dropkick",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Droppybara",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Empowered By The Faithful",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Final City Transit",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Firefox",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Grandma's Chili Oil",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Growth Spurt",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Heads Up Cupcake!",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Holy Snowball",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Triggered Inferno",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Juiced",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Kill Secured",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Phenomenal Evil",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Pinball",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Poro Blaster",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Prom Queen",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Purist - Caster",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Quest: Icathia's Fall",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Red Envelopes",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Shrink Engine",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Sonata",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Soul Eater",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Speed Demon",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Spin Me Right Round",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Stats!",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Stats on Stats!",
+      "tier": "gold"
+    },
+    {
+      "name_en": "Stats on Stats on Stats!",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Stuck in Here With Me",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Twin Fire",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Upgrade Thornmail",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Virtuous Cycle",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Void Rift",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Weighted Popoffs",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Zealot",
+      "tier": "silver"
+    },
+    {
+      "name_en": "Hand of Baron",
+      "tier": "prismatic"
+    },
+    {
+      "name_en": "Upgrade Sword of Blossoming Dawn",
+      "tier": "prismatic"
+    }
+  ]
+}

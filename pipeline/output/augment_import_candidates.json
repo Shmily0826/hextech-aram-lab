@@ -1,0 +1,5654 @@
+[
+  {
+    "id": "adapt",
+    "name": "ADAPt",
+    "name_en": "ADAPt",
+    "aliases": [
+      "adapt"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your bonus attack damage into ability power at a rate of 1 ability power per ad. Additionally, increase your ability power by 15%.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "adamant",
+    "name": "Adamant",
+    "name_en": "Adamant",
+    "aliases": [
+      "adamant"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "immobilize or ground an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
+    "tags": [
+      "tank",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "blunt_force",
+    "name": "Blunt Force",
+    "name_en": "Blunt Force",
+    "aliases": [
+      "blunt force",
+      "bluntforce",
+      "bf"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Increases attack damage by 20%.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "buff_buddies",
+    "name": "Buff Buddies",
+    "name_en": "Buff Buddies",
+    "aliases": [
+      "buff buddies",
+      "buffbuddies",
+      "bb"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Crest of Cinders and Crest of Insight buffs permanently. Crest of Cinders: Empowers your basic attacks to slow}} the target by over 3 instances over the duration. Each instance deals , with the first instance being applied on-hit}} and the second and third instances dealt each second over the burn's duration. Subsequent attacks against a burning target will only refresh its duration. While [[combat status, you regenerateThis effect counts as a Burn source. Crest of Insight: Grants 10 ability haste. If your champion uses mana}}, if your champion uses energy}}, instead",
+    "tags": [
+      "damage",
+      "ability",
+      "dot",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "deft",
+    "name": "Deft",
+    "name_en": "Deft",
+    "aliases": [
+      "deft"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 60% bonus attack speed.",
+    "tags": [
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "dive_bomber",
+    "name": "Dive Bomber",
+    "name_en": "Dive Bomber",
+    "aliases": [
+      "dive bomber",
+      "divebomber",
+      "db"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "don_t_blink",
+    "name": "Don't Blink",
+    "name_en": "Don't Blink",
+    "aliases": [
+      "don't blink",
+      "don'tblink",
+      "db"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Deal 1% increased damage per 10 movement speed you have more than the target.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "erosion",
+    "name": "Erosion",
+    "name_en": "Erosion",
+    "aliases": [
+      "erosion"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Each instance of damage dealt to an enemy reduces their armor and magic resistance by 1.5% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
+    "tags": [
+      "damage",
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "escape_plan",
+    "name": "Escape Plan",
+    "name_en": "Escape Plan",
+    "aliases": [
+      "escape plan",
+      "escapeplan",
+      "ep"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon dropping below 35% of your maximum health, gain a shield}} for {{as, 150% bonus movement speed, and reduced size (75 second cooldown). These effects all decay over 5.5 seconds.",
+    "tags": [
+      "utility",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "fetch",
+    "name": "Fetch",
+    "name_en": "Fetch",
+    "aliases": [
+      "fetch"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 40% bonus movement speed towards enemies marked by Mark. Additionally, nearby allied champions that use Mark will cause it to drop a snowball on the ground after reaching maximum range or hitting an enemy. You can pick up this snowball to refresh the cooldown of your Mark. This augment is currently disabled.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "first_aid_kit",
+    "name": "First-Aid Kit",
+    "name_en": "First-Aid Kit",
+    "aliases": [
+      "first-aid kit",
+      "first-aidkit",
+      "fk"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 20% heal and shield power.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "flashbang",
+    "name": "Flashbang",
+    "name_en": "Flashbang",
+    "aliases": [
+      "flashbang"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Using Flash creates an explosion around the blink location that deals magic damage (+ 70% AD) (+ 60% AP) magic damage to nearby enemies and slow them by 35% for 1.25 seconds. Additionally, the cooldown of your Flash resets upon your death. If Flash is not equipped, you will be prompted to replace one of your summoner spells with Flash.",
+    "tags": [
+      "damage",
+      "mobility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "frost_wraith",
+    "name": "Frost Wraith",
+    "name_en": "Frost Wraith",
+    "aliases": [
+      "frost wraith",
+      "frostwraith",
+      "fw"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast a modified version of Ring of Frost, creating a cold pulse around you in 450 radius that root nearby enemies for 1.25 seconds (6.5 second cooldown). This modified ability does not deal damage.",
+    "tags": [
+      "damage",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "goredrink",
+    "name": "Goredrink",
+    "name_en": "Goredrink",
+    "aliases": [
+      "goredrink"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 15% omnivamp.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "guilty_pleasure",
+    "name": "Guilty Pleasure",
+    "name_en": "Guilty Pleasure",
+    "aliases": [
+      "guilty pleasure",
+      "guiltypleasure",
+      "gp"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
+    "tags": [
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "hat_on_a_hat",
+    "name": "Hat on a Hat",
+    "name_en": "Hat on a Hat",
+    "aliases": [
+      "hat on a hat",
+      "hatonahat",
+      "hoah"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 15 ability power and 8 bonus magic resistance for each headwear item or hat you have in your inventory, reduced to 8 ability power and 4 bonus magic resistance for hats obtained from Cappa Juice and Stat Bonus. Eligible Epic Items: Haunting Guise, Spectre's Cowl Eligible Legendary Items: Abyssal Mask, Bloodletter's Curse, Cosmic Drive, Diadem of Songs, Edge of Night, Experimental Hexplate, Fimbulwinter, , Hollow Radiance, Hubris, Jak'Sho, The Protean, Knight's Vow, Liandry's Torment, Rabadon's Deathcap, Riftmaker, Shurelya's Battlesong, Whispering Circlet, Wooglet's Witchcap",
+    "tags": [
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "heavy_hitter",
+    "name": "Heavy Hitter",
+    "name_en": "Heavy Hitter",
+    "aliases": [
+      "heavy hitter",
+      "heavyhitter",
+      "hh"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks deal bonus physical damage equal to .",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "homeguard",
+    "name": "Homeguard",
+    "name_en": "Homeguard",
+    "aliases": [
+      "homeguard"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 100% bonus movement speed. This bonus is lost for 6 seconds after taking damage from champions.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ice_cold",
+    "name": "Ice Cold",
+    "name_en": "Ice Cold",
+    "aliases": [
+      "ice cold",
+      "icecold",
+      "ic"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your slow effects reduce the movement speed of targets by an additional 75.",
+    "tags": [
+      "mobility",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "infernal_soul",
+    "name": "Infernal Soul",
+    "name_en": "Infernal Soul",
+    "aliases": [
+      "infernal soul",
+      "infernalsoul",
+      "is"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "leg_day",
+    "name": "Leg Day",
+    "name_en": "Leg Day",
+    "aliases": [
+      "leg day",
+      "legday",
+      "ld"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 50 bonus movement speed and 40% slow resist.",
+    "tags": [
+      "tank",
+      "mobility",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "light_em_up",
+    "name": "Light 'em Up!",
+    "name_en": "Light 'em Up!",
+    "aliases": [
+      "light 'em up!",
+      "light'emup!",
+      "l'u"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks generate a stack, up to 4. The fourth stack consumes them all to quickly launch 4 Firecrackers at the target that each deal magic damage (+ 35% bonus AD) (+ 19% AP) bonus magic damage on-hit, for a total of magic damage (+ (+ .",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "mountain_soul",
+    "name": "Mountain Soul",
+    "name_en": "Mountain Soul",
+    "aliases": [
+      "mountain soul",
+      "mountainsoul",
+      "ms"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Mountain Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "mighty_shield",
+    "name": "Mighty Shield",
+    "name_en": "Mighty Shield",
+    "aliases": [
+      "mighty shield",
+      "mightyshield",
+      "ms"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 40 to 100 adaptive force}} for 3 seconds upon gaining a {{tip (5 second cooldown).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "mind_to_matter",
+    "name": "Mind to Matter",
+    "name_en": "Mind to Matter",
+    "aliases": [
+      "mind to matter",
+      "mindtomatter",
+      "mtm"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants bonus health equal to 50% maximum mana.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ocean_soul",
+    "name": "Ocean Soul",
+    "name_en": "Ocean Soul",
+    "aliases": [
+      "ocean soul",
+      "oceansoul",
+      "os"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Ocean Dragon Soul, which has a modified base heal value of 100, or a different Dragon Soul if you aleady have it.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "poltergeist",
+    "name": "Poltergeist",
+    "name_en": "Poltergeist",
+    "aliases": [
+      "poltergeist"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Poltergeist. 20px|link= Poltergeist: geteffect",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "reenergize",
+    "name": "ReEnergize",
+    "name_en": "ReEnergize",
+    "aliases": [
+      "reenergize"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Energized}} attacks against targets not hit by your previous Energized attack do not consume any Energize stacks on-hit. Additionally, when fully {{tip, your next basic attack deals bonus magic damage on-hit equal to 10% of the target's current health.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "repulsor",
+    "name": "Repulsor",
+    "name_en": "Repulsor",
+    "aliases": [
+      "repulsor"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon dropping below 35% of your maximum health, you airborne all enemies within a 500 radius by 750 units and slow}} them by 90% for {{fd seconds (25 second cooldown, resets upon death).",
+    "tags": [
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "scoped_weapons",
+    "name": "Scoped Weapons",
+    "name_en": "Scoped Weapons",
+    "aliases": [
+      "scoped weapons",
+      "scopedweapons",
+      "sw"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 75 bonus attack range.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "self_destruct",
+    "name": "Self Destruct",
+    "name_en": "Self Destruct",
+    "aliases": [
+      "self destruct",
+      "selfdestruct",
+      "sd"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically attach a bomb to yourself that detonates after 5 seconds, creating an explosion that deals true damage equal to 20% of the target's maximum health to enemies within 350 units and airborne for 0.75 seconds (25 second cooldown).",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "shadow_runner",
+    "name": "Shadow Runner",
+    "name_en": "Shadow Runner",
+    "aliases": [
+      "shadow runner",
+      "shadowrunner",
+      "sr"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After dash, blink, or exiting stealth}}, gain {{as for 2 seconds.",
+    "tags": [
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "sonic_boom",
+    "name": "Sonic Boom",
+    "name_en": "Sonic Boom",
+    "aliases": [
+      "sonic boom",
+      "sonicboom",
+      "sb"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Granting a buff, heal}}, or to enemies within 450 units of them and slow targets by 30% for 2 seconds (2 second cooldown).",
+    "tags": [
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "spin_to_win",
+    "name": "Spin To Win",
+    "name_en": "Spin To Win",
+    "aliases": [
+      "spin to win",
+      "spintowin",
+      "stw"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your spinning abilities deal 30% increased damage and have their cooldown reduced equivalent to 30 ability haste.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "swift_and_safe",
+    "name": "Swift and Safe",
+    "name_en": "Swift and Safe",
+    "aliases": [
+      "swift and safe",
+      "swiftandsafe",
+      "sas"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After dash or blink, gain a shield}} that lasts for 2 seconds and absorbs {{pp (+ 65% AD) (+ 26% AP) damage (5 second cooldown).",
+    "tags": [
+      "damage",
+      "utility",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "tank_it_or_leave_it",
+    "name": "Tank It Or Leave It",
+    "name_en": "Tank It Or Leave It",
+    "aliases": [
+      "tank it or leave it",
+      "tankitorleaveit",
+      "tioli"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Critical Defend Chance equal to 100% critical strike chance, up to 50%. Additionally, gain 25% critical strike chance. Critical Defend Chance: Grants you a chance to reduce an instance of damage taken by 20% (5 second cooldown per enemy spell cast instance).",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "the_brutalizer",
+    "name": "The Brutalizer",
+    "name_en": "The Brutalizer",
+    "aliases": [
+      "the brutalizer",
+      "thebrutalizer",
+      "tb"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 20 bonus attack damage, 10 ability haste, and 5 lethality.",
+    "tags": [
+      "damage",
+      "attack",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "tormentor",
+    "name": "Tormentor",
+    "name_en": "Tormentor",
+    "aliases": [
+      "tormentor"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion inflicts them with a Burn for 5 seconds, dealing magic damage equal to4% of the target's maximum health over the duration(5 second cooldown per cast instance}}). This {{as stacks infinitely and refreshes with each application.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "dot",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "transmute_gold",
+    "name": "Transmute: Gold",
+    "name_en": "Transmute: Gold",
+    "aliases": [
+      "transmute: gold",
+      "transmute:gold",
+      "tg"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain one random Gold augment, excluding the other two offerings in your current assortment.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "typhoon",
+    "name": "Typhoon",
+    "name_en": "Typhoon",
+    "aliases": [
+      "typhoon"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks launch a Firecracker at a nearby enemy champion that deals 30% AD physical damage and applies on-hit effects.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ultimate_unstoppable",
+    "name": "Ultimate Unstoppable",
+    "name_en": "Ultimate Unstoppable",
+    "aliases": [
+      "ultimate unstoppable",
+      "ultimateunstoppable",
+      "uu"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability grants you cc-immune for 3 seconds (8 second cooldown).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_collector",
+    "name": "Upgrade Collector",
+    "name_en": "Upgrade Collector",
+    "aliases": [
+      "upgrade collector",
+      "upgradecollector",
+      "uc"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades The Collector, empowering Death to have its execution threshold increased by 0.5% each time you kill an enemy champion, capped at a threshold of 12.5% of the target's maximum health, and Taxes to generate a further 25 (total 50) from kills. Additionally, gain 250.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_immolate",
+    "name": "Upgrade Immolate",
+    "name_en": "Upgrade Immolate",
+    "aliases": [
+      "upgrade immolate",
+      "upgradeimmolate",
+      "ui"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Bami's Cinder, Hollow Radiance, Sunfire Aegis, and Void Immolation, empowering Immolate to additionally grant you 12 per tick for each enemy champion afflicted by its effect. Additionally, gain 250.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_zhonya_s",
+    "name": "Upgrade Zhonya's",
+    "name_en": "Upgrade Zhonya's",
+    "aliases": [
+      "upgrade zhonya's",
+      "upgradezhonya's",
+      "uz"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Seeker's Armguard, Wooglet's Witchcap, and Zhonya's Hourglass, empowering Stasis to allow you to move during its active effect, during which time you also gain 50% bonus movement speed. Additionally, the cooldown of Zhonya's Hourglass Stasis is reduced to 45 seconds.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "veil_of_warding",
+    "name": "Veil of Warding",
+    "name_en": "Veil of Warding",
+    "aliases": [
+      "veil of warding",
+      "veilofwarding",
+      "vow"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants a spell shield that blocks the next hostile ability (30 second cooldown, timer does not restart from champion damage taken).",
+    "tags": [
+      "damage",
+      "utility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "wind_beneath_blade",
+    "name": "Wind Beneath Blade",
+    "name_en": "Wind Beneath Blade",
+    "aliases": [
+      "wind beneath blade",
+      "windbeneathblade",
+      "wbb"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain per 1 Lethality or flat magic penetration, and 5 bonus movement speed per 10% armor penetration or magic penetration.",
+    "tags": [
+      "tank",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "witchful_thinking",
+    "name": "Witchful Thinking",
+    "name_en": "Witchful Thinking",
+    "aliases": [
+      "witchful thinking",
+      "witchfulthinking",
+      "wt"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants .",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "escapade",
+    "name": "EscAPADe",
+    "name_en": "EscAPADe",
+    "aliases": [
+      "escapade"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your ability power into bonus attack damage at a rate of 1 bonus attack damage per ap. Additionally, increase your total attack damage by 15%.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "all_for_you",
+    "name": "全心为你",
+    "name_en": "All For You",
+    "aliases": [
+      "all for you",
+      "allforyou",
+      "全心",
+      "heartshield",
+      "shield heal",
+      "afy"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
+    "effect_en": "Your heals}} and {{tip on allied champions are increased in effectiveness by 30%.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "ok",
+    "source_status": "potentially_outdated",
+    "rar": "silver",
+    "wr": 53.2,
+    "pr": 20.1,
+    "desc": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
+    "trigger": "施放治疗或护盾技能时自动增幅效果。",
+    "best": [
+      {
+        "h": "莫甘娜",
+        "wr": 55.5,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "布兰德",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "提莫",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "泽拉斯",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "凯南",
+        "r": "无治疗/护盾"
+      },
+      {
+        "h": "婕拉",
+        "r": "无治疗/护盾"
+      }
+    ],
+    "tests": [
+      {
+        "a": "团战指挥官",
+        "ok": true,
+        "t": "莫甘娜黑盾增幅后几乎无法被控制"
+      }
+    ]
+  },
+  {
+    "id": "apex_inventor",
+    "name": "Apex Inventor",
+    "name_en": "Apex Inventor",
+    "aliases": [
+      "apex inventor",
+      "apexinventor",
+      "ai"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 100 item haste, which is equivalent to 50% cooldown reduction for items.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "big_brain",
+    "name": "超强大脑",
+    "name_en": "Big Brain",
+    "aliases": [
+      "big brain",
+      "bigbrain",
+      "超强大脑",
+      "xp boost",
+      "brain",
+      "xp",
+      "bb"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得额外25%经验值。18级后所有技能等级+1。",
+    "effect_en": "Gain a shield}} that absorbs damage equal to {{as and lasts until destroyed. Shield is replenished upon respawn and every 70 seconds.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "ok",
+    "source_status": "potentially_outdated",
+    "rar": "prism",
+    "wr": 56.9,
+    "pr": 6.8,
+    "desc": "获得额外25%经验值。18级后所有技能等级+1。",
+    "trigger": "被动生效。",
+    "best": [
+      {
+        "h": "维克托",
+        "wr": 61.0,
+        "t": "transform"
+      },
+      {
+        "h": "卡尔萨斯",
+        "wr": 58.5,
+        "t": "recommend"
+      },
+      {
+        "h": "阿狸",
+        "wr": 56.2,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "亚索",
+        "r": "技能等级上限收益低"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": true,
+        "t": "18级后胜率提升7.3%"
+      }
+    ]
+  },
+  {
+    "id": "bread_and_butter",
+    "name": "Bread And Butter",
+    "name_en": "Bread And Butter",
+    "aliases": [
+      "bread and butter",
+      "breadandbutter",
+      "bab"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion's first basic ability (Q) gains 100 ability haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "bread_and_cheese",
+    "name": "Bread And Cheese",
+    "name_en": "Bread And Cheese",
+    "aliases": [
+      "bread and cheese",
+      "breadandcheese",
+      "bac"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion's third basic ability (E) gains 100 ability haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "bread_and_jam",
+    "name": "Bread And Jam",
+    "name_en": "Bread And Jam",
+    "aliases": [
+      "bread and jam",
+      "breadandjam",
+      "baj"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion's second basic ability (W) gains 100 ability haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "celestial_body",
+    "name": "Celestial Body",
+    "name_en": "Celestial Body",
+    "aliases": [
+      "celestial body",
+      "celestialbody",
+      "cb"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 1500 bonus health, but reduce your damage output by 10%.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "cheating",
+    "name": "Cheating",
+    "name_en": "Cheating",
+    "aliases": [
+      "cheating"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Recall is now functional and is upgraded to Empowered Recall. Completing an Empowered Recall channel enables the shop. Additionally, the spawn platform will now provide healing and resource restoration for you.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "critical_healing",
+    "name": "Critical Healing",
+    "name_en": "Critical Healing",
+    "aliases": [
+      "critical healing",
+      "criticalhealing",
+      "ch"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your heals}} and ). Additionally, gain {{as.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "critical_rhythm",
+    "name": "Critical Rhythm",
+    "name_en": "Critical Rhythm",
+    "aliases": [
+      "critical rhythm",
+      "criticalrhythm",
+      "cr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your critical strikes}} grant you {{as for 6 seconds, stacking up to 10 times for a total of 60%. Additionally, gain 25% critical strike chance.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "dawnbringer_s_resolve",
+    "name": "Dawnbringer's Resolve",
+    "name_en": "Dawnbringer's Resolve",
+    "aliases": [
+      "dawnbringer's resolve",
+      "dawnbringer'sresolve",
+      "dr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon dropping below 50% maximum health, you are heal for 30% maximum health over 3 seconds (45 second cooldown, reset upon death).",
+    "tags": [
+      "utility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "demon_s_dance",
+    "name": "Demon's Dance",
+    "name_en": "Demon's Dance",
+    "aliases": [
+      "demon's dance",
+      "demon'sdance",
+      "dd"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Fleet Footwork and Grasp of the Undying keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "divine_intervention",
+    "name": "Divine Intervention",
+    "name_en": "Divine Intervention",
+    "aliases": [
+      "divine intervention",
+      "divineintervention",
+      "di"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast Cosmic Radiance, calling down a protective star upon you that descends over 2.5 seconds. Afterwards, you and all allied champions within cr 400 units become invulnerable}} for {{fd seconds (35 second cooldown).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ethereal_weapon",
+    "name": "Ethereal Weapon",
+    "name_en": "Ethereal Weapon",
+    "aliases": [
+      "ethereal weapon",
+      "etherealweapon",
+      "ew"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your abilities apply on-hit effects (1 second cooldown per target).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "executioner",
+    "name": "Executioner",
+    "name_en": "Executioner",
+    "aliases": [
+      "executioner"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "firebrand",
+    "name": "Firebrand",
+    "name_en": "Firebrand",
+    "aliases": [
+      "firebrand"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks apply a Burn for 5 seconds that deals bonus magic damage equal to2% of the target's maximum health over the duration.This Burn stacks infinitely and refreshes with each application.",
+    "tags": [
+      "damage",
+      "utility",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "flash_2",
+    "name": "Flash 2",
+    "name_en": "Flash 2",
+    "aliases": [
+      "flash 2",
+      "flash2",
+      "f2"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Flash. Additionally, gain 70 summoner spell haste.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "flashy",
+    "name": "Flashy",
+    "name_en": "Flashy",
+    "aliases": [
+      "flashy"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Flash now has 3 charges with a 2-second cooldown between casts (120 seconds recharge time for all 3 charges). If Flash is not equipped, you will be prompted to replace one of your summoner spells with Flash.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "from_beginning_to_end",
+    "name": "From Beginning to End",
+    "name_en": "From Beginning to End",
+    "aliases": [
+      "from beginning to end",
+      "frombeginningtoend",
+      "fbte"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Dark Harvest and First Strike keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "get_excited",
+    "name": "Get Excited",
+    "name_en": "Get Excited",
+    "aliases": [
+      "get excited",
+      "getexcited",
+      "ge"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown}} grants you {{as and 15% total attack speed for 4 seconds.",
+    "tags": [
+      "attack",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "holy_fire",
+    "name": "Holy Fire",
+    "name_en": "Holy Fire",
+    "aliases": [
+      "holy fire",
+      "holyfire",
+      "hf"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your heals}} and every second over 5 seconds, for a total of 1% (1.5-second cooldown). The Burn's per-tick damage increases to up to based on the relative value of the triggering heal or shield against the maximum health of the ally recipient, for a total maximum damage of 4% of the target's maximum health.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "impassable",
+    "name": "Impassable",
+    "name_en": "Impassable",
+    "aliases": [
+      "impassable"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Aftershock and Glacial Augment keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "it_s_critical",
+    "name": "It's Critical",
+    "name_en": "It's Critical",
+    "aliases": [
+      "it's critical",
+      "it'scritical",
+      "ic"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 50% critical strike chance.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "it_s_killing_time",
+    "name": "It's Killing Time",
+    "name_en": "It's Killing Time",
+    "aliases": [
+      "it's killing time",
+      "it'skillingtime",
+      "ikt"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon casting your ultimate ability, you apply Death Mark to all enemy champions (8 second cooldown). The mark stores 40% of all post-mitigation damage you deal to the affected target, detonating after 5 seconds to deal true damage equal to the damage stored against them.",
+    "tags": [
+      "damage",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "keystone_conjurer",
+    "name": "Keystone Conjurer",
+    "name_en": "Keystone Conjurer",
+    "aliases": [
+      "keystone conjurer",
+      "keystoneconjurer",
+      "kc"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Arcane Comet and Summon Aery keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "lightning_strikes",
+    "name": "Lightning Strikes",
+    "name_en": "Lightning Strikes",
+    "aliases": [
+      "lightning strikes",
+      "lightningstrikes",
+      "ls"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Increase your bonus attack speed gained from all sources by 20%. While at as attack speed or higher, your basic attacks deal 40 bonus magic damage on-hit.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "magic_missile",
+    "name": "Magic Missile",
+    "name_en": "Magic Missile",
+    "aliases": [
+      "magic missile",
+      "magicmissile",
+      "mm"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Dealing damage to an enemy champion with an ability fires 3 Firecrackers at them that each deal true damage equal to % of the target's maximum health}}, increased to up to 1% based on distance travelled (maximum damage reached at 1000 units). This effect can only trigger once every 6 seconds from the same cast.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "marksmage",
+    "name": "Marksmage",
+    "name_en": "Marksmage",
+    "aliases": [
+      "marksmage"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks deal bonus physical damage equal to 75% AP.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "minionmancer",
+    "name": "Minionmancer",
+    "name_en": "Minionmancer",
+    "aliases": [
+      "minionmancer"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your pet deal 40% increased damage as well as gain 40% bonus health and size.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "nightstalking",
+    "name": "Nightstalking",
+    "name_en": "Nightstalking",
+    "aliases": [
+      "nightstalking"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a takedown}} against an enemy champion within 3 seconds of damaging them renders you {{tip for 1.5 seconds. Attacking or casting abilites ends the stealth immediately.",
+    "tags": [
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ok_boomerang",
+    "name": "OK Boomerang",
+    "name_en": "OK Boomerang",
+    "aliases": [
+      "ok boomerang",
+      "okboomerang",
+      "ob"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast an improved version of Boomerang Blade at the closest nearby enemy champion within 1250 units, dealing 40 to 200 (+ 30% bonus AD) (+ 20% AP) adaptive damage to enemies hit (10 second cooldown).",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "outlaw_s_grit",
+    "name": "Outlaw's Grit",
+    "name_en": "Outlaw's Grit",
+    "aliases": [
+      "outlaw's grit",
+      "outlaw'sgrit",
+      "og"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Dash or blink grants 12 bonus armor and bonus magic resistance for 15 seconds, stacking up to 5 times for a total of 60 bonus resistances, and refreshing on subsequent triggers.",
+    "tags": [
+      "tank",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "overflow",
+    "name": "Overflow",
+    "name_en": "Overflow",
+    "aliases": [
+      "overflow"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your abilities' mana costs are doubled, but you also gain 10% (+ mana increased damage as well as self and outgoing heal and shield.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "perseverance",
+    "name": "Perseverance",
+    "name_en": "Perseverance",
+    "aliases": [
+      "perseverance"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 1000% base health regeneration, increased to 2000% while below 25% maximum health.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "rabble_rousing",
+    "name": "Rabble Rousing",
+    "name_en": "Rabble Rousing",
+    "aliases": [
+      "rabble rousing",
+      "rabblerousing",
+      "rr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting an ability heal you for 5 to 60 (+ 1% maximum health).",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "recursion",
+    "name": "Recursion",
+    "name_en": "Recursion",
+    "aliases": [
+      "recursion"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 60 ability haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "restless_restoration",
+    "name": "Restless Restoration",
+    "name_en": "Restless Restoration",
+    "aliases": [
+      "restless restoration",
+      "restlessrestoration",
+      "rr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Heal}} for per 10 units travelled.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "scopier_weapons",
+    "name": "Scopier Weapons",
+    "name_en": "Scopier Weapons",
+    "aliases": [
+      "scopier weapons",
+      "scopierweapons",
+      "sw"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 200 bonus attack range.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "searing_dawn",
+    "name": "Searing Dawn",
+    "name_en": "Searing Dawn",
+    "aliases": [
+      "searing dawn",
+      "searingdawn",
+      "sd"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Sunlight. Sunlight: Your damaging abilities mark enemies, causing them to take magic damage bonus magic damage from your ally's next basic attack or ability hit against them (0.75-second cooldown per target).",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "shrink_ray",
+    "name": "Shrink Ray",
+    "name_en": "Shrink Ray",
+    "aliases": [
+      "shrink ray",
+      "shrinkray",
+      "sr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit reduce the target's damage dealt by 15% for 3 seconds, refreshing with each hit. Their size is also reduced significantly for the duration.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "skilled_sniper",
+    "name": "Skilled Sniper",
+    "name_en": "Skilled Sniper",
+    "aliases": [
+      "skilled sniper",
+      "skilledsniper",
+      "ss"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Hitting an enemy champion with a basic ability while located at least er 700 units away from them at the time of the hit reduces its current cooldown by 80% of its total cooldown, modified to 65% for damage over time abilities.",
+    "tags": [
+      "damage",
+      "ability",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "slow_and_steady",
+    "name": "Slow and Steady",
+    "name_en": "Slow and Steady",
+    "aliases": [
+      "slow and steady",
+      "slowandsteady",
+      "sas"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your attack speed is set to a static amount of as and your attack rate no longer benefits from any source of attack speed bonuses. In return, you gain 25 bonus attack damage and convert every 1% bonus attack speed into 1 bonus attack damage.",
+    "tags": [
+      "damage",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "snowball_upgrade",
+    "name": "Snowball Upgrade",
+    "name_en": "Snowball Upgrade",
+    "aliases": [
+      "snowball upgrade",
+      "snowballupgrade",
+      "su"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Mark is empowered to hail a snowstorm at the location where the target was hit for 2 seconds, granting sight}} of the area and dealing (+ magic damage every 0.25 seconds}}to enemies within over the duration, as well as slow them by 50% (+ 6% per 100 AP). Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "tags": [
+      "damage",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "soul_siphon",
+    "name": "Soul Siphon",
+    "name_en": "Soul Siphon",
+    "aliases": [
+      "soul siphon",
+      "soulsiphon",
+      "ss"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Heal}} for 12% of the . Additionally, gain {{as.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "spiritual_purification",
+    "name": "Spiritual Purification",
+    "name_en": "Spiritual Purification",
+    "aliases": [
+      "spiritual purification",
+      "spiritualpurification",
+      "sp"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown}} causes the area around the slain champion to explode in a 500 unit radius, dealing {{tip to enemies within equal to 15% of their current health and leaving behind a zone for 1.5 seconds that slow enemies within by 60%.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "tank_engine",
+    "name": "Tank Engine",
+    "name_en": "Tank Engine",
+    "aliases": [
+      "tank engine",
+      "tankengine",
+      "te"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown}} generates a stack, stacking infinitely. For each stack, increase your {{as and size by 5%. Lose 65% of stacks on death.",
+    "tags": [
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "thread_the_needle",
+    "name": "Thread the Needle",
+    "name_en": "Thread the Needle",
+    "aliases": [
+      "thread the needle",
+      "threadtheneedle",
+      "ttn"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 18% armor penetration and magic penetration.",
+    "tags": [
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "transmute_prismatic",
+    "name": "Transmute: Prismatic",
+    "name_en": "Transmute: Prismatic",
+    "aliases": [
+      "transmute: prismatic",
+      "transmute:prismatic",
+      "tp"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain one random Prismatic augment, excluding the other two offerings in your current assortment.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "twice_thrice",
+    "name": "Twice Thrice",
+    "name_en": "Twice Thrice",
+    "aliases": [
+      "twice thrice",
+      "twicethrice",
+      "tt"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks generate a stack, up to 2 times. At 2 stacks, your next basic attack consumes all stacks to apply on-hit effects again at 150% effectiveness.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_hubris",
+    "name": "Upgrade Hubris",
+    "name_en": "Upgrade Hubris",
+    "aliases": [
+      "upgrade hubris",
+      "upgradehubris",
+      "uh"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Hubris, empowering Eminence to heal}} you for health (+ 0.5% per stack) maximum health upon being triggered and grant you 10 (+ 5 per stack) bonus movement speed for its duration. Additionally, gain 250.",
+    "tags": [
+      "utility",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_infinity_edge",
+    "name": "Upgrade Infinity Edge",
+    "name_en": "Upgrade Infinity Edge",
+    "aliases": [
+      "upgrade infinity edge",
+      "upgradeinfinityedge",
+      "uie"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Infinity Edge, empowering it to gain Sword of the Divine Excoriate. Additionally, gain 500 and 25% critical strike chance. Excoriate: Gain a random amount of bonus critical strike damage that scales up to 50% of your critical strike chance, with the value of this amount changing every 0.25 seconds.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_sheen",
+    "name": "Upgrade Sheen",
+    "name_en": "Upgrade Sheen",
+    "aliases": [
+      "upgrade sheen",
+      "upgradesheen",
+      "us"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades all Spellblade}} items, empowering the passive effect to deal additional you for . Additionally, gain 250.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "vampirism",
+    "name": "Vampirism",
+    "name_en": "Vampirism",
+    "aliases": [
+      "vampirism"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "You can no longer be heal by allies and your health regeneration is set to 0. Gain 25% omnivamp.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "vulnerability",
+    "name": "Vulnerability",
+    "name_en": "Vulnerability",
+    "aliases": [
+      "vulnerability"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damage dealt by items and damage over time effects can now critical strike for (145% + bonus critical damage) damage (5 second cooldown per cast instance}}). Additionally, gain {{as. If both 20px|link=|An icon for the ARAM: Mayhem augment Jeweled Gauntlet Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+    "tags": [
+      "damage",
+      "ability",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "with_haste",
+    "name": "With Haste",
+    "name_en": "With Haste",
+    "aliases": [
+      "with haste",
+      "withhaste",
+      "wh"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants bonus movement speed equal to 70% ability haste.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "i_m_a_baby_kitty_where_is_mama",
+    "name": "I'm a Baby Kitty Where is Mama",
+    "name_en": "I'm a Baby Kitty Where is Mama",
+    "aliases": [
+      "i'm a baby kitty where is mama",
+      "i'mababykittywhereismama",
+      "iabkwim"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Bind with the nearest allied champion to you after 2 seconds, forming a tether}} between you and them (400 radius). While the tether persists, you gain while facing your bound ally within 1500 units. The tether will break when you or your bound ally dies, allowing you to form a new tether.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "back_to_basics",
+    "name": "Back to Basics",
+    "name_en": "Back to Basics",
+    "aliases": [
+      "back to basics",
+      "backtobasics",
+      "btb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased heal and shield from all sources, but your ultimate ability is permanently lockout.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "biggest_snowball_ever",
+    "name": "Biggest Snowball Ever",
+    "name_en": "Biggest Snowball Ever",
+    "aliases": [
+      "biggest snowball ever",
+      "biggestsnowballever",
+      "bse"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades your Mark into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal magic damage (+ 100% bonus AD) (+ 60% AP) magic damage to all nearby enemies, airborne for 0.75 seconds, and slow}} them by 20% for 2 seconds. Additionally, your {{sis cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark. Non-champions hit by the snowball are stun for 1.25 seconds.",
+    "tags": [
+      "damage",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "blade_waltz",
+    "name": "利刃华尔兹",
+    "name_en": "Blade Waltz",
+    "aliases": [
+      "blade waltz",
+      "bladewaltz",
+      "华尔兹",
+      "blade",
+      "waltz",
+      "bw"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击时获得额外35%攻速和12%移速，连续攻击5次后触发剑舞效果。",
+    "effect_en": "Replace a summoner spell with Blade Waltz. 20px|link= Blade Waltz: geteffect",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "14.10",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "ok",
+    "source_status": "potentially_outdated",
+    "rar": "gold",
+    "wr": 55.2,
+    "pr": 18.7,
+    "desc": "攻击时获得额外35%攻速和12%移速，连续攻击5次后触发剑舞效果。",
+    "trigger": "普攻命中时叠加，每5次触发一次剑舞。攻速加成持续3秒。",
+    "best": [
+      {
+        "h": "卡莎",
+        "wr": 61.3,
+        "t": "transform"
+      },
+      {
+        "h": "韦鲁斯",
+        "wr": 59.0,
+        "t": "transform"
+      },
+      {
+        "h": "薇恩",
+        "wr": 56.3,
+        "t": "recommend"
+      },
+      {
+        "h": "亚索",
+        "wr": 54.1,
+        "t": "recommend"
+      }
+    ],
+    "avoid": [
+      {
+        "h": "吉格斯",
+        "r": "法师不需要攻速"
+      },
+      {
+        "h": "泽拉斯",
+        "r": "法师不需要攻速"
+      }
+    ],
+    "tests": [
+      {
+        "a": "数据分析师",
+        "ok": true,
+        "t": "攻速流ADC核心增强，收益稳定"
+      }
+    ]
+  },
+  {
+    "id": "can_t_touch_this",
+    "name": "Can't Touch This",
+    "name_en": "Can't Touch This",
+    "aliases": [
+      "can't touch this",
+      "can'ttouchthis",
+      "ctt"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "circle_of_death",
+    "name": "Circle of Death",
+    "name_en": "Circle of Death",
+    "aliases": [
+      "circle of death",
+      "circleofdeath",
+      "cod"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Heal and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "clown_college",
+    "name": "Clown College",
+    "name_en": "Clown College",
+    "aliases": [
+      "clown college",
+      "clowncollege",
+      "cc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Shaco Backstab, Deceive and Hallucinate explosion. Replace a summoner spell with Deceive. 20px|link= Passive - Backstab: Your basic attacks deal physical damage (+ 50% bonus AD) (+ 35% AP) bonus physical damage on-hit when hitting an enemy from behind. 20px|link= Active - Deceive: Become invisible}} for up to 3 seconds and (+ bonus physical damage|155% damage}}if 20px|link= Backstab was applied (45 second cooldown). 20px|link= Passive - Hallucinate Death: Upon your death, release an explosion in a cr 350 radius of your death location, dealing 25% of target's maximum health true damage to enemies within. Additionally, you deploy a Jack in the Box at the location of your death that instantly fear nearby enemies for 1 second. This box does not attack but lasts for 3 seconds.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "courage_of_the_colossus",
+    "name": "Courage of the Colossus",
+    "name_en": "Courage of the Colossus",
+    "aliases": [
+      "courage of the colossus",
+      "courageofthecolossus",
+      "cotc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "immobilize or ground an enemy champion grants a shield}} for 3 seconds that absorbs {{pp (+ 4% maximum health) damage (5 second cooldown per cast instance). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "cruelty",
+    "name": "Cruelty",
+    "name_en": "Cruelty",
+    "aliases": [
+      "cruelty"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion summons a comet above them that lands at their current location after 1 second, dealing magic damage (+ 40% AP) (+ 4% of your maximum health) magic damage to enemies within the area (6 second cooldown per target per cast instance).",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "dashing",
+    "name": "Dashing",
+    "name_en": "Dashing",
+    "aliases": [
+      "dashing"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Abilities with dash or blink gain 175 ability haste.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "draw_your_sword",
+    "name": "Draw Your Sword",
+    "name_en": "Draw Your Sword",
+    "aliases": [
+      "draw your sword",
+      "drawyoursword",
+      "dys"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Become melee}}, modifying your attack range to 200 (+ 100% bonus {{sti from augments) units. Additionally, gain 30% bonus attack damage, 25% bonus attack speed, 30% bonus health, 25% bonus movement speed, and 20% life steal. These bonuses are increased by key=%. This augment is only available for ranged champions.",
+    "tags": [
+      "damage",
+      "utility",
+      "attack",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "dual_wield",
+    "name": "Dual Wield",
+    "name_en": "Dual Wield",
+    "aliases": [
+      "dual wield",
+      "dualwield",
+      "dw"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your basic attacks launch a bolt at the target that fires after a 0.225-second delay on-attack}}, deals 40% of the triggering attack's effects at 40% effectiveness. Additionally, increase your {{as by 10%.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "empyrean_promise",
+    "name": "Empyrean Promise",
+    "name_en": "Empyrean Promise",
+    "aliases": [
+      "empyrean promise",
+      "empyreanpromise",
+      "ep"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Empyrean Promise Vigilance active. Additionally, gain 15% heal and shield power. Active - Vigilance: After a 0.25-second delay, dash}} to the current location of the target allied champion and gain a {{pp (+ 100% AP) (+ 10% bonus health) shield for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
+    "tags": [
+      "utility",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "eureka",
+    "name": "Eureka",
+    "name_en": "Eureka",
+    "aliases": [
+      "eureka"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain ability haste equal to 30% AP.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "fan_the_hammer",
+    "name": "Fan the Hammer",
+    "name_en": "Fan the Hammer",
+    "aliases": [
+      "fan the hammer",
+      "fanthehammer",
+      "fth"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your next basic attack against an enemy champion in each cardinal direction within attack range additionally on-attack fires 5 Firecrackers at the target that each deal physical damage (+ 14% bonus AD) physical damage, for a total of physical damage (+ physical damage (5 second cooldown per direction). Firecrackers' damage is increased by type=distance travelled. Each Firecracker can critically strike}} for {{critical damage damage and applies on-hit effects at 20% effectiveness.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "feel_the_burn",
+    "name": "Feel the Burn",
+    "name_en": "Feel the Burn",
+    "aliases": [
+      "feel the burn",
+      "feeltheburn",
+      "ftb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Feel the Burn. 20px|link= Feel the Burn: Casts both Exhaust and Ignite on all enemy champions within 800 units, with the former having its slow}} strength increased to 50% and the latter modified to deal over the duration. This effect counts as a Burn source.",
+    "tags": [
+      "damage",
+      "dot",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "fey_magic",
+    "name": "Fey Magic",
+    "name_en": "Fey Magic",
+    "aliases": [
+      "fey magic",
+      "feymagic",
+      "fm"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging enemies with your ultimate ability polymorph them into harmless critters for 2 seconds, during which their base movement speed is reduced by 60, and disarm them for the same duration (15 second cooldown per target).",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "final_form",
+    "name": "Final Form",
+    "name_en": "Final Form",
+    "aliases": [
+      "final form",
+      "finalform",
+      "ff"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability empowers you for 10 seconds, causing you to gain a shield}} for {{as, 20% omnivamp, and 30% bonus movement speed for the duration (20 second cooldown).",
+    "tags": [
+      "utility",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "gash",
+    "name": "Gash",
+    "name_en": "Gash",
+    "aliases": [
+      "gash"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit deal true damage (+ armor bonus true damage. Additionally, gain 50% bonus attack speed.",
+    "tags": [
+      "damage",
+      "tank",
+      "attack",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "giant_slayer",
+    "name": "Giant Slayer",
+    "name_en": "Giant Slayer",
+    "aliases": [
+      "giant slayer",
+      "giantslayer",
+      "gs"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Become tiny, reducing your size by 75% and granting you 20% bonus movement speed. Additionally, deal key=% bonus damage against enemy champions with greater size than you.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "glass_cannon",
+    "name": "Glass Cannon",
+    "name_en": "Glass Cannon",
+    "aliases": [
+      "glass cannon",
+      "glasscannon",
+      "gc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "You gain a health threshold equal to 70% maximum health which cannot be modified nor exceeded by any means. In return, you deal bonus true damage equal to 15% of all of the damage you deal pre-mitigation.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "goldrend",
+    "name": "Goldrend",
+    "name_en": "Goldrend",
+    "aliases": [
+      "goldrend"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging basic attacks or abilities against enemy champions deal magic damage (+ 40% bonus AD) (+ 20% AP) bonus magic damage, and grant you 30 and 25% bonus movement speed for 1.5 seconds (30 second cooldown per champion).",
+    "tags": [
+      "damage",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "goliath",
+    "name": "Goliath",
+    "name_en": "Goliath",
+    "aliases": [
+      "goliath"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 35% bonus health, 15% adaptive force, and 50% increased size.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "infernal_conduit",
+    "name": "Infernal Conduit",
+    "name_en": "Infernal Conduit",
+    "aliases": [
+      "infernal conduit",
+      "infernalconduit",
+      "ic"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your ability hits against champions apply a Burn for 3 seconds that deals6/3 to 60/3 (+ (+ bonus magic damage per second|6 to 60 (+ 14% bonus AD) (+ 6% AP) bonus magic damage over the duration}}(1 second cooldown per cast instance}}). This {{as stacks infinitely and refreshes with each application. Additionally, all of your Burn effects reduce the cooldowns of all your basic abilities by 0.08 seconds for each tick of damage they deal to a target.",
+    "tags": [
+      "damage",
+      "ability",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "jeweled_gauntlet",
+    "name": "Jeweled Gauntlet",
+    "name_en": "Jeweled Gauntlet",
+    "aliases": [
+      "jeweled gauntlet",
+      "jeweledgauntlet",
+      "jg"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your abilities can now critical strike for (145% + bonus critical damage) damage. Additionally, gain 25% (+ critical strike chance. If both Jeweled Gauntlet and 20px|link=|An icon for the ARAM: Mayhem augment Vulnerability Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "king_me",
+    "name": "King Me",
+    "name_en": "King Me",
+    "aliases": [
+      "king me",
+      "kingme",
+      "km"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon entering the enemy team's warp gate or Catapult for the first time, either of which are located near their spawn, you become 20px|link= Kinged, causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all upgradeable stats on the item is increased by exactly 1000. King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "laser_heal",
+    "name": "Laser Heal",
+    "name_en": "Laser Heal",
+    "aliases": [
+      "laser heal",
+      "laserheal",
+      "lh"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Laser Heal. 20px|link= Laser Heal: geteffect Healing granted by the laser counts as self-healing.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "mad_scientist",
+    "name": "Mad Scientist",
+    "name_en": "Mad Scientist",
+    "aliases": [
+      "mad scientist",
+      "madscientist",
+      "ms"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force}}, {{as, and 40% increased size or 70 ability haste, 40% bonus movement speed, and 40% reduced size.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "master_of_duality",
+    "name": "Master of Duality",
+    "name_en": "Master of Duality",
+    "aliases": [
+      "master of duality",
+      "masterofduality",
+      "mod"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit}} grant and damaging abilities once per cast instance}} grant , lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "mystic_punch",
+    "name": "Mystic Punch",
+    "name_en": "Mystic Punch",
+    "aliases": [
+      "mystic punch",
+      "mysticpunch",
+      "mp"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit}} reduce the remaining cooldowns of your abilities by {{fd seconds.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ominous_pact",
+    "name": "Ominous Pact",
+    "name_en": "Ominous Pact",
+    "aliases": [
+      "ominous pact",
+      "ominouspact",
+      "op"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your abilities now have a health resource of 5% current health to cast them. In return, you gain ability power based on your missing health, up to AP at 70% missing health, key=% bonus movement speed, and key=% omnivamp.",
+    "tags": [
+      "utility",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "omni_soul",
+    "name": "Omni Soul",
+    "name_en": "Omni Soul",
+    "aliases": [
+      "omni soul",
+      "omnisoul",
+      "os"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 3 random Dragon Soul.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "protein_shake",
+    "name": "Protein Shake",
+    "name_en": "Protein Shake",
+    "aliases": [
+      "protein shake",
+      "proteinshake",
+      "ps"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 25% (+ 35% per 100 bonus armor) (+ 35% per 100 bonus magic resistance) heal and shield power.",
+    "tags": [
+      "utility",
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "quantum_computing",
+    "name": "Quantum Computing",
+    "name_en": "Quantum Computing",
+    "aliases": [
+      "quantum computing",
+      "quantumcomputing",
+      "qc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast an improved version of Tactical Sweep when an enemy champion is within 650 units of you, winding up over 0.75 seconds to slash in a 650 radius around you. The slash deals physical damage (+ 75% bonus AD) (+ 45% AP) physical damage to enemies within the area (30 second cooldown). Enemies hit by the outer edge of the circle take bonus physical damage equal to 10% (+ (+ (+ of their maximum health and are slow by 80% decaying over 2 seconds. Additionally, you are heal for 80% of the bonus post-mitigation damage against enemy champions hit by the outer edge.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "quest_sneakerhead",
+    "name": "Quest: Sneakerhead",
+    "name_en": "Quest: Sneakerhead",
+    "aliases": [
+      "quest: sneakerhead",
+      "quest:sneakerhead",
+      "qs"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "You have now been assigned with a number of quests to complete that each involve performing specific tasks while equipped with a particular [https://wiki.leagueoflegends.com/en-us/Category:Boots_items Boots item], which is granted to you for free during its respective quest. Finish the following quests, which are assigned to you in a random order: Quest - Berserker's Greaves: Basic attack 25 times.Quest - Boots of Swiftness: Run 300 steps.Quest - Ionian Boots of Lucidity: Cast 20 abilities.Quest - Mercury's Treads: Become afflicted by crowd control}} 5 times. Reduce a total of 200 damage with Plating.Quest - Sorcerer's Shoes: Deal a total of 1500 damage with abilities. Reward: Upon completing all of the above quests, you receive Jarvan I's. You cannot purchase any Boots items while equipped with this augment. If you already have a Boots item, it is replaced by the Boots granted by this effect. Boots items gained from this effect cannot be sold. This augment is currently disabled.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "quest_urf_s_champion",
+    "name": "Quest: Urf's Champion",
+    "name_en": "Quest: Urf's Champion",
+    "aliases": [
+      "quest: urf's champion",
+      "quest:urf'schampion",
+      "quc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Quest: Score 18 champion takedown. Reward: Upon completing your Quest, you receive The Golden Spatula. If your inventory is full at the time of quest completion, the item will be granted as soon as a slot in the inventory is available.",
+    "tags": [
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "quest_wooglet_s_witchcap",
+    "name": "Quest: Wooglet's Witchcap",
+    "name_en": "Quest: Wooglet's Witchcap",
+    "aliases": [
+      "quest: wooglet's witchcap",
+      "quest:wooglet'switchcap",
+      "qww"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain a Needlessly Large Rod. Quest: Obtain Rabadon's Deathcap and Zhonya's Hourglass. Reward: Upon completing your Quest, convert the items you obtained for the quest into Wooglet's Witchcap.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "scopiest_weapons",
+    "name": "Scopiest Weapons",
+    "name_en": "Scopiest Weapons",
+    "aliases": [
+      "scopiest weapons",
+      "scopiestweapons",
+      "sw"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 250 bonus attack range.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "slow_cooker",
+    "name": "Slow Cooker",
+    "name_en": "Slow Cooker",
+    "aliases": [
+      "slow cooker",
+      "slowcooker",
+      "sc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Surrounds you in flames, causing you to apply a Burn every second to enemy champions within 500 units for 3 seconds that deals magic damage equal to per second.|2% of your maximum health over the duration.}}This Burn stacks infinitely and refreshes with each application.",
+    "tags": [
+      "damage",
+      "utility",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "snowball_roulette",
+    "name": "Snowball Roulette",
+    "name_en": "Snowball Roulette",
+    "aliases": [
+      "snowball roulette",
+      "snowballroulette",
+      "sr"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Hitting an enemy with Mark casts a random harmful summoner spell on them, and also casts a random beneficial summoner spell on yourself. Using Dash casts the beneficial summoner spell on yourself again upon arrival. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.''",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "symphony_of_war",
+    "name": "Symphony of War",
+    "name_en": "Symphony of War",
+    "aliases": [
+      "symphony of war",
+      "symphonyofwar",
+      "sow"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Conqueror and Lethal Tempo keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "tap_dancer",
+    "name": "Tap Dancer",
+    "name_en": "Tap Dancer",
+    "aliases": [
+      "tap dancer",
+      "tapdancer",
+      "td"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit}} against enemy champions and minions grant {{as, lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain bonus attack speed equal to 10% total movement speed.",
+    "tags": [
+      "attack",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "transmute_chaos",
+    "name": "Transmute: Chaos",
+    "name_en": "Transmute: Chaos",
+    "aliases": [
+      "transmute: chaos",
+      "transmute:chaos",
+      "tc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain two completely random augments, excluding the other two offerings in your current assortment.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ultimate_awakening",
+    "name": "Ultimate Awakening",
+    "name_en": "Ultimate Awakening",
+    "aliases": [
+      "ultimate awakening",
+      "ultimateawakening",
+      "ua"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability resets the cooldowns of all your basic abilities and grants you 300 basic ability haste for 15 seconds (20 second cooldown). Additionally, gain 30 ultimate haste.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "ultimate_revolution",
+    "name": "Ultimate Revolution",
+    "name_en": "Ultimate Revolution",
+    "aliases": [
+      "ultimate revolution",
+      "ultimaterevolution",
+      "ur"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability resets its cooldown once its effect starts or has elapsed (75 second cooldown, reset upon death).",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_mikael_s_blessing",
+    "name": "Upgrade Mikael's Blessing",
+    "name_en": "Upgrade Mikael's Blessing",
+    "aliases": [
+      "upgrade mikael's blessing",
+      "upgrademikael'sblessing",
+      "umb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Mikael's Blessing, reducing the cooldown of Purify to 45 seconds and empowering its active to instead affect you and all nearby allied champions, cleanse all targets of crowd control}} (excluding for 3 seconds. Additionally, you are granted {{ii for free. ''If you already have Mikael's Blessing, gain 2300 instead. If your inventory is full, the item will be granted as soon as a slot in the inventory is available.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "windspeaker_s_blessing",
+    "name": "Windspeaker's Blessing",
+    "name_en": "Windspeaker's Blessing",
+    "aliases": [
+      "windspeaker's blessing",
+      "windspeaker'sblessing",
+      "wb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your or allies' heal and shield on yourself, or your heals and shields on allies, grant the target 30 to 60 bonus armor and bonus magic resistance for 3 seconds.",
+    "tags": [
+      "utility",
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "cerberus",
+    "name": "Cerberus",
+    "name_en": "Cerberus",
+    "aliases": [
+      "cerberus"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Hail of Blades and Press the Attack keystone runes.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "earthwake",
+    "name": "Earthwake",
+    "name_en": "Earthwake",
+    "aliases": [
+      "earthwake"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Dash or blink causes you to leave behind a trail cr from the location you moved to your destination that detonates after 0.75 seconds in a 300 radius, dealing physical damage (+ 125% bonus AD) (+ 60% AP) physical damage per explosion to enemies hit, reduced to 70% against minions}}. Enemies can be affected only once every second from all {{tip, and the effect is not triggered if you move beyond 2000 units with the dash or blink. This augment is only offered to up to 2 players on each team for a given game.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "pandora_s_box",
+    "name": "Pandora's Box",
+    "name_en": "Pandora's Box",
+    "aliases": [
+      "pandora's box",
+      "pandora'sbox",
+      "pb"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your current augments transform into an equal number of completely random Prismatic ones.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "trueshot_prodigy",
+    "name": "Trueshot Prodigy",
+    "name_en": "Trueshot Prodigy",
+    "aliases": [
+      "trueshot prodigy",
+      "trueshotprodigy",
+      "tp"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon damaging an enemy while located at over 700 units away at the time of the hit, cast Trueshot Barrage in their direction. The barrage deals magic damage (+ 80% bonus AD) (+ 60% AP) magic damage to enemies it passes through (15 second cooldown). This augment is only offered to up to 1 player on each team for a given game.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "slap_around",
+    "name": "Slap Around",
+    "name_en": "Slap Around",
+    "aliases": [
+      "slap around",
+      "slaparound",
+      "sa"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion grants you 10, stacking infinitely (5 second cooldown per cast instance). Lose 50% of stacks on death.",
+    "tags": [
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "",
+    "name": "???",
+    "name_en": "???",
+    "aliases": [
+      "???"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your30px|link=Enemy Missing pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal magic damage (+ 10% of target's missing health) magic damage to enemies struck, and heal}} allied champions within for {{pp (+ 10% of target's missing health).",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "hextech_soul",
+    "name": "Hextech Soul",
+    "name_en": "Hextech Soul",
+    "aliases": [
+      "hextech soul",
+      "hextechsoul",
+      "hs"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "infinite_recursion",
+    "name": "Infinite Recursion",
+    "name_en": "Infinite Recursion",
+    "aliases": [
+      "infinite recursion",
+      "infiniterecursion",
+      "ir"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 60 ability haste, increased by 3 each time you score a champion takedown.",
+    "tags": [
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "bounce_of_the_poro_king",
+    "name": "Bounce of the Poro King",
+    "name_en": "Bounce of the Poro King",
+    "aliases": [
+      "bounce of the poro king",
+      "bounceoftheporoking",
+      "botpk"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Bounce of the Poro King. 20px|link= Bounce of the Poro King: geteffect",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "crack_open_that_egg",
+    "name": "Crack Open That Egg",
+    "name_en": "Crack Open That Egg",
+    "aliases": [
+      "crack open that egg",
+      "crackopenthategg",
+      "cote"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your shield detonate upon expiration, creating an explosion that deals magic damage equal to 100% of the shield's strength to nearby enemies.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "crit_n_cast",
+    "name": "Crit 'n Cast",
+    "name_en": "Crit 'n Cast",
+    "aliases": [
+      "crit 'n cast",
+      "crit'ncast",
+      "c'c"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain ability haste equal to 40% of your critical strike chance.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "critical_missile",
+    "name": "Critical Missile",
+    "name_en": "Critical Missile",
+    "aliases": [
+      "critical missile",
+      "criticalmissile",
+      "cm"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Critical strike against enemy champions launch 1 (+ 1 per Firecrackers at the target that each deal magic damage magic damage. Additionally, gain 25% critical strike chance.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "devil_on_your_shoulder",
+    "name": "Devil on Your Shoulder",
+    "name_en": "Devil on Your Shoulder",
+    "aliases": [
+      "devil on your shoulder",
+      "devilonyourshoulder",
+      "doys"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Forge a pact with Teemo, who health resource every second, increased to 5% if there are enemy champions within 1000 units. In return, you deal 20% bonus true damage and your basic attacks and abilities summon a Life Remnant nearby for 5 seconds (0.75-second spawn cooldown). You can absorb a Life Remnant by moving over it, heal you for 50 to 150 (+ 50% bonus AD) (+ 25% AP) and granting you 15% bonus movement speed.",
+    "tags": [
+      "damage",
+      "utility",
+      "mobility",
+      "ability",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "donation",
+    "name": "Donation",
+    "name_en": "Donation",
+    "aliases": [
+      "donation"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 1750 upon acquiring this augment.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "double_tap",
+    "name": "Double Tap",
+    "name_en": "Double Tap",
+    "aliases": [
+      "double tap",
+      "doubletap",
+      "dt"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks that critical strike apply on-hit}} effects an additional time. Additionally, gain {{as.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "dropkick",
+    "name": "Dropkick",
+    "name_en": "Dropkick",
+    "aliases": [
+      "dropkick"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your basic attacks and abilities execute}} enemy champions below (+ 2% per 1000 bonus health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal magic damage (+ 100% bonus armor) (+ 100% bonus magic resistance) magic damage to nearby enemies. Successful executions heal}} you for {{pp (+ 25% bonus health). The execution may also be triggered by the explosion and goes through shields.",
+    "tags": [
+      "damage",
+      "utility",
+      "tank",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "droppybara",
+    "name": "Droppybara",
+    "name_en": "Droppybara",
+    "aliases": [
+      "droppybara"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Droppybara. 20px|link= Droppybara: geteffect This augment is only offered to up to 1 player on each team for a given game.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "empowered_by_the_faithful",
+    "name": "Empowered By The Faithful",
+    "name_en": "Empowered By The Faithful",
+    "aliases": [
+      "empowered by the faithful",
+      "empoweredbythefaithful",
+      "ebtf"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Granting a heal}} or {{tip to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals magic damage (+ 750% heal and shield power) magic damage to nearby enemies. Enemy champions damaged below a percentage of their maximum health equal to 25% of your heal and shield power are execute.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "final_city_transit",
+    "name": "Final City Transit",
+    "name_en": "Final City Transit",
+    "aliases": [
+      "final city transit",
+      "finalcitytransit",
+      "fct"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon death, you summon a train over 1 second that launches towards your killer at full speed, travelling in their direction at a global distance and dealing physical damage (+ 65% bonus AD) (+ 50% AP) (+ 15% maximum health) physical damage to enemies it passes through. The train is summoned a slight distance away from the front of your killer, based on their facing direction at the time of your death, and launches towards the position they were located at the time of your death.",
+    "tags": [
+      "damage",
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "firefox",
+    "name": "Firefox",
+    "name_en": "Firefox",
+    "aliases": [
+      "firefox"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast a modified version of Fox-Fire, gaining 25% bonus movement speed that decays over 2 seconds and conjuring 3 flames that orbit you clockwise for up to 2.5 seconds at a radius of cr 150 units. The flames will fly toward the nearest sight enemies within cr 550 units, dealing 35 to 160 (+ 25% bonus AD (+ 25% AP) adaptive damage}}, reduced to (+ |30% of the original damage}}for enemies hit by subsequent flames from the same cast (7 second cooldown).",
+    "tags": [
+      "damage",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "grandma_s_chili_oil",
+    "name": "Grandma's Chili Oil",
+    "name_en": "Grandma's Chili Oil",
+    "aliases": [
+      "grandma's chili oil",
+      "grandma'schilioil",
+      "gco"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your next basic attack or ability hit, or Burn effect, against an enemy champion inflicts them with a Burn that dealsas well as releases a canister of chili from the target that lands to a location near them after 0.75 seconds (3 second cooldown). Upon landing, the canister shatters to create a pool of Chili Oil at the impact area with a radius of 175 units, lasting for 5 seconds. The pool heal you and allied champions within for 30 to 75 upon entering and each second of the pool's lifetime thereafter. While enemies are within the pool, they are dealt 150 magic damage every second. For each unique Burn effect source that you have, up to 10, increase the pool's size by 40 units and its damage per tick by 50 magic damage. The healing per tick is also increased by 25 for each unique Burn effect source that the unit being healed has, up to 10. Healing granted by pools counts as self-healing.",
+    "tags": [
+      "damage",
+      "utility",
+      "ability",
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "growth_spurt",
+    "name": "Growth Spurt",
+    "name_en": "Growth Spurt",
+    "aliases": [
+      "growth spurt",
+      "growthspurt",
+      "gs"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Growth Spurt. 20px|link= Growth Spurt: geteffect",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "heads_up_cupcake",
+    "name": "Heads Up Cupcake!",
+    "name_en": "Heads Up Cupcake!",
+    "aliases": [
+      "heads up cupcake!",
+      "headsupcupcake!",
+      "huc"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Periodically, Cupcakes will fly across the map. Champions can consume a Cupcake by moving within 300 units of it, heal them and their nearby allied champions for 50 to 250 (+ , as well as slow all targets by 25% for 0.5 seconds. Cupcakes also grant 50 to the champion who consumed it. Additionally, for every 1000 healing done by Cupcakes, you gain 150. Healing granted by Cupcakes counts as self-healing.",
+    "tags": [
+      "utility",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "holy_snowball",
+    "name": "Holy Snowball",
+    "name_en": "Holy Snowball",
+    "aliases": [
+      "holy snowball",
+      "holysnowball",
+      "hs"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After using the Dash spell from Mark, you become invulnerable}} for {{fd seconds upon arrival. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "tags": [
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "triggered_inferno",
+    "name": "Triggered Inferno",
+    "name_en": "Triggered Inferno",
+    "aliases": [
+      "triggered inferno",
+      "triggeredinferno",
+      "ti"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your damaging basic attacks and abilities against at least one enemy champion}} unique from the previous damaging hit made against champions generate a stack of Style for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain , up to a maximum of ms. Upon reaching maximum Style stacks, you unleash a torrent of shots for 2.25, during which you rapidly shoot at nearby enemies over 2 at sporadic times in 0.2-second intervals each (up to 10 times per enemy), dealing physical damage (+ 40% AD) (+ 25% AP) physical damage with each shot, reduced by 75% against minions}}. Enemies below physical damage}}(15 second cooldown). This effect ends prematurely if you become affected by cast-inhibiting crowd control}}. Shot damage {{tip life steal. Style stacks are consumed at the end of the shooting effect.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "juiced",
+    "name": "Juiced",
+    "name_en": "Juiced",
+    "aliases": [
+      "juiced"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit}} against enemy champions consume to deal bonus magic damage equal to . This damage can critically strike}} for {{critical damage bonus damage.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "kill_secured",
+    "name": "Kill Secured",
+    "name_en": "Kill Secured",
+    "aliases": [
+      "kill secured",
+      "killsecured",
+      "ks"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 60% bonus movement speed towards enemy champions below 40% of their maximum health.",
+    "tags": [
+      "utility",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "phenomenal_evil",
+    "name": "Phenomenal Evil",
+    "name_en": "Phenomenal Evil",
+    "aliases": [
+      "phenomenal evil",
+      "phenomenalevil",
+      "pe"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Phenomenal Evil Power. Phenomenal Evil Power: Generate a permanent stack of Phenomenal Evil each time you damage an enemy champion with ability damage}}. This effect cannot trigger more than once every second globally and once every 3 seconds from the same {{tip. For each stack, gain 1 ability power. If this is not your first augment, start with 40 Phenomenal Evil stacks, granting you 40 ability power.",
+    "tags": [
+      "damage"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "pinball",
+    "name": "Pinball",
+    "name_en": "Pinball",
+    "aliases": [
+      "pinball"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Mark is empowered to instead throw a pinball, which deals and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset, it increases in radius by 25%, deals 20% increased damage, and reduces Mark remaining cooldown by 30%. The pinball can ricochet up to 4 times, for a maximum radius increase of 100% and a damage increase of 80%. Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "poro_blaster",
+    "name": "Poro Blaster",
+    "name_en": "Poro Blaster",
+    "aliases": [
+      "poro blaster",
+      "poroblaster",
+      "pb"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "You summon a 20px|link= Poro alongside yourself every 3.5 seconds, up to 5 at a time. Damaging an enemy champion with a basic attack or ability, excluding those which apply persistent damage, commands all of your Poros to launch themselves at the target, each dealing true damage equal to 3% of the target's maximum health. If triggered while at the maximum number of summoned Poros, the first Poro to hit the target also airborne for 0.5 seconds. This augment is only offered to up to 1 player on each team for a given game.",
+    "tags": [
+      "damage",
+      "utility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "prom_queen",
+    "name": "Prom Queen",
+    "name_en": "Prom Queen",
+    "aliases": [
+      "prom queen",
+      "promqueen",
+      "pq"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast a modified version of The Quickness, empowering you to break into a captivating sprint for 6 seconds. While empowered, you gain ghosting}} and {{as, and enemies you collide with are knockdown and become charm for 1.5 seconds (35 second cooldown). A sparkly tiara will descend upon you 2.5 seconds before the effect activates.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "purist_caster",
+    "name": "Purist - Caster",
+    "name_en": "Purist - Caster",
+    "aliases": [
+      "purist - caster",
+      "purist-caster",
+      "p-c"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your bonus attack speed into ability haste at a rate of per 1% bonus attack speed. Additionally, your abilities' total cooldowns are reduced by 10%.",
+    "tags": [
+      "attack",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "quest_icathia_s_fall",
+    "name": "Quest: Icathia's Fall",
+    "name_en": "Quest: Icathia's Fall",
+    "aliases": [
+      "quest: icathia's fall",
+      "quest:icathia'sfall",
+      "qif"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Bami's Cinder. You can now purchase Hollow Radiance and Sunfire Aegis in spite of the item limit imposed by Immolate. Quest: Obtain Hollow Radiance and Sunfire Aegis. Reward: Upon completing your Quest, convert the items you obtained for the quest into Void Immolation. Void Immolation counts as 2 Burn effect sources.",
+    "tags": [
+      "dot"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "red_envelopes",
+    "name": "Red Envelopes",
+    "name_en": "Red Envelopes",
+    "aliases": [
+      "red envelopes",
+      "redenvelopes",
+      "re"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Red envelopes will now randomly appear around you every 25 to 15 seconds. You can pick up these envelopes by moving over them, granting you between 8 to 15 and gold gold, and 100 bonus movement speed for 3 seconds. Additionally, whenever you pick an envelope, you gain one of the following stats by random: 5 bonus attack damage5 ability power5 ability haste5 bonus armor5 bonus magic resistance50 bonus health10% bonus attack speed5 bonus movement speed5 Lethality5 magic penetration",
+    "tags": [
+      "damage",
+      "utility",
+      "tank",
+      "attack",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "shrink_engine",
+    "name": "Shrink Engine",
+    "name_en": "Shrink Engine",
+    "aliases": [
+      "shrink engine",
+      "shrinkengine",
+      "se"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown}} generates a stack, stacking infinitely. For each stack, gain {{as and 1% bonus movement speed, and reduce your size by 4%. Lose 65% of stacks on death. Size reduction is capped at 80% (20 stacks).",
+    "tags": [
+      "mobility",
+      "execute"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "sonata",
+    "name": "Sonata",
+    "name_en": "Sonata",
+    "aliases": [
+      "sonata"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Alternate between automatically casting a modified version of Aria of Perseverance and modified Song of Celerity, with the former being cast first (10 second cooldown). Aria of Perseverance: Heal}} yourself for 60 for {{fd seconds. Song of Celerity: Gain 30% bonus movement speed for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an aura that grants tagged allied champions 20% bonus movement speed for 3 seconds.",
+    "tags": [
+      "damage",
+      "utility",
+      "mobility",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "soul_eater",
+    "name": "Soul Eater",
+    "name_en": "Soul Eater",
+    "aliases": [
+      "soul eater",
+      "souleater",
+      "se"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilize or ground an enemy champion grants you 20 bonus health, stacking infinitely (5 second cooldown per cast instance).",
+    "tags": [
+      "utility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "speed_demon",
+    "name": "Speed Demon",
+    "name_en": "Speed Demon",
+    "aliases": [
+      "speed demon",
+      "speeddemon",
+      "sd"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Whenever you damage an enemy champion with an ability, gain 200 bonus movement speed decaying over 0.75 seconds.",
+    "tags": [
+      "damage",
+      "mobility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "spin_me_right_round",
+    "name": "Spin Me Right Round",
+    "name_en": "Spin Me Right Round",
+    "aliases": [
+      "spin me right round",
+      "spinmerightround",
+      "smrr"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Heroic Swing (10 second cooldown, starts post-effect). Heroic Swing - Active: You can activate Heroic Swing three times before the ability goes on cooldown, and you can use the third cast only after 0.5 seconds of the second cast. An attack or movement command may be inputted to use the second and third casts. 20px|link= First Cast: Fire a hook in the target direction that embeds in the first terrain hit for 2 seconds. ''Heroic Swing's second cast can be used while the hook is attached. If the hook fails to attach or you become immobilize, ground, or polymorph within the duration, Heroic Swing is cancelled and placed on full cooldown. 20px|link= Second Cast: dash around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to your facing direction, stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest sight enemy within 500 units every 0.2 to deal them physical damage (+ 15% AD) (1 + physical damage and apply on-hit}} effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be reduces Heroic Swing's'' {{sti to 0.5 seconds.",
+    "tags": [
+      "damage",
+      "mobility",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "stats",
+    "name": "Stats!",
+    "name_en": "Stats!",
+    "aliases": [
+      "stats!"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 2 Stat Bonus.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "stats_on_stats",
+    "name": "Stats on Stats!",
+    "name_en": "Stats on Stats!",
+    "aliases": [
+      "stats on stats!",
+      "statsonstats!",
+      "sos"
+    ],
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 3 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "stats_on_stats_on_stats",
+    "name": "Stats on Stats on Stats!",
+    "name_en": "Stats on Stats on Stats!",
+    "aliases": [
+      "stats on stats on stats!",
+      "statsonstatsonstats!",
+      "sosos"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 4 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils. Additionally, on the next round of augment selection, you gain an additional reroll per augment slot.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "stuck_in_here_with_me",
+    "name": "Stuck in Here With Me",
+    "name_en": "Stuck in Here With Me",
+    "aliases": [
+      "stuck in here with me",
+      "stuckinherewithme",
+      "sihwm"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability grants you an aura for 2 seconds, growing in size over the duration to up to 500 units. After the duration, you taunt}} all enemies within the aura for 2 seconds and gain 50% damage reduction for the same duration (30 second cooldown). Additionally, gain 30 ultimate haste. ''Aura is activated once the ultimate's effect {{tt or has elapsed.''",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "twin_fire",
+    "name": "Twin Fire",
+    "name_en": "Twin Fire",
+    "aliases": [
+      "twin fire",
+      "twinfire",
+      "tf"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging abilities against enemy champions launch 1 (+ 1 per Firecrackers at the target that each deal magic damage (+ 7% bonus AD) (+ 7% AP) magic damage (5 second cooldown). Additionally, gain 15% critical strike chance.",
+    "tags": [
+      "damage",
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_thornmail",
+    "name": "Upgrade Thornmail",
+    "name_en": "Upgrade Thornmail",
+    "aliases": [
+      "upgrade thornmail",
+      "upgradethornmail",
+      "ut"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Bramble Vest and Thornmail, empowering Thorns to generate a protective shell around you. The shell is broken by the next enemy champion to use a basic attack on-hit}} against you, which causes them to take magic damage (+ 30% armor) (+ 30% magic resistance) (+ 12% maximum health) magic damage. Shell regenerates after 20 to 5 seconds of being out-of-combat with enemy champions.",
+    "tags": [
+      "damage",
+      "utility",
+      "tank"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "virtuous_cycle",
+    "name": "Virtuous Cycle",
+    "name_en": "Virtuous Cycle",
+    "aliases": [
+      "virtuous cycle",
+      "virtuouscycle",
+      "vc"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your heal grant a shield for 5 seconds that is equal to 20% of the healing value, and your shields grant a heal equal to 20% of the shield's strength. This effect cannot trigger from itself.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "void_rift",
+    "name": "Void Rift",
+    "name_en": "Void Rift",
+    "aliases": [
+      "void rift",
+      "voidrift",
+      "vr"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging an enemy champion with an ability summons a Void Scar at the location they were damaged for 6 seconds (0.75-second cooldown per target). If another Void Scar is summoned within 1250 units, through the same condition, both Void Scars are consumed to create a rift to the void between them that converges over 0.6 seconds and has a width of 250 units. Enemies within the rift are dealt magic damage (+ (+ magic damage and slow by 99% decaying over 1 second.",
+    "tags": [
+      "damage",
+      "ability",
+      "cc"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "weighted_popoffs",
+    "name": "Weighted Popoffs",
+    "name_en": "Weighted Popoffs",
+    "aliases": [
+      "weighted popoffs",
+      "weightedpopoffs",
+      "wp"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Hitting an enemy champion with an ability generates a stack of Popoff for 6 seconds, stacking up to 6 times. For each stack, your basic abilities' cooldowns progress 2.5% faster. At maximum Popoff stacks, this value is doubled, for a total of a 30% faster progression time.",
+    "tags": [
+      "ability"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "zealot",
+    "name": "Zealot",
+    "name_en": "Zealot",
+    "aliases": [
+      "zealot"
+    ],
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 35% (+ 5% per 100 AP) bonus attack speed and 25% (+ 5% per 100 AP) critical strike chance.",
+    "tags": [
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "hand_of_baron",
+    "name": "Hand of Baron",
+    "name_en": "Hand of Baron",
+    "aliases": [
+      "hand of baron",
+      "handofbaron",
+      "hob"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain a modified Hand of Baron, which only grants 25% increased adaptive force}} and greatly empowers nearby allied {{tip.",
+    "tags": [
+      "utility"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  },
+  {
+    "id": "upgrade_sword_of_blossoming_dawn",
+    "name": "Upgrade Sword of Blossoming Dawn",
+    "name_en": "Upgrade Sword of Blossoming Dawn",
+    "aliases": [
+      "upgrade sword of blossoming dawn",
+      "upgradeswordofblossomingdawn",
+      "usobd"
+    ],
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Sword of Blossoming Dawn, empowering Peppermint to have its healing increased by 250%. Additionally, you gain 100% bonus attack speed.",
+    "tags": [
+      "utility",
+      "attack"
+    ],
+    "patch_added": "",
+    "patch_removed": null,
+    "source": {
+      "type": "lol_wiki_module",
+      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
+      "verified_at": "2026-06-14"
+    },
+    "notes": "",
+    "localization_status": "missing_zh",
+    "source_status": "potentially_outdated"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "candidate_id": "syn_20260614043745_1",
+    "type": "trap_warning",
+    "hero": "unknown",
+    "augment": "Growth Spurt",
+    "rating_type": "avoid",
+    "description": "警告Growth Spurt强化符文实际效果不佳，击飞不可靠且生命值加成无法弥补施法时的脆弱。",
+    "trigger": "选择Growth Spurt强化符文后",
+    "evidence": [
+      {
+        "source": "manual",
+        "url": "https://www.esports.net/wiki/guides/lol-mayhem-augments-tier-list/",
+        "summary": "警告Growth Spurt强化符文实际效果不佳，击飞不可靠且生命值加成无法弥补施法时的脆弱。"
+      }
+    ],
+    "patch": "unknown",
+    "status": "investigating",
+    "confidence": 40,
+    "needs_review": true,
+    "created_at": "2026-06-14T04:38:05.966842+00:00"
+  }
+]
