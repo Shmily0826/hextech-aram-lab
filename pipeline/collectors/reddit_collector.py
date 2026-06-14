@@ -1,409 +1,376 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Reddit Collector - 从 Reddit 收集与 ARAM Mayhem 相关的帖子
-使用 PRAW (Python Reddit API Wrapper) 访问 Reddit API
+reddit_collector.py — Read-only Reddit 帖子/评论采集器
+
+⚠️ 安全约束：
+  - 仅使用 PRAW read-only 模式（不发帖、评论、投票、私信）
+  - 不保存 Reddit 用户名或个人信息
+  - 不修改 data/*.json 正式文件
+  - 输出仅写入 pipeline/output/ 目录
+
+用法：
+    # CLI 独立运行
+    python pipeline/collectors/reddit_collector.py --subreddit ARAM --query "ARAM Mayhem" --limit 10
+
+    # 通过 run_pipeline.py
+    python pipeline/run_pipeline.py --source reddit --subreddit ARAM --query "ARAM Mayhem" --limit 10 --dry-run
 """
 
+import json
+import logging
 import os
 import sys
-import json
-import argparse
-import logging
-from datetime import datetime, timedelta
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 
-try:
-    import praw
-    from praw.models import Submission, Comment
-except ImportError:
-    print("错误: 未安装 praw 库")
-    print("请运行: pip install praw")
-    sys.exit(1)
+# Windows UTF-8
+if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
-try:
-    from dotenv import load_dotenv
-except ImportError:
-    print("错误: 未安装 python-dotenv 库")
-    print("请运行: pip install python-dotenv")
-    sys.exit(1)
-
-# 加载 .env 文件
-load_dotenv()
-
-# 配置日志
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S'
-)
 logger = logging.getLogger(__name__)
 
-
-def load_config():
-    """加载配置文件"""
-    config_dir = Path(__file__).parent.parent / "config"
-
-    keywords_file = config_dir / "keywords.json"
-    sources_file = config_dir / "sources.json"
-
-    if not keywords_file.exists():
-        logger.error(f"关键词配置文件不存在: {keywords_file}")
-        sys.exit(1)
-
-    if not sources_file.exists():
-        logger.error(f"数据源配置文件不存在: {sources_file}")
-        sys.exit(1)
-
-    with open(keywords_file, 'r', encoding='utf-8') as f:
-        keywords_config = json.load(f)
-
-    with open(sources_file, 'r', encoding='utf-8') as f:
-        sources_config = json.load(f)
-
-    return keywords_config, sources_config
+# ---------------------------------------------------------------------------
+# 路径
+# ---------------------------------------------------------------------------
+COLLECTOR_DIR = Path(__file__).resolve().parent          # pipeline/collectors/
+PIPELINE_DIR = COLLECTOR_DIR.parent                       # pipeline/
+PROJECT_ROOT = PIPELINE_DIR.parent                        # project root
+DEFAULT_OUTPUT = PIPELINE_DIR / "output" / "raw_reddit_posts.jsonl"
 
 
-def get_reddit_client() -> praw.Reddit:
-    """创建 Reddit API 客户端"""
-    client_id = os.getenv('REDDIT_CLIENT_ID')
-    client_secret = os.getenv('REDDIT_CLIENT_SECRET')
-    user_agent = os.getenv('REDDIT_USER_AGENT')
+# ---------------------------------------------------------------------------
+# 环境加载
+# ---------------------------------------------------------------------------
+def _load_env():
+    """从 .env 加载环境变量。"""
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(dotenv_path=str(PROJECT_ROOT / ".env"))
+    except ImportError:
+        logger.warning("python-dotenv 未安装，仅使用系统环境变量。")
+
+
+# ---------------------------------------------------------------------------
+# Reddit 客户端（read-only）
+# ---------------------------------------------------------------------------
+def get_reddit_client():
+    """
+    创建 PRAW read-only Reddit 客户端。
+
+    需要环境变量：
+      REDDIT_CLIENT_ID
+      REDDIT_CLIENT_SECRET
+      REDDIT_USER_AGENT
+    """
+    _load_env()
+
+    client_id = os.getenv("REDDIT_CLIENT_ID", "").strip()
+    client_secret = os.getenv("REDDIT_CLIENT_SECRET", "").strip()
+    user_agent = os.getenv("REDDIT_USER_AGENT", "").strip()
 
     if not all([client_id, client_secret, user_agent]):
-        print("\n" + "="*60)
-        print("错误: Reddit API 凭证未配置")
-        print("="*60)
-        print("\n请在项目根目录创建或编辑 .env 文件，添加以下配置：\n")
-        print("REDDIT_CLIENT_ID=your_client_id")
-        print("REDDIT_CLIENT_SECRET=your_client_secret")
-        print("REDDIT_USER_AGENT=your_user_agent")
-        print("\n如何获取 Reddit API 凭证：")
-        print("1. 访问 https://www.reddit.com/prefs/apps")
-        print("2. 点击 'create another app...'")
-        print("3. 选择 'script' 类型")
-        print("4. 填写应用名称和 redirect uri (例如: http://localhost:8080)")
-        print("5. 创建后复制 client_id 和 client_secret")
-        print("6. user_agent 格式: '<platform>:<app_id>:<version> (by /u/<username>)'")
-        print("\n示例: 'python:aram-insight:v1.0 (by /u/yourusername)'")
-        print("="*60 + "\n")
-        sys.exit(1)
+        raise RuntimeError(
+            "Reddit API 凭证未配置。\n"
+            "请在 .env 中设置: REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT\n"
+            "参考 .env.example 获取凭证步骤。"
+        )
 
-    logger.info("正在初始化 Reddit 客户端...")
+    # 拒绝占位符
+    placeholders = {"your_client_id_here", "your_client_secret_here", ""}
+    if client_id.lower() in placeholders or client_secret.lower() in placeholders:
+        raise RuntimeError(
+            "Reddit API 凭证仍为占位符值，请在 .env 中填入真实凭证。"
+        )
 
-    return praw.Reddit(
+    try:
+        import praw
+    except ImportError:
+        raise RuntimeError("praw 未安装。请运行: pip install praw")
+
+    reddit = praw.Reddit(
         client_id=client_id,
         client_secret=client_secret,
         user_agent=user_agent,
-        # PRAW 内置速率限制处理
-        ratelimit_seconds=60
+        ratelimit_seconds=60,
     )
 
+    # 验证 read-only 模式
+    if not reddit.read_only:
+        raise RuntimeError(
+            "PRAW 客户端不是 read-only 模式！"
+            "请确认未提供 username/password（script 应用只使用 client_id + secret）。"
+        )
 
-def search_reddit_posts(
-    reddit: praw.Reddit,
-    subreddits: List[str],
-    keywords: List[str],
-    days: int,
-    limit: int,
-    max_comments: int
-) -> List[Dict[str, Any]]:
+    logger.info("Reddit read-only 客户端初始化成功。")
+    return reddit
+
+
+# ---------------------------------------------------------------------------
+# 采集逻辑
+# ---------------------------------------------------------------------------
+def collect_top_comments(post, max_comments: int) -> List[Dict[str, Any]]:
     """
-    搜索 Reddit 帖子
-
-    Args:
-        reddit: PRAW Reddit 客户端
-        subreddits: 要搜索的 subreddit 列表
-        keywords: 关键词列表
-        days: 搜索最近几天的帖子
-        limit: 每个 subreddit 最多返回多少帖子
-        max_comments: 每个帖子最多收集多少条评论
+    收集帖子的热门评论（不保存 author）。
 
     Returns:
-        收集到的帖子列表
-    """
-    collected_posts = []
-    time_filter = 'week' if days <= 7 else 'month' if days <= 30 else 'year'
-
-    logger.info(f"开始搜索 Reddit 帖子")
-    logger.info(f"搜索范围: {len(subreddits)} 个 subreddit")
-    logger.info(f"关键词数量: {len(keywords)}")
-    logger.info(f"时间范围: 最近 {days} 天")
-
-    for subreddit_name in subreddits:
-        logger.info(f"\n正在搜索 r/{subreddit_name}...")
-
-        try:
-            subreddit = reddit.subreddit(subreddit_name)
-
-            # 搜索每个关键词
-            for keyword in keywords:
-                logger.debug(f"搜索关键词: '{keyword}'")
-
-                try:
-                    # 使用 search API，按相关性排序
-                    search_results = subreddit.search(
-                        keyword,
-                        sort='relevance',
-                        time_filter=time_filter,
-                        limit=limit
-                    )
-
-                    for post in search_results:
-                        # 检查是否在时间范围内
-                        post_date = datetime.utcfromtimestamp(post.created_utc)
-                        cutoff_date = datetime.utcnow() - timedelta(days=days)
-
-                        if post_date < cutoff_date:
-                            logger.debug(f"跳过过期帖子: {post.id}")
-                            continue
-
-                        # 收集帖子数据
-                        post_data = {
-                            'post_id': post.id,
-                            'title': post.title,
-                            'selftext': post.selftext,
-                            'score': post.score,
-                            'num_comments': post.num_comments,
-                            'created_utc': datetime.fromtimestamp(
-                                post.created_utc
-                            ).isoformat(),
-                            'url': post.url,
-                            'subreddit': str(post.subreddit),
-                            'matched_keywords': [keyword],
-                            'collected_at': datetime.now().isoformat()
-                        }
-
-                        # 收集评论（如果需要）
-                        if max_comments > 0:
-                            comments = collect_top_comments(post, max_comments)
-                            post_data['top_comments'] = comments
-
-                        collected_posts.append(post_data)
-                        logger.debug(f"收集到帖子: {post.id} - {post.title[:50]}")
-
-                except Exception as e:
-                    logger.warning(f"搜索关键词 '{keyword}' 时出错: {e}")
-                    continue
-
-        except Exception as e:
-            logger.error(f"搜索 subreddit r/{subreddit_name} 时出错: {e}")
-            continue
-
-    # 去重：合并相同帖子的关键词
-    unique_posts = {}
-    for post in collected_posts:
-        post_id = post['post_id']
-        if post_id not in unique_posts:
-            unique_posts[post_id] = post
-        else:
-            # 合并关键词
-            existing_keywords = unique_posts[post_id]['matched_keywords']
-            new_keywords = post['matched_keywords']
-            unique_posts[post_id]['matched_keywords'] = list(
-                set(existing_keywords + new_keywords)
-            )
-
-    result = list(unique_posts.values())
-    logger.info(f"\n共收集到 {len(result)} 个不重复的帖子")
-
-    return result
-
-
-def collect_top_comments(post: Submission, max_comments: int) -> List[Dict[str, Any]]:
-    """
-    收集帖子的热门评论
-
-    Args:
-        post: Reddit 帖子对象
-        max_comments: 最多收集多少条评论
-
-    Returns:
-        评论列表
+        [{body, score, created_utc}, ...]
     """
     comments_data = []
-
     try:
-        # 按热度排序评论
-        post.comments.sort('best')
-
+        post.comments.replace_more(limit=0)  # 不展开 MoreComments
         for i, comment in enumerate(post.comments):
             if i >= max_comments:
                 break
-
-            # 跳过被删除的评论
-            if not isinstance(comment, Comment):
+            # 跳过 PRAW 特殊对象（MoreComments 等）
+            if not hasattr(comment, "body"):
                 continue
-
-            comment_data = {
-                'comment_id': comment.id,
-                'author': str(comment.author) if comment.author else '[deleted]',
-                'body': comment.body,
-                'score': comment.score,
-                'created_utc': datetime.fromtimestamp(
-                    comment.created_utc
-                ).isoformat()
-            }
-
-            comments_data.append(comment_data)
-
+            comments_data.append({
+                "body": comment.body,
+                "score": comment.score,
+                "created_utc": datetime.fromtimestamp(
+                    comment.created_utc, tz=timezone.utc
+                ).isoformat(),
+            })
     except Exception as e:
-        logger.warning(f"收集帖子 {post.id} 的评论时出错: {e}")
-
+        logger.warning("收集帖子 %s 的评论时出错: %s", post.id, e)
     return comments_data
 
 
-def save_to_jsonl(posts: List[Dict[str, Any]], output_file: Path):
-    """
-    保存数据到 JSONL 文件
-
-    Args:
-        posts: 帖子数据列表
-        output_file: 输出文件路径
-    """
-    output_file.parent.mkdir(parents=True, exist_ok=True)
-
-    logger.info(f"\n正在保存数据到 {output_file}...")
-
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for post in posts:
-            json_line = json.dumps(post, ensure_ascii=False)
-            f.write(json_line + '\n')
-
-    logger.info(f"已保存 {len(posts)} 条记录")
-
-
-def collect_reddit(
-    days: int = 7,
-    limit: int = 50,
-    subreddits: Optional[List[str]] = None,
-    max_comments: int = 5
+def search_reddit(
+    subreddit_name: str,
+    query: str,
+    limit: int = 10,
+    comments_limit: int = 20,
+    time_filter: str = "week",
 ) -> List[Dict[str, Any]]:
     """
-    主收集函数 - 可作为模块导入使用
+    在指定 subreddit 搜索帖子并收集评论。
 
     Args:
-        days: 搜索最近几天的帖子
-        limit: 每个 subreddit 最多返回多少帖子
-        subreddits: 要搜索的 subreddit 列表，None 则使用配置中的默认值
-        max_comments: 每个帖子最多收集多少条评论
+        subreddit_name: subreddit 名称（如 "ARAM"）
+        query: 搜索关键词（如 "ARAM Mayhem"）
+        limit: 最多返回多少帖子（默认 10，最大 10）
+        comments_limit: 每个帖子最多收集多少条评论（默认 20，最大 20）
+        time_filter: 时间过滤 ("hour", "day", "week", "month", "year", "all")
 
     Returns:
-        收集到的帖子列表
+        raw item 列表，每条符合 pipeline 标准格式
     """
-    # 加载配置
-    keywords_config, sources_config = load_config()
+    # 安全限制
+    limit = min(limit, 10)
+    comments_limit = min(comments_limit, 20)
 
-    # 合并中英文关键词
-    keywords = (
-        keywords_config.get('english', []) +
-        keywords_config.get('chinese', [])
-    )
-
-    # 确定要搜索的 subreddit
-    if subreddits is None:
-        reddit_config = sources_config.get('reddit', {})
-        subreddits = reddit_config.get('subreddits', ['leagueoflegends'])
-
-    # 如果命令行指定了 "all"，使用配置中的所有 subreddit
-    if len(subreddits) == 1 and subreddits[0].lower() == 'all':
-        reddit_config = sources_config.get('reddit', {})
-        subreddits = reddit_config.get('subreddits', ['leagueoflegends'])
-
-    # 创建 Reddit 客户端
     reddit = get_reddit_client()
 
-    # 搜索帖子
-    posts = search_reddit_posts(
-        reddit=reddit,
-        subreddits=subreddits,
-        keywords=keywords,
-        days=days,
-        limit=limit,
-        max_comments=max_comments
+    logger.info("搜索 r/%s: query='%s' limit=%d time_filter=%s",
+                subreddit_name, query, limit, time_filter)
+
+    items = []
+    try:
+        subreddit = reddit.subreddit(subreddit_name)
+        search_results = subreddit.search(
+            query,
+            sort="relevance",
+            time_filter=time_filter,
+            limit=limit,
+        )
+
+        for post in search_results:
+            # 构建 text: selftext 或 title（如果 selftext 为空）
+            text = post.selftext.strip() if post.selftext else ""
+            if not text:
+                text = post.title
+
+            # 收集评论
+            comments = collect_top_comments(post, comments_limit) if comments_limit > 0 else []
+
+            # 构建 source_metadata
+            source_metadata = {
+                "num_comments": post.num_comments,
+                "upvote_ratio": getattr(post, "upvote_ratio", None),
+                "is_self": post.is_self,
+                "link_flair_text": getattr(post, "link_flair_text", None),
+                "domain": getattr(post, "domain", ""),
+                "search_query": query,
+                "time_filter": time_filter,
+            }
+
+            item = {
+                "id": post.id,
+                "source_type": "reddit",
+                "subreddit": str(post.subreddit),
+                "title": post.title,
+                "text": text,
+                "url": post.url,
+                "permalink": f"https://www.reddit.com{post.permalink}",
+                "score": post.score,
+                "created_utc": datetime.fromtimestamp(
+                    post.created_utc, tz=timezone.utc
+                ).isoformat(),
+                "collected_at": datetime.now(timezone.utc).isoformat(),
+                "comments": comments,
+                "source_metadata": source_metadata,
+            }
+
+            items.append(item)
+            logger.info("  收集帖子: [%s] %s (score=%d, comments=%d/%d)",
+                        post.id, post.title[:60], post.score,
+                        len(comments), post.num_comments)
+
+    except Exception as e:
+        logger.error("搜索 r/%s 时出错: %s", subreddit_name, e, exc_info=True)
+
+    logger.info("搜索完成: 共 %d 条帖子, %d 条评论",
+                len(items), sum(len(i["comments"]) for i in items))
+    return items
+
+
+# ---------------------------------------------------------------------------
+# 输出
+# ---------------------------------------------------------------------------
+def save_to_jsonl(items: List[Dict[str, Any]], output_path: Path) -> None:
+    """保存 raw items 到 JSONL 文件。"""
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        for item in items:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+    logger.info("已保存 %d 条到 %s", len(items), output_path)
+
+
+# ---------------------------------------------------------------------------
+# Pipeline 兼容接口
+# ---------------------------------------------------------------------------
+def collect_reddit(
+    days: int = 7,
+    limit: int = 10,
+    subreddits: Optional[List[str]] = None,
+    max_comments: int = 20,
+    query: str = "ARAM Mayhem",
+    time_filter: str = "",
+    output_path: Optional[str] = None,
+) -> List[Dict[str, Any]]:
+    """
+    Pipeline 兼容接口 — 被 run_pipeline.py 的 step_collect_reddit() 调用。
+
+    Args:
+        days: 时间范围（转换为 time_filter）
+        limit: 每个 subreddit 最大帖子数（上限 10）
+        subreddits: subreddit 列表
+        max_comments: 每帖最大评论数（上限 20）
+        query: 搜索关键词
+        time_filter: 时间过滤（优先于 days）
+        output_path: 输出路径（None 则用默认值）
+
+    Returns:
+        raw items 列表
+    """
+    # days → time_filter 映射
+    if not time_filter:
+        if days <= 1:
+            time_filter = "day"
+        elif days <= 7:
+            time_filter = "week"
+        elif days <= 30:
+            time_filter = "month"
+        else:
+            time_filter = "year"
+
+    if subreddits is None:
+        subreddits = ["ARAM"]
+
+    all_items = []
+    for sub in subreddits:
+        items = search_reddit(
+            subreddit_name=sub,
+            query=query,
+            limit=limit,
+            comments_limit=max_comments,
+            time_filter=time_filter,
+        )
+        all_items.extend(items)
+
+    # 保存
+    out = Path(output_path) if output_path else DEFAULT_OUTPUT
+    save_to_jsonl(all_items, out)
+
+    return all_items
+
+
+# ---------------------------------------------------------------------------
+# CLI 入口
+# ---------------------------------------------------------------------------
+def main():
+    import argparse
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
     )
 
-    # 保存到文件
-    output_file = Path(__file__).parent.parent / "output" / "raw_reddit_posts.jsonl"
-    save_to_jsonl(posts, output_file)
-
-    return posts
-
-
-def main():
-    """主函数 - CLI 入口"""
     parser = argparse.ArgumentParser(
-        description='Reddit Collector - 从 Reddit 收集 ARAM Mayhem 相关帖子',
+        description="Reddit Read-only Collector — ARAM Mayhem 帖子采集（仅读取）",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例:
-  python reddit_collector.py --days 7 --limit 50
-  python reddit_collector.py --subreddit leagueoflegends ARAM
-  python reddit_collector.py --subreddit all --no-comments
-        """
+  python pipeline/collectors/reddit_collector.py --subreddit ARAM --query "ARAM Mayhem" --limit 10
+  python pipeline/collectors/reddit_collector.py --subreddit leagueoflegends --query "augment bug" --limit 5 --comments-limit 10 --time-filter month
+        """,
     )
-
-    parser.add_argument(
-        '--days',
-        type=int,
-        default=7,
-        help='搜索最近几天的帖子 (默认: 7)'
-    )
-
-    parser.add_argument(
-        '--limit',
-        type=int,
-        default=50,
-        help='每个 subreddit 最多返回多少帖子 (默认: 50)'
-    )
-
-    parser.add_argument(
-        '--subreddit',
-        nargs='+',
-        default=None,
-        help='指定要搜索的 subreddit，可以指定多个，或使用 "all" 表示配置中的所有 subreddit'
-    )
-
-    parser.add_argument(
-        '--no-comments',
-        action='store_true',
-        help='不收集评论'
-    )
-
-    parser.add_argument(
-        '--verbose', '-v',
-        action='store_true',
-        help='显示详细日志'
-    )
+    parser.add_argument("--subreddit", default="ARAM",
+                        help="搜索的 subreddit（默认: ARAM）")
+    parser.add_argument("--query", default="ARAM Mayhem",
+                        help="搜索关键词（默认: 'ARAM Mayhem'）")
+    parser.add_argument("--limit", type=int, default=10,
+                        help="最多返回帖子数（默认 10，上限 10）")
+    parser.add_argument("--comments-limit", type=int, default=20,
+                        help="每帖最多评论数（默认 20，上限 20）")
+    parser.add_argument("--time-filter", default="week",
+                        choices=["hour", "day", "week", "month", "year", "all"],
+                        help="时间过滤（默认: week）")
+    parser.add_argument("--output", default=None,
+                        help="输出文件路径（默认: pipeline/output/raw_reddit_posts.jsonl）")
+    parser.add_argument("--verbose", "-v", action="store_true",
+                        help="显示详细日志")
 
     args = parser.parse_args()
 
-    # 设置日志级别
     if args.verbose:
         logger.setLevel(logging.DEBUG)
 
-    # 确定最大评论数
-    max_comments = 0 if args.no_comments else 5
+    output_path = Path(args.output) if args.output else DEFAULT_OUTPUT
 
     try:
-        posts = collect_reddit(
-            days=args.days,
+        items = search_reddit(
+            subreddit_name=args.subreddit,
+            query=args.query,
             limit=args.limit,
-            subreddits=args.subreddit,
-            max_comments=max_comments
+            comments_limit=args.comments_limit,
+            time_filter=args.time_filter,
         )
+        save_to_jsonl(items, output_path)
 
-        print(f"\n✓ 收集完成！共收集到 {len(posts)} 个帖子")
-        print(f"✓ 数据已保存到: pipeline/output/raw_reddit_posts.jsonl")
+        print(f"\n采集完成:")
+        print(f"  帖子数  : {len(items)}")
+        print(f"  评论数  : {sum(len(i['comments']) for i in items)}")
+        print(f"  输出文件: {output_path}")
 
+    except RuntimeError as e:
+        print(f"\n错误: {e}")
+        sys.exit(1)
     except KeyboardInterrupt:
-        print("\n\n用户中断操作")
+        print("\n用户中断。")
         sys.exit(0)
     except Exception as e:
-        logger.error(f"发生错误: {e}", exc_info=True)
+        logger.error("采集失败: %s", e, exc_info=True)
         sys.exit(1)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -16,7 +16,7 @@ import os
 import sys
 from datetime import datetime
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 
 # Windows 终端 UTF-8 兼容
 if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
@@ -92,6 +92,89 @@ def _print_summary(generated_files: List[Path]) -> None:
     print("=" * 60)
 
 
+def _print_dryrun_stats(output_dir: Path) -> None:
+    """打印 dry-run 模式的详细统计。"""
+    import json as _json
+
+    def _count_jsonl(path: Path) -> int:
+        if not path.exists():
+            return 0
+        count = 0
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.strip():
+                    count += 1
+        return count
+
+    def _load_json(path: Path) -> list:
+        if not path.exists():
+            return []
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = _json.load(f)
+                return data if isinstance(data, list) else []
+        except Exception:
+            return []
+
+    raw = _count_jsonl(output_dir / "raw_reddit_posts.jsonl")
+    cleaned = _count_jsonl(output_dir / "cleaned_items.jsonl")
+    deduped = _count_jsonl(output_dir / "deduped_items.jsonl")
+    bugs = _load_json(output_dir / "candidate_bugs.json")
+    syns = _load_json(output_dir / "candidate_synergies.json")
+
+    # 统计 Reddit 帖子的评论数
+    total_comments = 0
+    if (output_dir / "raw_reddit_posts.jsonl").exists():
+        with open(output_dir / "raw_reddit_posts.jsonl", "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    item = _json.loads(line.strip())
+                    total_comments += len(item.get("comments", []))
+                except Exception:
+                    pass
+
+    print(f"  Raw posts     : {raw}")
+    print(f"  Raw comments  : {total_comments}")
+    print(f"  Cleaned       : {cleaned}")
+    print(f"  Deduped       : {deduped}")
+    print(f"  Bug candidates: {len(bugs)}")
+    print(f"  Syn candidates: {len(syns)}")
+
+    # AI 分类统计
+    if syns:
+        types = {}
+        for s in syns:
+            t = s.get("type", "unknown")
+            types[t] = types.get(t, 0) + 1
+        print(f"  Synergy types : {types}")
+
+    # unknown augment 统计
+    if bugs or syns:
+        all_augs = set()
+        for b in bugs:
+            for a in b.get("augments", []):
+                all_augs.add(a)
+        for s in syns:
+            aug = s.get("augment", "")
+            if aug:
+                all_augs.add(aug)
+            for a in s.get("augments", []):
+                all_augs.add(a)
+
+        # 与 augments.json 比对
+        aug_data = _load_json(output_dir.parent.parent / "data" / "augments.json")
+        known = set()
+        for a in aug_data:
+            if isinstance(a, dict):
+                known.add(a.get("name", ""))
+                known.add(a.get("name_en", ""))
+        unknown = [x for x in all_augs if x and x not in known and x != "unknown"]
+        if unknown:
+            print(f"  Unknown augs  : {unknown}")
+        else:
+            print(f"  Unknown augs  : 0")
+
+
 def _step_label(current: int, total: int) -> str:
     """生成步骤标签，例如 [1/4]。"""
     return f"[{current}/{total}]"
@@ -101,10 +184,24 @@ def _step_label(current: int, total: int) -> str:
 # 各步骤封装
 # ===========================================================================
 
-def step_collect_reddit(days: int, limit: int) -> List[dict]:
-    """步骤：从 Reddit 采集帖子数据。"""
+def step_collect_reddit(
+    days: int = 7,
+    limit: int = 10,
+    subreddits: Optional[List[str]] = None,
+    query: str = "ARAM Mayhem",
+    comments_limit: int = 20,
+    time_filter: str = "",
+) -> List[dict]:
+    """步骤：从 Reddit 采集帖子数据（read-only dry-run 模式）。"""
     from collectors.reddit_collector import collect_reddit
-    posts = collect_reddit(days=days, limit=limit)
+    posts = collect_reddit(
+        days=days,
+        limit=limit,
+        subreddits=subreddits,
+        max_comments=comments_limit,
+        query=query,
+        time_filter=time_filter,
+    )
     logger.info("Reddit 采集完成：共 %d 条帖子", len(posts))
     return posts
 
@@ -206,17 +303,27 @@ def _build_input_paths(do_reddit: bool, do_manual: bool) -> List[str]:
 def run_pipeline(
     source: str,
     days: int = 7,
-    limit: int = 50,
+    limit: int = 10,
     skip_ai: bool = False,
+    dry_run: bool = False,
+    subreddits: Optional[List[str]] = None,
+    query: str = "ARAM Mayhem",
+    comments_limit: int = 20,
+    time_filter: str = "",
 ) -> int:
     """
     运行完整的数据处理流水线。
 
     Args:
-        source:  数据来源 —— "reddit" | "manual" | "all"
-        days:    Reddit 搜索时间范围（天）
-        limit:   每个 subreddit 最大帖子数
-        skip_ai: 是否跳过 AI 提取步骤
+        source:         数据来源 —— "reddit" | "manual" | "all"
+        days:           Reddit 搜索时间范围（天）
+        limit:          每个 subreddit 最大帖子数
+        skip_ai:        是否跳过 AI 提取步骤
+        dry_run:        Dry-run 模式（仅输出到 pipeline/output/，不写正式 data 文件）
+        subreddits:     Reddit subreddit 列表
+        query:          Reddit 搜索关键词
+        comments_limit: 每帖最大评论数
+        time_filter:    Reddit 时间过滤
 
     Returns:
         0 表示成功，1 表示失败
@@ -237,8 +344,12 @@ def run_pipeline(
     print(f"\n{'=' * 60}")
     print(f"ARAM Insight 数据处理流水线")
     print(f"数据来源: {source}  |  跳过 AI: {'是' if skip_ai else '否'}")
+    if dry_run:
+        print(f"模式: DRY-RUN（仅输出到 pipeline/output/，不修改正式数据）")
     if do_reddit:
-        print(f"Reddit 参数: --days {days} --limit {limit}")
+        _subs = subreddits or ["ARAM"]
+        print(f"Reddit 参数: subreddit={_subs} query='{query}' limit={limit} "
+              f"comments-limit={comments_limit} time-filter={time_filter or 'auto'}")
     print(f"{'=' * 60}\n")
 
     try:
@@ -250,7 +361,11 @@ def run_pipeline(
             current_step += 1
             print(f"{_step_label(current_step, total_steps)} 正在采集 Reddit 数据...")
             try:
-                reddit_posts = step_collect_reddit(days=days, limit=limit)
+                reddit_posts = step_collect_reddit(
+                    days=days, limit=limit, subreddits=subreddits,
+                    query=query, comments_limit=comments_limit,
+                    time_filter=time_filter,
+                )
                 generated_files.append(OUTPUT_DIR / "raw_reddit_posts.jsonl")
             except Exception as e:
                 logger.error("Reddit 采集失败: %s", e, exc_info=True)
@@ -278,7 +393,11 @@ def run_pipeline(
         elif do_reddit:
             current_step += 1
             print(f"{_step_label(current_step, total_steps)} 正在采集 Reddit 数据...")
-            step_collect_reddit(days=days, limit=limit)
+            step_collect_reddit(
+                days=days, limit=limit, subreddits=subreddits,
+                query=query, comments_limit=comments_limit,
+                time_filter=time_filter,
+            )
             generated_files.append(OUTPUT_DIR / "raw_reddit_posts.jsonl")
 
         elif do_manual:
@@ -326,8 +445,17 @@ def run_pipeline(
         # 只保留实际存在的文件
         existing_files = [f for f in generated_files if f.exists()]
         _print_summary(existing_files)
-        print(f"总耗时: {time_str}\n")
+        print(f"总耗时: {time_str}")
 
+        # Dry-run 额外统计
+        if dry_run:
+            print(f"\n{'=' * 60}")
+            print(f"  DRY-RUN 统计")
+            print(f"{'=' * 60}")
+            _print_dryrun_stats(OUTPUT_DIR)
+            print(f"\n  ⚠ Dry-run 模式：未修改任何正式 data/*.json 文件")
+
+        print()
         return 0
 
     except KeyboardInterrupt:
@@ -350,10 +478,10 @@ def build_parser() -> argparse.ArgumentParser:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""\
 示例:
-  python pipeline/run_pipeline.py --source reddit --days 7 --limit 50
+  python pipeline/run_pipeline.py --source reddit --subreddit ARAM --query "ARAM Mayhem" --limit 10 --dry-run
+  python pipeline/run_pipeline.py --source reddit --subreddit ARAM --query "augment bug" --limit 10 --comments-limit 20 --time-filter month --dry-run
   python pipeline/run_pipeline.py --source manual
-  python pipeline/run_pipeline.py --source reddit --days 7 --limit 50 --skip-ai
-  python pipeline/run_pipeline.py --source all --days 14 --limit 100
+  python pipeline/run_pipeline.py --source reddit --days 7 --limit 10 --skip-ai --dry-run
         """,
     )
 
@@ -372,14 +500,45 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--limit",
         type=int,
-        default=50,
-        help="每个 subreddit 最多采集多少帖子（默认: 50，仅 --source reddit/all 时生效）",
+        default=10,
+        help="每个 subreddit 最多返回多少帖子（默认: 10，上限: 10）",
+    )
+    parser.add_argument(
+        "--subreddit",
+        nargs="+",
+        default=None,
+        help="Reddit subreddit 列表（默认: ARAM）",
+    )
+    parser.add_argument(
+        "--query",
+        type=str,
+        default="ARAM Mayhem",
+        help="Reddit 搜索关键词（默认: 'ARAM Mayhem'）",
+    )
+    parser.add_argument(
+        "--comments-limit",
+        type=int,
+        default=20,
+        help="每个帖子最多收集多少条评论（默认: 20，上限: 20）",
+    )
+    parser.add_argument(
+        "--time-filter",
+        type=str,
+        default="",
+        choices=["", "hour", "day", "week", "month", "year", "all"],
+        help="Reddit 时间过滤（默认: 根据 --days 自动推断）",
     )
     parser.add_argument(
         "--skip-ai",
         action="store_true",
         default=False,
-        help="跳过 AI 智能提取步骤（Step 4）",
+        help="跳过 AI 智能提取步骤",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        default=False,
+        help="Dry-run 模式：仅输出到 pipeline/output/，不修改正式 data/*.json",
     )
     parser.add_argument(
         "--verbose", "-v",
@@ -407,6 +566,11 @@ def main() -> int:
         days=args.days,
         limit=args.limit,
         skip_ai=args.skip_ai,
+        dry_run=args.dry_run,
+        subreddits=args.subreddit,
+        query=args.query,
+        comments_limit=args.comments_limit,
+        time_filter=args.time_filter,
     )
 
 
