@@ -6,6 +6,9 @@ pipeline/output/raw_reddit_posts.jsonl
 pipeline/output/cleaned_items.jsonl
 pipeline/output/manual_items.jsonl
 
+# 数据修复过程中的备份文件
+pipeline/output/*_backup*.json
+
 # Python
 __pycache__/
 *.pyc
