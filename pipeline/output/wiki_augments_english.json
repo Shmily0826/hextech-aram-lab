@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "ADAPt",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Convert all of your bonus attack damage into ability power at a rate of 1 ability power per 0.6 bonus attack damage. Additionally, increase your ability power by 15%.",
+    "notes": ""
+  },
+  {
+    "name": "Adamant",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Immobilizing or grounding an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
+    "notes": ""
+  },
+  {
+    "name": "Blunt Force",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Increases attack damage by 20%.",
+    "notes": ""
+  },
+  {
+    "name": "Buff Buddies",
+    "tier": "Silver",
+    "set": "Archmage",
+    "description": "Grants the Crest of Cinders and Crest of Insight buffs permanently. Crest of Cinders: Empowers your basic attacks to slow the target by 10;15;25 for 3 seconds and inflict them with a burn for 2 seconds, which deals 3 to 18 total true damage over 3 instances over the duration. Each instance deals 3 to 18 true damage, with the first instance being applied on-hit and the second and third instances dealt each second over the burn's duration. Subsequent attacks against a burning target will only refresh its duration. While out-of-combat with enemy champions and turrets, you regenerate0.5;1;3;9 maximum health every 5 seconds. 0.5/10;1/10;3/10;9/10 maximum health every 0.5 seconds.This effect counts as a Burn source. Crest of Insight: Grants 10 ability haste. If your champion uses mana, restores5.5% of maximum mana every 5 seconds; 5.5/10% of maximum mana every 0.5 seconds;if your champion uses energy, instead restores5.5% of maximum energy every 5 seconds. 5.5/10% of maximum energy every 0.5 seconds.",
+    "notes": "The buff is not transferred to the killer when slain."
+  },
+  {
+    "name": "Deft",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants 60% bonus attack speed.",
+    "notes": ""
+  },
+  {
+    "name": "Dive Bomber",
+    "tier": "Silver",
+    "set": "Dive Bomb",
+    "description": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
+    "notes": ""
+  },
+  {
+    "name": "Don't Blink",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Deal 1% increased damage per 10 movement speed you have more than the target.",
+    "notes": ""
+  },
+  {
+    "name": "Erosion",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Each instance of damage dealt to an enemy reduces their armor and magic resistance by 1.5% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
+    "notes": ""
+  },
+  {
+    "name": "Escape Plan",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Upon dropping below 35% of your maximum health, gain a shield for 65% of your maximum health, 150% bonus movement speed, and reduced size (75 second cooldown). These effects all decay over 5.5 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Fetch",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 40% bonus movement speed towards enemies marked by Mark. Additionally, nearby allied champions that use Mark will cause it to drop a snowball on the ground after reaching maximum range or hitting an enemy. You can pick up this snowball to refresh the cooldown of your Mark. This augment is currently disabled.",
+    "notes": ""
+  },
+  {
+    "name": "First-Aid Kit",
+    "tier": "Silver",
+    "set": "Wee Woo Wee Woo",
+    "description": "Grants 20% heal and shield power.",
+    "notes": ""
+  },
+  {
+    "name": "Flashbang",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Using Flash creates an explosion around the blink location that deals 70 to 240 (+ 70% AD) (+ 60% AP) magic damage to nearby enemies and slows them by 35% for 1.25 seconds. Additionally, the cooldown of your Flash resets upon your death. If Flash is not equipped, you will be prompted to replace one of your summoner spells with Flash.",
+    "notes": ""
+  },
+  {
+    "name": "Frost Wraith",
+    "tier": "Silver",
+    "set": "Fully Automated",
+    "description": "Automatically cast a modified version of Ring of Frost Lissandra, creating a cold pulse around you in 450 radius that roots nearby enemies for 1.25 seconds (6.5 second cooldown). This modified ability does not deal damage.",
+    "notes": ""
+  },
+  {
+    "name": "Goredrink",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 15% omnivamp.",
+    "notes": ""
+  },
+  {
+    "name": "Guilty Pleasure",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Immobilizing or grounding an enemy champion heals you for 30 to 250 (+ 1.5% maximum health) (5 second cooldown per cast instance).",
+    "notes": ""
+  },
+  {
+    "name": "Hat on a Hat",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 15 ability power and 8 bonus magic resistance for each headwear item or hat you have in your inventory, reduced to 8 ability power and 4 bonus magic resistance for hats obtained from Cappa Juice and Stat Bonus. Eligible Epic Items: Haunting Guise, Spectre's Cowl Eligible Legendary Items: Abyssal Mask, Bloodletter's Curse, Cosmic Drive, Diadem of Songs, Edge of Night, Experimental Hexplate, Fimbulwinter, , Hollow Radiance, Hubris, Jak'Sho, The Protean, Knight's Vow, Liandry's Torment, Rabadon's Deathcap, Riftmaker, Shurelya's Battlesong, Whispering Circlet, Wooglet's Witchcap",
+    "notes": "The stats gained for an eligible item is equal to 460 gold. * The stats gained for a stack of Cappa Juice and Stat Bonus is equal to 240 gold."
+  },
+  {
+    "name": "Heavy Hitter",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Basic attacks deal bonus physical damage equal to 3.5% of your maximum health.",
+    "notes": ""
+  },
+  {
+    "name": "Homeguard",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 100% bonus movement speed. This bonus is lost for 6 seconds after taking damage from champions.",
+    "notes": ""
+  },
+  {
+    "name": "Ice Cold",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Your slowing effects reduce the movement speed of targets by an additional 75.",
+    "notes": ""
+  },
+  {
+    "name": "Infernal Soul",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "notes": ""
+  },
+  {
+    "name": "Leg Day",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 50 bonus movement speed and 40% slow resist.",
+    "notes": ""
+  },
+  {
+    "name": "Light 'em Up!",
+    "tier": "Silver",
+    "set": "Firecracker",
+    "description": "Basic attacks generate a stack, up to 4. The fourth stack consumes them all to quickly launch 4 Firecrackers at the target that each deal 11 to 80 (+ 35% bonus AD) (+ 19% AP) bonus magic damage on-hit, for a total of 11*4 to 80*4 (+ 35*4% bonus AD) (+ 19*4% AP).",
+    "notes": ""
+  },
+  {
+    "name": "Mountain Soul",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants the Mountain Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "notes": ""
+  },
+  {
+    "name": "Mighty Shield",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 40 to 100 adaptive force for 3 seconds upon gaining a shield (5 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Mind to Matter",
+    "tier": "Silver",
+    "set": "Archmage",
+    "description": "Grants bonus health equal to 50% maximum mana.",
+    "notes": "Maximum bonus health granted by this effect is capped at 99,999 bonus health."
+  },
+  {
+    "name": "Ocean Soul",
+    "tier": "Silver",
+    "set": "Archmage",
+    "description": "Grants the Ocean Dragon Soul, which has a modified base heal value of 100, or a different Dragon Soul if you aleady have it.",
+    "notes": ""
+  },
+  {
+    "name": "Poltergeist",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Replace a summoner spell with Poltergeist. Poltergeist: geteffect Poltergeist",
+    "notes": ""
+  },
+  {
+    "name": "ReEnergize",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Your Energized attacks against targets not hit by your previous Energized attack do not consume any Energize stacks on-hit. Additionally, when fully Energized, your next basic attack deals bonus magic damage on-hit equal to 10% of the target's current health.",
+    "notes": ""
+  },
+  {
+    "name": "Repulsor",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Upon dropping below 35% of your maximum health, you knock back all enemies within a 500 radius by 750 units and slow them by 90% for 1.5 seconds (25 second cooldown, resets upon death).",
+    "notes": ""
+  },
+  {
+    "name": "Scoped Weapons",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 75 bonus attack range.",
+    "notes": ""
+  },
+  {
+    "name": "Self Destruct",
+    "tier": "Silver",
+    "set": "Dive Bomb, Fully Automated",
+    "description": "Automatically attach a bomb to yourself that detonates after 5 seconds, creating an explosion that deals true damage equal to 20% of the target's maximum health to enemies within 350 units and knocks them up for 0.75 seconds (25 second cooldown).",
+    "notes": "The airborne status effect from the knock back does not interrupt channels nor disable abilities, and is not resisted by immunity nor spell shield."
+  },
+  {
+    "name": "Shadow Runner",
+    "tier": "Silver",
+    "set": "-",
+    "description": "After dashing, blinking, or exiting stealth, gain 300 bonus movement speed for 2 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Sonic Boom",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Granting a buff, heal, or shield to your ally deals 30 to 150 true damage to enemies within 450 units of them and slows targets by 30% for 2 seconds (2 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Spin To Win",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Your Any ability with 'spinning' properties deal 30% increased damage and have their cooldown reduced equivalent to 30 ability haste.",
+    "notes": "This note is not fully complete. If you wish to contribute, please do so on Discussion page There are a lot of abilities that would not usually spin... * Eligible Abilities: Fox-Fire Ahri and Spirit Rush Ahri, Tantrum Amumu, Lacerate Ambessa, Decimate Darius, Spinning Axe Draven, Stand Aside Draven, and Whirling Death Draven, Judgment Garen, Rampage Hecarim, Counter Strike Jax, Voracity Katarina and Death Lotus Katarina, Reaping Slash Kayn, Blooming Blows Lillia, Umbra Blades Nocturne, Powerball Rammus, Cull the Meek Renekton, Broken Wings Riven, Blade Whirl Samira and Inferno Trigger Samira, Petricite Burst Sylas, Cyclone Wukong, Spinning Slash Tryndamere, Crescent Guard Xin Zhao, Shadow Slash Zed * Pending for test: Avengerang Akshan and Heroic Swing Akshan, Watch Out! Eep! Lillia and Swirlseed Lillia, Keeper's Verdict Poppy, etc."
+  },
+  {
+    "name": "Swift and Safe",
+    "tier": "Silver",
+    "set": "-",
+    "description": "After dashing or blinking, gain a shield that lasts for 2 seconds and absorbs 65 to 290 (+ 65% AD) (+ 26% AP) damage (5 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Tank It Or Leave It",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain Critical Defend Chance equal to 100% critical strike chance, up to 50%. Additionally, gain 25% critical strike chance. Critical Defend Chance: Grants you a chance to reduce an instance of damage taken by 20% (5 second cooldown per enemy spell cast instance).",
+    "notes": ""
+  },
+  {
+    "name": "The Brutalizer",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants 20 bonus attack damage, 10 ability haste, and 5 lethality.",
+    "notes": ""
+  },
+  {
+    "name": "Tormentor",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Immobilizing or grounding an enemy champion inflicts them with a Burn for 5 seconds, dealing magic damage equal to4/5% of the target's maximum health per second 4% of the target's maximum health over the duration(5 second cooldown per cast instance). This Burn stacks infinitely and refreshes with each application.",
+    "notes": ""
+  },
+  {
+    "name": "Transmute: Gold",
+    "tier": "Silver",
+    "set": "High Roller",
+    "description": "Gain one random Gold augment, excluding the other two offerings in your current assortment.",
+    "notes": ""
+  },
+  {
+    "name": "Typhoon",
+    "tier": "Silver",
+    "set": "Firecracker",
+    "description": "Basic attacks launch a Firecracker at a nearby enemy champion that deals 30% AD physical damage and applies on-hit effects.",
+    "notes": ""
+  },
+  {
+    "name": "Ultimate Unstoppable",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Casting your ultimate ability grants you crowd control immunity for 3 seconds (8 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Collector",
+    "tier": "Silver",
+    "set": "Make it Rain",
+    "description": "Upgrades The Collector, empowering Death to have its execution threshold increased by 0.5% each time you kill an enemy champion, capped at a threshold of 12.5% of the target's maximum health, and Taxes to generate a further 25 gold (total 50 gold) from kills. Additionally, gain 250 gold.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Immolate",
+    "tier": "Silver",
+    "set": "Make it Rain",
+    "description": "Upgrades Bami's Cinder, Hollow Radiance, Sunfire Aegis, and Void Immolation, empowering Immolate to additionally grant you 12 gold per tick for each enemy champion afflicted by its effect. Additionally, gain 250 gold.",
+    "notes": "Clones do not count as valid targets for the effect."
+  },
+  {
+    "name": "Upgrade Zhonya's",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Upgrades Seeker's Armguard, Wooglet's Witchcap, and Zhonya's Hourglass, empowering Stasis to allow you to move during its active effect, during which time you also gain 50% bonus movement speed. Additionally, the cooldown of Zhonya's Hourglass Stasis is reduced to 45 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Veil of Warding",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants a spell shield that blocks the next hostile ability (30 second cooldown, timer does not restart from champion damage taken).",
+    "notes": ""
+  },
+  {
+    "name": "Wind Beneath Blade",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 1.5 bonus movement speed per 1 Lethality or flat magic penetration, and 5 bonus movement speed per 10% armor penetration or magic penetration.",
+    "notes": ""
+  },
+  {
+    "name": "Witchful Thinking",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants 20 to 80 ability power.",
+    "notes": ""
+  },
+  {
+    "name": "EscAPADe",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Convert all of your ability power into bonus attack damage at a rate of 1 bonus attack damage per 1.66 ability power. Additionally, increase your total attack damage by 15%.",
+    "notes": "Does not convert the Ability Power obtained from Riftmaker's Void Infusion:, nor from Archangel's Staff or Seraph's Embrace's Awe:."
+  },
+  {
+    "name": "All For You",
+    "tier": "Gold",
+    "set": "Wee Woo Wee Woo",
+    "description": "Your heals and shields on allied champions are increased in effectiveness by 30%.",
+    "notes": ""
+  },
+  {
+    "name": "Apex Inventor",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants 100 item haste, which is equivalent to 50% cooldown reduction for items.",
+    "notes": ""
+  },
+  {
+    "name": "Big Brain",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain a shield that absorbs damage equal to 300% AP and lasts until destroyed. Shield is replenished upon respawn and every 70 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Bread And Butter",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your champion's first basic ability (Q) gains 100 ability haste.",
+    "notes": ""
+  },
+  {
+    "name": "Bread And Cheese",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your champion's third basic ability (E) gains 100 ability haste.",
+    "notes": ""
+  },
+  {
+    "name": "Bread And Jam",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your champion's second basic ability (W) gains 100 ability haste.",
+    "notes": ""
+  },
+  {
+    "name": "Celestial Body",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain 1500 bonus health, but reduce your damage output by 10%.",
+    "notes": ""
+  },
+  {
+    "name": "Cheating",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your Recall is now functional and is upgraded to Empowered Recall. Completing an Empowered Recall channel enables the shop. Additionally, the spawn platform will now provide healing and resource restoration for you.",
+    "notes": ""
+  },
+  {
+    "name": "Critical Healing",
+    "tier": "Gold",
+    "set": "Wee Woo Wee Woo",
+    "description": "Your heals and shields now have a chance equal to your critical strike chance critical strike chance to increase in effectiveness by 40% (5 second cooldown per cast instance). Additionally, gain 25% critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Critical Rhythm",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your critical strikes grant you 6% bonus attack speed for 6 seconds, stacking up to 10 times for a total of 60%. Additionally, gain 25% critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Dawnbringer's Resolve",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Upon dropping below 50% maximum health, you are healed for 30% maximum health over 3 seconds (45 second cooldown, reset upon death).",
+    "notes": ""
+  },
+  {
+    "name": "Demon's Dance",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain the Fleet Footwork and Grasp of the Undying keystone runes.",
+    "notes": "Fleet Footwork ** Removed: No longer has an effectiveness modifier for ranged or minions. ** Base heal changed to 10 to 100. ** Heal bonus AD ratio changed to 30% bonus AD. ** Heal AP ratio changed to 20% AP. ** Movement speed changed to 20%. * Grasp of the Undying ** Triggered attack bonus health changed to 7. ** New Effect: Triggered attack now has a base heal of 3. ** Triggered attack heal health ratio changed to 1.2% maximum health."
+  },
+  {
+    "name": "Divine Intervention",
+    "tier": "Gold",
+    "set": "Fully Automated",
+    "description": "Automatically cast Cosmic Radiance Taric, calling down a protective star upon you that descends over 2.5 seconds. Afterwards, you and all allied champions within icononly=true 400 units become invulnerable for 2.5 seconds (35 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Ethereal Weapon",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your abilities apply on-hit effects (1 second cooldown per target).",
+    "notes": ""
+  },
+  {
+    "name": "Executioner",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
+    "notes": ""
+  },
+  {
+    "name": "Firebrand",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Basic attacks apply a Burn for 5 seconds that deals bonus magic damage equal to2/5% of the target's maximum health per second. 2% of the target's maximum health over the duration.This Burn stacks infinitely and refreshes with each application.",
+    "notes": ""
+  },
+  {
+    "name": "Flash 2",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Replace a summoner spell with Flash. Additionally, gain 70 summoner spell haste.",
+    "notes": ""
+  },
+  {
+    "name": "Flashy",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your Flash now has 3 charges with a 2-second cooldown between casts (120 seconds recharge time for all 3 charges). If Flash is not equipped, you will be prompted to replace one of your summoner spells with Flash.",
+    "notes": ""
+  },
+  {
+    "name": "From Beginning to End",
+    "tier": "Gold",
+    "set": "Make it Rain",
+    "description": "Gain the Dark Harvest and First Strike keystone runes.",
+    "notes": "Dark Harvest ** Base damage changed to 50 to 100. ** Damage per soul changed to 20. ** Bonus AD ratio changed to 35% bonus AD. ** AP ratio changed to 25% AP. ** Gain 8 bonus souls for selecting this augment as not your first augment. * First Strike ** Base gold increased to 20 gold from 15 gold (ARAM override value). ** Bonus damage increased to 10% from 7%."
+  },
+  {
+    "name": "Get Excited",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Scoring a champion takedown grants you 100% bonus movement speed and 15% total attack speed for 4 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Holy Fire",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your heals and shields cause you to fire a missile to the nearest enemy unit within 650 units over 0.32 seconds, applying a Burn upon arrival that deals magic damage equal to 0.2% of the target's maximum health every second over 5 seconds, for a total of 1% (1.5-second cooldown). The Burn's per-tick damage increases to up to 0.8% of the target's maximum health based on the relative value of the triggering heal or shield against the maximum health of the ally recipient, for a total maximum damage of 4% of the target's maximum health.",
+    "notes": ""
+  },
+  {
+    "name": "Impassable",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain the Aftershock and Glacial Augment keystone runes.",
+    "notes": "Aftershock ** Cooldown reduced to 15 seconds from 20. * Glacial Augment ** Cooldown reduced to 15 seconds from 25."
+  },
+  {
+    "name": "It's Critical",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants 50% critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "It's Killing Time",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Upon casting your ultimate ability, you apply Death Mark Zed to all enemy champions (8 second cooldown). The mark stores 40% of all Damage calculated before modifiers damage you deal to the affected target, detonating after 5 seconds to deal true damage equal to the damage stored against them.",
+    "notes": ""
+  },
+  {
+    "name": "Keystone Conjurer",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain the Arcane Comet and Summon Aery keystone runes.",
+    "notes": "Summon Aery ** Base damage changed to 30 to 100."
+  },
+  {
+    "name": "Lightning Strikes",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Increase your bonus attack speed gained from all sources by 20%. While at 1.75 attack speed or higher, your basic attacks deal 40 bonus magic damage on-hit.",
+    "notes": ""
+  },
+  {
+    "name": "Magic Missile",
+    "tier": "Gold",
+    "set": "Firecracker",
+    "description": "Dealing damage to an enemy champion with an ability fires 3 Firecrackers at them that each deal true damage equal to 0.33% of the target's maximum health, increased to up to 1% based on distance travelled (maximum damage reached at 1000 units). This effect can only trigger once every 6 seconds from the same cast.",
+    "notes": ""
+  },
+  {
+    "name": "Marksmage",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Basic attacks deal bonus physical damage equal to 75% AP.",
+    "notes": ""
+  },
+  {
+    "name": "Minionmancer",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your pets deal 40% increased damage as well as gain 40% bonus health and size.",
+    "notes": ""
+  },
+  {
+    "name": "Nightstalking",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Scoring a takedown against an enemy champion within 3 seconds of damaging them renders you invisible for 1.5 seconds. Attacking or casting abilites ends the stealth immediately.",
+    "notes": ""
+  },
+  {
+    "name": "OK Boomerang",
+    "tier": "Gold",
+    "set": "Fully Automated",
+    "description": "Automatically cast an improved version of Boomerang Blade Sivir at the closest nearby enemy champion within 1250 units, dealing 40 to 200 (+ 30% bonus AD) (+ 20% AP) adaptive damage to enemies hit (10 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Outlaw's Grit",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Dashing or blinking grants 12 bonus armor and bonus magic resistance for 15 seconds, stacking up to 5 times for a total of 60 bonus resistances, and refreshing on subsequent triggers.",
+    "notes": ""
+  },
+  {
+    "name": "Overflow",
+    "tier": "Gold",
+    "set": "Archmage",
+    "description": "Your abilities' mana costs are doubled, but you also gain 10% (+ 0.5% per 100 maximum mana) increased damage as well as self and outgoing healing and shielding.",
+    "notes": ""
+  },
+  {
+    "name": "Perseverance",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants 1000% base health regeneration, increased to 2000% while below 25% maximum health.",
+    "notes": "This augment prevents the user from being offered the Vampirism augment."
+  },
+  {
+    "name": "Rabble Rousing",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Casting an ability heals you for 5 to 60 (+ 1% maximum health).",
+    "notes": "Toggled abilities will not trigger this augment as they do not count as ability activations for the purposes of on-cast effects."
+  },
+  {
+    "name": "Recursion",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants 60 ability haste.",
+    "notes": ""
+  },
+  {
+    "name": "Restless Restoration",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Heal for 20/100 to 120/100 (+ 1/100% maximum health) per 10 units travelled.",
+    "notes": ""
+  },
+  {
+    "name": "Scopier Weapons",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain 200 bonus attack range.",
+    "notes": ""
+  },
+  {
+    "name": "Searing Dawn",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Gain Sunlight Leona. Sunlight: Your damaging abilities mark enemies, causing them to take 40 to 200 bonus magic damage from your ally's next basic attack or ability hit against them (0.75-second cooldown per target).",
+    "notes": ""
+  },
+  {
+    "name": "Shrink Ray",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Basic attacks on-hit reduce the target's damage dealt by 15% for 3 seconds, refreshing with each hit. Their size is also reduced significantly for the duration.",
+    "notes": ""
+  },
+  {
+    "name": "Skilled Sniper",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Hitting an enemy champion with a basic ability while located at least icononly=true 700 units away from them at the time of the hit reduces its current cooldown by 80% of its total cooldown, modified to 65% for damage over time abilities.",
+    "notes": ""
+  },
+  {
+    "name": "Slow and Steady",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your attack speed base attack speed is set to a static amount of 0.625 and your attack rate no longer benefits from any source of attack speed bonuses. In return, you gain 25 bonus attack damage and convert every 1% bonus attack speed into 1 bonus attack damage.",
+    "notes": ""
+  },
+  {
+    "name": "Snowball Upgrade",
+    "tier": "Gold",
+    "set": "Snowday",
+    "description": "Your Mark is empowered to hail a snowstorm at the location where the target was hit for 2 seconds, granting sight of the area and dealing200 (+ 200% bonus AD) (+ 120% AP) magic damage 200/8 (+ 200/8% bonus AD) (+ 120/8% AP) magic damage every 0.25 secondsto enemies within over the duration, as well as slowing them by 50% (+ 6% per 100 AP). Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "notes": ""
+  },
+  {
+    "name": "Soul Siphon",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Heal for 12% of the Damage calculated after modifiers dealt by your critical strikes. Additionally, gain 25% critical strike chance.",
+    "notes": "Any damage from Critical strikes will heal, including those from non-basic attack sources (Noxian Diplomacy Talon, Volley Ashe, etc)."
+  },
+  {
+    "name": "Spiritual Purification",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Scoring a champion takedown causes the area around the slain champion to explode in a 500 unit radius, dealing adaptive damage to enemies within equal to 15% of their current health and leaving behind a zone for 1.5 seconds that slows enemies within by 60%.",
+    "notes": ""
+  },
+  {
+    "name": "Tank Engine",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your maximum health and size by 5%. Lose 65% of stacks on death.",
+    "notes": ""
+  },
+  {
+    "name": "Thread the Needle",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants 18% armor penetration and magic penetration.",
+    "notes": ""
+  },
+  {
+    "name": "Transmute: Prismatic",
+    "tier": "Gold",
+    "set": "High Roller",
+    "description": "Gain one random Prismatic augment, excluding the other two offerings in your current assortment.",
+    "notes": ""
+  },
+  {
+    "name": "Twice Thrice",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Basic attacks generate a stack, up to 2 times. At 2 stacks, your next basic attack consumes all stacks to apply on-hit effects again at 150% effectiveness.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Hubris",
+    "tier": "Gold",
+    "set": "Stackosaurus Rex",
+    "description": "Upgrades Hubris, empowering Eminence to heal you for 2.5% (+ 0.5% per stack) maximum health upon being triggered and grant you 10 (+ 5 per stack) bonus movement speed for its duration. Additionally, gain 250 gold.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Infinity Edge",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Upgrades Infinity Edge, empowering it to gain Sword of the Divine Excoriate. Additionally, gain 500 gold and 25% critical strike chance. Excoriate: Gain a random amount of bonus critical strike damage that scales up to 50% of your critical strike chance, with the value of this amount changing every 0.25 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Sheen",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Upgrades all Spellblade items, empowering the passive effect to deal additional bonus physical damage equal to 4% of the target's maximum health and heal you for 3.5% of your maximum health. Additionally, gain 250 gold.",
+    "notes": ""
+  },
+  {
+    "name": "Vampirism",
+    "tier": "Gold",
+    "set": "-",
+    "description": "You can no longer be healed by allies and your health regeneration is set to 0. Gain 25% omnivamp.",
+    "notes": "Diadem of Songs Consonance and Moonstone Renewer Starlit Grace will specifically not target champions with this augment. * This augment prevents the user from being offered the Perseverance augment. * This augment is not offered if the champion has built Warmog's Armor."
+  },
+  {
+    "name": "Vulnerability",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Damage dealt by items and damage over time effects can now critically strike for (145% + bonus critical damage) damage (5 second cooldown per cast instance). Additionally, gain 25% critical strike chance. If both Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+    "notes": "The interaction between Jeweled Gauntlet and Vulnerability may behave incorrectly with persistent area damage effects."
+  },
+  {
+    "name": "With Haste",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Grants bonus movement speed equal to 70% ability haste.",
+    "notes": ""
+  },
+  {
+    "name": "I'm a Baby Kitty Where is Mama",
+    "tier": "Prismatic",
+    "set": "Wee Woo Wee Woo",
+    "description": "Bind with the nearest allied champion to you after 2 seconds, forming a tether between you and them (400 radius). While the tether persists, you gain 75% bonus movement speed and 50% heal and shield power. Additionally, gain 37.5% bonus movement speed while facing your bound ally within 1500 units. The tether will break when you or your bound ally dies, allowing you to form a new tether.",
+    "notes": ""
+  },
+  {
+    "name": "Back to Basics",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased healing and shielding from all sources, but your ultimate ability is permanently sealed.",
+    "notes": ""
+  },
+  {
+    "name": "Biggest Snowball Ever",
+    "tier": "Prismatic",
+    "set": "Snowday",
+    "description": "Upgrades your Mark into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal 200 to 350 (+ 100% bonus AD) (+ 60% AP) magic damage to all nearby enemies, knock them up for 0.75 seconds, and slow them by 20% for 2 seconds. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark. Non-champions hit by the snowball are stunned for 1.25 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Blade Waltz",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Blade Waltz. Blade Waltz: geteffect Blade Waltz",
+    "notes": ""
+  },
+  {
+    "name": "Can't Touch This",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Circle of Death",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Healing and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
+    "notes": ""
+  },
+  {
+    "name": "Clown College",
+    "tier": "Prismatic",
+    "set": "Dive Bomb",
+    "description": "Gain Shaco Backstab Shaco, Deceive Shaco and Hallucinate Shaco explosion. Replace a summoner spell with Deceive Shaco. Passive - Backstab: Your basic attacks deal 20 to 35 (+ 50% bonus AD) (+ 35% AP) bonus physical damage physical on-hit when hitting an enemy from behind. Active - Deceive: Become invisible for up to 3 seconds and blink to the target location within 400 units after a 0.125-second delay. Your next basic attack while in stealth deals 100 (+ 150% bonus AD) (+ 55% AP) bonus physical damage, increased to100*1.55 (+ 150*1.55% bonus AD) (+ 55*1.55% AP) bonus physical damage 155% damageif Backstab was applied (45 second cooldown). Passive - Hallucinate Death: Upon your death, release an explosion in a icononly=true 350 radius of your death location, dealing 25% of target's maximum health true damage to enemies within. Additionally, you deploy a Jack in the Box Shaco box at the location of your death that instantly fears nearby enemies for 1 second. This box does not attack but lasts for 3 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Courage of the Colossus",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Immobilizing or grounding an enemy champion grants a shield for 3 seconds that absorbs 150 to 450 (+ 4% maximum health) damage (5 second cooldown per cast instance). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
+    "notes": ""
+  },
+  {
+    "name": "Cruelty",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Immobilizing or grounding an enemy champion summons a comet above them that lands at their current location after 1 second, dealing 50 to 150 (+ 40% AP) (+ 4% of your maximum health) magic damage to enemies within the area (6 second cooldown per target per cast instance).",
+    "notes": ""
+  },
+  {
+    "name": "Dashing",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Abilities with dashes or blinks gain 175 ability haste.",
+    "notes": "On Kalista, this augment instead grants her 125% bonus attack speed."
+  },
+  {
+    "name": "Draw Your Sword",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Become melee, modifying your attack range to 200 (+ 100% bonus attack range from augments) units. Additionally, gain 30% bonus attack damage, 25% bonus attack speed, 30% bonus health, 25% bonus movement speed, and 20% life steal. These bonuses are increased by type=champion's default attack range. This augment is only available for ranged champions.",
+    "notes": "This augment is not offered if the champion has built Runaan's Hurricane."
+  },
+  {
+    "name": "Dual Wield",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your basic attacks launch a bolt at the target that fires after a Estimated on-attack, deals 40% of the triggering attack's Damage calculated before modifiers damage, and applies on-hit effects at 40% effectiveness. Additionally, increase your total attack speed by 10%.",
+    "notes": ""
+  },
+  {
+    "name": "Empyrean Promise",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Empyrean Promise Vigilance active. Additionally, gain 15% heal and shield power. Active - Vigilance: After a 0.25-second delay, dash to the current location of the target allied champion and gain a 100 to 250 (+ 100% AP) (+ 10% bonus health) shield for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
+    "notes": ""
+  },
+  {
+    "name": "Eureka",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain ability haste equal to 30% AP.",
+    "notes": ""
+  },
+  {
+    "name": "Fan the Hammer",
+    "tier": "Prismatic",
+    "set": "Firecracker",
+    "description": "Your next basic attack against an enemy champion in each cardinal direction within attack range 750 range additionally on-attack fires 5 Firecrackers at the target that each deal 8 to 51 (+ 14% bonus AD) physical damage, for a total of 8*5 to 51*5 (+ 14*5% bonus AD) physical damage (5 second cooldown per direction). Firecrackers' damage is increased by 0 to 50 for 11. Each Firecracker can critically strike for 200 100 damage and applies on-hit effects at 20% effectiveness.",
+    "notes": ""
+  },
+  {
+    "name": "Feel the Burn",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Feel the Burn. Feel the Burn: Casts both Exhaust and Ignite on all enemy champions within 800 units, with the former having its slow strength increased to 50% and the latter modified to deal 70 to 410 true damage over the duration. This effect counts as a Burn source.",
+    "notes": ""
+  },
+  {
+    "name": "Fey Magic",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Damaging enemies with your ultimate ability polymorphs them into harmless critters for 2 seconds, during which their base movement speed is reduced by 60, and disarms them for the same duration (15 second cooldown per target).",
+    "notes": ""
+  },
+  {
+    "name": "Final Form",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Casting your ultimate ability empowers you for 10 seconds, causing you to gain a shield for 50% of your maximum health, 20% omnivamp, and 30% bonus movement speed for the duration (20 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Gash",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Basic attacks on-hit deal 20 to 40 (+ 25% bonus armor) bonus true damage. Additionally, gain 50% bonus attack speed.",
+    "notes": ""
+  },
+  {
+    "name": "Giant Slayer",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Become tiny, reducing your size by 75% and granting you 20% bonus movement speed. Additionally, deal type=target's size bonus damage against enemy champions with greater size than you.",
+    "notes": ""
+  },
+  {
+    "name": "Glass Cannon",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "You gain a health threshold equal to 70% maximum health which cannot be By increases or decreases to maximum health nor By healing and health regeneration by any means. In return, you deal bonus true damage equal to 15% of all of the damage you deal Damage calculated before modifiers.",
+    "notes": ""
+  },
+  {
+    "name": "Goldrend",
+    "tier": "Prismatic",
+    "set": "Make it Rain",
+    "description": "Damaging basic attacks or abilities against enemy champions deal 50 to 150 (+ 40% bonus AD) (+ 20% AP) bonus magic damage, and grant you 30 gold and 25% bonus movement speed for 1.5 seconds (30 second cooldown per champion).",
+    "notes": ""
+  },
+  {
+    "name": "Goliath",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Grants 35% bonus health, 15% adaptive force, and 50% increased size.",
+    "notes": ""
+  },
+  {
+    "name": "Infernal Conduit",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your ability hits against champions apply a Burn for 3 seconds that dealscolor=magic damage (+ 4.6% bonus AD) (+ 6/3% AP) bonus magic damage per second color=magic damage (+ 14% bonus AD) (+ 6% AP) bonus magic damage over the duration(1 second cooldown per cast instance). This Burn stacks infinitely and refreshes with each application. Additionally, all of your Burn effects reduce the cooldowns of all your basic abilities by 0.08 seconds for each tick of damage they deal to a target.",
+    "notes": "Damage over time effects from all sources except items2 count as Burn sources for triggering the cooldown reduction. * Eligible Augments for Burn: Buff Buddies, Feel the Burn, Firebrand, Grandma's Chili Oil, Holy Fire, Infernal Conduit, Slow Cooker, Tormentor"
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your abilities can now critically strike for (145% + bonus critical damage) damage. Additionally, gain 25% (+ 4.5% per 100 AP) critical strike chance. If both Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+    "notes": "The interaction between Jeweled Gauntlet and Vulnerability may behave incorrectly with persistent area damage effects."
+  },
+  {
+    "name": "King Me",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Upon entering the enemy team's gate or Catapult for the first time, either of which are located near their spawn, you become Kinged, causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all Includes AH, AP, AD, AS, AR, MR, and HP on the item is increased by exactly 1000 gold. King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+    "notes": ""
+  },
+  {
+    "name": "Laser Heal",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Laser Heal. Laser Heal: geteffect Laser Heal Healing granted by the laser counts as Heal is attributed to the unit being healed, not the augment user.",
+    "notes": ""
+  },
+  {
+    "name": "Mad Scientist",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force, 20% bonus health, and 40% increased size or 70 ability haste, 40% bonus movement speed, and 40% reduced size.",
+    "notes": ""
+  },
+  {
+    "name": "Master of Duality",
+    "tier": "Prismatic",
+    "set": "Stackosaurus Rex",
+    "description": "Basic attacks on-hit grant 6 to 18 ability power and damaging abilities once per cast instance grant 3 to 9 bonus attack damage, lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely.",
+    "notes": ""
+  },
+  {
+    "name": "Mystic Punch",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Basic attacks on-hit reduce the remaining cooldowns of your abilities by 1.25 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Ominous Pact",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your abilities now have a health cost of 5% current health to cast them. In return, you gain ability power based on your missing health, up to 75 to 150 at 70% missing health, key1=% bonus movement speed, and key1=% omnivamp.",
+    "notes": ""
+  },
+  {
+    "name": "Omni Soul",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Grants 3 random Dragon Soul.",
+    "notes": ""
+  },
+  {
+    "name": "Protein Shake",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain 25% (+ 35% per 100 bonus armor) (+ 35% per 100 bonus magic resistance) heal and shield power.",
+    "notes": ""
+  },
+  {
+    "name": "Quantum Computing",
+    "tier": "Prismatic",
+    "set": "Fully Automated",
+    "description": "Automatically cast an improved version of Tactical Sweep Camille when an enemy champion is within 650 units of you, winding up over 0.75 seconds to slash in a 650 radius around you. The slash deals 200 to 350 (+ 75% bonus AD) (+ 45% AP) physical damage to enemies within the area (30 second cooldown). Enemies hit by the outer edge of the circle take bonus physical damage equal to 10% (+ 2.5% per 100 bonus AD) (+ 1.6% per 100 AP) (+ 0.1% per 100 bonus health) of their maximum health and are slowed by 80% decaying over 2 seconds. Additionally, you are healed for 80% of the bonus Damage calculated after modifiers damage against enemy champions hit by the outer edge.",
+    "notes": ""
+  },
+  {
+    "name": "Quest: Sneakerhead",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "You have now been assigned with a number of quests to complete that each involve performing specific tasks while equipped with a particular [https://wiki.leagueoflegends.com/en-us/Category:Boots_items Boots item], which is granted to you for free during its respective quest. Finish the following quests, which are assigned to you in a random order: Quest - Berserker's Greaves: Basic attack 25 times.Quest - Boots of Swiftness: Run 300 steps.Quest - Ionian Boots of Lucidity: Cast 20 abilities.Quest - Mercury's Treads: Become afflicted by crowd control 5 times.Quest - Plated Steelcaps: Reduce a total of 200 damage with Plating.Quest - Sorcerer's Shoes: Deal a total of 1500 damage with abilities. Reward: Upon completing all of the above quests, you receive Jarvan I's. You cannot purchase any Boots items while equipped with this augment. If you already have a Boots item, it is replaced by the Boots granted by this effect. Boots items gained from this effect cannot be sold. This augment is currently disabled.",
+    "notes": ""
+  },
+  {
+    "name": "Quest: Steel Your Heart",
+    "tier": "Gold",
+    "set": "Stackosaurus Rex",
+    "description": "Quest: Obtain Heartsteel and accumulate over 300 bonus health from Colossal Consumption. Reward: Upon completing your Quest:, increase the bonus health gained from Heartsteel Colossal Consumption by 200%.",
+    "notes": ""
+  },
+  {
+    "name": "Quest: Urf's Champion",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Quest: Score 18 champion takedowns. Reward: Upon completing your Quest:, you receive The Golden Spatula. If your inventory is full at the time of quest completion, the item will be granted as soon as a slot in the inventory is available.",
+    "notes": ""
+  },
+  {
+    "name": "Quest: Wooglet's Witchcap",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain a Needlessly Large Rod. Quest: Obtain Rabadon's Deathcap and Zhonya's Hourglass. Reward: Upon completing your Quest:, convert the items you obtained for the quest into Wooglet's Witchcap.",
+    "notes": ""
+  },
+  {
+    "name": "Scopiest Weapons",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain 250 bonus attack range.",
+    "notes": ""
+  },
+  {
+    "name": "Slow Cooker",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Surrounds you in flames, causing you to apply a Burn every second to enemy champions within 500 units for 3 seconds that deals magic damage equal to0.66% of your maximum health per second. 2% of your maximum health over the duration.This Burn stacks infinitely and refreshes with each application.",
+    "notes": ""
+  },
+  {
+    "name": "Snowball Roulette",
+    "tier": "Gold",
+    "set": "Snowday",
+    "description": "Hitting an enemy with Mark casts a random harmful summoner spell on them, and also casts a random beneficial summoner spell on yourself. Using Dash casts the beneficial summoner spell on yourself again upon arrival. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "notes": "Harmful summoner spells: Exhaust and Ignite * Beneficial Summoner spells: Barrier, Clarity, Cleanse, Ghost, and Heal ** Recasting Barrier and Cleanse refreshes the duration. ** Recasted Heal will heal less since the Recently Healed debuff will be applied on the first. ** Ghost can be stacked up to a maximum of 5 times (which is possible with Biggest Snowball Ever augment)"
+  },
+  {
+    "name": "Symphony of War",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain the Conqueror and Lethal Tempo keystone runes.",
+    "notes": "Conqueror ** Adaptive force per stack changed to 3 to 5.5. ** Healing changed to 10% of damage dealt. * Lethal Tempo ** Bonus attack speed per stack changed to 13 to 18. *** Maximum bonus attack speed changed to 13*6 to 18*6. ** Removed: No longer empowers basic attacks at maximum stacks to fire a bolt that deals bonus adaptive damage. ** New Effect: At maximum stacks, gain attack range 50 bonus attack range and increase the attack speed cap to 10."
+  },
+  {
+    "name": "Tap Dancer",
+    "tier": "Prismatic",
+    "set": "Stackosaurus Rex",
+    "description": "Basic attacks on-hit against enemy champions and minions grant 10 bonus movement speed, lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain bonus attack speed equal to 10% total movement speed.",
+    "notes": ""
+  },
+  {
+    "name": "Transmute: Chaos",
+    "tier": "Prismatic",
+    "set": "High Roller",
+    "description": "Gain two completely random augments, excluding the other two offerings in your current assortment.",
+    "notes": ""
+  },
+  {
+    "name": "Ultimate Awakening",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Casting your ultimate ability resets the cooldowns of all your basic abilities and grants you 300 basic ability haste for 15 seconds (20 second cooldown). Additionally, gain 30 ultimate haste.",
+    "notes": ""
+  },
+  {
+    "name": "Ultimate Revolution",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Casting your ultimate ability resets its cooldown once its effect For instant-cast spells or has For duration-based spells (75 second cooldown, reset upon death).",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Mikael's Blessing",
+    "tier": "Prismatic",
+    "set": "Wee Woo Wee Woo",
+    "description": "Upgrades Mikael's Blessing, reducing the cooldown of Purify to 45 seconds and empowering its active to instead affect you and all nearby allied champions, cleansing all targets of crowd control (excluding Airborne), healing them for 150 to 450 (+ 50% AP), and granting them 65% tenacity for 3 seconds. Additionally, you are granted Mikael's Blessing for free. If you already have Mikael's Blessing, gain 2300 gold instead. If your inventory is full, the item will be granted as soon as a slot in the inventory is available.",
+    "notes": ""
+  },
+  {
+    "name": "Windspeaker's Blessing",
+    "tier": "Prismatic",
+    "set": "Wee Woo Wee Woo",
+    "description": "Your or allies' heals and shields on yourself, or your heals and shields on allies, grant the target 30 to 60 bonus armor and bonus magic resistance for 3 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Cerberus",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain the Hail of Blades and Press the Attack keystone runes.",
+    "notes": "Hail of Blades ** Bonus attack speed for melee champions increased to 200% from 140%. ** Bonus attack speed for ranged champions increased to 115% from 100% (ARAM override value). * Press the Attack ** Bonus damage increased to 120 to 360 from 40 to 160. ** Damage amplifier increased to 15% from 8%. ** New Effect: Bonus damage now scales with 40% AD and 30% AP."
+  },
+  {
+    "name": "Earthwake",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Dashing or blinking causes you to leave behind a trail icononly=true from the location you moved to your destination that detonates after 0.75 seconds in a 300 radius, dealing 70 to 210 (+ 125% bonus AD) (+ 60% AP) physical damage per explosion to enemies hit, reduced to 70% against minions. Enemies can be affected only once every second from all cast instances, and the effect is not triggered if you move beyond 2000 units with the dash or blink. This augment is only offered to up to 2 players on each team for a given game.",
+    "notes": ""
+  },
+  {
+    "name": "Pandora's Box",
+    "tier": "Prismatic",
+    "set": "High Roller",
+    "description": "Your current augments transform into an equal number of completely random Prismatic ones.",
+    "notes": ""
+  },
+  {
+    "name": "Trueshot Prodigy",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Upon damaging an enemy while located at over center-to-edge at the time of the hit, cast Trueshot Barrage Ezreal in their direction. The barrage deals 100 to 350 (+ 80% bonus AD) (+ 60% AP) magic damage to enemies it passes through (15 second cooldown). This augment is only offered to up to 1 player on each team for a given game.",
+    "notes": ""
+  },
+  {
+    "name": "Slap Around",
+    "tier": "Silver",
+    "set": "Stackosaurus Rex",
+    "description": "Immobilizing or grounding an enemy champion grants you 10, stacking infinitely (5 second cooldown per cast instance). Lose 50% of stacks on death.",
+    "notes": "If the bonus attack damage and the ability power of the unit are equal, the stat granted is always bonus AD."
+  },
+  {
+    "name": "???",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "YourEnemy Missing pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal 100 to 400 (+ 10% of target's missing health) magic damage to enemies struck, and heal allied champions within for 50 to 200 (+ 10% of target's missing health).",
+    "notes": "While equipped with this augment, the player can only use up to 3 Enemy Missing pings each within 6 seconds at most. This incurs a separate cooldown from the global one, sending an alert to the player that reads: You must wait before issuing more pings of that type. Otherwise, the global ping cooldown is incurred as normal. * The heal is not affected by the -50% outgoing healing penalty from the ARAM global champion buff."
+  },
+  {
+    "name": "Hextech Soul",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "notes": ""
+  },
+  {
+    "name": "Infinite Recursion",
+    "tier": "Prismatic",
+    "set": "Stackosaurus Rex",
+    "description": "Gain 60 ability haste, increased by 3 each time you score a champion takedown.",
+    "notes": ""
+  },
+  {
+    "name": "Bounce of the Poro King",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Bounce of the Poro King. Bounce of the Poro King: geteffect Bounce of the Poro King",
+    "notes": ""
+  },
+  {
+    "name": "Crack Open That Egg",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Your shields detonate upon expiration, creating an explosion that deals magic damage equal to 100% of the shield's strength to nearby enemies.",
+    "notes": ""
+  },
+  {
+    "name": "Crit 'n Cast",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain ability haste equal to 40% of your critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Critical Missile",
+    "tier": "Gold",
+    "set": "Firecracker",
+    "description": "Critical strikes against enemy champions launch 1 (+ 1 per 33.33% critical strike chance) Firecrackers at the target that each deal 20 to 100 magic damage. Additionally, gain 25% critical strike chance.",
+    "notes": "Critical strikes from Jeweled Gauntlet and Vulnerability will launch Firecrackers."
+  },
+  {
+    "name": "Devil on Your Shoulder",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Forge a pact with Teemo Little Devil, who drains 0.5% of your current health every second, increased to 5% if there are enemy champions within 1000 units. In return, you deal 20% bonus true damage and your basic attacks and abilities summon a Life Remnant nearby for 5 seconds (0.75-second spawn cooldown). You can absorb a Life Remnant by moving over it, healing you for 50 to 150 (+ 50% bonus AD) (+ 25% AP) and granting you 15% bonus movement speed.",
+    "notes": ""
+  },
+  {
+    "name": "Donation",
+    "tier": "Gold",
+    "set": "Make it Rain",
+    "description": "Gain 1750 gold upon acquiring this augment.",
+    "notes": ""
+  },
+  {
+    "name": "Double Tap",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Basic attacks that critically strike apply on-hit effects an additional time. Additionally, gain 25% critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Dropkick",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your basic attacks and abilities execute enemy champions below 5% (+ 3.5% per 100 base AD) (+ 2% per 1000 bonus health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal 150 to 500 (+ 100% bonus armor) (+ 100% bonus magic resistance) magic damage to nearby enemies. Successful executions heal you for 100 to 300 (+ 25% bonus health). The execution may also be triggered by the explosion and goes through shields.",
+    "notes": ""
+  },
+  {
+    "name": "Droppybara",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Replace a summoner spell with Droppybara. Droppybara: geteffect Droppybara This augment is only offered to up to 1 player on each team for a given game.",
+    "notes": ""
+  },
+  {
+    "name": "Empowered By The Faithful",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Granting a heal or shield to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals 50 to 300 (+ 750% heal and shield power) magic damage to nearby enemies. Enemy champions damaged below a percentage of their maximum health equal to 25% of your heal and shield power are executed.",
+    "notes": ""
+  },
+  {
+    "name": "Final City Transit",
+    "tier": "Gold",
+    "set": "Dive Bomb",
+    "description": "Upon death, you summon a train over 1 second that launches towards your killer at full speed, travelling in their direction at a global distance and dealing 150 to 750 (+ 65% bonus AD) (+ 50% AP) (+ 15% maximum health) physical damage to enemies it passes through. The train is summoned a slight distance away from the front of your killer, based on their facing direction at the time of your death, and launches towards the position they were located at the time of your death.",
+    "notes": ""
+  },
+  {
+    "name": "Firefox",
+    "tier": "Silver",
+    "set": "Fully Automated",
+    "description": "Automatically cast a modified version of Fox-Fire Ahri, gaining 25% bonus movement speed that decays over 2 seconds and conjuring 3 flames that orbit you clockwise for up to 2.5 seconds at a radius of icononly=true 150 units. The flames will On a 0.25-second delay after acquisition the nearest visible enemies within icononly=true 550 units, dealing 35 to 160 (+ 25% bonus AD (+ 25% AP) adaptive damage, reduced to35*0.3 to 160*0.3 (+ 25*0.3% bonus AD (+ 25*0.3% AP) 30% of the original damagefor enemies hit by subsequent flames from the same cast (7 second cooldown).",
+    "notes": ""
+  },
+  {
+    "name": "Grandma's Chili Oil",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Your next basic attack or ability hit, or Burn effect, against an enemy champion inflicts them with a Burn that deals100 to 350 magic damage over 3 seconds, 200/12 to 450/12 magic damage every 0.25 seconds over 3 seconds,as well as releases a canister of chili from the target that lands to a location near them after 0.75 seconds (3 second cooldown). Upon landing, the canister shatters to create a pool of Chili Oil at the impact area with a radius of 175 units, lasting for 5 seconds. The pool heals you and allied champions within for 30 to 75 upon entering and each second of the pool's lifetime thereafter. While enemies are within the pool, they are dealt 150 magic damage every second. For each unique Burn effect source that you have, up to 10, increase the pool's size by 40 units and its damage per tick by 50 magic damage. The healing per tick is also increased by 25 for each unique Burn effect source that the unit being healed has, up to 10. Healing granted by pools counts as Heal is attributed to the unit being healed, not the augment user.",
+    "notes": "This effect can be triggered from only one target at a time. * Damage over time effects from sources other than items and augments, such as champion abilities or summoner spells, do not count as Burn sources for Grandma's Chili Oil. * Eligible Items for Burn: Blackfire Torch, Hollow Radiance, Liandry's Torment, Malignance, Sunfire Aegis, The Golden Spatula, Void Immolation ** Void Immolation uniquely counts as 2 Burn sources. * Eligible Augments for Burn: Buff Buddies, Feel the Burn, Firebrand, Holy Fire, Infernal Conduit, Slow Cooker, Tormentor ** Grandma's Chili Oil does not count itself as a Burn effect. * The pools of Chili Oil will follow their user in and out of Realm of Death Mordekaiser but will only be visible in the realm they were generated."
+  },
+  {
+    "name": "Growth Spurt",
+    "tier": "Gold",
+    "set": "-",
+    "description": "Replace a summoner spell with Growth Spurt. Growth Spurt: geteffect Growth Spurt",
+    "notes": ""
+  },
+  {
+    "name": "Heads Up Cupcake!",
+    "tier": "Prismatic",
+    "set": "Make it Rain",
+    "description": "Periodically, Cupcakes will fly across the map. Champions can consume a Cupcake by moving within 300 units of it, healing them and their nearby allied champions for 50 to 250 (+ key=% missing health), as well as slowing all targets by 25% for 0.5 seconds. Cupcakes also grant 50 gold to the champion who consumed it. Additionally, for every 1000 healing done by Cupcakes, you gain 150 gold. Healing granted by Cupcakes counts as Heal is attributed to the unit being healed, not the augment user.",
+    "notes": ""
+  },
+  {
+    "name": "Holy Snowball",
+    "tier": "Prismatic",
+    "set": "Snowday",
+    "description": "After using the Dash spell from Mark, you become invulnerable for 1.5 seconds upon arrival. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "notes": ""
+  },
+  {
+    "name": "Triggered Inferno",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Your damaging basic attacks and abilities against at least one enemy champion unique from the previous damaging hit made against champions generate a stack of Style for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain 1 to 16 bonus movement speed, up to a maximum of 1 to 16. Upon reaching maximum Style stacks, you unleash a torrent of shots for 2.25, during which you rapidly shoot at nearby enemies over 2 at sporadic times in on average; total of 5 intervals of 0.231 and 5 of 0.198 seconds each (up to 10 times per enemy), dealing 20 to 40 (+ 40% AD) (+ 25% AP) physical damage with each shot, reduced by 75% against minions. Enemies below 30% of their maximum health are critically struck fordouble damage 20*2 to 40*2 (+ 40*2% AD) (+ 25*2% AP) physical damage(15 second cooldown). This effect ends prematurely if you become affected by cast-inhibiting crowd control. Shot damage applies life steal. Style stacks are consumed at the end of the shooting effect.",
+    "notes": ""
+  },
+  {
+    "name": "Juiced",
+    "tier": "Silver",
+    "set": "Archmage",
+    "description": "Basic attacks on-hit against enemy champions consume 2.5% of your maximum mana to deal bonus magic damage equal to 4.5% of your maximum mana. This damage can critically strike for 100 bonus damage.",
+    "notes": ""
+  },
+  {
+    "name": "Kill Secured",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 60% bonus movement speed towards enemy champions below 40% of their maximum health.",
+    "notes": ""
+  },
+  {
+    "name": "Phenomenal Evil",
+    "tier": "Gold",
+    "set": "Stackosaurus Rex",
+    "description": "Gain Phenomenal Evil Power Veigar. Phenomenal Evil Power: Generate a permanent stack of Phenomenal Evil each time you damage an enemy champion with ability damage. This effect cannot trigger more than once every second globally and once every 3 seconds from the same cast instance. For each stack, gain 1 ability power. If this is not your first augment, start with 40 Phenomenal Evil stacks, granting you 40 ability power.",
+    "notes": "The 40 bonus stacks for selecting this augment as not your first augment are given once the first stack is earned."
+  },
+  {
+    "name": "Pinball",
+    "tier": "Gold",
+    "set": "Snowday",
+    "description": "Your Mark is empowered to instead throw a pinball, which deals 100 to 500 bonus true damage and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset, it increases in radius by 25%, deals 20% increased damage, and reduces Mark remaining cooldown by 30%. The pinball can ricochet up to 4 times, for a maximum radius increase of 100% and a damage increase of 80%. Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "notes": ""
+  },
+  {
+    "name": "Poro Blaster",
+    "tier": "Gold",
+    "set": "-",
+    "description": "You summon a Poro alongside yourself every 3.5 seconds, up to 5 at a time. Damaging an enemy champion with a basic attack or ability, excluding those which apply damage over time, commands all of your Poros to launch themselves at the target, each dealing true damage equal to 3% of the target's maximum health. If triggered while at the maximum number of summoned Poros, the first Poro to hit the target also knocks them up for 0.5 seconds. This augment is only offered to up to 1 player on each team for a given game.",
+    "notes": ""
+  },
+  {
+    "name": "Prom Queen",
+    "tier": "Prismatic",
+    "set": "Fully Automated",
+    "description": "Automatically cast a modified version of The Quickness Rakan, empowering you to break into a captivating sprint for 6 seconds. While empowered, you gain ghosting and 50% bonus movement speed, and enemies you 300 unit collision radius are knocked down and become charmed for 1.5 seconds (35 second cooldown). A sparkly tiara will descend upon you 2.5 seconds before the effect activates.",
+    "notes": ""
+  },
+  {
+    "name": "Purist - Caster",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Convert all of your bonus attack speed into ability haste at a rate of 0.65 ability haste per 1% bonus attack speed. Additionally, your abilities' total cooldowns are reduced by 10%.",
+    "notes": ""
+  },
+  {
+    "name": "Quest: Icathia's Fall",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain Bami's Cinder. You can now purchase Hollow Radiance and Sunfire Aegis in spite of the item limit imposed by Immolate. Quest: Obtain Hollow Radiance and Sunfire Aegis. Reward: Upon completing your Quest:, convert the items you obtained for the quest into Void Immolation. Void Immolation counts as 2 Burn effect sources.",
+    "notes": "When gaining Bami's Cinder, you will lose an Ruby Crystal or a Glowing Mote in your inventory as it will get upgraded with no gold returned back to you."
+  },
+  {
+    "name": "Red Envelopes",
+    "tier": "Gold",
+    "set": "Make it Rain",
+    "description": "Red envelopes will now randomly appear around you every 25 to 15 seconds. You can pick up these envelopes by moving over them, granting you between 8 to 15 gold and 22 to 46 gold, and 100 bonus movement speed for 3 seconds. Additionally, whenever you pick an envelope, you gain one of the following stats by random: 5 bonus attack damage5 ability power5 ability haste5 bonus armor5 bonus magic resistance50 bonus health10% bonus attack speed5 bonus movement speed5 Lethality5 magic penetration",
+    "notes": ""
+  },
+  {
+    "name": "Shrink Engine",
+    "tier": "Gold",
+    "set": "Stackosaurus Rex",
+    "description": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, gain 8 ability haste and 1% bonus movement speed, and reduce your size by 4%. Lose 65% of stacks on death. Size reduction is capped at 80% (20 stacks).",
+    "notes": ""
+  },
+  {
+    "name": "Sonata",
+    "tier": "Gold",
+    "set": "Fully Automated, Wee Woo Wee Woo",
+    "description": "Alternate between automatically casting a modified version of Aria of Perseverance Sona and modified Song of Celerity Sona, with the former being cast first (10 second cooldown). Aria of Perseverance: Heal yourself for 60 (+ 60% AP) and send out a tone to the Based on greatest % missing health allied champion within 1000 units that heals them for the same amount. Additionally, generate an 400 unit radius, center-to-edge that grants you and tagged allied champions a 80 (+ 40% AP) shield for 1.5 seconds. Song of Celerity: Gain 30% bonus movement speed for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an 400 unit radius, center-to-edge that grants tagged allied champions 20% bonus movement speed for 3 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Soul Eater",
+    "tier": "Gold",
+    "set": "Stackosaurus Rex",
+    "description": "Immobilizing or grounding an enemy champion grants you 20 bonus health, stacking infinitely (5 second cooldown per cast instance).",
+    "notes": ""
+  },
+  {
+    "name": "Speed Demon",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Whenever you damage an enemy champion with an ability, gain 200 bonus movement speed decaying over 0.75 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Spin Me Right Round",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Replace a summoner spell with Heroic Swing Akshan (5.88 seconds after applying the 70 summoner spell haste from the global ARAM champion buff, starts post-effect). Heroic Swing - Active: You can activate Heroic Swing three times before the ability goes on cooldown, and you can use the third cast only after 0.5 seconds of the second cast. An attack or movement command may be inputted to use the second and third casts. First Cast: Fire a hook in the target direction that embeds in the first terrain hit for 2 seconds. Heroic Swing's second cast can be used while the hook is attached. If the hook fails to attach or you become immobilized, grounded, or polymorphed within the duration, Heroic Swing is cancelled and placed on full cooldown. Second Cast: Swing around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor Dash will move clockwise if the player's cursor is anywhere to the left of their champion from their facing direction (or perspective), and counterclockwise if the cursor is anywhere to their champion's right., stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest visible enemy within 500 units every 0.2 to deal them 15 to 75 (+ 15% AD) times (1 + 0.3 per 100% bonus attack speed) physical damage and apply on-hit effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be interrupted if you are affected by any immobilizing or polymorphing crowd control during the dash. Third Cast: End the swing by jumping to the target location and fire one last shot at a nearby visible enemy. Scoring an enemy champion takedown reduces Heroic Swing's current cooldown to 0.5 seconds.",
+    "notes": ""
+  },
+  {
+    "name": "Stats!",
+    "tier": "Silver",
+    "set": "High Roller",
+    "description": "Gain 2 Stat Bonus.",
+    "notes": ""
+  },
+  {
+    "name": "Stats on Stats!",
+    "tier": "Gold",
+    "set": "High Roller",
+    "description": "Gain 3 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils.",
+    "notes": ""
+  },
+  {
+    "name": "Stats on Stats on Stats!",
+    "tier": "Prismatic",
+    "set": "High Roller",
+    "description": "Gain 4 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils. Additionally, on the next round of augment selection, you gain an additional reroll per augment slot.",
+    "notes": ""
+  },
+  {
+    "name": "Stuck in Here With Me",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Casting your ultimate ability grants you an aura for 2 seconds, growing in size over the duration to up to 500 units. After the duration, you taunt all enemies within the aura for 2 seconds and gain 50% damage reduction for the same duration (30 second cooldown). Additionally, gain 30 ultimate haste. Aura is activated once the ultimate's effect For instant-cast spells or has For duration-based spells.",
+    "notes": "On Katarina, this augment will activate at the start of R Katarina channel."
+  },
+  {
+    "name": "Twin Fire",
+    "tier": "Silver",
+    "set": "Firecracker",
+    "description": "Damaging abilities against enemy champions launch 1 (+ 1 per 33.33% critical strike chance) Firecrackers at the target that each deal 10 to 30 (+ 7% bonus AD) (+ 7% AP) magic damage (5 second cooldown). Additionally, gain 15% critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Thornmail",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Upgrades Bramble Vest and Thornmail, empowering Thorns to generate a protective shell around you. The shell is broken by the next enemy champion to use a basic attack on-hit against you, which causes them to take 50 to 250 (+ 30% armor) (+ 30% magic resistance) (+ 12% maximum health) magic damage. Shell regenerates after 20 to 5 seconds of being out-of-combat with enemy champions.",
+    "notes": ""
+  },
+  {
+    "name": "Virtuous Cycle",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Your heals grant a shield for 5 seconds that is equal to 20% of the healing value, and your shields grant a heal equal to 20% of the shield's strength. This effect cannot trigger from itself.",
+    "notes": ""
+  },
+  {
+    "name": "Void Rift",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Damaging an enemy champion with an ability summons a Void Scar at the location they were damaged for 6 seconds (0.75-second cooldown per target). If another Void Scar is summoned within 1250 units, through the same condition, both Void Scars are consumed to create a rift to the void between them that converges over 0.6 seconds and has a width of 250 units. Enemies within the rift are dealt 100 to 450 (+ 5.5 per 1 Lethality) (+ 5.5 per 1 flat magic penetration) magic damage and slowed by 99% decaying over 1 second.",
+    "notes": ""
+  },
+  {
+    "name": "Weighted Popoffs",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Hitting an enemy champion with an ability generates a stack of Popoff for 6 seconds, stacking up to 6 times. For each stack, your basic abilities' cooldowns progress 2.5% faster. At maximum Popoff stacks, this value is doubled, for a total of a 30% faster progression time.",
+    "notes": ""
+  },
+  {
+    "name": "Zealot",
+    "tier": "Silver",
+    "set": "-",
+    "description": "Gain 35% (+ 5% per 100 AP) bonus attack speed and 25% (+ 5% per 100 AP) critical strike chance.",
+    "notes": ""
+  },
+  {
+    "name": "Hand of Baron",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Gain a modified Hand of Baron, which only grants 25% increased adaptive force and greatly empowers nearby allied minions.",
+    "notes": ""
+  },
+  {
+    "name": "Upgrade Sword of Blossoming Dawn",
+    "tier": "Prismatic",
+    "set": "-",
+    "description": "Upgrades Sword of Blossoming Dawn, empowering Peppermint to have its healing increased by 250%. Additionally, you gain 100% bonus attack speed.",
+    "notes": ""
+  }
+]

@@ -1,0 +1,2042 @@
+[
+  {
+    "slug": "transmute-prismatic",
+    "name_zh": "质变：棱彩阶",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 1,
+    "url": "/zh-cn/augments/transmute-prismatic"
+  },
+  {
+    "slug": "pursuit-of-haste",
+    "name_zh": "急速之追求",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 2,
+    "url": "/zh-cn/augments/pursuit-of-haste"
+  },
+  {
+    "slug": "high-roller",
+    "name_zh": "掷骰狂人",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 3,
+    "url": "/zh-cn/augments/high-roller"
+  },
+  {
+    "slug": "tank-engine",
+    "name_zh": "坦克引擎",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 4,
+    "url": "/zh-cn/augments/tank-engine"
+  },
+  {
+    "slug": "pursuit-of-power",
+    "name_zh": "威能之追求",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 5,
+    "url": "/zh-cn/augments/pursuit-of-power"
+  },
+  {
+    "slug": "archmage",
+    "name_zh": "大法师",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 6,
+    "url": "/zh-cn/augments/archmage"
+  },
+  {
+    "slug": "draw-your-sword",
+    "name_zh": "亮出你的剑",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 7,
+    "url": "/zh-cn/augments/draw-your-sword"
+  },
+  {
+    "slug": "infinite-recursion",
+    "name_zh": "无限循环往复",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 8,
+    "url": "/zh-cn/augments/infinite-recursion"
+  },
+  {
+    "slug": "stackosaurusrex",
+    "name_zh": "叠角龙",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 9,
+    "url": "/zh-cn/augments/stackosaurusrex"
+  },
+  {
+    "slug": "shrink-engine",
+    "name_zh": "缩小引擎",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 10,
+    "url": "/zh-cn/augments/shrink-engine"
+  },
+  {
+    "slug": "quest-steel-your-heart",
+    "name_zh": "任务：钢化你心",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 11,
+    "url": "/zh-cn/augments/quest-steel-your-heart"
+  },
+  {
+    "slug": "upgrade-infinity-edge",
+    "name_zh": "升级：无尽之刃",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 12,
+    "url": "/zh-cn/augments/upgrade-infinity-edge"
+  },
+  {
+    "slug": "void-immolation",
+    "name_zh": "任务：艾卡西亚的陷落",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 13,
+    "url": "/zh-cn/augments/void-immolation"
+  },
+  {
+    "slug": "pressure-cooker",
+    "name_zh": "高压锅",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 14,
+    "url": "/zh-cn/augments/pressure-cooker"
+  },
+  {
+    "slug": "warlock-juicebox",
+    "name_zh": "术士果汁盒",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 15,
+    "url": "/zh-cn/augments/warlock-juicebox"
+  },
+  {
+    "slug": "phenomenal-evil",
+    "name_zh": "超凡邪恶",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 16,
+    "url": "/zh-cn/augments/phenomenal-evil"
+  },
+  {
+    "slug": "heavy-hitter",
+    "name_zh": "重量级打击手",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 17,
+    "url": "/zh-cn/augments/heavy-hitter"
+  },
+  {
+    "slug": "goredrink",
+    "name_zh": "渴血",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 18,
+    "url": "/zh-cn/augments/goredrink"
+  },
+  {
+    "slug": "eureka",
+    "name_zh": "尤里卡",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 19,
+    "url": "/zh-cn/augments/eureka"
+  },
+  {
+    "slug": "dropkick",
+    "name_zh": "飞身踢",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 20,
+    "url": "/zh-cn/augments/dropkick"
+  },
+  {
+    "slug": "donation",
+    "name_zh": "捐赠",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 21,
+    "url": "/zh-cn/augments/donation"
+  },
+  {
+    "slug": "forged-by-the-master",
+    "name_zh": "大师铸就",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 22,
+    "url": "/zh-cn/augments/forged-by-the-master"
+  },
+  {
+    "slug": "combusting-interest",
+    "name_zh": "炽燃利息",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 23,
+    "url": "/zh-cn/augments/combusting-interest"
+  },
+  {
+    "slug": "infernal-conduit",
+    "name_zh": "炼狱导管",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 24,
+    "url": "/zh-cn/augments/infernal-conduit"
+  },
+  {
+    "slug": "escape-plan",
+    "name_zh": "逃跑计划",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 25,
+    "url": "/zh-cn/augments/escape-plan"
+  },
+  {
+    "slug": "wee-woo-wee-woo",
+    "name_zh": "喂呜喂呜",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 26,
+    "url": "/zh-cn/augments/wee-woo-wee-woo"
+  },
+  {
+    "slug": "blunt-force",
+    "name_zh": "大力",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 27,
+    "url": "/zh-cn/augments/blunt-force"
+  },
+  {
+    "slug": "siphon",
+    "name_zh": "虹吸",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 28,
+    "url": "/zh-cn/augments/siphon"
+  },
+  {
+    "slug": "giant-slayer",
+    "name_zh": "巨人杀手",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 29,
+    "url": "/zh-cn/augments/giant-slayer"
+  },
+  {
+    "slug": "stats-on-stats",
+    "name_zh": "属性叠属性！",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 30,
+    "url": "/zh-cn/augments/stats-on-stats"
+  },
+  {
+    "slug": "recursion",
+    "name_zh": "循环往复",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 31,
+    "url": "/zh-cn/augments/recursion"
+  },
+  {
+    "slug": "ravenous-bind",
+    "name_zh": "贪欲束缚",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 32,
+    "url": "/zh-cn/augments/ravenous-bind"
+  },
+  {
+    "slug": "ethereal-weapon",
+    "name_zh": "虚幻武器",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 33,
+    "url": "/zh-cn/augments/ethereal-weapon"
+  },
+  {
+    "slug": "goliath",
+    "name_zh": "歌利亚巨人",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 34,
+    "url": "/zh-cn/augments/goliath"
+  },
+  {
+    "slug": "windspeakers-blessing",
+    "name_zh": "风语者的祝福",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 35,
+    "url": "/zh-cn/augments/windspeakers-blessing"
+  },
+  {
+    "slug": "magic-missile",
+    "name_zh": "魔法飞弹",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 36,
+    "url": "/zh-cn/augments/magic-missile"
+  },
+  {
+    "slug": "scopier-weapons",
+    "name_zh": "更万用的瞄准镜",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 37,
+    "url": "/zh-cn/augments/scopier-weapons"
+  },
+  {
+    "slug": "trusty-weapon",
+    "name_zh": "可靠武器",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 38,
+    "url": "/zh-cn/augments/trusty-weapon"
+  },
+  {
+    "slug": "back-to-basics",
+    "name_zh": "回归基本功",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 39,
+    "url": "/zh-cn/augments/back-to-basics"
+  },
+  {
+    "slug": "dual-wield",
+    "name_zh": "双刀流",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 40,
+    "url": "/zh-cn/augments/dual-wield"
+  },
+  {
+    "slug": "lil-extra-help",
+    "name_zh": "小小的额外帮助",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 41,
+    "url": "/zh-cn/augments/lil-extra-help"
+  },
+  {
+    "slug": "mad-scientist",
+    "name_zh": "科学狂人",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 42,
+    "url": "/zh-cn/augments/mad-scientist"
+  },
+  {
+    "slug": "from-beginning-to-end",
+    "name_zh": "有始有终",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 43,
+    "url": "/zh-cn/augments/from-beginning-to-end"
+  },
+  {
+    "slug": "transmute-chaos",
+    "name_zh": "质变：混沌",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 44,
+    "url": "/zh-cn/augments/transmute-chaos"
+  },
+  {
+    "slug": "mystic-punch",
+    "name_zh": "秘术冲拳",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 45,
+    "url": "/zh-cn/augments/mystic-punch"
+  },
+  {
+    "slug": "ocean-soul",
+    "name_zh": "海洋龙魂",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 46,
+    "url": "/zh-cn/augments/ocean-soul"
+  },
+  {
+    "slug": "celestial-body",
+    "name_zh": "星界躯体",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 47,
+    "url": "/zh-cn/augments/celestial-body"
+  },
+  {
+    "slug": "deft",
+    "name_zh": "灵巧",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 48,
+    "url": "/zh-cn/augments/deft"
+  },
+  {
+    "slug": "upgrade-immolate",
+    "name_zh": "升级：献祭",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 49,
+    "url": "/zh-cn/augments/upgrade-immolate"
+  },
+  {
+    "slug": "quest-wooglets-witchcap",
+    "name_zh": "任务：沃格勒特的巫师帽",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 50,
+    "url": "/zh-cn/augments/quest-wooglets-witchcap"
+  },
+  {
+    "slug": "shadow-runner",
+    "name_zh": "暗影疾奔",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 51,
+    "url": "/zh-cn/augments/shadow-runner"
+  },
+  {
+    "slug": "void-dash",
+    "name_zh": "虚空冲刺",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 52,
+    "url": "/zh-cn/augments/void-dash"
+  },
+  {
+    "slug": "homeguard",
+    "name_zh": "家园卫士",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 53,
+    "url": "/zh-cn/augments/homeguard"
+  },
+  {
+    "slug": "slap-around",
+    "name_zh": "扇巴掌",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 54,
+    "url": "/zh-cn/augments/slap-around"
+  },
+  {
+    "slug": "biggest-snowball-ever",
+    "name_zh": "史上最大雪球",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 55,
+    "url": "/zh-cn/augments/biggest-snowball-ever"
+  },
+  {
+    "slug": "adapt",
+    "name_zh": "物理转魔法",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 56,
+    "url": "/zh-cn/augments/adapt"
+  },
+  {
+    "slug": "hand-of-baron",
+    "name_zh": "男爵之手",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 57,
+    "url": "/zh-cn/augments/hand-of-baron"
+  },
+  {
+    "slug": "leg-day",
+    "name_zh": "练腿日",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 58,
+    "url": "/zh-cn/augments/leg-day"
+  },
+  {
+    "slug": "mind-to-matter",
+    "name_zh": "由心及物",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 59,
+    "url": "/zh-cn/augments/mind-to-matter"
+  },
+  {
+    "slug": "bread-and-butter",
+    "name_zh": "面包和黄油",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 60,
+    "url": "/zh-cn/augments/bread-and-butter"
+  },
+  {
+    "slug": "stay-resolute",
+    "name_zh": "保持坚定",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 61,
+    "url": "/zh-cn/augments/stay-resolute"
+  },
+  {
+    "slug": "escapade",
+    "name_zh": "魔法转物理",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 62,
+    "url": "/zh-cn/augments/escapade"
+  },
+  {
+    "slug": "bonk",
+    "name_zh": "邦！",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 63,
+    "url": "/zh-cn/augments/bonk"
+  },
+  {
+    "slug": "witchful-thinking",
+    "name_zh": "巫师式思考",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 64,
+    "url": "/zh-cn/augments/witchful-thinking"
+  },
+  {
+    "slug": "spin-to-win",
+    "name_zh": "旋转至胜",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 65,
+    "url": "/zh-cn/augments/spin-to-win"
+  },
+  {
+    "slug": "upgrade-collector",
+    "name_zh": "升级：收集者",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 66,
+    "url": "/zh-cn/augments/upgrade-collector"
+  },
+  {
+    "slug": "final-form",
+    "name_zh": "最终形态",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 67,
+    "url": "/zh-cn/augments/final-form"
+  },
+  {
+    "slug": "swift-and-safe",
+    "name_zh": "快中求稳",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 68,
+    "url": "/zh-cn/augments/swift-and-safe"
+  },
+  {
+    "slug": "sonata",
+    "name_zh": "咏叹奏鸣",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 69,
+    "url": "/zh-cn/augments/sonata"
+  },
+  {
+    "slug": "twin-fire",
+    "name_zh": "双生火焰",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 70,
+    "url": "/zh-cn/augments/twin-fire"
+  },
+  {
+    "slug": "outlaws-grit",
+    "name_zh": "狂徒豪气",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 71,
+    "url": "/zh-cn/augments/outlaws-grit"
+  },
+  {
+    "slug": "bread-and-cheese",
+    "name_zh": "面包和奶酪",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 72,
+    "url": "/zh-cn/augments/bread-and-cheese"
+  },
+  {
+    "slug": "pandorasbox",
+    "name_zh": "潘朵拉的盒子",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 73,
+    "url": "/zh-cn/augments/pandorasbox"
+  },
+  {
+    "slug": "ice-cold",
+    "name_zh": "冰寒",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 74,
+    "url": "/zh-cn/augments/ice-cold"
+  },
+  {
+    "slug": "king-me",
+    "name_zh": "尊我为王",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 75,
+    "url": "/zh-cn/augments/king-me"
+  },
+  {
+    "slug": "en-passant",
+    "name_zh": "吃过路兵",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 76,
+    "url": "/zh-cn/augments/en-passant"
+  },
+  {
+    "slug": "erosion",
+    "name_zh": "侵蚀",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 77,
+    "url": "/zh-cn/augments/erosion"
+  },
+  {
+    "slug": "quest-urfs-champion",
+    "name_zh": "任务：海牛阿福的勇士",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 78,
+    "url": "/zh-cn/augments/quest-urfs-champion"
+  },
+  {
+    "slug": "omni-soul",
+    "name_zh": "全能龙魂",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 79,
+    "url": "/zh-cn/augments/omni-soul"
+  },
+  {
+    "slug": "marksmage",
+    "name_zh": "神射法师",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 80,
+    "url": "/zh-cn/augments/marksmage"
+  },
+  {
+    "slug": "get-excited",
+    "name_zh": "罪恶快感",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 81,
+    "url": "/zh-cn/augments/get-excited"
+  },
+  {
+    "slug": "stats-on-stats-on-stats",
+    "name_zh": "属性叠属性叠属性！",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 82,
+    "url": "/zh-cn/augments/stats-on-stats-on-stats"
+  },
+  {
+    "slug": "yowch-my-coins",
+    "name_zh": "哎哟，我的硬币！",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 83,
+    "url": "/zh-cn/augments/yowch-my-coins"
+  },
+  {
+    "slug": "dont-blink",
+    "name_zh": "唯快不破",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 84,
+    "url": "/zh-cn/augments/dont-blink"
+  },
+  {
+    "slug": "with-haste",
+    "name_zh": "急急小子",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 85,
+    "url": "/zh-cn/augments/with-haste"
+  },
+  {
+    "slug": "big-brain",
+    "name_zh": "超强大脑",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 86,
+    "url": "/zh-cn/augments/big-brain"
+  },
+  {
+    "slug": "skilled-sniper",
+    "name_zh": "老练狙神",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 87,
+    "url": "/zh-cn/augments/skilled-sniper"
+  },
+  {
+    "slug": "soul-eater",
+    "name_zh": "吞噬灵魂",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 88,
+    "url": "/zh-cn/augments/soul-eater"
+  },
+  {
+    "slug": "from-downtown",
+    "name_zh": "狙神飞星",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 89,
+    "url": "/zh-cn/augments/from-downtown"
+  },
+  {
+    "slug": "growth-spurt",
+    "name_zh": "生机迸发",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 90,
+    "url": "/zh-cn/augments/growth-spurt"
+  },
+  {
+    "slug": "upgrade-sheen",
+    "name_zh": "升级：耀光",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 91,
+    "url": "/zh-cn/augments/upgrade-sheen"
+  },
+  {
+    "slug": "dawnbringers-resolve",
+    "name_zh": "黎明使者的坚决",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 92,
+    "url": "/zh-cn/augments/dawnbringers-resolve"
+  },
+  {
+    "slug": "overloaded",
+    "name_zh": "超负荷",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 93,
+    "url": "/zh-cn/augments/overloaded"
+  },
+  {
+    "slug": "stats",
+    "name_zh": "属性！",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 94,
+    "url": "/zh-cn/augments/stats"
+  },
+  {
+    "slug": "upgrade-zhonyas",
+    "name_zh": "升级：中娅",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 95,
+    "url": "/zh-cn/augments/upgrade-zhonyas"
+  },
+  {
+    "slug": "bread-and-jam",
+    "name_zh": "面包和果酱",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 96,
+    "url": "/zh-cn/augments/bread-and-jam"
+  },
+  {
+    "slug": "adaptive-ward",
+    "name_zh": "自适应防护",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 97,
+    "url": "/zh-cn/augments/adaptive-ward"
+  },
+  {
+    "slug": "goldrend",
+    "name_zh": "夺金",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 98,
+    "url": "/zh-cn/augments/goldrend"
+  },
+  {
+    "slug": "firefox",
+    "name_zh": "火狐",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 99,
+    "url": "/zh-cn/augments/firefox"
+  },
+  {
+    "slug": "tap-dancer",
+    "name_zh": "踢踏舞",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 100,
+    "url": "/zh-cn/augments/tap-dancer"
+  },
+  {
+    "slug": "overextender",
+    "name_zh": "过量延伸者",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 101,
+    "url": "/zh-cn/augments/overextender"
+  },
+  {
+    "slug": "purist-caster",
+    "name_zh": "纯粹主义者 - 术师",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 102,
+    "url": "/zh-cn/augments/purist-caster"
+  },
+  {
+    "slug": "overflow",
+    "name_zh": "溢流",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 103,
+    "url": "/zh-cn/augments/overflow"
+  },
+  {
+    "slug": "terraind",
+    "name_zh": "地形专家",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 104,
+    "url": "/zh-cn/augments/terraind"
+  },
+  {
+    "slug": "apex-inventor",
+    "name_zh": "尖端发明家",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 105,
+    "url": "/zh-cn/augments/apex-inventor"
+  },
+  {
+    "slug": "shark-bait",
+    "name_zh": "鲨鱼诱饵",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 106,
+    "url": "/zh-cn/augments/shark-bait"
+  },
+  {
+    "slug": "pat-on-the-back",
+    "name_zh": "轻拍背部",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 107,
+    "url": "/zh-cn/augments/pat-on-the-back"
+  },
+  {
+    "slug": "its-go-time",
+    "name_zh": "前进时间到",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 108,
+    "url": "/zh-cn/augments/its-go-time"
+  },
+  {
+    "slug": "scoped-weapons",
+    "name_zh": "万用瞄准镜",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 109,
+    "url": "/zh-cn/augments/scoped-weapons"
+  },
+  {
+    "slug": "fan-the-hammer",
+    "name_zh": "连拨击锤",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 110,
+    "url": "/zh-cn/augments/fan-the-hammer"
+  },
+  {
+    "slug": "scopiest-weapons",
+    "name_zh": "最万用的瞄准镜",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 111,
+    "url": "/zh-cn/augments/scopiest-weapons"
+  },
+  {
+    "slug": "infernal-soul",
+    "name_zh": "炼狱龙魂",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 112,
+    "url": "/zh-cn/augments/infernal-soul"
+  },
+  {
+    "slug": "light-em-up",
+    "name_zh": "点亮他们！",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 113,
+    "url": "/zh-cn/augments/light-em-up"
+  },
+  {
+    "slug": "hextech-soul",
+    "name_zh": "海克斯科技龙魂",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 114,
+    "url": "/zh-cn/augments/hextech-soul"
+  },
+  {
+    "slug": "dive-bomber",
+    "name_zh": "俯冲轰炸",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 115,
+    "url": "/zh-cn/augments/dive-bomber"
+  },
+  {
+    "slug": "thread-the-needle",
+    "name_zh": "穿针引线",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 116,
+    "url": "/zh-cn/augments/thread-the-needle"
+  },
+  {
+    "slug": "cruelty",
+    "name_zh": "残忍",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 117,
+    "url": "/zh-cn/augments/cruelty"
+  },
+  {
+    "slug": "dont-change-the-channel",
+    "name_zh": "别停止引导",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 118,
+    "url": "/zh-cn/augments/dont-change-the-channel"
+  },
+  {
+    "slug": "typhoon",
+    "name_zh": "台风",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 119,
+    "url": "/zh-cn/augments/typhoon"
+  },
+  {
+    "slug": "minionmancer",
+    "name_zh": "仆从大师",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 120,
+    "url": "/zh-cn/augments/minionmancer"
+  },
+  {
+    "slug": "ultimate-awakening",
+    "name_zh": "终极唤醒",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 121,
+    "url": "/zh-cn/augments/ultimate-awakening"
+  },
+  {
+    "slug": "courage-of-the-colossus",
+    "name_zh": "巨像的勇气",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 122,
+    "url": "/zh-cn/augments/courage-of-the-colossus"
+  },
+  {
+    "slug": "master-of-duality",
+    "name_zh": "物法皆修",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 123,
+    "url": "/zh-cn/augments/master-of-duality"
+  },
+  {
+    "slug": "sonic-boom",
+    "name_zh": "天音爆",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 124,
+    "url": "/zh-cn/augments/sonic-boom"
+  },
+  {
+    "slug": "dashing",
+    "name_zh": "全凭身法",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 125,
+    "url": "/zh-cn/augments/dashing"
+  },
+  {
+    "slug": "first-aid-kit",
+    "name_zh": "急救用具",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 126,
+    "url": "/zh-cn/augments/first-aid-kit"
+  },
+  {
+    "slug": "mercys-strike",
+    "name_zh": "仁慈打击",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 127,
+    "url": "/zh-cn/augments/mercys-strike"
+  },
+  {
+    "slug": "ominous-pact",
+    "name_zh": "不祥契约",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 128,
+    "url": "/zh-cn/augments/ominous-pact"
+  },
+  {
+    "slug": "symphony-of-war",
+    "name_zh": "战争交响乐",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 129,
+    "url": "/zh-cn/augments/symphony-of-war"
+  },
+  {
+    "slug": "firebrand",
+    "name_zh": "火上浇油",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 130,
+    "url": "/zh-cn/augments/firebrand"
+  },
+  {
+    "slug": "kill-secured",
+    "name_zh": "杀意翻涌",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 131,
+    "url": "/zh-cn/augments/kill-secured"
+  },
+  {
+    "slug": "its-killing-time",
+    "name_zh": "杀戮时间到了",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 132,
+    "url": "/zh-cn/augments/its-killing-time"
+  },
+  {
+    "slug": "double-defense",
+    "name_zh": "双重防御",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 133,
+    "url": "/zh-cn/augments/double-defense"
+  },
+  {
+    "slug": "hide-on-bush",
+    "name_zh": "藏身草丛",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 134,
+    "url": "/zh-cn/augments/hide-on-bush"
+  },
+  {
+    "slug": "support-main",
+    "name_zh": "任务：专精辅助",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 135,
+    "url": "/zh-cn/augments/support-main"
+  },
+  {
+    "slug": "snowday",
+    "name_zh": "下雪天",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 136,
+    "url": "/zh-cn/augments/snowday"
+  },
+  {
+    "slug": "fey-magic",
+    "name_zh": "精怪魔法",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 137,
+    "url": "/zh-cn/augments/fey-magic"
+  },
+  {
+    "slug": "ok-boomerang",
+    "name_zh": "回力OK镖",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 138,
+    "url": "/zh-cn/augments/ok-boomerang"
+  },
+  {
+    "slug": "spiritual-purification",
+    "name_zh": "心灵净化",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 139,
+    "url": "/zh-cn/augments/spiritual-purification"
+  },
+  {
+    "slug": "empowered-by-the-faithful",
+    "name_zh": "信念者的强化",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 140,
+    "url": "/zh-cn/augments/empowered-by-the-faithful"
+  },
+  {
+    "slug": "nightstalking",
+    "name_zh": "夜狩",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 141,
+    "url": "/zh-cn/augments/nightstalking"
+  },
+  {
+    "slug": "circle-of-death",
+    "name_zh": "死亡之环",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 142,
+    "url": "/zh-cn/augments/circle-of-death"
+  },
+  {
+    "slug": "mountainsoul",
+    "name_zh": "山脉龙魂",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 143,
+    "url": "/zh-cn/augments/mountainsoul"
+  },
+  {
+    "slug": "all-for-you",
+    "name_zh": "全心为你",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 144,
+    "url": "/zh-cn/augments/all-for-you"
+  },
+  {
+    "slug": "flash-2",
+    "name_zh": "闪闪现现",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 145,
+    "url": "/zh-cn/augments/flash-2"
+  },
+  {
+    "slug": "our-healing",
+    "name_zh": "我们的治疗",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 146,
+    "url": "/zh-cn/augments/our-healing"
+  },
+  {
+    "slug": "ultimate-revolution",
+    "name_zh": "终极刷",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 147,
+    "url": "/zh-cn/augments/ultimate-revolution"
+  },
+  {
+    "slug": "protein-shake",
+    "name_zh": "蛋白粉奶昔",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 148,
+    "url": "/zh-cn/augments/protein-shake"
+  },
+  {
+    "slug": "ultimate-unstoppable",
+    "name_zh": "终极不可阻挡",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 149,
+    "url": "/zh-cn/augments/ultimate-unstoppable"
+  },
+  {
+    "slug": "stuck-in-here-with-me",
+    "name_zh": "和我一起困在这里",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 150,
+    "url": "/zh-cn/augments/stuck-in-here-with-me"
+  },
+  {
+    "slug": "searing-dawn",
+    "name_zh": "炽烈黎明",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 151,
+    "url": "/zh-cn/augments/searing-dawn"
+  },
+  {
+    "slug": "blade-waltz",
+    "name_zh": "利刃华尔兹",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 152,
+    "url": "/zh-cn/augments/blade-waltz"
+  },
+  {
+    "slug": "hellbent",
+    "name_zh": "濒死悟道",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 153,
+    "url": "/zh-cn/augments/hellbent"
+  },
+  {
+    "slug": "flashbang",
+    "name_zh": "闪光弹",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 154,
+    "url": "/zh-cn/augments/flashbang"
+  },
+  {
+    "slug": "triggered-inferno",
+    "name_zh": "扳机炼狱",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 155,
+    "url": "/zh-cn/augments/triggered-inferno"
+  },
+  {
+    "slug": "porcupine",
+    "name_zh": "豪猪",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 156,
+    "url": "/zh-cn/augments/porcupine"
+  },
+  {
+    "slug": "tripleshot",
+    "name_zh": "三重射击",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 157,
+    "url": "/zh-cn/augments/tripleshot"
+  },
+  {
+    "slug": "poltergeist",
+    "name_zh": "吵闹鬼",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 158,
+    "url": "/zh-cn/augments/poltergeist"
+  },
+  {
+    "slug": "empyrean-promise",
+    "name_zh": "至高天诺言",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 159,
+    "url": "/zh-cn/augments/empyrean-promise"
+  },
+  {
+    "slug": "pinball",
+    "name_zh": "弹球",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 160,
+    "url": "/zh-cn/augments/pinball"
+  },
+  {
+    "slug": "divine-intervention",
+    "name_zh": "神圣干预",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 161,
+    "url": "/zh-cn/augments/divine-intervention"
+  },
+  {
+    "slug": "terror",
+    "name_zh": "惊惧",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 162,
+    "url": "/zh-cn/augments/terror"
+  },
+  {
+    "slug": "impassable",
+    "name_zh": "不动如山",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 163,
+    "url": "/zh-cn/augments/impassable"
+  },
+  {
+    "slug": "juiced",
+    "name_zh": "注魔",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 164,
+    "url": "/zh-cn/augments/juiced"
+  },
+  {
+    "slug": "cant-touch-this",
+    "name_zh": "你摸不到",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 165,
+    "url": "/zh-cn/augments/cant-touch-this"
+  },
+  {
+    "slug": "rite-of-ascension",
+    "name_zh": "飞升仪式",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 166,
+    "url": "/zh-cn/augments/rite-of-ascension"
+  },
+  {
+    "slug": "shrink-ray",
+    "name_zh": "缩小射线",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 167,
+    "url": "/zh-cn/augments/shrink-ray"
+  },
+  {
+    "slug": "prom-queen",
+    "name_zh": "舞会女王",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 168,
+    "url": "/zh-cn/augments/prom-queen"
+  },
+  {
+    "slug": "titans-resolve",
+    "name_zh": "泰坦的坚决",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 169,
+    "url": "/zh-cn/augments/titans-resolve"
+  },
+  {
+    "slug": "spell-split",
+    "name_zh": "咒语裂变",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 170,
+    "url": "/zh-cn/augments/spell-split"
+  },
+  {
+    "slug": "mighty-shield",
+    "name_zh": "强力护盾",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 171,
+    "url": "/zh-cn/augments/mighty-shield"
+  },
+  {
+    "slug": "echo-cast",
+    "name_zh": "回响施放",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 172,
+    "url": "/zh-cn/augments/echo-cast"
+  },
+  {
+    "slug": "holy-snowball",
+    "name_zh": "神圣雪球",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 173,
+    "url": "/zh-cn/augments/holy-snowball"
+  },
+  {
+    "slug": "chain-reaction",
+    "name_zh": "连锁反应",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 174,
+    "url": "/zh-cn/augments/chain-reaction"
+  },
+  {
+    "slug": "multishot",
+    "name_zh": "多重射击",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 175,
+    "url": "/zh-cn/augments/multishot"
+  },
+  {
+    "slug": "shark-tempest",
+    "name_zh": "鲨鱼暴风",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 176,
+    "url": "/zh-cn/augments/shark-tempest"
+  },
+  {
+    "slug": "pin-cushion",
+    "name_zh": "针插垫",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 177,
+    "url": "/zh-cn/augments/pin-cushion"
+  },
+  {
+    "slug": "spin-me-right-round",
+    "name_zh": "转得我眩晕了",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 178,
+    "url": "/zh-cn/augments/spin-me-right-round"
+  },
+  {
+    "slug": "glass-cannon",
+    "name_zh": "玻璃大炮",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 179,
+    "url": "/zh-cn/augments/glass-cannon"
+  },
+  {
+    "slug": "quickstep",
+    "name_zh": "快步",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 180,
+    "url": "/zh-cn/augments/quickstep"
+  },
+  {
+    "slug": "mystery-augment",
+    "name_zh": "???已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 181,
+    "url": "/zh-cn/augments/mystery-augment"
+  },
+  {
+    "slug": "adamant",
+    "name_zh": "坚若磐石已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 182,
+    "url": "/zh-cn/augments/adamant"
+  },
+  {
+    "slug": "bounce-of-the-poro-king",
+    "name_zh": "魄罗之王的弹跳已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 183,
+    "url": "/zh-cn/augments/bounce-of-the-poro-king"
+  },
+  {
+    "slug": "buff-buddies",
+    "name_zh": "霸符兄弟已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 184,
+    "url": "/zh-cn/augments/buff-buddies"
+  },
+  {
+    "slug": "cerberus",
+    "name_zh": "地狱三头犬已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 185,
+    "url": "/zh-cn/augments/cerberus"
+  },
+  {
+    "slug": "cheating",
+    "name_zh": "作弊：我能回城！已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 186,
+    "url": "/zh-cn/augments/cheating"
+  },
+  {
+    "slug": "clown-college",
+    "name_zh": "小丑学院已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 187,
+    "url": "/zh-cn/augments/clown-college"
+  },
+  {
+    "slug": "crack-open-that-egg",
+    "name_zh": "砸开那颗蛋已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 188,
+    "url": "/zh-cn/augments/crack-open-that-egg"
+  },
+  {
+    "slug": "crit-n-cast",
+    "name_zh": "由暴生急已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 189,
+    "url": "/zh-cn/augments/crit-n-cast"
+  },
+  {
+    "slug": "critical-healing",
+    "name_zh": "会心治疗已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 190,
+    "url": "/zh-cn/augments/critical-healing"
+  },
+  {
+    "slug": "critical-missile",
+    "name_zh": "暴击飞弹已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 191,
+    "url": "/zh-cn/augments/critical-missile"
+  },
+  {
+    "slug": "critical-rhythm",
+    "name_zh": "暴击律动已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 192,
+    "url": "/zh-cn/augments/critical-rhythm"
+  },
+  {
+    "slug": "demons-dance",
+    "name_zh": "魔鬼之舞已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 193,
+    "url": "/zh-cn/augments/demons-dance"
+  },
+  {
+    "slug": "devil-on-your-shoulder",
+    "name_zh": "你肩上的恶魔已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 194,
+    "url": "/zh-cn/augments/devil-on-your-shoulder"
+  },
+  {
+    "slug": "dimension-shift",
+    "name_zh": "位面转移",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 181,
+    "url": "/zh-cn/augments/dimension-shift"
+  },
+  {
+    "slug": "double-tap",
+    "name_zh": "双发快射已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 196,
+    "url": "/zh-cn/augments/double-tap"
+  },
+  {
+    "slug": "dropbear",
+    "name_zh": "空投熊",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 182,
+    "url": "/zh-cn/augments/dropbear"
+  },
+  {
+    "slug": "droppybara",
+    "name_zh": "卡皮巴拉空投已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 198,
+    "url": "/zh-cn/augments/droppybara"
+  },
+  {
+    "slug": "endless-decimation",
+    "name_zh": "无尽大杀四方",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 183,
+    "url": "/zh-cn/augments/endless-decimation"
+  },
+  {
+    "slug": "executioner",
+    "name_zh": "裁决使已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 200,
+    "url": "/zh-cn/augments/executioner"
+  },
+  {
+    "slug": "feel-the-burn",
+    "name_zh": "感受燃烧已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 201,
+    "url": "/zh-cn/augments/feel-the-burn"
+  },
+  {
+    "slug": "final-city-transit",
+    "name_zh": "最终都市列车已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 202,
+    "url": "/zh-cn/augments/final-city-transit"
+  },
+  {
+    "slug": "frost-wraith",
+    "name_zh": "冰霜 幽灵已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 203,
+    "url": "/zh-cn/augments/frost-wraith"
+  },
+  {
+    "slug": "gash",
+    "name_zh": "砍伤已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 204,
+    "url": "/zh-cn/augments/gash"
+  },
+  {
+    "slug": "grandmas-chili-oil",
+    "name_zh": "祖母的辣椒油已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 205,
+    "url": "/zh-cn/augments/grandmas-chili-oil"
+  },
+  {
+    "slug": "guilty-pleasure",
+    "name_zh": "恶趣味已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 206,
+    "url": "/zh-cn/augments/guilty-pleasure"
+  },
+  {
+    "slug": "hat-on-a-hat",
+    "name_zh": "帽上加帽已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 207,
+    "url": "/zh-cn/augments/hat-on-a-hat"
+  },
+  {
+    "slug": "heads-up-cupcake",
+    "name_zh": "当心小蛋糕！已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 208,
+    "url": "/zh-cn/augments/heads-up-cupcake"
+  },
+  {
+    "slug": "holy-fire",
+    "name_zh": "圣火已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 209,
+    "url": "/zh-cn/augments/holy-fire"
+  },
+  {
+    "slug": "im-a-baby-kitty-where-is-mama",
+    "name_zh": "小猫咪找妈妈已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 210,
+    "url": "/zh-cn/augments/im-a-baby-kitty-where-is-mama"
+  },
+  {
+    "slug": "its-critical",
+    "name_zh": "关键暴击已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 211,
+    "url": "/zh-cn/augments/its-critical"
+  },
+  {
+    "slug": "jeweled-gauntlet",
+    "name_zh": "珠光护手已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 212,
+    "url": "/zh-cn/augments/jeweled-gauntlet"
+  },
+  {
+    "slug": "keystone-conjurer",
+    "name_zh": "基石法师已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 213,
+    "url": "/zh-cn/augments/keystone-conjurer"
+  },
+  {
+    "slug": "laser-heal",
+    "name_zh": "激光治疗已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 214,
+    "url": "/zh-cn/augments/laser-heal"
+  },
+  {
+    "slug": "lightning-strikes",
+    "name_zh": "闪电打击已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 215,
+    "url": "/zh-cn/augments/lightning-strikes"
+  },
+  {
+    "slug": "nature-is-healing",
+    "name_zh": "自然即是治愈",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 184,
+    "url": "/zh-cn/augments/nature-is-healing"
+  },
+  {
+    "slug": "one-trick-pony",
+    "name_zh": "绝活玩家",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 185,
+    "url": "/zh-cn/augments/one-trick-pony"
+  },
+  {
+    "slug": "orbitallaser",
+    "name_zh": "轨道镭射已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 218,
+    "url": "/zh-cn/augments/orbitallaser"
+  },
+  {
+    "slug": "perseverance",
+    "name_zh": "坚韧已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 219,
+    "url": "/zh-cn/augments/perseverance"
+  },
+  {
+    "slug": "poro-blaster",
+    "name_zh": "魄罗爆破手已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 220,
+    "url": "/zh-cn/augments/poro-blaster"
+  },
+  {
+    "slug": "poro-stampede",
+    "name_zh": "魄罗蛮冲",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 186,
+    "url": "/zh-cn/augments/poro-stampede"
+  },
+  {
+    "slug": "quantum-computing",
+    "name_zh": "量子计算已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 222,
+    "url": "/zh-cn/augments/quantum-computing"
+  },
+  {
+    "slug": "rabble-rousing",
+    "name_zh": "古式佳酿已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 223,
+    "url": "/zh-cn/augments/rabble-rousing"
+  },
+  {
+    "slug": "red-envelopes",
+    "name_zh": "红包已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 224,
+    "url": "/zh-cn/augments/red-envelopes"
+  },
+  {
+    "slug": "rejuvenation",
+    "name_zh": "活力焕发",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 187,
+    "url": "/zh-cn/augments/rejuvenation"
+  },
+  {
+    "slug": "repulsor",
+    "name_zh": "退敌力场已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 226,
+    "url": "/zh-cn/augments/repulsor"
+  },
+  {
+    "slug": "restless-restoration",
+    "name_zh": "无休回复已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 227,
+    "url": "/zh-cn/augments/restless-restoration"
+  },
+  {
+    "slug": "self-destruct",
+    "name_zh": "自我毁灭已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 228,
+    "url": "/zh-cn/augments/self-destruct"
+  },
+  {
+    "slug": "slow-and-steady",
+    "name_zh": "一板一眼已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 229,
+    "url": "/zh-cn/augments/slow-and-steady"
+  },
+  {
+    "slug": "slow-cooker",
+    "name_zh": "慢炖已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 230,
+    "url": "/zh-cn/augments/slow-cooker"
+  },
+  {
+    "slug": "snowball-roulette",
+    "name_zh": "雪球扭蛋机已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 231,
+    "url": "/zh-cn/augments/snowball-roulette"
+  },
+  {
+    "slug": "snowball-upgrade",
+    "name_zh": "升级：雪球已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 232,
+    "url": "/zh-cn/augments/snowball-upgrade"
+  },
+  {
+    "slug": "snowblast",
+    "name_zh": "冰雪爆裂",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 188,
+    "url": "/zh-cn/augments/snowblast"
+  },
+  {
+    "slug": "soul-siphon",
+    "name_zh": "灵魂虹吸已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 234,
+    "url": "/zh-cn/augments/soul-siphon"
+  },
+  {
+    "slug": "speed-demon",
+    "name_zh": "速度恶魔已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 235,
+    "url": "/zh-cn/augments/speed-demon"
+  },
+  {
+    "slug": "spirit-bomb",
+    "name_zh": "灵魄炸弹",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 189,
+    "url": "/zh-cn/augments/spirit-bomb"
+  },
+  {
+    "slug": "squishy-slappy-grab",
+    "name_zh": "软弹啪叽抓",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 190,
+    "url": "/zh-cn/augments/squishy-slappy-grab"
+  },
+  {
+    "slug": "surge-field",
+    "name_zh": "电涌力场",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 191,
+    "url": "/zh-cn/augments/surge-field"
+  },
+  {
+    "slug": "tank-it-or-leave-it",
+    "name_zh": "会心防御已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 239,
+    "url": "/zh-cn/augments/tank-it-or-leave-it"
+  },
+  {
+    "slug": "the-brutalizer",
+    "name_zh": "残暴之力已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 240,
+    "url": "/zh-cn/augments/the-brutalizer"
+  },
+  {
+    "slug": "tooth-fairy",
+    "name_zh": "牙仙子",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 192,
+    "url": "/zh-cn/augments/tooth-fairy"
+  },
+  {
+    "slug": "tormentor",
+    "name_zh": "折磨者已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 242,
+    "url": "/zh-cn/augments/tormentor"
+  },
+  {
+    "slug": "trailblazer",
+    "name_zh": "开拓者已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 243,
+    "url": "/zh-cn/augments/trailblazer"
+  },
+  {
+    "slug": "trueshotprodigy",
+    "name_zh": "精准奇才已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 244,
+    "url": "/zh-cn/augments/trueshotprodigy"
+  },
+  {
+    "slug": "twice-thrice",
+    "name_zh": "接二连三已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 245,
+    "url": "/zh-cn/augments/twice-thrice"
+  },
+  {
+    "slug": "upgrade-cutlass",
+    "name_zh": "升级：弯刀已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 246,
+    "url": "/zh-cn/augments/upgrade-cutlass"
+  },
+  {
+    "slug": "upgrade-hubris",
+    "name_zh": "升级：狂妄已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 247,
+    "url": "/zh-cn/augments/upgrade-hubris"
+  },
+  {
+    "slug": "upgrade-mikaels-blessing",
+    "name_zh": "升级：米凯尔的祝福已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 248,
+    "url": "/zh-cn/augments/upgrade-mikaels-blessing"
+  },
+  {
+    "slug": "upgrade-thornmail",
+    "name_zh": "升级：荆棘之甲已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 249,
+    "url": "/zh-cn/augments/upgrade-thornmail"
+  },
+  {
+    "slug": "vampirism",
+    "name_zh": "吸血习性已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 250,
+    "url": "/zh-cn/augments/vampirism"
+  },
+  {
+    "slug": "void-rift",
+    "name_zh": "虚空裂隙已移除",
+    "tier": "Prismatic",
+    "tier_zh": "棱彩",
+    "rank": 251,
+    "url": "/zh-cn/augments/void-rift"
+  },
+  {
+    "slug": "vulnerability",
+    "name_zh": "易损已移除",
+    "tier": "Gold",
+    "tier_zh": "金色",
+    "rank": 252,
+    "url": "/zh-cn/augments/vulnerability"
+  },
+  {
+    "slug": "weighted-popoffs",
+    "name_zh": "负重爆气已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 253,
+    "url": "/zh-cn/augments/weighted-popoffs"
+  },
+  {
+    "slug": "wind-beneath-blade",
+    "name_zh": "刃下生风已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 254,
+    "url": "/zh-cn/augments/wind-beneath-blade"
+  },
+  {
+    "slug": "zealot",
+    "name_zh": "狂热者已移除",
+    "tier": "Silver",
+    "tier_zh": "银色",
+    "rank": 255,
+    "url": "/zh-cn/augments/zealot"
+  }
+]

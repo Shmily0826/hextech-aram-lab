@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "transmute-prismatic",
+    "name_zh": "质变：棱彩阶",
+    "url": "/zh-cn/augments/transmute-prismatic",
+    "effect_zh": "现在e能吃到属性碎片的加成不知道是不是bug / 拿质变海克斯锻体攻速",
+    "tier": "Gold",
+    "name_en": "Transmute: Prismatic",
+    "tier_en": "Gold",
+    "set_en": "High Roller",
+    "description_en": "Gain one random Prismatic augment, excluding the other two offerings in your current assortment."
+  },
+  {
+    "slug": "pursuit-of-haste",
+    "name_zh": "急速之追求",
+    "url": "/zh-cn/augments/pursuit-of-haste",
+    "effect_zh": "急速之追求是海克斯大乱斗当前 26.12 版本中的gold稀有度强化符文，胜率 64.41% 、登场率 70.14% ，排名 #1。",
+    "tier": "Gold",
+    "name_en": "???",
+    "tier_en": "Prismatic",
+    "set_en": "-",
+    "description_en": "YourEnemy Missing pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal 100 to 400 (+ 10% of target's missing health) magic damage to enemies struck, and heal allied champions within for 50 to 200 (+ 10% of target's missing health)."
+  },
+  {
+    "slug": "high-roller",
+    "name_zh": "掷骰狂人",
+    "url": "/zh-cn/augments/high-roller",
+    "effect_zh": "掷骰狂人是海克斯大乱斗当前 26.12 版本中的prismatic稀有度强化符文，胜率 63.62% 、登场率 51.72% ，排名 #6。",
+    "tier": "Prismatic",
+    "name_en": "???",
+    "tier_en": "Prismatic",
+    "set_en": "-",
+    "description_en": "YourEnemy Missing pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal 100 to 400 (+ 10% of target's missing health) magic damage to enemies struck, and heal allied champions within for 50 to 200 (+ 10% of target's missing health)."
+  },
+  {
+    "slug": "tank-engine",
+    "name_zh": "坦克引擎",
+    "url": "/zh-cn/augments/tank-engine",
+    "effect_zh": "蛋白粉可以提供高额的恢复能力，利用大树被动的高额百分比回血，一直赖着不死。",
+    "tier": "Gold",
+    "name_en": "Tank Engine",
+    "tier_en": "Gold",
+    "set_en": "-",
+    "description_en": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your maximum health and size by 5%. Lose 65% of stacks on death."
+  },
+  {
+    "slug": "pursuit-of-power",
+    "name_zh": "威能之追求",
+    "url": "/zh-cn/augments/pursuit-of-power",
+    "effect_zh": "威能之追求是海克斯大乱斗当前 26.12 版本中的silver稀有度强化符文，胜率 61.45% 、登场率 67.29% ，排名 #3。",
+    "tier": "Silver",
+    "name_en": "???",
+    "tier_en": "Prismatic",
+    "set_en": "-",
+    "description_en": "YourEnemy Missing pings will cause you to launch a missile at the pinged location, exploding upon arrival to deal 100 to 400 (+ 10% of target's missing health) magic damage to enemies struck, and heal allied champions within for 50 to 200 (+ 10% of target's missing health)."
+  }
+]
