@@ -1,0 +1,2148 @@
+[
+  {
+    "id": "blade_waltz",
+    "name": "利刃华尔兹",
+    "name_en": "Blade Waltz",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得利刃华尔兹作为召唤师技能。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "chain_reaction",
+    "name": "连锁反应",
+    "name_en": "Chain Reaction",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "被击退目标命中另一英雄则二者被击飞并受伤。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "clown_college",
+    "name": "小丑学院",
+    "name_en": "Clown College",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得欺诈魔术技能，阵亡时生成爆炸盒造成伤害和恐惧。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "courage_of_the_colossus",
+    "name": "巨像的勇气",
+    "name_en": "Courage of the Colossus",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "定身或缚地敌方英雄后获得护盾（150-450 + 4%最大生命值），持续3秒（5秒冷却）。护盾可叠加。",
+    "effect_en": "Immobilizing or grounding an enemy champion grants a shield for 3 seconds that absorbs 150 to 450 (+ 4% maximum health) damage (5 second cooldown per cast instance). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/courage-of-the-colossus"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "cruelty",
+    "name": "残忍",
+    "name_en": "Cruelty",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "定身或缚地敌方英雄时召唤彗星，1秒后落地造成50-150（+40%法术强度）（+4%最大生命值）魔法伤害（6秒冷却）。",
+    "effect_en": "Immobilizing or grounding an enemy champion summons a comet above them that lands at their current location after 1 second, dealing 50 to 150 (+ 40% AP) (+ 4% of your maximum health) magic damage to enemies within the area (6 second cooldown per target per cast instance).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/cruelty"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "devil_on_shoulder",
+    "name": "你肩上的恶魔",
+    "name_en": "Devil on Your Shoulder",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "与大魔王签订契约，汲取生命力但造成真实伤害并治疗残片。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "dimension_shift",
+    "name": "位面转移",
+    "name_en": "Dimension Shift",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得\"当黑暗来临\"召唤师技能，传送至另一位面。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "draw_your_sword",
+    "name": "亮出你的剑",
+    "name_en": "Draw Your Sword",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "变为近战，获得30%攻击力、25%攻击速度、30%生命值、25%移动速度和20%吸血。仅远程英雄可用。",
+    "effect_en": "Become melee, modifying your attack range to 200 (+ 100% bonus attack range from augments) units. Additionally, gain 30% bonus attack damage, 25% bonus attack speed, 30% bonus health, 25% bonus movement speed, and 20% life steal. These bonuses are increased by type=champion's default attack range. This augment is only available for ranged champions.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/draw-your-sword"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "drop_bear",
+    "name": "空投熊",
+    "name_en": "Drop Bear",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "阵亡时巨大提伯斯从天而降造成真实伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "droppybara",
+    "name": "卡皮巴拉空投",
+    "name_en": "Droppybara",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "召唤卡皮巴拉从天而降，造成30%最大生命值真实伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "dual_wield",
+    "name": "双刀流",
+    "name_en": "Dual Wield",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击发射箭矢，造成40%伤害并施加40%效能的命中特效。获得10%攻击速度。",
+    "effect_en": "Your basic attacks launch a bolt at the target that fires after a Estimated on-attack, deals 40% of the triggering attack's Damage calculated before modifiers damage, and applies on-hit effects at 40% effectiveness. Additionally, increase your total attack speed by 10%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/dual-wield"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "earthwake",
+    "name": "大地苏醒",
+    "name_en": "Earthwake",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "冲刺/闪烁/传送留下0.75秒后爆炸的轨迹。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "eat_the_path",
+    "name": "吃过路兵",
+    "name_en": "Eat the Path",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "周期性识别附近敌方英雄破绽，命中造成真实伤害、回血并提供移速。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "echoing_release",
+    "name": "回响施放",
+    "name_en": "Echoing Release",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放技能时派出复制体再次施放同一技能。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "empowered_by_the_faithful",
+    "name": "信念者的强化",
+    "name_en": "Empowered By The Faithful",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "为友军治疗/护盾积攒虔诚层数（上限50）。满层时释放冲击波造成伤害，并处决低血量敌人。",
+    "effect_en": "Granting a heal or shield to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals 50 to 300 (+ 750% heal and shield power) magic damage to nearby enemies. Enemy champions damaged below a percentage of their maximum health equal to 25% of your heal and shield power are executed.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/empowered-by-the-faithful"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "empyrean_promise",
+    "name": "至高天诺言",
+    "name_en": "Empyrean Promise",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Empyrean Promise Vigilance active. Additionally, gain 15% heal and shield power. Active - Vigilance: After a 0.25-second delay, dash to the current location of the target allied champion and gain a 100 to 250 (+ 100% AP) (+ 10% bonus health) shield for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/empyrean-promise"
+    }
+  },
+  {
+    "id": "eureka",
+    "name": "尤里卡",
+    "name_en": "Eureka",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得相当于30%法术强度的技能急速。",
+    "effect_en": "Gain ability haste equal to 30% AP.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/eureka"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "fey_magic",
+    "name": "精怪魔法",
+    "name_en": "Fey Magic",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "终极技能伤害将敌人变形为无害生物2秒，降低60移动速度并缴械（15秒冷却）。",
+    "effect_en": "Damaging enemies with your ultimate ability polymorphs them into harmless critters for 2 seconds, during which their base movement speed is reduced by 60, and disarms them for the same duration (15 second cooldown per target).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/fey-magic"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "final_form",
+    "name": "最终形态",
+    "name_en": "Final Form",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能时获得50%最大生命值护盾、20%全能吸血和30%移动速度，持续10秒（20秒冷却）。",
+    "effect_en": "Casting your ultimate ability empowers you for 10 seconds, causing you to gain a shield for 50% of your maximum health, 20% omnivamp, and 30% bonus movement speed for the duration (20 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/final-form"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "giant_slayer",
+    "name": "巨人杀手",
+    "name_en": "Giant Slayer",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "体型变小，获得移动速度，并基于敌方英雄体型大于你的程度获得额外伤害。",
+    "effect_en": "Become tiny, reducing your size by 75% and granting you 20% bonus movement speed. Additionally, deal type=target's size bonus damage against enemy champions with greater size than you.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/giant-slayer"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "glass_cannon",
+    "name": "玻璃大炮",
+    "name_en": "Glass Cannon",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "You gain a health threshold equal to 70% maximum health which cannot be By increases or decreases to maximum health nor By healing and health regeneration by any means. In return, you deal bonus true damage equal to 15% of all of the damage you deal Damage calculated before modifiers.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/glass-cannon"
+    }
+  },
+  {
+    "id": "goldrend",
+    "name": "夺金",
+    "name_en": "Goldrend",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging basic attacks or abilities against enemy champions deal 50 to 150 (+ 40% bonus AD) (+ 20% AP) bonus magic damage, and grant you 30 gold and 25% bonus movement speed for 1.5 seconds (30 second cooldown per champion).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/goldrend"
+    }
+  },
+  {
+    "id": "hand_of_baron",
+    "name": "男爵之手",
+    "name_en": "Hand of Baron",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain a modified Hand of Baron, which only grants 25% increased adaptive force and greatly empowers nearby allied minions.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/hand-of-baron"
+    }
+  },
+  {
+    "id": "hellbent",
+    "name": "濒死悟道",
+    "name_en": "Hellbent",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击和技能伤害提供层数，满层后下次阵亡时获得强化复活。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "high_roller",
+    "name": "掷骰狂人",
+    "name_en": "High Roller",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "附近敌人阵亡时有几率掉落属性锻造器。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "holy_snowball",
+    "name": "神圣雪球",
+    "name_en": "Holy Snowball",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After using the Dash spell from Mark, you become invulnerable for 1.5 seconds upon arrival. Additionally, your Mark cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/holy-snowball"
+    }
+  },
+  {
+    "id": "infernal_conduit",
+    "name": "炼狱导管",
+    "name_en": "Infernal Conduit",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能对英雄施加灼烧效果，灼烧每跳减少基础技能冷却时间。灼烧可无限叠加。",
+    "effect_en": "Your ability hits against champions apply a Burn for 3 seconds that dealscolor=magic damage (+ 4.6% bonus AD) (+ 6/3% AP) bonus magic damage per second color=magic damage (+ 14% bonus AD) (+ 6% AP) bonus magic damage over the duration(1 second cooldown per cast instance). This Burn stacks infinitely and refreshes with each application. Additionally, all of your Burn effects reduce the cooldowns of all your basic abilities by 0.08 seconds for each tick of damage they deal to a target.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/infernal-conduit"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "infinite_recursion",
+    "name": "无限循环往复",
+    "name_en": "Infinite Recursion",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得60技能急速，每次参与击杀额外获得3技能急速。",
+    "effect_en": "Gain 60 ability haste, increased by 3 each time you score a champion takedown.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/infinite-recursion"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "jeweled_gauntlet",
+    "name": "珠光护手",
+    "name_en": "Jeweled Gauntlet",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能可暴击，获得暴击几率。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "king_me",
+    "name": "尊我为王",
+    "name_en": "King Me",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon entering the enemy team's gate or Catapult for the first time, either of which are located near their spawn, you become Kinged, causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all Includes AH, AP, AD, AS, AR, MR, and HP on the item is increased by exactly 1000 gold. King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/king-me"
+    }
+  },
+  {
+    "id": "mad_scientist",
+    "name": "科学狂人",
+    "name_en": "Mad Scientist",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得时和每次重生时随机获得：坦克属性+增大体型 或 技能急速+移动速度+缩小体型。",
+    "effect_en": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force, 20% bonus health, and 40% increased size or 70 ability haste, 40% bonus movement speed, and 40% reduced size.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/mad-scientist"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "master_of_duality",
+    "name": "物法皆修",
+    "name_en": "Master of Duality",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit grant 6 to 18 ability power and damaging abilities once per cast instance grant 3 to 9 bonus attack damage, lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/master-of-duality"
+    }
+  },
+  {
+    "id": "multishot",
+    "name": "多重射击",
+    "name_en": "Multishot",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "任务：用技能命中敌人若干次。奖励：发射额外飞弹。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "mystic_punch",
+    "name": "秘术冲拳",
+    "name_en": "Mystic Punch",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击命中时减少所有技能冷却时间1.25秒。",
+    "effect_en": "Basic attacks on-hit reduce the remaining cooldowns of your abilities by 1.25 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/mystic-punch"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "ominous_pact",
+    "name": "不祥契约",
+    "name_en": "Ominous Pact",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能消耗5%当前生命值。基于已损失生命值获得法强（最高75-150）、移动速度和全能吸血。",
+    "effect_en": "Your abilities now have a health cost of 5% current health to cast them. In return, you gain ability power based on your missing health, up to 75 to 150 at 70% missing health, key1=% bonus movement speed, and key1=% omnivamp.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ominous-pact"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "omni_soul",
+    "name": "全能龙魂",
+    "name_en": "Omni Soul",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得3个随机龙魂。",
+    "effect_en": "Grants 3 random Dragon Soul.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/omni-soul"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "pandoras_box",
+    "name": "潘朵拉的盒子",
+    "name_en": "Pandora's Box",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "将所有已获得的强化符文变为随机棱彩阶符文。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "pincushion",
+    "name": "针插垫",
+    "name_en": "Pin Cushion",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能持续期间攻击施加标记，结束时爆炸造成伤害并提供移速。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "poro_stampede",
+    "name": "魄罗蛮冲",
+    "name_en": "Poro Stampede",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "收集魄罗佳肴投喂魄罗，获得魄罗冲锋召唤师技能。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "prom_queen",
+    "name": "舞会女王",
+    "name_en": "Prom Queen",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast a modified version of The Quickness Rakan, empowering you to break into a captivating sprint for 6 seconds. While empowered, you gain ghosting and 50% bonus movement speed, and enemies you 300 unit collision radius are knocked down and become charmed for 1.5 seconds (35 second cooldown). A sparkly tiara will descend upon you 2.5 seconds before the effect activates.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/prom-queen"
+    }
+  },
+  {
+    "id": "protein_shake",
+    "name": "蛋白粉奶昔",
+    "name_en": "Protein Shake",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 25% (+ 35% per 100 bonus armor) (+ 35% per 100 bonus magic resistance) heal and shield power.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/protein-shake"
+    }
+  },
+  {
+    "id": "quantum_computing",
+    "name": "量子计算",
+    "name_en": "Quantum Computing",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "周期性自动施放巨型斩击，减速敌人、造成最大生命值伤害并治疗自身。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "quest_urfs_champion",
+    "name": "任务：海牛阿福的勇士",
+    "name_en": "Quest: Urf's Champion",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Quest: Score 18 champion takedowns. Reward: Upon completing your Quest:, you receive The Golden Spatula. If your inventory is full at the time of quest completion, the item will be granted as soon as a slot in the inventory is available.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/quest-urfs-champion"
+    }
+  },
+  {
+    "id": "quest_wooglets_witchcap",
+    "name": "任务：沃格勒特的巫师帽",
+    "name_en": "Quest: Wooglet's Witchcap",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得无用大棒。任务：持有灭世者的死亡之帽和中娅沙漏。奖励：转化为沃格勒特的巫师帽。",
+    "effect_en": "Gain a Needlessly Large Rod. Quest: Obtain Rabadon's Deathcap and Zhonya's Hourglass. Reward: Upon completing your Quest:, convert the items you obtained for the quest into Wooglet's Witchcap.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/quest-wooglets-witchcap"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "quickstep",
+    "name": "快步",
+    "name_en": "Quickstep",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "使用技能时朝鼠标指针方向冲刺。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "rite_of_ascension",
+    "name": "飞升仪式",
+    "name_en": "Rite of Ascension",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "击杀后留下精华，攻击提供移速并重置基础技能冷却。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "scopiest_weapons",
+    "name": "最万用的瞄准镜",
+    "name_en": "Scopiest Weapons",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得250攻击距离。",
+    "effect_en": "Gain 250 bonus attack range.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/scopiest-weapons"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "skip_the_basic",
+    "name": "大招工具人",
+    "name_en": "Skip the Basic",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能急速仅作用于终极技能，效果增强50%，获得100技能急速。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "sneakerhead",
+    "name": "王中王，靴中靴",
+    "name_en": "Sneakerhead",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "随机获得升级靴子，完成任务后可更换。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "spell_splitting",
+    "name": "咒语裂变",
+    "name_en": "Spell Splitting",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "技能飞弹在命中/最大距离/再次施放时分裂为二。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "spirit_bomb",
+    "name": "灵魄炸弹",
+    "name_en": "Spirit Bomb",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "治疗/护盾友军积攒炸弹层数，满层后投掷给最低血量友军。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "squishy_slappy_grab",
+    "name": "软弹啪叽抓",
+    "name_en": "Squishy Slappy Grab",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "偶尔拉拽附近敌人进行下次攻击。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "stats_on_stats_on_stats",
+    "name": "属性叠属性叠属性！",
+    "name_en": "Stats on Stats on Stats!",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得4个属性锻造器，下次选择强化符文时每个槽位额外一次刷新。更高几率出现金色和棱彩锻造器。",
+    "effect_en": "Gain 4 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils. Additionally, on the next round of augment selection, you gain an additional reroll per augment slot.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/stats-on-stats-on-stats"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "stuck_in_here_with_me",
+    "name": "和我一起困在这里",
+    "name_en": "Stuck in Here With Me",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能生成光环，持续2秒扩大。之后嘲讽范围内敌人2秒并获得50%伤害减免（30秒冷却）。+30终极技能急速。",
+    "effect_en": "Casting your ultimate ability grants you an aura for 2 seconds, growing in size over the duration to up to 500 units. After the duration, you taunt all enemies within the aura for 2 seconds and gain 50% damage reduction for the same duration (30 second cooldown). Additionally, gain 30 ultimate haste. Aura is activated once the ultimate's effect For instant-cast spells or has For duration-based spells.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/stuck-in-here-with-me"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "surge_field",
+    "name": "电涌力场",
+    "name_en": "Surge Field",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能生成地带，提供急速和移速，发射飞弹造成20%伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "symphony_of_war",
+    "name": "战争交响乐",
+    "name_en": "Symphony of War",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得征服者和致命节奏基石符文。",
+    "effect_en": "Gain the Conqueror and Lethal Tempo keystone runes.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/symphony-of-war"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "tap_dancer",
+    "name": "踢踏舞",
+    "name_en": "Tap Dancer",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "攻击提供10移动速度（5秒，可无限叠加）。基于总移动速度获得10%攻击速度。",
+    "effect_en": "Basic attacks on-hit against enemy champions and minions grant 10 bonus movement speed, lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain bonus attack speed equal to 10% total movement speed.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/tap-dancer"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "titan_resolve",
+    "name": "泰坦的坚决",
+    "name_en": "Titan's Resolve",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "承受和造成伤害获得层数，每10层获得适应之力、双抗、体型和韧性。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "transmute_chaos",
+    "name": "质变：混沌",
+    "name_en": "Transmute: Chaos",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得2个完全随机的强化符文。",
+    "effect_en": "Gain two completely random augments, excluding the other two offerings in your current assortment.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/transmute-chaos"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "triggered_inferno",
+    "name": "扳机炼狱",
+    "name_en": "Triggered Inferno",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your damaging basic attacks and abilities against at least one enemy champion unique from the previous damaging hit made against champions generate a stack of Style for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain 1 to 16 bonus movement speed, up to a maximum of 1 to 16. Upon reaching maximum Style stacks, you unleash a torrent of shots for 2.25, during which you rapidly shoot at nearby enemies over 2 at sporadic times in on average; total of 5 intervals of 0.231 and 5 of 0.198 seconds each (up to 10 times per enemy), dealing 20 to 40 (+ 40% AD) (+ 25% AP) physical damage with each shot, reduced by 75% against minions. Enemies below 30% of their maximum health are critically struck fordouble damage 20*2 to 40*2 (+ 40*2% AD) (+ 25*2% AP) physical damage(15 second cooldown). This effect ends prematurely if you become affected by cast-inhibiting crowd control. Shot damage applies life steal. Style stacks are consumed at the end of the shooting effect.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/triggered-inferno"
+    }
+  },
+  {
+    "id": "ultimate_awakening",
+    "name": "终极唤醒",
+    "name_en": "Ultimate Awakening",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得30终极技能急速。施放终极技能后刷新所有基础技能冷却并获得300基础技能急速，持续15秒（20秒冷却）。",
+    "effect_en": "Casting your ultimate ability resets the cooldowns of all your basic abilities and grants you 300 basic ability haste for 15 seconds (20 second cooldown). Additionally, gain 30 ultimate haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ultimate-awakening"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "ultimate_revolution",
+    "name": "终极刷",
+    "name_en": "Ultimate Revolution",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能后刷新其冷却时间（75秒冷却，阵亡时重置）。",
+    "effect_en": "Casting your ultimate ability resets its cooldown once its effect For instant-cast spells or has For duration-based spells (75 second cooldown, reset upon death).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ultimate-revolution"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "upgrade_mikaels",
+    "name": "升级：花晓之剑",
+    "name_en": "Upgrade Mikael's Blessing",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得100%攻速，对英雄攻击使米凯尔的祝福治疗效果提升250%。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "windspeakers_blessing",
+    "name": "风语者的祝福",
+    "name_en": "Windspeaker's Blessing",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "治疗或护盾使目标获得30-60护甲和魔法抗性，持续3秒。",
+    "effect_en": "Your or allies' heals and shields on yourself, or your heals and shields on allies, grant the target 30 to 60 bonus armor and bonus magic resistance for 3 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/windspeakers-blessing"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "apex_inventor",
+    "name": "尖端发明家",
+    "name_en": "Apex Inventor",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 100 item haste, which is equivalent to 50% cooldown reduction for items.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/apex-inventor"
+    }
+  },
+  {
+    "id": "archmage",
+    "name": "大法师",
+    "name_en": "Archmage",
+    "tier": "gold",
+    "status": "active",
+    "effect": "施放一个技能后返还另一个随机技能30%原冷却时间的费用。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "bread_and_cheese",
+    "name": "面包和奶酪",
+    "name_en": "Bread And Cheese",
+    "tier": "gold",
+    "status": "active",
+    "effect": "E技能获得100技能急速。",
+    "effect_en": "Your champion's third basic ability (E) gains 100 ability haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/bread-and-cheese"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "bread_and_jam",
+    "name": "面包和果酱",
+    "name_en": "Bread And Jam",
+    "tier": "gold",
+    "status": "active",
+    "effect": "W技能获得100技能急速。",
+    "effect_en": "Your champion's second basic ability (W) gains 100 ability haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/bread-and-jam"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "combusting_interest",
+    "name": "燃烧利息",
+    "name_en": "Combusting Interest",
+    "tier": "gold",
+    "status": "active",
+    "effect": "对英雄施加的灼烧和持续伤害会生成金币。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "dawnbringers_resolve",
+    "name": "黎明使者的坚决",
+    "name_en": "Dawnbringer's Resolve",
+    "tier": "gold",
+    "status": "active",
+    "effect": "低于50%最大生命值时，3秒内恢复30%最大生命值（45秒冷却）。",
+    "effect_en": "Upon dropping below 50% maximum health, you are healed for 30% maximum health over 3 seconds (45 second cooldown, reset upon death).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/dawnbringers-resolve"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "divine_intervention",
+    "name": "神圣干预",
+    "name_en": "Divine Intervention",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast Cosmic Radiance Taric, calling down a protective star upon you that descends over 2.5 seconds. Afterwards, you and all allied champions within icononly=true 400 units become invulnerable for 2.5 seconds (35 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/divine-intervention"
+    }
+  },
+  {
+    "id": "donation",
+    "name": "捐赠",
+    "name_en": "Donation",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得1750金币。",
+    "effect_en": "Gain 1750 gold upon acquiring this augment.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/donation"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "ethereal_weapon",
+    "name": "虚幻武器",
+    "name_en": "Ethereal Weapon",
+    "tier": "gold",
+    "status": "active",
+    "effect": "技能可施加命中特效（每目标1秒冷却）。",
+    "effect_en": "Your abilities apply on-hit effects (1 second cooldown per target).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ethereal-weapon"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "firebrand",
+    "name": "火上浇油",
+    "name_en": "Firebrand",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks apply a Burn for 5 seconds that deals bonus magic damage equal to2/5% of the target's maximum health per second. 2% of the target's maximum health over the duration.This Burn stacks infinitely and refreshes with each application.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/firebrand"
+    }
+  },
+  {
+    "id": "from_beginning_to_end",
+    "name": "有始有终",
+    "name_en": "From Beginning to End",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Dark Harvest and First Strike keystone runes.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/from-beginning-to-end"
+    }
+  },
+  {
+    "id": "from_downtown",
+    "name": "狙神飞星",
+    "name_en": "From Downtown",
+    "tier": "gold",
+    "status": "active",
+    "effect": "任务：用技能狙击敌方英雄若干次。奖励：向被狙击的敌人发射流星。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "impassable",
+    "name": "不动如山",
+    "name_en": "Impassable",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain the Aftershock and Glacial Augment keystone runes.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/impassable"
+    }
+  },
+  {
+    "id": "its_killing_time",
+    "name": "杀戮时间到了",
+    "name_en": "It's Killing Time",
+    "tier": "gold",
+    "status": "active",
+    "effect": "施放终极技能后标记所有敌人，存储你对目标造成的40%伤害，5秒后引爆造成真实伤害（8秒冷却）。",
+    "effect_en": "Upon casting your ultimate ability, you apply Death Mark Zed to all enemy champions (8 second cooldown). The mark stores 40% of all Damage calculated before modifiers damage you deal to the affected target, detonating after 5 seconds to deal true damage equal to the damage stored against them.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/its-killing-time"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "lil_extra_help",
+    "name": "小小的额外帮助",
+    "name_en": "Lil' Extra Help",
+    "tier": "gold",
+    "status": "active",
+    "effect": "技能持续期间获得攻击距离和攻击速度。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "magic_missile",
+    "name": "魔法飞弹",
+    "name_en": "Magic Missile",
+    "tier": "gold",
+    "status": "active",
+    "effect": "造成技能伤害时发射3个飞弹，每个造成基于飞行距离的最大生命值真实伤害（最高1%，6秒冷却）。",
+    "effect_en": "Dealing damage to an enemy champion with an ability fires 3 Firecrackers at them that each deal true damage equal to 0.33% of the target's maximum health, increased to up to 1% based on distance travelled (maximum damage reached at 1000 units). This effect can only trigger once every 6 seconds from the same cast.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/magic-missile"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "marksmage",
+    "name": "神射法师",
+    "name_en": "Marksmage",
+    "tier": "gold",
+    "status": "active",
+    "effect": "攻击造成相当于75%法术强度的额外物理伤害。",
+    "effect_en": "Basic attacks deal bonus physical damage equal to 75% AP.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/marksmage"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "minionmancer",
+    "name": "仆从大师",
+    "name_en": "Minionmancer",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your pets deal 40% increased damage as well as gain 40% bonus health and size.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/minionmancer"
+    }
+  },
+  {
+    "id": "nightstalking",
+    "name": "夜狩",
+    "name_en": "Nightstalking",
+    "tier": "gold",
+    "status": "active",
+    "effect": "对敌方英雄造成伤害后3秒内击杀该目标，进入1.5秒隐身。",
+    "effect_en": "Scoring a takedown against an enemy champion within 3 seconds of damaging them renders you invisible for 1.5 seconds. Attacking or casting abilites ends the stealth immediately.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/nightstalking"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "ok_boomerang",
+    "name": "回力OK镖",
+    "name_en": "OK Boomerang",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast an improved version of Boomerang Blade Sivir at the closest nearby enemy champion within 1250 units, dealing 40 to 200 (+ 30% bonus AD) (+ 20% AP) adaptive damage to enemies hit (10 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ok-boomerang"
+    }
+  },
+  {
+    "id": "outlaws_grit",
+    "name": "狂徒豪气",
+    "name_en": "Outlaw's Grit",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Dashing or blinking grants 12 bonus armor and bonus magic resistance for 15 seconds, stacking up to 5 times for a total of 60 bonus resistances, and refreshing on subsequent triggers.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/outlaws-grit"
+    }
+  },
+  {
+    "id": "overflow",
+    "name": "溢流",
+    "name_en": "Overflow",
+    "tier": "gold",
+    "status": "active",
+    "effect": "法力消耗翻倍。基于最大法力值增加技能治疗、护盾和伤害。",
+    "effect_en": "Your abilities' mana costs are doubled, but you also gain 10% (+ 0.5% per 100 maximum mana) increased damage as well as self and outgoing healing and shielding.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/overflow"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "phenomenal_evil",
+    "name": "超凡邪恶",
+    "name_en": "Phenomenal Evil",
+    "tier": "gold",
+    "status": "active",
+    "effect": "技能对英雄造成伤害时永久获得1法强（每秒最多触发一次）。若非法师第一符文，起始自带40层。",
+    "effect_en": "Gain Phenomenal Evil Power Veigar. Phenomenal Evil Power: Generate a permanent stack of Phenomenal Evil each time you damage an enemy champion with ability damage. This effect cannot trigger more than once every second globally and once every 3 seconds from the same cast instance. For each stack, gain 1 ability power. If this is not your first augment, start with 40 Phenomenal Evil stacks, granting you 40 ability power.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/phenomenal-evil"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "pinball",
+    "name": "弹球",
+    "name_en": "Pinball",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Mark is empowered to instead throw a pinball, which deals 100 to 500 bonus true damage and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset, it increases in radius by 25%, deals 20% increased damage, and reduces Mark remaining cooldown by 30%. The pinball can ricochet up to 4 times, for a maximum radius increase of 100% and a damage increase of 80%. Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/pinball"
+    }
+  },
+  {
+    "id": "pressure_cooker",
+    "name": "高压锅",
+    "name_en": "Pressure Cooker",
+    "tier": "gold",
+    "status": "active",
+    "effect": "每秒对附近敌方英雄施加灼烧（基于最大生命值缩放）。任务：提升灼烧规模和伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "pursuit_of_haste",
+    "name": "急速之追求",
+    "name_en": "Pursuit of Haste",
+    "tier": "gold",
+    "status": "active",
+    "effect": "任务：用技能命中敌方英雄若干次。奖励：获得该技能的技能急速。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "pursuit_of_power",
+    "name": "威能之追求",
+    "name_en": "Pursuit of Power",
+    "tier": "gold",
+    "status": "active",
+    "effect": "任务：用技能命中敌方英雄若干次。奖励：永久提升该技能伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "quest_steel_your_heart",
+    "name": "任务：钢化你心",
+    "name_en": "Quest: Steel Your Heart",
+    "tier": "gold",
+    "status": "active",
+    "effect": "任务：拥有心之钢并积累超过300层。奖励：心之钢层数效果乘以3。",
+    "effect_en": "Quest: Obtain Heartsteel and accumulate over 300 bonus health from Colossal Consumption. Reward: Upon completing your Quest:, increase the bonus health gained from Heartsteel Colossal Consumption by 200%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/quest-steel-your-heart"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "recursion",
+    "name": "循环往复",
+    "name_en": "Recursion",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得60技能急速。",
+    "effect_en": "Grants 60 ability haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/recursion"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "scopier_weapons",
+    "name": "更万用的瞄准镜",
+    "name_en": "Scopier Weapons",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得200攻击距离。",
+    "effect_en": "Gain 200 bonus attack range.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/scopier-weapons"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "searing_dawn",
+    "name": "炽烈黎明",
+    "name_en": "Searing Dawn",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain Sunlight Leona. Sunlight: Your damaging abilities mark enemies, causing them to take 40 to 200 bonus magic damage from your ally's next basic attack or ability hit against them (0.75-second cooldown per target).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/searing-dawn"
+    }
+  },
+  {
+    "id": "shrink_engine",
+    "name": "缩小引擎",
+    "name_en": "Shrink Engine",
+    "tier": "gold",
+    "status": "active",
+    "effect": "击杀变小并获得8技能急速和1%移动速度（可无限叠加）。阵亡损失65%层数。",
+    "effect_en": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, gain 8 ability haste and 1% bonus movement speed, and reduce your size by 4%. Lose 65% of stacks on death. Size reduction is capped at 80% (20 stacks).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/shrink-engine"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "shrink_ray",
+    "name": "缩小射线",
+    "name_en": "Shrink Ray",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit reduce the target's damage dealt by 15% for 3 seconds, refreshing with each hit. Their size is also reduced significantly for the duration.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/shrink-ray"
+    }
+  },
+  {
+    "id": "skilled_sniper",
+    "name": "老练狙神",
+    "name_en": "Skilled Sniper",
+    "tier": "gold",
+    "status": "active",
+    "effect": "非终极技能从700距离外命中敌方英雄，返还80%冷却时间（持续伤害技能为65%）。",
+    "effect_en": "Hitting an enemy champion with a basic ability while located at least icononly=true 700 units away from them at the time of the hit reduces its current cooldown by 80% of its total cooldown, modified to 65% for damage over time abilities.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/skilled-sniper"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "sonata",
+    "name": "咏叹奏鸣",
+    "name_en": "Sonata",
+    "tier": "gold",
+    "status": "active",
+    "effect": "每10秒自动交替施放坚毅咏叹调（治疗/护盾光环）和迅捷奏鸣曲（移速光环）。",
+    "effect_en": "Alternate between automatically casting a modified version of Aria of Perseverance Sona and modified Song of Celerity Sona, with the former being cast first (10 second cooldown). Aria of Perseverance: Heal yourself for 60 (+ 60% AP) and send out a tone to the Based on greatest % missing health allied champion within 1000 units that heals them for the same amount. Additionally, generate an 400 unit radius, center-to-edge that grants you and tagged allied champions a 80 (+ 40% AP) shield for 1.5 seconds. Song of Celerity: Gain 30% bonus movement speed for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an 400 unit radius, center-to-edge that grants tagged allied champions 20% bonus movement speed for 3 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/sonata"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "soul_eater",
+    "name": "吞噬灵魂",
+    "name_en": "Soul Eater",
+    "tier": "gold",
+    "status": "active",
+    "effect": "定身敌方英雄时获得20最大生命值（可无限叠加，5秒冷却）。",
+    "effect_en": "Immobilizing or grounding an enemy champion grants you 20 bonus health, stacking infinitely (5 second cooldown per cast instance).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/soul-eater"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "soul_siphon",
+    "name": "虹吸",
+    "name_en": "Soul Siphon",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Heal for 12% of the Damage calculated after modifiers dealt by your critical strikes. Additionally, gain 25% critical strike chance.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/siphon"
+    }
+  },
+  {
+    "id": "spiritual_purification",
+    "name": "心灵净化",
+    "name_en": "Spiritual Purification",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Scoring a champion takedown causes the area around the slain champion to explode in a 500 unit radius, dealing adaptive damage to enemies within equal to 15% of their current health and leaving behind a zone for 1.5 seconds that slows enemies within by 60%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/spiritual-purification"
+    }
+  },
+  {
+    "id": "stats_on_stats",
+    "name": "属性叠属性！",
+    "name_en": "Stats on Stats!",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得3个属性锻造器，更高几率出现金色和棱彩锻造器。",
+    "effect_en": "Gain 3 Stat Bonus, with a higher chance of obtaining Gold and Prismatic tier anvils.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/stats-on-stats"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "sticky_fingers",
+    "name": "顺手牵羊",
+    "name_en": "Sticky Fingers",
+    "tier": "gold",
+    "status": "active",
+    "effect": "击杀时从敌方英雄偷取一件随机装备。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "storm_surge",
+    "name": "风暴涌动",
+    "name_en": "Storm Surge",
+    "tier": "gold",
+    "status": "active",
+    "effect": "靠近友方英雄时获得移动速度。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "tank_engine",
+    "name": "坦克引擎",
+    "name_en": "Tank Engine",
+    "tier": "gold",
+    "status": "active",
+    "effect": "击杀增大体型并提升5%最大生命值（可无限叠加）。阵亡损失65%层数。",
+    "effect_en": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your maximum health and size by 5%. Lose 65% of stacks on death.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/tank-engine"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "thread_the_needle",
+    "name": "穿针引线",
+    "name_en": "Thread the Needle",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得18%护甲穿透和法术穿透。",
+    "effect_en": "Grants 18% armor penetration and magic penetration.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/thread-the-needle"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "transmute_prismatic",
+    "name": "质变：棱彩阶",
+    "name_en": "Transmute: Prismatic",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得1个随机棱彩阶强化符文（排除当前选择中的其他两个）。",
+    "effect_en": "Gain one random Prismatic augment, excluding the other two offerings in your current assortment.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/transmute-prismatic"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "upgrade_infinity_edge",
+    "name": "升级：无尽之刃",
+    "name_en": "Upgrade Infinity Edge",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得25%暴击几率和500金币。拥有无尽之刃时，暴击伤害获得随机额外暴击伤害加成。",
+    "effect_en": "Upgrades Infinity Edge, empowering it to gain Sword of the Divine Excoriate. Additionally, gain 500 gold and 25% critical strike chance. Excoriate: Gain a random amount of bonus critical strike damage that scales up to 50% of your critical strike chance, with the value of this amount changing every 0.25 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-infinity-edge"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "upgrade_sheen",
+    "name": "升级：耀光",
+    "name_en": "Upgrade Sheen",
+    "tier": "gold",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades all Spellblade items, empowering the passive effect to deal additional bonus physical damage equal to 4% of the target's maximum health and heal you for 3.5% of your maximum health. Additionally, gain 250 gold.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-sheen"
+    }
+  },
+  {
+    "id": "void_dash",
+    "name": "虚空冲刺",
+    "name_en": "Void Dash",
+    "tier": "gold",
+    "status": "active",
+    "effect": "冲刺技能产生虚空地带，减速敌方英雄并造成魔法伤害。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "warlock_juicebox",
+    "name": "术士果汁盒",
+    "name_en": "Warlock Juicebox",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得全能吸血。",
+    "effect_en": "",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "blitz_gg",
+      "url": "https://blitz.gg/zh-CN/lol/aram-mayhem-augments"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "with_haste",
+    "name": "急急小子",
+    "name_en": "With Haste",
+    "tier": "gold",
+    "status": "active",
+    "effect": "获得相当于70%技能急速的移动速度。",
+    "effect_en": "Grants bonus movement speed equal to 70% ability haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/with-haste"
+    },
+    "_source_blitz": true
+  },
+  {
+    "id": "adapt",
+    "name": "物理转魔法",
+    "name_en": "ADAPt",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your bonus attack damage into ability power at a rate of 1 ability power per 0.6 bonus attack damage. Additionally, increase your ability power by 15%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/adapt"
+    }
+  },
+  {
+    "id": "escapade",
+    "name": "魔法转物理",
+    "name_en": "EscAPADe",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your ability power into bonus attack damage at a rate of 1 bonus attack damage per 1.66 ability power. Additionally, increase your total attack damage by 15%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/escapade"
+    }
+  },
+  {
+    "id": "escape_plan",
+    "name": "逃跑计划",
+    "name_en": "Escape Plan",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upon dropping below 35% of your maximum health, gain a shield for 65% of your maximum health, 150% bonus movement speed, and reduced size (75 second cooldown). These effects all decay over 5.5 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/escape-plan"
+    }
+  },
+  {
+    "id": "firefox",
+    "name": "火狐",
+    "name_en": "Firefox",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Automatically cast a modified version of Fox-Fire Ahri, gaining 25% bonus movement speed that decays over 2 seconds and conjuring 3 flames that orbit you clockwise for up to 2.5 seconds at a radius of icononly=true 150 units. The flames will On a 0.25-second delay after acquisition the nearest visible enemies within icononly=true 550 units, dealing 35 to 160 (+ 25% bonus AD (+ 25% AP) adaptive damage, reduced to35*0.3 to 160*0.3 (+ 25*0.3% bonus AD (+ 25*0.3% AP) 30% of the original damagefor enemies hit by subsequent flames from the same cast (7 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/firefox"
+    }
+  },
+  {
+    "id": "flash_2",
+    "name": "闪闪现现",
+    "name_en": "Flash 2",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Flash. Additionally, gain 70 summoner spell haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/flash-2"
+    }
+  },
+  {
+    "id": "flashbang",
+    "name": "闪光弹",
+    "name_en": "Flashbang",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Using Flash creates an explosion around the blink location that deals 70 to 240 (+ 70% AD) (+ 60% AP) magic damage to nearby enemies and slows them by 35% for 1.25 seconds. Additionally, the cooldown of your Flash resets upon your death. If Flash is not equipped, you will be prompted to replace one of your summoner spells with Flash.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/flashbang"
+    }
+  },
+  {
+    "id": "heavy_hitter",
+    "name": "重量级打击手",
+    "name_en": "Heavy Hitter",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks deal bonus physical damage equal to 3.5% of your maximum health.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/heavy-hitter"
+    }
+  },
+  {
+    "id": "hextech_soul",
+    "name": "海克斯科技龙魂",
+    "name_en": "Hextech Soul",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/hextech-soul"
+    }
+  },
+  {
+    "id": "ice_cold",
+    "name": "冰寒",
+    "name_en": "Ice Cold",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your slowing effects reduce the movement speed of targets by an additional 75.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ice-cold"
+    }
+  },
+  {
+    "id": "infernal_soul",
+    "name": "炼狱龙魂",
+    "name_en": "Infernal Soul",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/infernal-soul"
+    }
+  },
+  {
+    "id": "juiced",
+    "name": "注魔",
+    "name_en": "Juiced",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks on-hit against enemy champions consume 2.5% of your maximum mana to deal bonus magic damage equal to 4.5% of your maximum mana. This damage can critically strike for 100 bonus damage.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/juiced"
+    }
+  },
+  {
+    "id": "kill_secured",
+    "name": "杀意翻涌",
+    "name_en": "Kill Secured",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 60% bonus movement speed towards enemy champions below 40% of their maximum health.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/kill-secured"
+    }
+  },
+  {
+    "id": "leg_day",
+    "name": "练腿日",
+    "name_en": "Leg Day",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 50 bonus movement speed and 40% slow resist.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/leg-day"
+    }
+  },
+  {
+    "id": "light_em_up",
+    "name": "点亮他们！",
+    "name_en": "Light 'em Up!",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks generate a stack, up to 4. The fourth stack consumes them all to quickly launch 4 Firecrackers at the target that each deal 11 to 80 (+ 35% bonus AD) (+ 19% AP) bonus magic damage on-hit, for a total of 11*4 to 80*4 (+ 35*4% bonus AD) (+ 19*4% AP).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/light-em-up"
+    }
+  },
+  {
+    "id": "mighty_shield",
+    "name": "强力护盾",
+    "name_en": "Mighty Shield",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 40 to 100 adaptive force for 3 seconds upon gaining a shield (5 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/mighty-shield"
+    }
+  },
+  {
+    "id": "mind_to_matter",
+    "name": "由心及物",
+    "name_en": "Mind to Matter",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants bonus health equal to 50% maximum mana.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/mind-to-matter"
+    }
+  },
+  {
+    "id": "ocean_soul",
+    "name": "海洋龙魂",
+    "name_en": "Ocean Soul",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants the Ocean Dragon Soul, which has a modified base heal value of 100, or a different Dragon Soul if you aleady have it.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ocean-soul"
+    }
+  },
+  {
+    "id": "poltergeist",
+    "name": "吵闹鬼",
+    "name_en": "Poltergeist",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Poltergeist. Poltergeist: geteffect Poltergeist",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/poltergeist"
+    }
+  },
+  {
+    "id": "purist_caster",
+    "name": "纯粹主义者 - 术师",
+    "name_en": "Purist - Caster",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Convert all of your bonus attack speed into ability haste at a rate of 0.65 ability haste per 1% bonus attack speed. Additionally, your abilities' total cooldowns are reduced by 10%.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/purist-caster"
+    }
+  },
+  {
+    "id": "scoped_weapons",
+    "name": "万用瞄准镜",
+    "name_en": "Scoped Weapons",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 75 bonus attack range.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/scoped-weapons"
+    }
+  },
+  {
+    "id": "shadow_runner",
+    "name": "暗影疾奔",
+    "name_en": "Shadow Runner",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After dashing, blinking, or exiting stealth, gain 300 bonus movement speed for 2 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/shadow-runner"
+    }
+  },
+  {
+    "id": "slap_around",
+    "name": "扇巴掌",
+    "name_en": "Slap Around",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Immobilizing or grounding an enemy champion grants you 10, stacking infinitely (5 second cooldown per cast instance). Lose 50% of stacks on death.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/slap-around"
+    }
+  },
+  {
+    "id": "sonic_boom",
+    "name": "天音爆",
+    "name_en": "Sonic Boom",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Granting a buff, heal, or shield to your ally deals 30 to 150 true damage to enemies within 450 units of them and slows targets by 30% for 2 seconds (2 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/sonic-boom"
+    }
+  },
+  {
+    "id": "spin_me_right_round",
+    "name": "转得我眩晕了",
+    "name_en": "Spin Me Right Round",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Replace a summoner spell with Heroic Swing Akshan (5.88 seconds after applying the 70 summoner spell haste from the global ARAM champion buff, starts post-effect). Heroic Swing - Active: You can activate Heroic Swing three times before the ability goes on cooldown, and you can use the third cast only after 0.5 seconds of the second cast. An attack or movement command may be inputted to use the second and third casts. First Cast: Fire a hook in the target direction that embeds in the first terrain hit for 2 seconds. Heroic Swing's second cast can be used while the hook is attached. If the hook fails to attach or you become immobilized, grounded, or polymorphed within the duration, Heroic Swing is cancelled and placed on full cooldown. Second Cast: Swing around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor Dash will move clockwise if the player's cursor is anywhere to the left of their champion from their facing direction (or perspective), and counterclockwise if the cursor is anywhere to their champion's right., stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest visible enemy within 500 units every 0.2 to deal them 15 to 75 (+ 15% AD) times (1 + 0.3 per 100% bonus attack speed) physical damage and apply on-hit effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be interrupted if you are affected by any immobilizing or polymorphing crowd control during the dash. Third Cast: End the swing by jumping to the target location and fire one last shot at a nearby visible enemy. Scoring an enemy champion takedown reduces Heroic Swing's current cooldown to 0.5 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/spin-me-right-round"
+    }
+  },
+  {
+    "id": "spin_to_win",
+    "name": "旋转至胜",
+    "name_en": "Spin To Win",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Your Any ability with 'spinning' properties deal 30% increased damage and have their cooldown reduced equivalent to 30 ability haste.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/spin-to-win"
+    }
+  },
+  {
+    "id": "stats",
+    "name": "属性！",
+    "name_en": "Stats!",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Gain 2 Stat Bonus.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/stats"
+    }
+  },
+  {
+    "id": "swift_and_safe",
+    "name": "快中求稳",
+    "name_en": "Swift and Safe",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "After dashing or blinking, gain a shield that lasts for 2 seconds and absorbs 65 to 290 (+ 65% AD) (+ 26% AP) damage (5 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/swift-and-safe"
+    }
+  },
+  {
+    "id": "twin_fire",
+    "name": "双生火焰",
+    "name_en": "Twin Fire",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Damaging abilities against enemy champions launch 1 (+ 1 per 33.33% critical strike chance) Firecrackers at the target that each deal 10 to 30 (+ 7% bonus AD) (+ 7% AP) magic damage (5 second cooldown). Additionally, gain 15% critical strike chance.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/twin-fire"
+    }
+  },
+  {
+    "id": "typhoon",
+    "name": "台风",
+    "name_en": "Typhoon",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Basic attacks launch a Firecracker at a nearby enemy champion that deals 30% AD physical damage and applies on-hit effects.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/typhoon"
+    }
+  },
+  {
+    "id": "ultimate_unstoppable",
+    "name": "终极不可阻挡",
+    "name_en": "Ultimate Unstoppable",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Casting your ultimate ability grants you crowd control immunity for 3 seconds (8 second cooldown).",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/ultimate-unstoppable"
+    }
+  },
+  {
+    "id": "upgrade_collector",
+    "name": "升级：收集者",
+    "name_en": "Upgrade Collector",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades The Collector, empowering Death to have its execution threshold increased by 0.5% each time you kill an enemy champion, capped at a threshold of 12.5% of the target's maximum health, and Taxes to generate a further 25 gold (total 50 gold) from kills. Additionally, gain 250 gold.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-collector"
+    }
+  },
+  {
+    "id": "upgrade_immolate",
+    "name": "升级：献祭",
+    "name_en": "Upgrade Immolate",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Bami's Cinder, Hollow Radiance, Sunfire Aegis, and Void Immolation, empowering Immolate to additionally grant you 12 gold per tick for each enemy champion afflicted by its effect. Additionally, gain 250 gold.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-immolate"
+    }
+  },
+  {
+    "id": "upgrade_zhonyas",
+    "name": "升级：中娅",
+    "name_en": "Upgrade Zhonya's",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Upgrades Seeker's Armguard, Wooglet's Witchcap, and Zhonya's Hourglass, empowering Stasis to allow you to move during its active effect, during which time you also gain 50% bonus movement speed. Additionally, the cooldown of Zhonya's Hourglass Stasis is reduced to 45 seconds.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-zhonyas"
+    }
+  },
+  {
+    "id": "witchful_thinking",
+    "name": "巫师式思考",
+    "name_en": "Witchful Thinking",
+    "tier": "silver",
+    "status": "active",
+    "effect": "",
+    "effect_en": "Grants 20 to 80 ability power.",
+    "source_status": "import_candidate",
+    "source": {
+      "type": "arammayhem_wiki",
+      "url": "https://arammayhem.com/zh-cn/augments/witchful-thinking"
+    }
+  }
+]
