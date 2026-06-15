@@ -5,11 +5,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 6.4,
-    "conf": 95,
+    "conf": 60,
     "sample": 2847,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "Q技能触发连锁闪电后弹射到所有被E减速的目标，形成双重AOE叠加。配合R技能的超大范围，一次团战中可触发8-12次闪电。",
     "trigger": "Q/E/R 技能命中敌方英雄时触发",
     "notes": [
@@ -28,7 +28,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "吉格斯",
@@ -36,11 +37,11 @@
     "rar": "silver",
     "tier": "recommend",
     "delta": 3.7,
-    "conf": 88,
+    "conf": 60,
     "sample": 3201,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "R技能CD从120秒降至约80秒，一局可以多放2-3次大招。每次大招都是团战核弹。",
     "trigger": "被动生效",
     "notes": [
@@ -54,7 +55,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "吉格斯",
@@ -62,11 +64,11 @@
     "rar": "gold",
     "tier": "avoid",
     "delta": -1.2,
-    "conf": 92,
+    "conf": 60,
     "sample": 856,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "吉格斯伤害几乎100%为魔法伤害，穿甲弹头的护甲穿透对其完全没有收益。选了等于浪费增强槽位。",
     "trigger": "N/A",
     "notes": [
@@ -78,7 +80,8 @@
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "布兰德",
@@ -116,11 +119,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 6.8,
-    "conf": 93,
+    "conf": 60,
     "sample": 2156,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "被动灼烧每次跳字都独立触发连锁闪电，配合W和R的AOE范围，团战中闪电弹射次数可达15次以上。",
     "trigger": "被动灼烧+技能命中双重触发",
     "notes": [
@@ -135,7 +138,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "布兰德",
@@ -143,18 +147,19 @@
     "rar": "silver",
     "tier": "avoid",
     "delta": -0.8,
-    "conf": 85,
+    "conf": 60,
     "sample": 1087,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "布兰德没有治疗或护盾技能，全心为你加成几乎无法利用。性价比极低。",
     "trigger": "N/A",
     "notes": [],
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "卡莎",
@@ -162,11 +167,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 5.9,
-    "conf": 91,
+    "conf": 60,
     "sample": 3842,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "利刃华尔兹的攻速加成让卡莎更快完成Q和E的进化。进化后的Q配合被动电浆效果，对单体伤害极为恐怖。",
     "trigger": "普攻命中时触发攻速叠加",
     "notes": [
@@ -180,7 +185,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "卡莎",
@@ -188,11 +194,11 @@
     "rar": "silver",
     "tier": "recommend",
     "delta": 3.0,
-    "conf": 82,
+    "conf": 60,
     "sample": 2104,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "部分物理伤害转化为魔法伤害，配合卡莎被动的混合伤害特性，让进化后的W更加致命。",
     "trigger": "被动生效",
     "notes": [
@@ -206,7 +212,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "卡莎",
@@ -214,18 +221,19 @@
     "rar": "silver",
     "tier": "avoid",
     "delta": -1.5,
-    "conf": 78,
+    "conf": 60,
     "sample": 1653,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "卡莎核心需求是攻速而非生存，你摸不到的移速护盾在大乱斗狭窄地图中收益有限。",
     "trigger": "闪避技能后触发",
     "notes": [],
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "提莫",
@@ -233,11 +241,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 5.5,
-    "conf": 90,
+    "conf": 60,
     "sample": 2341,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "E被动毒素配合毒性增幅后持续伤害大幅提升。后期蘑菇满地的情况下灼烧伤害极为恐怖。",
     "trigger": "E被动毒素命中+R蘑菇触发",
     "notes": [
@@ -251,7 +259,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "提莫",
@@ -259,11 +268,11 @@
     "rar": "silver",
     "tier": "avoid",
     "delta": -2.1,
-    "conf": 88,
+    "conf": 60,
     "sample": 921,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "提莫没有护盾和治疗技能，全心为你完全浪费。提莫需要伤害增强而非生存增强。",
     "trigger": "N/A",
     "notes": [
@@ -275,7 +284,8 @@
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "提莫",
@@ -311,11 +321,11 @@
     "rar": "prism",
     "tier": "transform",
     "delta": 7.2,
-    "conf": 94,
+    "conf": 60,
     "sample": 1876,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "Q技能单体双倍伤害配合毁灭凝视斩杀效果，对低血量目标造成毁灭打击。后期R全图收割+斩杀=无法逃脱。",
     "trigger": "Q命中低血量目标 / R全图斩杀",
     "notes": [
@@ -329,7 +339,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "卡尔萨斯",
@@ -337,11 +348,11 @@
     "rar": "silver",
     "tier": "recommend",
     "delta": 3.4,
-    "conf": 86,
+    "conf": 60,
     "sample": 2534,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "大招CD缩短让卡尔萨斯一局可以多放更多全图R，每次都是稳定1000+全图伤害。",
     "trigger": "被动生效",
     "notes": [
@@ -355,7 +366,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "卡尔萨斯",
@@ -387,11 +399,11 @@
     "rar": "gold",
     "tier": "recommend",
     "delta": 2.8,
-    "conf": 80,
+    "conf": 60,
     "sample": 2891,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "攻速加成对亚索Q的CD缩减和普攻输出都有直接提升。配合暴击流打出不错的持续伤害。",
     "trigger": "普攻命中时触发",
     "notes": [
@@ -405,7 +417,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "亚索",
@@ -413,11 +426,11 @@
     "rar": "gold",
     "tier": "avoid",
     "delta": -2.3,
-    "conf": 85,
+    "conf": 60,
     "sample": 1847,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "亚索风墙(W)会错误阻挡己方连锁闪电弹射效果。此外亚索AD加成也不享受魔法伤害增强。",
     "trigger": "风墙阻挡己方弹射（已知Bug）",
     "notes": [
@@ -429,7 +442,8 @@
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "亚索",
@@ -461,11 +475,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 5.2,
-    "conf": 89,
+    "conf": 60,
     "sample": 2108,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "攻速加成大幅提升W被动百分比伤害叠层速度。特效流韦鲁斯配合利刃华尔兹可以在中后期成为团战输出机器。",
     "trigger": "普攻命中时触发攻速叠加",
     "notes": [
@@ -479,7 +493,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "韦鲁斯",
@@ -487,11 +502,11 @@
     "rar": "prism",
     "tier": "recommend",
     "delta": 3.8,
-    "conf": 87,
+    "conf": 60,
     "sample": 1532,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "R技能是极强的开团工具，缩短CD意味着更多开团机会。配合队友击飞形成连续控制链。",
     "trigger": "击杀参与后触发CD缩减",
     "notes": [
@@ -505,7 +520,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "婕拉",
@@ -513,11 +529,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 5.8,
-    "conf": 92,
+    "conf": 60,
     "sample": 1765,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "植物攻击附带持续伤害，配合毒性增幅后灼烧大幅提升。团战中3-4株植物同时攻击时持续AOE极为恐怖。",
     "trigger": "植物攻击命中敌方英雄时",
     "notes": [
@@ -531,7 +547,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "婕拉",
@@ -539,11 +556,11 @@
     "rar": "gold",
     "tier": "recommend",
     "delta": 3.7,
-    "conf": 84,
+    "conf": 60,
     "sample": 1423,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "植物每次攻击独立触发连锁闪电，多株植物同时攻击时闪电密度极高。",
     "trigger": "植物攻击命中时独立触发",
     "notes": [],
@@ -552,7 +569,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "婕拉",
@@ -560,18 +578,19 @@
     "rar": "gold",
     "tier": "avoid",
     "delta": -1.8,
-    "conf": 90,
+    "conf": 60,
     "sample": 512,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "婕拉所有伤害均为魔法伤害，穿甲弹头完全无效。",
     "trigger": "N/A",
     "notes": [],
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "维克托",
@@ -579,11 +598,11 @@
     "rar": "prism",
     "tier": "transform",
     "delta": 5.0,
-    "conf": 88,
+    "conf": 60,
     "sample": 1234,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "额外经验值让维克托更快完成被动升级。全技能强化后输出能力质变，特别是强化E+强化R后期毁天灭地。",
     "trigger": "被动生效，经验值加成",
     "notes": [
@@ -597,7 +616,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "维克托",
@@ -605,11 +625,11 @@
     "rar": "silver",
     "tier": "recommend",
     "delta": 2.5,
-    "conf": 81,
+    "conf": 60,
     "sample": 1876,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "维克托是蓝耗大户，法力涌泉的回复加成让他更频繁使用强化Q和E消耗。",
     "trigger": "被动生效",
     "notes": [],
@@ -618,7 +638,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "泽拉斯",
@@ -626,11 +647,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 5.5,
-    "conf": 91,
+    "conf": 60,
     "sample": 1654,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "Q和E都是超远距离poke，触发连锁闪电后可在敌方视野外造成额外伤害。R的多次轰击让闪电密度拉满。",
     "trigger": "Q/E/R 技能命中时",
     "notes": [
@@ -644,7 +665,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "泽拉斯",
@@ -652,11 +674,11 @@
     "rar": "prism",
     "tier": "recommend",
     "delta": 3.2,
-    "conf": 83,
+    "conf": 60,
     "sample": 1102,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "poke打法经常把敌方打到残血，毁灭凝视斩杀效果在这种场景下非常实用。",
     "trigger": "技能命中低血量目标时",
     "notes": [],
@@ -665,7 +687,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "莫甘娜",
@@ -673,11 +696,11 @@
     "rar": "silver",
     "tier": "recommend",
     "delta": 3.0,
-    "conf": 82,
+    "conf": 60,
     "sample": 1987,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "E黑盾是核心技能，全心为你提升护盾效果让她更有效保护队友免受控制。",
     "trigger": "E护盾施放时",
     "notes": [
@@ -691,7 +714,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "莫甘娜",
@@ -699,18 +723,19 @@
     "rar": "gold",
     "tier": "avoid",
     "delta": -1.0,
-    "conf": 89,
+    "conf": 60,
     "sample": 645,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "莫甘娜伤害全部为魔法伤害，穿甲弹头毫无收益。",
     "trigger": "N/A",
     "notes": [],
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "凯南",
@@ -718,11 +743,11 @@
     "rar": "gold",
     "tier": "transform",
     "delta": 4.8,
-    "conf": 87,
+    "conf": 60,
     "sample": 1342,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "大招本身就是大型AOE闪电风暴，配合连锁闪电后视觉效果和伤害都极为夸张。R进场+闪电=瞬间融化。",
     "trigger": "R技能持续触发+普攻触发",
     "notes": [
@@ -736,7 +761,8 @@
     ],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "凯南",
@@ -744,18 +770,19 @@
     "rar": "silver",
     "tier": "avoid",
     "delta": -1.6,
-    "conf": 86,
+    "conf": 60,
     "sample": 478,
     "ver": "15.12",
     "src": "data",
-    "status": "verified",
+    "status": "investigating",
     "desc": "凯南没有护盾或治疗技能，完全浪费增强槽位。",
     "trigger": "N/A",
     "notes": [],
     "combos": [],
     "evidence": [],
     "updated_at": "2026-06-13T00:00:00Z",
-    "source_note": "/u5f53/u524d/u4e3a/u793a/u4f8b//u4eba/u5de5/u6574/u7406/u6570/u636e/uff0c/u5c1a/u65e0/u5916/u90e8/u8bc1/u636e/u94fe/u63a5/u3002"
+    "source_note": "当前为示例/人工整理数据，尚无外部证据链接。",
+    "downgraded_reason": "无外部证据支撑，从 verified 降级为 investigating"
   },
   {
     "hero": "吉格斯",

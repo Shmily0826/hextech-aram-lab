@@ -771,8 +771,8 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "获得额外25%经验值。18级后所有技能等级+1。",
-    "effect_en": "Gain 25% bonus experience. At level 18, all ability levels increase by 1.",
+    "effect": "获得一个吸收等于300%法术强度伤害的护盾，持续至被摧毁。护盾在重生时和每70秒补充一次。",
+    "effect_en": "Gain a shield that absorbs damage equal to 300% AP and lasts until destroyed. Shield is replenished upon respawn and every 70 seconds.",
     "tags": [
       "ability",
       "leveling"
@@ -788,8 +788,8 @@
     "rar": "gold",
     "wr": 56.9,
     "pr": 6.8,
-    "desc": "获得额外25%经验值。18级后所有技能等级+1。",
-    "trigger": "被动生效。",
+    "desc": "获得一个吸收等于300%法术强度伤害的护盾，持续至被摧毁。护盾在重生时和每70秒补充一次。",
+    "trigger": "被动生效，护盾在重生和定时补充时触发",
     "best": [
       {
         "h": "维克托",
@@ -1060,7 +1060,7 @@
       "adamant"
     ],
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "immobilize or ground an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
     "tags": [
@@ -1069,7 +1069,7 @@
       "cc"
     ],
     "patch_added": "",
-    "patch_removed": null,
+    "patch_removed": "26.12",
     "source": {
       "type": "lol_wiki_module",
       "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "blunt_force",
-    "name": "Blunt Force",
+    "name": "大力",
     "name_en": "Blunt Force",
     "aliases": [
       "blunt force",
@@ -1097,7 +1097,7 @@
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "攻击伤害提升20%。",
     "effect_en": "Increases attack damage by 20%.",
     "tags": [
       "damage",
@@ -1111,12 +1111,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "攻击伤害提升20%。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1124,14 +1123,14 @@
   },
   {
     "id": "deft",
-    "name": "Deft",
+    "name": "灵巧",
     "name_en": "Deft",
     "aliases": [
       "deft"
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "获得60%额外攻击速度。",
     "effect_en": "Grants 60% bonus attack speed.",
     "tags": [
       "attack"
@@ -1144,12 +1143,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得60%额外攻击速度。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1157,14 +1155,14 @@
   },
   {
     "id": "erosion",
-    "name": "Erosion",
+    "name": "侵蚀",
     "name_en": "Erosion",
     "aliases": [
       "erosion"
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "每次对敌人造成伤害时，降低其护甲和魔抗1.5%，持续4秒，最多叠加20层，总计降低30%双抗。",
     "effect_en": "Each instance of damage dealt to an enemy reduces their armor and magic resistance by 1.5% for 4 seconds, stacking up to 20 times for a total of 30% resistances reduction.",
     "tags": [
       "damage",
@@ -1178,12 +1176,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "每次对敌人造成伤害时，降低其护甲和魔抗1.5%，持续4秒，最多叠加20层，总计降低30%双抗。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1191,7 +1188,7 @@
   },
   {
     "id": "first_aid_kit",
-    "name": "First-Aid Kit",
+    "name": "急救用具",
     "name_en": "First-Aid Kit",
     "aliases": [
       "first-aid kit",
@@ -1199,7 +1196,7 @@
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "获得20%治疗和护盾强度。",
     "effect_en": "Grants 20% heal and shield power.",
     "tags": [
       "utility"
@@ -1212,12 +1209,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得20%治疗和护盾强度。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1225,14 +1221,14 @@
   },
   {
     "id": "goredrink",
-    "name": "Goredrink",
+    "name": "渴血",
     "name_en": "Goredrink",
     "aliases": [
       "goredrink"
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "获得15%全能吸血。",
     "effect_en": "Gain 15% omnivamp.",
     "tags": [
       "utility"
@@ -1245,12 +1241,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得15%全能吸血。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1258,14 +1253,14 @@
   },
   {
     "id": "homeguard",
-    "name": "Homeguard",
+    "name": "家园卫士",
     "name_en": "Homeguard",
     "aliases": [
       "homeguard"
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "获得100%额外移动速度。受到英雄伤害后该加成消失6秒。",
     "effect_en": "Gain 100% bonus movement speed. This bonus is lost for 6 seconds after taking damage from champions.",
     "tags": [
       "damage",
@@ -1279,12 +1274,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得100%额外移动速度。受到英雄伤害后该加成消失6秒。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1299,7 +1293,7 @@
       "guiltypleasure"
     ],
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
     "tags": [
@@ -1308,7 +1302,7 @@
       "cc"
     ],
     "patch_added": "",
-    "patch_removed": null,
+    "patch_removed": "26.12",
     "source": {
       "type": "lol_wiki_module",
       "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
@@ -1328,7 +1322,7 @@
   },
   {
     "id": "back_to_basics",
-    "name": "Back to Basics",
+    "name": "回归基本功",
     "name_en": "Back to Basics",
     "aliases": [
       "back to basics",
@@ -1337,7 +1331,7 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "基础技能伤害提升35%，获得70技能急速，所有来源的治疗和护盾效果提升35%，但终极技能被永久封印。",
     "effect_en": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased heal and shield from all sources, but your ultimate ability is permanently lockout.",
     "tags": [
       "damage",
@@ -1352,12 +1346,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "基础技能伤害提升35%，获得70技能急速，所有来源的治疗和护盾效果提升35%，但终极技能被永久封印。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1365,7 +1358,7 @@
   },
   {
     "id": "biggest_snowball_ever",
-    "name": "Biggest Snowball Ever",
+    "name": "史上最大雪球",
     "name_en": "Biggest Snowball Ever",
     "aliases": [
       "biggest snowball ever",
@@ -1374,7 +1367,7 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "将你的标记升级为巨型雪球，体积增大且可穿过非英雄单位。命中后爆炸造成200-350（+100%额外攻击力）（+60%法术强度）魔法伤害，击飞0.75秒并减速20%持续2秒。标记冷却缩减相当于100技能急速。",
     "effect_en": "Upgrades your Mark into a massive snowball, empowering it with an increased size radius and the ability to pass through non-champions. The snowball additionally explodes upon impact of the target hit to deal magic damage (+ 100% bonus AD) (+ 60% AP) magic damage to all nearby enemies, airborne for 0.75 seconds, and slow}} them by 20% for 2 seconds. Additionally, your {{sis cooldown is reduced equivalent to 100 ability haste. If Mark is not equipped, you will be prompted to replace one of your summoner spells with Mark. Non-champions hit by the snowball are stun for 1.25 seconds.",
     "tags": [
       "damage",
@@ -1389,12 +1382,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "将你的标记升级为巨型雪球，体积增大且可穿过非英雄单位。命中后爆炸造成200-350（+100%额外攻击力）（+60%法术强度）魔法伤害，击飞0.75秒并减速20%持续2秒。标记冷却缩减相当于100技能急速。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1402,7 +1394,7 @@
   },
   {
     "id": "circle_of_death",
-    "name": "Circle of Death",
+    "name": "死亡之环",
     "name_en": "Circle of Death",
     "aliases": [
       "circle of death",
@@ -1411,7 +1403,7 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "你的治疗和自我恢复会对最近1000码内的敌方英雄造成等值70%的魔法伤害。",
     "effect_en": "Heal and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
     "tags": [
       "damage",
@@ -1425,12 +1417,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "你的治疗和自我恢复会对最近1000码内的敌方英雄造成等值70%的魔法伤害。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1438,7 +1429,7 @@
   },
   {
     "id": "get_excited",
-    "name": "Get Excited",
+    "name": "罪恶快感",
     "name_en": "Get Excited",
     "aliases": [
       "get excited",
@@ -1446,7 +1437,7 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "",
+    "effect": "击杀或参与击杀后获得100%额外移动速度和15%总攻击速度，持续4秒。",
     "effect_en": "Scoring a champion takedown}} grants you {{as and 15% total attack speed for 4 seconds.",
     "tags": [
       "attack",
@@ -1460,12 +1451,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "gold",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "击杀或参与击杀后获得100%额外移动速度和15%总攻击速度，持续4秒。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1473,14 +1463,14 @@
   },
   {
     "id": "goliath",
-    "name": "Goliath",
+    "name": "歌利亚巨人",
     "name_en": "Goliath",
     "aliases": [
       "goliath"
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "获得35%额外生命值、15自适应之力和50%体型增大。",
     "effect_en": "Grants 35% bonus health, 15% adaptive force, and 50% increased size.",
     "tags": [
       "utility"
@@ -1493,12 +1483,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得35%额外生命值、15自适应之力和50%体型增大。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1506,7 +1495,7 @@
   },
   {
     "id": "growth_spurt",
-    "name": "Growth Spurt",
+    "name": "生机迸发",
     "name_en": "Growth Spurt",
     "aliases": [
       "growth spurt",
@@ -1514,7 +1503,7 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "",
+    "effect": "替换一个召唤师技能为成长突增。增大自身体型，击飞400码内的敌人1秒。接下来7秒内获得300（+20%最大生命值）额外生命值和50%体型增大。",
     "effect_en": "Replace a summoner spell with Growth Spurt. 20px|link= Growth Spurt: geteffect",
     "tags": [
       "utility"
@@ -1527,12 +1516,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "gold",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "替换一个召唤师技能为成长突增。增大自身体型，击飞400码内的敌人1秒。接下来7秒内获得300（+20%最大生命值）额外生命值和50%体型增大。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1540,7 +1528,7 @@
   },
   {
     "id": "bread_and_butter",
-    "name": "Bread And Butter",
+    "name": "面包和黄油",
     "name_en": "Bread And Butter",
     "aliases": [
       "bread and butter",
@@ -1549,7 +1537,7 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "",
+    "effect": "英雄的Q技能获得100技能急速。",
     "effect_en": "Your champion's first basic ability (Q) gains 100 ability haste.",
     "tags": [
       "ability"
@@ -1562,12 +1550,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "gold",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "英雄的Q技能获得100技能急速。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1575,7 +1562,7 @@
   },
   {
     "id": "fan_the_hammer",
-    "name": "Fan the Hammer",
+    "name": "连拨击锤",
     "name_en": "Fan the Hammer",
     "aliases": [
       "fan the hammer",
@@ -1584,7 +1571,7 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "每次对敌方英雄的普攻会在四个方向各发射5枚爆竹，每枚造成8-51（+14%额外攻击力）物理伤害（每方向5秒冷却）。",
     "effect_en": "Your next basic attack against an enemy champion in each cardinal direction within attack range additionally on-attack fires 5 Firecrackers at the target that each deal physical damage (+ 14% bonus AD) physical damage, for a total of physical damage (+ physical damage (5 second cooldown per direction). Firecrackers' damage is increased by type=distance travelled. Each Firecracker can critically strike}} for {{critical damage damage and applies on-hit effects at 20% effectiveness.",
     "tags": [
       "damage",
@@ -1598,12 +1585,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "每次对敌方英雄的普攻会在四个方向各发射5枚爆竹，每枚造成8-51（+14%额外攻击力）物理伤害（每方向5秒冷却）。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1611,7 +1597,7 @@
   },
   {
     "id": "celestial_body",
-    "name": "Celestial Body",
+    "name": "星界躯体",
     "name_en": "Celestial Body",
     "aliases": [
       "celestial body",
@@ -1619,7 +1605,7 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "",
+    "effect": "获得1500额外生命值，但伤害输出降低10%。",
     "effect_en": "Gain 1500 bonus health, but reduce your damage output by 10%.",
     "tags": [
       "damage",
@@ -1633,12 +1619,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "gold",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "获得1500额外生命值，但伤害输出降低10%。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1652,14 +1637,14 @@
       "cerberus"
     ],
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "Gain the Hail of Blades and Press the Attack keystone runes.",
     "tags": [
       "utility"
     ],
     "patch_added": "",
-    "patch_removed": null,
+    "patch_removed": "26.12",
     "source": {
       "type": "lol_wiki_module",
       "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
@@ -1679,14 +1664,14 @@
   },
   {
     "id": "dashing",
-    "name": "Dashing",
+    "name": "全凭身法",
     "name_en": "Dashing",
     "aliases": [
       "dashing"
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "拥有冲刺或闪烁效果的技能获得175技能急速。",
     "effect_en": "Abilities with dash or blink gain 175 ability haste.",
     "tags": [
       "mobility",
@@ -1700,12 +1685,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "拥有冲刺或闪烁效果的技能获得175技能急速。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1713,7 +1697,7 @@
   },
   {
     "id": "dive_bomber",
-    "name": "Dive Bomber",
+    "name": "俯冲轰炸",
     "name_en": "Dive Bomber",
     "aliases": [
       "dive bomber",
@@ -1721,7 +1705,7 @@
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "死亡时爆炸，对500码内的敌人造成相当于目标20%最大生命值的真实伤害。",
     "effect_en": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
     "tags": [
       "damage",
@@ -1736,12 +1720,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "死亡时爆炸，对500码内的敌人造成相当于目标20%最大生命值的真实伤害。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1749,14 +1732,14 @@
   },
   {
     "id": "dropkick",
-    "name": "Dropkick",
+    "name": "飞身踢",
     "name_en": "Dropkick",
     "aliases": [
       "dropkick"
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "普攻和技能可处决生命值低于5%（+3.5%/100基础攻击力）（+2%/1000额外生命值）最大生命值的敌方英雄，并将其尸体击飞。尸体撞到敌方英雄或地形时爆炸，对附近敌人造成150-500（+100%额外护甲）（+100%额外魔抗）魔法伤害。",
     "effect_en": "Your basic attacks and abilities execute}} enemy champions below (+ 2% per 1000 bonus health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal magic damage (+ 100% bonus armor) (+ 100% bonus magic resistance) magic damage to nearby enemies. Successful executions heal}} you for {{pp (+ 25% bonus health). The execution may also be triggered by the explosion and goes through shields.",
     "tags": [
       "damage",
@@ -1772,12 +1755,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "普攻和技能可处决生命值低于5%（+3.5%/100基础攻击力）（+2%/1000额外生命值）最大生命值的敌方英雄，并将其尸体击飞。尸体撞到敌方英雄或地形时爆炸，对附近敌人造成150-500（+100%额外护甲）（+100%额外魔抗）魔法伤害。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1791,7 +1773,7 @@
       "executioner"
     ],
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
     "tags": [
@@ -1801,7 +1783,7 @@
       "execute"
     ],
     "patch_added": "",
-    "patch_removed": null,
+    "patch_removed": "26.12",
     "source": {
       "type": "lol_wiki_module",
       "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
@@ -1821,7 +1803,7 @@
   },
   {
     "id": "don_t_blink",
-    "name": "Don't Blink",
+    "name": "唯快不破",
     "name_en": "Don't Blink",
     "aliases": [
       "don't blink",
@@ -1829,7 +1811,7 @@
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "",
+    "effect": "每比目标多10点移动速度，造成的伤害提升1%。",
     "effect_en": "Deal 1% increased damage per 10 movement speed you have more than the target.",
     "tags": [
       "damage",
@@ -1843,12 +1825,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "silver",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "每比目标多10点移动速度，造成的伤害提升1%。",
     "trigger": "",
     "best": [],
     "avoid": [],
@@ -1856,7 +1837,7 @@
   },
   {
     "id": "can_t_touch_this",
-    "name": "Can't Touch This",
+    "name": "碰不到我",
     "name_en": "Can't Touch This",
     "aliases": [
       "can't touch this",
@@ -1865,7 +1846,7 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "",
+    "effect": "施放终极技能后获得2秒无敌（8秒冷却）。",
     "effect_en": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
     "tags": [
       "ability"
@@ -1878,12 +1859,11 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "source_status": "potentially_outdated",
     "rar": "prism",
     "wr": null,
     "pr": null,
-    "desc": "",
+    "desc": "施放终极技能后获得2秒无敌（8秒冷却）。",
     "trigger": "",
     "best": [],
     "avoid": [],
