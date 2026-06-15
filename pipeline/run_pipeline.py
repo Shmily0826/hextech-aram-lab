@@ -117,6 +117,7 @@ def _print_dryrun_stats(output_dir: Path) -> None:
             return []
 
     raw = _count_jsonl(output_dir / "raw_reddit_posts.jsonl")
+    tieba = _count_jsonl(output_dir / "tieba_raw.jsonl")
     cleaned = _count_jsonl(output_dir / "cleaned_items.jsonl")
     deduped = _count_jsonl(output_dir / "deduped_items.jsonl")
     bugs = _load_json(output_dir / "candidate_bugs.json")
@@ -133,7 +134,8 @@ def _print_dryrun_stats(output_dir: Path) -> None:
                 except Exception:
                     pass
 
-    print(f"  Raw posts     : {raw}")
+    print(f"  Raw Reddit    : {raw}")
+    print(f"  Raw Tieba     : {tieba}")
     print(f"  Raw comments  : {total_comments}")
     print(f"  Cleaned       : {cleaned}")
     print(f"  Deduped       : {deduped}")
@@ -214,6 +216,20 @@ def step_collect_manual() -> List[dict]:
     return items
 
 
+def step_collect_tieba(
+    keyword: str = "海克斯大乱斗",
+    limit: int = 10,
+) -> List[dict]:
+    """步骤：从百度贴吧采集帖子数据 (dry-run, 仅读取公开页面)。"""
+    from collectors.tieba_collector import collect_tieba
+    items = collect_tieba(
+        keyword=keyword,
+        limit=limit,
+    )
+    logger.info("贴吧采集完成：共 %d 条帖子", len(items))
+    return items
+
+
 def step_clean_text(input_paths: List[str], output_path: str) -> str:
     """步骤：清洗原始文本，返回输出文件的绝对路径。"""
     from processors.clean_text import clean_all
@@ -282,6 +298,7 @@ def step_ai_extract(input_path: str, output_dir: str) -> List[Path]:
 # ===========================================================================
 RAW_REDDIT_PATH   = str(OUTPUT_DIR / "raw_reddit_posts.jsonl")
 RAW_MANUAL_PATH   = str(OUTPUT_DIR / "manual_items.jsonl")
+RAW_TIEBA_PATH    = str(OUTPUT_DIR / "tieba_raw.jsonl")
 CLEANED_PATH      = str(OUTPUT_DIR / "cleaned_items.jsonl")
 DEDUPED_PATH      = str(OUTPUT_DIR / "deduped_items.jsonl")
 
@@ -290,13 +307,15 @@ DEDUPED_PATH      = str(OUTPUT_DIR / "deduped_items.jsonl")
 # 流水线编排
 # ===========================================================================
 
-def _build_input_paths(do_reddit: bool, do_manual: bool) -> List[str]:
+def _build_input_paths(do_reddit: bool, do_manual: bool, do_tieba: bool = False) -> List[str]:
     """根据启用的数据来源，构建清洗阶段的输入文件路径列表。"""
     paths: List[str] = []
     if do_reddit:
         paths.append(RAW_REDDIT_PATH)
     if do_manual:
         paths.append(RAW_MANUAL_PATH)
+    if do_tieba:
+        paths.append(RAW_TIEBA_PATH)
     return paths
 
 
@@ -310,20 +329,22 @@ def run_pipeline(
     query: str = "ARAM Mayhem",
     comments_limit: int = 20,
     time_filter: str = "",
+    kw: str = "海克斯大乱斗",
 ) -> int:
     """
     运行完整的数据处理流水线。
 
     Args:
-        source:         数据来源 —— "reddit" | "manual" | "all"
+        source:         数据来源 —— "reddit" | "manual" | "tieba" | "all"
         days:           Reddit 搜索时间范围（天）
-        limit:          每个 subreddit 最大帖子数
+        limit:          每个数据源最大帖子数
         skip_ai:        是否跳过 AI 提取步骤
         dry_run:        Dry-run 模式（仅输出到 pipeline/output/，不写正式 data 文件）
         subreddits:     Reddit subreddit 列表
         query:          Reddit 搜索关键词
         comments_limit: 每帖最大评论数
         time_filter:    Reddit 时间过滤
+        kw:             贴吧搜索关键词
 
     Returns:
         0 表示成功，1 表示失败
@@ -333,11 +354,12 @@ def run_pipeline(
 
     do_reddit = source in ("reddit", "all")
     do_manual = source in ("manual", "all")
+    do_tieba = source in ("tieba", "all")
     is_combined = source == "all"
 
     # 计算总步骤数，用于进度显示
-    # 采集阶段算 1 步（all 模式下 Reddit + Manual 各算 1 步），清洗 1 步，去重 1 步，AI 1 步
-    collect_steps = 2 if is_combined else 1
+    # 采集阶段: all 模式 Reddit + Manual + Tieba 各算 1 步，单源 1 步
+    collect_steps = 3 if is_combined else 1
     total_steps = collect_steps + 2 + (0 if skip_ai else 1)
     current_step = 0
 
@@ -350,6 +372,8 @@ def run_pipeline(
         _subs = subreddits or ["ARAM"]
         print(f"Reddit 参数: subreddit={_subs} query='{query}' limit={limit} "
               f"comments-limit={comments_limit} time-filter={time_filter or 'auto'}")
+    if do_tieba:
+        print(f"贴吧参数: kw='{kw}' limit={limit}")
     print(f"{'=' * 60}\n")
 
     try:
@@ -370,7 +394,7 @@ def run_pipeline(
             except Exception as e:
                 logger.error("Reddit 采集失败: %s", e, exc_info=True)
                 print(f"\n[错误] Reddit 采集失败: {e}")
-                print("将仅使用手动数据继续执行后续步骤...\n")
+                print("将仅使用其他数据源继续执行后续步骤...\n")
                 reddit_posts = []
 
             # ---- 手动数据读取 ----
@@ -382,11 +406,23 @@ def run_pipeline(
             except Exception as e:
                 logger.error("手动数据读取失败: %s", e, exc_info=True)
                 print(f"\n[错误] 手动数据读取失败: {e}")
-                print("将仅使用 Reddit 数据继续执行后续步骤...\n")
+                print("将仅使用其他数据源继续执行后续步骤...\n")
                 manual_items = []
 
+            # ---- 贴吧采集 ----
+            current_step += 1
+            print(f"{_step_label(current_step, total_steps)} 正在采集贴吧数据...")
+            try:
+                tieba_items = step_collect_tieba(keyword=kw, limit=limit)
+                generated_files.append(OUTPUT_DIR / "tieba_raw.jsonl")
+            except Exception as e:
+                logger.error("贴吧采集失败: %s", e, exc_info=True)
+                print(f"\n[错误] 贴吧采集失败: {e}")
+                print("将仅使用其他数据源继续执行后续步骤...\n")
+                tieba_items = []
+
             # 检查是否有任何数据被采集到
-            if not reddit_posts and not manual_items:
+            if not reddit_posts and not manual_items and not tieba_items:
                 print("\n[错误] 所有数据来源均未采集到有效数据，流水线中止。")
                 return 1
 
@@ -406,12 +442,18 @@ def run_pipeline(
             step_collect_manual()
             generated_files.append(OUTPUT_DIR / "manual_items.jsonl")
 
+        elif do_tieba:
+            current_step += 1
+            print(f"{_step_label(current_step, total_steps)} 正在采集贴吧数据...")
+            step_collect_tieba(keyword=kw, limit=limit)
+            generated_files.append(OUTPUT_DIR / "tieba_raw.jsonl")
+
         # --------------------------------------------------------------
         # 清洗阶段
         # --------------------------------------------------------------
         current_step += 1
         print(f"{_step_label(current_step, total_steps)} 正在清洗文本数据...")
-        input_paths = _build_input_paths(do_reddit, do_manual)
+        input_paths = _build_input_paths(do_reddit, do_manual, do_tieba)
         cleaned_path = step_clean_text(input_paths=input_paths, output_path=CLEANED_PATH)
         generated_files.append(Path(CLEANED_PATH))
 
@@ -481,6 +523,7 @@ def build_parser() -> argparse.ArgumentParser:
   python pipeline/run_pipeline.py --source reddit --subreddit ARAM --query "ARAM Mayhem" --limit 10 --dry-run
   python pipeline/run_pipeline.py --source reddit --subreddit ARAM --query "augment bug" --limit 10 --comments-limit 20 --time-filter month --dry-run
   python pipeline/run_pipeline.py --source manual
+  python pipeline/run_pipeline.py --source tieba --kw "海克斯大乱斗" --limit 10 --dry-run
   python pipeline/run_pipeline.py --source reddit --days 7 --limit 10 --skip-ai --dry-run
         """,
     )
@@ -488,8 +531,8 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--source",
         required=True,
-        choices=["reddit", "manual", "all"],
-        help="数据来源: reddit（Reddit 采集）、manual（手动链接）、all（两者都运行）",
+        choices=["reddit", "manual", "tieba", "all"],
+        help="数据来源: reddit（Reddit 采集）、manual（手动链接）、tieba（贴吧采集）、all（全部运行）",
     )
     parser.add_argument(
         "--days",
@@ -527,6 +570,12 @@ def build_parser() -> argparse.ArgumentParser:
         default="",
         choices=["", "hour", "day", "week", "month", "year", "all"],
         help="Reddit 时间过滤（默认: 根据 --days 自动推断）",
+    )
+    parser.add_argument(
+        "--kw",
+        type=str,
+        default="海克斯大乱斗",
+        help="贴吧搜索关键词（默认: '海克斯大乱斗'，仅 --source tieba/all 时生效）",
     )
     parser.add_argument(
         "--skip-ai",
@@ -571,6 +620,7 @@ def main() -> int:
         query=args.query,
         comments_limit=args.comments_limit,
         time_filter=args.time_filter,
+        kw=args.kw,
     )
 
 
