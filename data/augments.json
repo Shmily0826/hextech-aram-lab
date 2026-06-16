@@ -85,7 +85,7 @@
       "utility",
       "ability"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -120,7 +120,7 @@
       "ability",
       "cc"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -225,7 +225,7 @@
     "tags": [
       "ability"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -244,14 +244,14 @@
   },
   {
     "id": "cerberus",
-    "name": "Cerberus",
+    "name": "地狱三头犬",
     "name_en": "Cerberus",
     "aliases": [
       "cerberus"
     ],
     "tier": "prismatic",
     "status": "removed",
-    "effect": "",
+    "effect": "获得丛刃和强攻基石符文。",
     "effect_en": "Gain the Hail of Blades and Press the Attack keystone runes.",
     "tags": [
       "utility"
@@ -264,7 +264,6 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "rar": "prism",
     "wr": null,
     "pr": null,
@@ -286,7 +285,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/chain-reaction"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "knockback",
+      "knockup"
+    ]
   },
   {
     "id": "circle_of_death",
@@ -305,7 +310,7 @@
       "damage",
       "utility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -334,7 +339,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/courage-of-the-colossus"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc",
+      "shield"
+    ]
   },
   {
     "id": "cruelty",
@@ -348,7 +358,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/cruelty"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc",
+      "damage"
+    ]
   },
   {
     "id": "dashing",
@@ -365,7 +380,7 @@
       "mobility",
       "ability"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -394,7 +409,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/draw-your-sword"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "movement",
+      "tank"
+    ]
   },
   {
     "id": "drop_bear",
@@ -408,7 +430,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/drop-bear"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "rune"
+    ]
   },
   {
     "id": "dropkick",
@@ -427,7 +454,7 @@
       "tank",
       "execute"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -456,7 +483,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/dual-wield"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed"
+    ]
   },
   {
     "id": "earthwake",
@@ -470,7 +501,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/earthwake"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "eat_the_path",
@@ -484,7 +516,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/eat-the-path"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "tank",
+      "true_damage"
+    ]
   },
   {
     "id": "echo",
@@ -554,7 +593,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/echoing-release"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "empowered_by_the_faithful",
@@ -568,7 +608,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/empowered-by-the-faithful"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "empyrean_promise",
@@ -582,7 +629,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/empyrean-promise"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "shield",
+      "summoner"
+    ]
   },
   {
     "id": "eureka",
@@ -596,7 +649,11 @@
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/eureka"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ap"
+    ]
   },
   {
     "id": "fan_the_hammer",
@@ -615,7 +672,7 @@
       "damage",
       "ability"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -644,7 +701,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/fey-magic"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "final_form",
@@ -658,7 +719,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/final-form"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "giant_slayer",
@@ -672,7 +740,12 @@
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/giant-slayer"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "movement"
+    ]
   },
   {
     "id": "glass_cannon",
@@ -686,7 +759,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/glass-cannon"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "tank",
+      "true_damage"
+    ]
   },
   {
     "id": "goldrend",
@@ -700,7 +780,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/goldrend"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "economy",
+      "movement"
+    ]
   },
   {
     "id": "goliath",
@@ -716,7 +802,7 @@
     "tags": [
       "utility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -745,7 +831,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/hand-of-baron"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "hellbent",
@@ -759,7 +846,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/hellbent"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "high_roller",
@@ -773,7 +864,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/high-roller"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "holy_snowball",
@@ -787,7 +879,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/holy-snowball"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "snowball"
+    ]
   },
   {
     "id": "icathian_fall",
@@ -801,7 +898,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/icathian-fall"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "infernal_conduit",
@@ -815,7 +913,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/infernal-conduit"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "burn",
+      "damage"
+    ]
   },
   {
     "id": "infinite_recursion",
@@ -829,7 +932,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/infinite-recursion"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "jeweled_gauntlet",
@@ -843,7 +947,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/jeweled-gauntlet"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "crit"
+    ]
   },
   {
     "id": "king_me",
@@ -857,7 +965,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/king-me"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy",
+      "rune"
+    ]
   },
   {
     "id": "mad_scientist",
@@ -871,7 +984,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mad-scientist"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "tank"
+    ]
   },
   {
     "id": "master_of_duality",
@@ -885,7 +1004,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/master-of-duality"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ad",
+      "ap",
+      "damage"
+    ]
   },
   {
     "id": "multishot",
@@ -899,7 +1024,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/multishot"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "mystic_punch",
@@ -913,7 +1039,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mystic-punch"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "ominous_pact",
@@ -927,7 +1054,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ominous-pact"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "movement",
+      "tank"
+    ]
   },
   {
     "id": "omni_soul",
@@ -941,7 +1075,8 @@
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/omni-soul"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "overload",
@@ -955,7 +1090,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/overload"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "pandoras_box",
@@ -969,7 +1105,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pandoras-box"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "pincushion",
@@ -983,7 +1123,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pincushion"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "movement",
+      "snowball"
+    ]
   },
   {
     "id": "poro_stampede",
@@ -997,7 +1143,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/poro-stampede"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "poro",
+      "summoner"
+    ]
   },
   {
     "id": "prom_queen",
@@ -1011,7 +1162,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/prom-queen"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "protein_shake",
@@ -1025,7 +1177,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/protein-shake"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "quest_urfs_champion",
@@ -1039,7 +1197,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quest-urfs-champion"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy"
+    ]
   },
   {
     "id": "quest_wooglets_witchcap",
@@ -1053,7 +1215,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quest-wooglets-witchcap"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "quickstep",
@@ -1067,7 +1230,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quickstep"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "rite_of_ascension",
@@ -1081,7 +1245,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/rite-of-ascension"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement"
+    ]
   },
   {
     "id": "scopiest_weapons",
@@ -1095,7 +1263,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scopiest-weapons"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "spell_splitting",
@@ -1109,7 +1278,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spell-splitting"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "spirit_bomb",
@@ -1123,7 +1293,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spirit-bomb"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "squishy_slappy_grab",
@@ -1137,7 +1313,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/squishy-slappy-grab"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "stats_on_stats_on_stats",
@@ -1151,7 +1328,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stats-on-stats-on-stats"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy",
+      "rune"
+    ]
   },
   {
     "id": "stuck_in_here_with_me",
@@ -1165,7 +1347,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stuck-in-here-with-me"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "symphony_of_war",
@@ -1179,7 +1365,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/symphony-of-war"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "tap_dancer",
@@ -1193,7 +1383,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/tap-dancer"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed",
+      "movement"
+    ]
   },
   {
     "id": "titan_resolve",
@@ -1207,7 +1402,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/titan-resolve"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "tank",
+      "tenacity"
+    ]
   },
   {
     "id": "transmute_chaos",
@@ -1221,7 +1422,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/transmute-chaos"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "triggered_inferno",
@@ -1235,7 +1440,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/triggered-inferno"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "triple_shot",
@@ -1249,7 +1455,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/triple-shot"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "ultimate_awakening",
@@ -1263,7 +1470,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-awakening"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "ultimate_hunter",
@@ -1341,7 +1549,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-revolution"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "upgrade_mikaels",
@@ -1355,7 +1564,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-mikaels"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed",
+      "heal"
+    ]
   },
   {
     "id": "windspeakers_blessing",
@@ -1369,7 +1583,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/windspeakers-blessing"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "all_for_you",
@@ -1455,7 +1675,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/apex-inventor"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "armor_piercing",
@@ -1540,7 +1761,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bang"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "big_brain",
@@ -1621,7 +1846,7 @@
     "tags": [
       "ability"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -1650,7 +1875,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-cheese"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "bread_and_jam",
@@ -1664,7 +1890,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-jam"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "burst_of_vitality",
@@ -1686,7 +1913,8 @@
     "aliases": [
       "growth spurt",
       "growthspurt"
-    ]
+    ],
+    "patch_added": "26.12"
   },
   {
     "id": "bush_hide",
@@ -1700,7 +1928,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bush-hide"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "celestial_body",
@@ -1718,7 +1950,7 @@
       "damage",
       "utility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -1828,7 +2060,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/combusting-interest"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "burn",
+      "damage",
+      "economy"
+    ]
   },
   {
     "id": "dawnbringers_resolve",
@@ -1842,7 +2080,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/dawnbringers-resolve"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "divine_intervention",
@@ -1856,7 +2099,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/divine-intervention"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "donation",
@@ -1870,7 +2117,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/donation"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy"
+    ]
   },
   {
     "id": "endless_rampage",
@@ -1884,7 +2135,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/endless-rampage"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal"
+    ]
   },
   {
     "id": "ethereal_weapon",
@@ -1898,18 +2154,19 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ethereal-weapon"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "executioner",
-    "name": "Executioner",
+    "name": "裁决使",
     "name_en": "Executioner",
     "aliases": [
       "executioner"
     ],
     "tier": "gold",
     "status": "removed",
-    "effect": "",
+    "effect": "对生命值低于30%的敌人们多造成10%伤害。在参与击杀后重置你的基础技能。",
     "effect_en": "Deal 10% increased damage to enemies below 30% of their maximum health. Scoring a champion takedown resets the cooldown of all your basic abilities.",
     "tags": [
       "damage",
@@ -1925,7 +2182,6 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "rar": "gold",
     "wr": null,
     "pr": null,
@@ -1947,7 +2203,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/firebrand"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "burn",
+      "damage"
+    ]
   },
   {
     "id": "flash_forward",
@@ -1961,7 +2222,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/flash-forward"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "from_beginning_to_end",
@@ -1975,7 +2237,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/from-beginning-to-end"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "from_downtown",
@@ -1989,7 +2255,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/from-downtown"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "get_excited",
@@ -2007,7 +2277,7 @@
       "attack",
       "execute"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -2036,7 +2306,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/greedy-grasp"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc",
+      "damage",
+      "heal"
+    ]
   },
   {
     "id": "ice_burst",
@@ -2050,7 +2326,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ice-burst"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "knockback",
+      "knockup",
+      "snowball"
+    ]
   },
   {
     "id": "impassable",
@@ -2064,7 +2347,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/impassable"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "its_killing_time",
@@ -2078,7 +2365,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/its-killing-time"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "snowball"
+    ]
   },
   {
     "id": "lil_extra_help",
@@ -2092,7 +2384,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/lil-extra-help"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed"
+    ]
   },
   {
     "id": "magic_missile",
@@ -2106,7 +2402,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/magic-missile"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "tank",
+      "true_damage"
+    ]
   },
   {
     "id": "marksmage",
@@ -2120,7 +2423,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/marksmage"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ap",
+      "damage"
+    ]
   },
   {
     "id": "merciful_strike",
@@ -2134,7 +2442,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/merciful-strike"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed",
+      "damage",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "nature_heals",
@@ -2148,7 +2463,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/nature-heals"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "nightstalking",
@@ -2162,7 +2482,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/nightstalking"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "ok_boomerang",
@@ -2176,7 +2500,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ok-boomerang"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "ouch_my_coins",
@@ -2190,7 +2515,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ouch-my-coins"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy"
+    ]
   },
   {
     "id": "our_healing",
@@ -2204,7 +2533,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/our-healing"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal"
+    ]
   },
   {
     "id": "outlaws_grit",
@@ -2218,7 +2551,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/outlaws-grit"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "tank"
+    ]
   },
   {
     "id": "overextender",
@@ -2232,7 +2569,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/overextender"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "overflow",
@@ -2246,7 +2587,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/overflow"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "shield"
+    ]
   },
   {
     "id": "pat_on_the_back",
@@ -2260,7 +2607,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pat-on-the-back"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement",
+      "shield"
+    ]
   },
   {
     "id": "phantom_dance",
@@ -2329,7 +2681,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/phenomenal-evil"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ap",
+      "damage",
+      "rune"
+    ]
   },
   {
     "id": "pinball",
@@ -2343,7 +2701,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pinball"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "snowball",
+      "true_damage"
+    ]
   },
   {
     "id": "porcupine",
@@ -2357,7 +2721,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/porcupine"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "slow"
+    ]
   },
   {
     "id": "pressure_cooker",
@@ -2371,7 +2740,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pressure-cooker"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "burn",
+      "damage",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "pursuit_of_haste",
@@ -2385,7 +2761,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pursuit-of-haste"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "pursuit_of_power",
@@ -2399,7 +2776,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pursuit-of-power"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "quest_steel_your_heart",
@@ -2413,7 +2794,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quest-steel-your-heart"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "recursion",
@@ -2427,7 +2809,8 @@
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/recursion"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "scopier_weapons",
@@ -2441,7 +2824,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scopier-weapons"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "searing_dawn",
@@ -2455,7 +2839,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/searing-dawn"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "snowball"
+    ]
   },
   {
     "id": "shark_bait",
@@ -2469,7 +2858,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shark-bait"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "shark_storm",
@@ -2483,7 +2873,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shark-storm"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "slow",
+      "snowball"
+    ]
   },
   {
     "id": "shrink_engine",
@@ -2497,7 +2893,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shrink-engine"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement"
+    ]
   },
   {
     "id": "shrink_ray",
@@ -2511,7 +2911,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shrink-ray"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "skilled_sniper",
@@ -2525,7 +2929,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/skilled-sniper"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "sonata",
@@ -2539,7 +2944,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/sonata"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "shield"
+    ]
   },
   {
     "id": "soul_eater",
@@ -2553,7 +2964,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/soul-eater"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "soul_siphon",
@@ -2567,7 +2984,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/soul-siphon"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "crit",
+      "damage",
+      "heal"
+    ]
   },
   {
     "id": "spiritual_purification",
@@ -2581,7 +3004,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spiritual-purification"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "slow",
+      "tank"
+    ]
   },
   {
     "id": "stats_on_stats",
@@ -2595,7 +3025,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stats-on-stats"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy"
+    ]
   },
   {
     "id": "tank_engine",
@@ -2609,7 +3043,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/tank-engine"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "terrain_expert",
@@ -2623,7 +3062,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/terrain-expert"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "terror",
@@ -2637,7 +3080,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/terror"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc"
+    ]
   },
   {
     "id": "thread_the_needle",
@@ -2651,7 +3098,13 @@
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/thread-the-needle"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "magic_pen",
+      "penetration",
+      "tank"
+    ]
   },
   {
     "id": "tooth_fairy",
@@ -2665,7 +3118,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/tooth-fairy"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "magic_pen",
+      "penetration"
+    ]
   },
   {
     "id": "toxic_amplifier",
@@ -2755,7 +3213,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/transmute-prismatic"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "upgrade_infinity_edge",
@@ -2769,7 +3231,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-infinity-edge"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "crit",
+      "damage",
+      "economy"
+    ]
   },
   {
     "id": "upgrade_sheen",
@@ -2783,7 +3251,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-sheen"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "economy",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "void_dash",
@@ -2797,7 +3272,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/void-dash"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "slow"
+    ]
   },
   {
     "id": "warlock_juicebox",
@@ -2811,7 +3291,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/warlock-juicebox"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "wee_oo_wee_oo",
@@ -2825,7 +3306,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/wee-oo-wee-oo"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "with_haste",
@@ -2839,41 +3327,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/with-haste"
     },
-    "aliases": []
-  },
-  {
-    "id": "adamant",
-    "name": "Adamant",
-    "name_en": "Adamant",
-    "aliases": [
-      "adamant"
-    ],
-    "tier": "silver",
-    "status": "removed",
-    "effect": "",
-    "effect_en": "immobilize or ground an enemy champion grants 10 bonus armor and bonus magic resistance for 10 seconds, stacking up to 10 times for a total of 100 bonus resistances, and refreshing on subsequent triggers (5 second cooldown per cast instance).",
+    "aliases": [],
+    "patch_added": "26.12",
     "tags": [
-      "tank",
-      "ability",
-      "cc"
-    ],
-    "patch_added": "",
-    "patch_removed": "26.12",
-    "source": {
-      "type": "lol_wiki_module",
-      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "",
-    "localization_status": "missing_zh",
-    "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
-    "tests": []
+      "movement"
+    ]
   },
   {
     "id": "adapt",
@@ -2889,6 +3347,12 @@
     },
     "aliases": [
       "物理转魔法"
+    ],
+    "patch_added": "26.12",
+    "tags": [
+      "ad",
+      "ap",
+      "damage"
     ]
   },
   {
@@ -2903,7 +3367,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/adaptive-defense"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "tank"
+    ]
   },
   {
     "id": "blunt_force",
@@ -2921,7 +3390,7 @@
       "damage",
       "attack"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -2952,7 +3421,7 @@
     "tags": [
       "attack"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -2986,7 +3455,7 @@
       "utility",
       "execute"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3019,7 +3488,7 @@
       "damage",
       "mobility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3048,7 +3517,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/don-t-stop-channeling"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "shield"
+    ]
   },
   {
     "id": "erosion",
@@ -3065,7 +3538,7 @@
       "damage",
       "tank"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3094,7 +3567,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/escapade"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ad",
+      "ap",
+      "damage"
+    ]
   },
   {
     "id": "escape_plan",
@@ -3108,7 +3587,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/escape-plan"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "shield",
+      "tank"
+    ]
   },
   {
     "id": "firefox",
@@ -3122,7 +3608,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/firefox"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "movement"
+    ]
   },
   {
     "id": "first_aid_kit",
@@ -3139,7 +3630,7 @@
     "tags": [
       "utility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3170,7 +3661,7 @@
     "tags": [
       "utility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3189,7 +3680,7 @@
   },
   {
     "id": "guilty_pleasure",
-    "name": "Guilty Pleasure",
+    "name": "恶趣味",
     "name_en": "Guilty Pleasure",
     "aliases": [
       "guilty pleasure",
@@ -3197,7 +3688,7 @@
     ],
     "tier": "silver",
     "status": "removed",
-    "effect": "",
+    "effect": "定身或缚地敌方英雄时对你进行治疗。",
     "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
     "tags": [
       "utility",
@@ -3212,7 +3703,6 @@
       "verified_at": "2026-06-14"
     },
     "notes": "",
-    "localization_status": "missing_zh",
     "rar": "silver",
     "wr": null,
     "pr": null,
@@ -3234,7 +3724,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/heavy-hitter"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "hextech_soul",
@@ -3248,7 +3744,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/hextech-soul"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "slow"
+    ]
   },
   {
     "id": "homeguard",
@@ -3265,7 +3766,7 @@
       "damage",
       "mobility"
     ],
-    "patch_added": "",
+    "patch_added": "26.12",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -3294,7 +3795,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ice-cold"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement",
+      "slow"
+    ]
   },
   {
     "id": "infernal_soul",
@@ -3308,7 +3814,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/infernal-soul"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "juiced",
@@ -3322,7 +3832,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/juiced"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "crit",
+      "damage"
+    ]
   },
   {
     "id": "kill_secured",
@@ -3336,7 +3851,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/kill-secured"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "movement",
+      "tank"
+    ]
   },
   {
     "id": "leg_day",
@@ -3350,7 +3871,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/leg-day"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement",
+      "slow"
+    ]
   },
   {
     "id": "lethal_tempo",
@@ -3424,7 +3950,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/light-em-up"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "mana_fountain",
@@ -3504,7 +4034,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/master-crafted"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "rune"
+    ]
   },
   {
     "id": "mighty_shield",
@@ -3518,7 +4053,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mighty-shield"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "shield"
+    ]
   },
   {
     "id": "mind_to_matter",
@@ -3532,7 +4071,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mind-to-matter"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "mountain_soul",
@@ -3546,7 +4090,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mountain-soul"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "shield"
+    ]
   },
   {
     "id": "ocean_soul",
@@ -3560,7 +4108,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ocean-soul"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "physical_to_magical",
@@ -3628,7 +4182,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/poltergeist"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "summoner"
+    ]
   },
   {
     "id": "psionic_shield",
@@ -3694,7 +4252,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/purist-caster"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "attack_speed"
+    ]
   },
   {
     "id": "reliable_weapon",
@@ -3708,7 +4270,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/reliable-weapon"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "scoped_weapons",
@@ -3722,7 +4288,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scoped-weapons"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "shadow_runner",
@@ -3736,7 +4303,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shadow-runner"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement"
+    ]
   },
   {
     "id": "slap_around",
@@ -3750,7 +4321,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/slap-around"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "cc"
+    ]
   },
   {
     "id": "snow_day",
@@ -3764,7 +4339,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/snow-day"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "snowball"
+    ]
   },
   {
     "id": "solid_as_rock",
@@ -3778,7 +4358,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/solid-as-rock"
     },
-    "aliases": []
+    "aliases": [
+      "adamant"
+    ],
+    "patch_added": "26.12",
+    "tags": [
+      "cc",
+      "tank"
+    ]
   },
   {
     "id": "sonic_boom",
@@ -3792,7 +4379,14 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/sonic-boom"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "heal",
+      "shield",
+      "slow"
+    ]
   },
   {
     "id": "spin_me_right_round",
@@ -3806,7 +4400,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spin-me-right-round"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "summoner"
+    ]
   },
   {
     "id": "spin_to_win",
@@ -3820,7 +4418,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spin-to-win"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "stackasaurus",
@@ -3834,7 +4436,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stackasaurus"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "rune"
+    ]
   },
   {
     "id": "stats",
@@ -3848,7 +4454,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stats"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "stay_firm",
@@ -3862,7 +4469,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stay-firm"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage",
+      "tank"
+    ]
   },
   {
     "id": "support_main",
@@ -3876,7 +4488,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/support-main"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "swift_and_safe",
@@ -3890,7 +4507,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/swift-and-safe"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "shield"
+    ]
   },
   {
     "id": "time_to_advance",
@@ -3904,7 +4525,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/time-to-advance"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "movement"
+    ]
   },
   {
     "id": "transmute_gold",
@@ -3918,7 +4543,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/transmute-gold"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy",
+      "rune"
+    ]
   },
   {
     "id": "twin_fire",
@@ -3932,7 +4562,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/twin-fire"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "crit",
+      "damage"
+    ]
   },
   {
     "id": "typhoon",
@@ -3946,7 +4581,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/typhoon"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "damage"
+    ]
   },
   {
     "id": "ultimate_cooldown",
@@ -4033,7 +4672,8 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-unstoppable"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12"
   },
   {
     "id": "untouchable",
@@ -4104,7 +4744,13 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-collector"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy",
+      "heal",
+      "tank"
+    ]
   },
   {
     "id": "upgrade_immolate",
@@ -4118,7 +4764,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-immolate"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy"
+    ]
   },
   {
     "id": "upgrade_zhonyas",
@@ -4132,7 +4782,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-zhonyas"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "economy",
+      "movement"
+    ]
   },
   {
     "id": "veil_of_protection",
@@ -4146,7 +4801,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/veil-of-protection"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "shield"
+    ]
   },
   {
     "id": "witchful_thinking",
@@ -4160,7 +4819,11 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/witchful-thinking"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ap"
+    ]
   },
   {
     "id": "zealot",
@@ -4174,6 +4837,12 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/zealot"
     },
-    "aliases": []
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "ap",
+      "attack_speed",
+      "crit"
+    ]
   }
 ]

@@ -196,14 +196,14 @@ footer{text-align:center;padding:28px;font-size:11px;color:var(--txt3);border-to
 <button class="tab" data-t="issues">问题追踪</button>
 <button class="tab" data-t="candidates">候选发现</button>
 </div>
-<span class="ver">v15.12 · 数据更新于 2h 前</span>
+<span class="ver">v26.12 · 数据更新于 2h 前</span>
 </div></nav>
 <div class="mvp-banner">⚠ 当前为原型版本，部分数据为示例/人工整理，真实数据接入开发中。</div>
 <div class="wrap">
 <div class="pnl on" id="p-synergy"><div class="today-row" id="todayRow"></div><div class="ctrl"><div class="search"><input id="synSearch" placeholder="搜索英雄或增强名称..."></div><button class="pill on" onclick="fTier(this,'all')">全部</button><button class="pill" onclick="fTier(this,'transform')">质变</button><button class="pill" onclick="fTier(this,'recommend')">推荐</button><button class="pill" onclick="fTier(this,'avoid')">避雷</button><button class="pill" onclick="fTier(this,'bug')">疑似Bug</button><button class="pill" onclick="fRar(this,'all')">全部增强</button><button class="pill" onclick="fRar(this,'silver')">白银</button><button class="pill" onclick="fRar(this,'gold')">黄金</button><button class="pill" onclick="fRar(this,'prism')">棱彩</button><select class="ctrl-sel" id="synSort" onchange="renderSyn()"><option value="delta">胜率变化 ↓</option><option value="conf">置信度 ↓</option><option value="sample">样本量 ↓</option></select></div><div class="syn-grid" id="synGrid"></div></div>
 <div class="pnl" id="p-heroes"><div class="ctrl"><div class="search"><input id="heroSearch" placeholder="搜索英雄..."></div><button class="pill on" onclick="fRole(this,'all')">全部</button><button class="pill" onclick="fRole(this,'法师')">法师</button><button class="pill" onclick="fRole(this,'射手')">射手</button><button class="pill" onclick="fRole(this,'战士')">战士</button><button class="pill" onclick="fRole(this,'坦克')">坦克</button><button class="pill" onclick="fRole(this,'辅助')">辅助</button><button class="pill" onclick="fRole(this,'刺客')">刺客</button></div><div class="data-filter-bar"><button class="pill dfp on" onclick="fData(this,'all')">全部英雄</button><button class="pill dfp" onclick="fData(this,'hasSyn')">有组合数据</button><button class="pill dfp" onclick="fData(this,'hasBug')">有Bug记录</button><button class="pill dfp" onclick="fData(this,'unrated')">未评级英雄</button></div><div class="hero-info-bar" id="heroInfo"></div><div class="hero-grid" id="heroGrid"></div></div>
 <div class="pnl" id="p-augments"><div class="ctrl"><div class="search"><input id="augSearch" placeholder="搜索增强（中/英文、别名）..."></div><button class="pill on" onclick="fAugRar(this,'all')">全部</button><button class="pill" onclick="fAugRar(this,'prismatic')">棱彩</button><button class="pill" onclick="fAugRar(this,'gold')">金色</button><button class="pill" onclick="fAugRar(this,'silver')">银色</button><button class="pill" onclick="fAugRar(this,'unknown')">未知</button></div><div class="data-filter-bar"><button class="pill dfp on" onclick="fAugSt(this,'all')">全部状态</button><button class="pill dfp" onclick="fAugSt(this,'active')">活跃</button><button class="pill dfp" onclick="fAugSt(this,'removed')">已移除</button></div><div class="aug-grid" id="augGrid"></div></div>
-<div class="pnl" id="p-community"><button class="submit-toggle" onclick="toggleForm()">+ 我要投稿 — 分享你的质变发现</button><div class="form-success" id="formOk">当前原型暂不保存投稿，请通过下方链接提交真实反馈。</div><div class="submit-form" id="submitForm"><div class="form-row"><div class="form-group"><label>英雄</label><select id="fHero"><option>布兰德</option><option>吉格斯</option><option>卡莎</option><option>提莫</option><option>卡尔萨斯</option><option>亚索</option><option>韦鲁斯</option><option>婕拉</option></select></div><div class="form-group"><label>增强</label><select id="fAug"><option>毒性增幅</option><option>连锁闪电</option><option>利刃华尔兹</option><option>终极冷却</option><option>毁灭凝视</option><option>全心为你</option><option>穿甲弹头</option><option>你摸不到</option></select></div></div><div class="form-row"><div class="form-group"><label>发现类型</label><select id="fType"><option value="transform">质变</option><option value="recommend">推荐</option><option value="avoid">避雷</option><option value="bug">疑似Bug</option></select></div><div class="form-group"><label>你的评价</label><div class="form-stars" id="fStars"><span class="on" data-v="1">★</span><span class="on" data-v="2">★</span><span class="on" data-v="3">★</span><span class="on" data-v="4">★</span><span data-v="5">★</span></div></div></div><div class="form-group" style="margin-bottom:12px"><label>详细描述</label><textarea id="fDesc" placeholder="描述你发现的英雄×增强组合效果..."></textarea></div><div class="form-row"><div class="form-group"><label>触发机制 (可选)</label><input id="fTrigger" placeholder="例：Q技能命中时触发"></div><div class="form-group"><label>测试版本号</label><select id="fVer"><option>15.12</option><option>15.11</option><option>15.10</option></select></div></div><button class="form-submit" onclick="submitReport()">提交投稿</button></div><a class="ext-link" href="#" onclick="alert('外部投稿链接即将上线，敬请期待！');return false;">📋 前往外部投稿表单（即将上线）</a><div class="report-list" id="reportList"></div></div>
+<div class="pnl" id="p-community"><button class="submit-toggle" onclick="toggleForm()">+ 我要投稿 — 分享你的质变发现</button><div class="form-success" id="formOk">当前原型暂不保存投稿，请通过下方链接提交真实反馈。</div><div class="submit-form" id="submitForm"><div class="form-row"><div class="form-group"><label>英雄</label><select id="fHero"></select></div><div class="form-group"><label>增强</label><select id="fAug"></select></div></div><div class="form-row"><div class="form-group"><label>发现类型</label><select id="fType"><option value="transform">质变</option><option value="recommend">推荐</option><option value="avoid">避雷</option><option value="bug">疑似Bug</option></select></div><div class="form-group"><label>你的评价</label><div class="form-stars" id="fStars"><span class="on" data-v="1">★</span><span class="on" data-v="2">★</span><span class="on" data-v="3">★</span><span class="on" data-v="4">★</span><span data-v="5">★</span></div></div></div><div class="form-group" style="margin-bottom:12px"><label>详细描述</label><textarea id="fDesc" placeholder="描述你发现的英雄×增强组合效果..."></textarea></div><div class="form-row"><div class="form-group"><label>触发机制 (可选)</label><input id="fTrigger" placeholder="例：Q技能命中时触发"></div><div class="form-group"><label>测试版本号</label><select id="fVer"><option>26.12</option><option>26.11</option><option>26.10</option></select></div></div><button class="form-submit" onclick="submitReport()">提交投稿</button></div><a class="ext-link" href="#" onclick="alert('外部投稿链接即将上线，敬请期待！');return false;">📋 前往外部投稿表单（即将上线）</a><div class="report-list" id="reportList"></div></div>
 <div class="pnl" id="p-issues"><div class="issue-list" id="issueList"></div></div>
 <div class="pnl" id="p-candidates"><div class="changelog-section" id="changelogSection"></div><div class="cand-header-note">⚠ 候选发现（AI提取，未审核，不对外发布）— 以下数据由AI从公开论坛自动提取，需人工审核后方可使用。</div><div class="cand-list" id="candList"><div class="cand-empty">暂无候选数据，请先运行 pipeline。</div></div></div>
 </div>
@@ -293,6 +293,19 @@ function toggleForm(){document.getElementById('submitForm').classList.toggle('op
 function submitReport(){document.getElementById('submitForm').classList.remove('open');const o=document.getElementById('formOk');o.style.display='block';setTimeout(()=>o.style.display='none',3000)}
 document.getElementById('fStars').addEventListener('click',e=>{if(e.target.tagName!=='SPAN')return;const v=+e.target.dataset.v;document.querySelectorAll('#fStars span').forEach(s=>s.classList.toggle('on',+s.dataset.v<=v))});
 
+/* ===== Populate Form Dropdowns ===== */
+function populateFormDropdowns(){
+  const heroSel=document.getElementById('fHero');
+  const augSel=document.getElementById('fAug');
+  if(heroSel&&HEROES.length){
+    heroSel.innerHTML=HEROES.map(h=>`<option>${h.name}</option>`).join('');
+  }
+  if(augSel&&AUGS.length){
+    const active=AUGS.filter(a=>a.status==='active').sort((a,b)=>a.name.localeCompare(b.name,'zh'));
+    augSel.innerHTML=active.map(a=>`<option value="${a.name}">${a.name}${a.name_en?' ('+a.name_en+')':''}</option>`).join('');
+  }
+}
+
 /* ===== Data Loading via fetch() ===== */
 async function loadData(){
   try{
@@ -310,7 +323,7 @@ async function loadData(){
     SYN=await sRes.json();
     REPORTS=await rRes.json();
     ISSUES=await iRes.json();
-    renderToday();renderSyn();renderHeroes();renderAugs();renderReports();renderIssues();renderCandidates();
+    renderToday();renderSyn();renderHeroes();renderAugs();renderReports();renderIssues();renderCandidates();populateFormDropdowns();
   }catch(e){
     console.error('数据加载或渲染失败:',e);
     document.querySelector('.wrap').innerHTML='<div style="text-align:center;padding:60px 20px;color:var(--txt3)"><h2 style="color:var(--t-bug);margin-bottom:12px">数据加载或渲染失败，请查看 Console 具体报错。</h2><p>请确保项目通过 HTTP 服务器访问（如 <code>python -m http.server</code>），而非直接打开文件。</p></div>';
