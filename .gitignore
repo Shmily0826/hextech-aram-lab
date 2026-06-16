@@ -8,6 +8,10 @@ pipeline/output/manual_items.jsonl
 
 # 数据修复过程中的备份文件
 pipeline/output/*_backup*.json
+pipeline/output/*_fixdupes_*.json
+
+# 临时分析脚本（以 _ 开头）
+scripts/_*.py
 
 # Python
 __pycache__/

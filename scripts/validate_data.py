@@ -185,8 +185,10 @@ def validate_augments(filepath: Path) -> tuple[set[str], set[str], dict[str, str
             err(f"[augments.json] 第 {i + 1} 条应为 object")
             continue
 
-        # --- 旧字段检查（保持向后兼容） ---
-        check_required_fields(a, AUGMENT_REQUIRED, "增强", "augments.json", i)
+        # --- 旧字段检查（降级为 WARNING，新导入条目暂缺这些丰富数据） ---
+        for field in sorted(AUGMENT_REQUIRED):
+            if field not in a:
+                warn(f"[augments.json] 第 {i + 1} 条增强 '{a.get('name', '?')}' 缺少可选字段: {field}")
         if "rar" in a:
             check_enum(a["rar"], VALID_RARITIES, "rar", "增强", "augments.json", i)
 
@@ -237,9 +239,9 @@ def validate_augments(filepath: Path) -> tuple[set[str], set[str], dict[str, str
                     name_en_lower_seen[ne_lower] = i + 1
                 alias_to_name[_normalize_key(name_en)] = a.get("name", name_en)
 
-        # 8. aliases 必须是数组
+        # 8. aliases 必须是数组（缺失时仅 WARNING，存在时类型错误仍为 ERROR）
         if "aliases" not in a:
-            err(f"[augments.json] 第 {i + 1} 条增强缺少字段: aliases")
+            warn(f"[augments.json] 第 {i + 1} 条增强 '{a.get('name', '?')}' 缺少字段: aliases")
         else:
             aliases = a["aliases"]
             if not isinstance(aliases, list):
