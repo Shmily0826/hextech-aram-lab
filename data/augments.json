@@ -12,7 +12,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/triple-shot"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 12.09,
+    "pick_rate": 48.71,
+    "site_rank": 157,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ominous_pact",
@@ -33,7 +38,12 @@
       "heal",
       "movement",
       "tank"
-    ]
+    ],
+    "win_rate": 7.92,
+    "pick_rate": 50.22,
+    "site_rank": 128,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "draw_your_sword",
@@ -54,7 +64,12 @@
       "heal",
       "movement",
       "tank"
-    ]
+    ],
+    "win_rate": 13.25,
+    "pick_rate": 60.68,
+    "site_rank": 7,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "quest_wooglets_witchcap",
@@ -69,7 +84,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/quest-wooglets-witchcap"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 15.3,
+    "pick_rate": 54.72,
+    "site_rank": 50,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "quest_urfs_champion",
@@ -87,7 +107,12 @@
     "patch_added": "26.12",
     "tags": [
       "economy"
-    ]
+    ],
+    "win_rate": 12.31,
+    "pick_rate": 52.98,
+    "site_rank": 78,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "empowered_by_the_faithful",
@@ -108,7 +133,12 @@
       "heal",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 3.91,
+    "pick_rate": 49.4,
+    "site_rank": 140,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "dashing",
@@ -134,7 +164,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 17.63,
+    "pick_rate": 50.53,
+    "site_rank": 125,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "omni_soul",
@@ -149,7 +184,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/omni-soul"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 10.08,
+    "pick_rate": 52.93,
+    "site_rank": 79,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "blade_waltz",
@@ -185,7 +225,12 @@
         "ok": true,
         "t": "攻速流ADC核心增强，收益稳定"
       }
-    ]
+    ],
+    "win_rate": 9.04,
+    "pick_rate": 48.87,
+    "site_rank": 152,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_mikaels",
@@ -204,7 +249,12 @@
     "tags": [
       "attack_speed",
       "heal"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 248,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "dual_wield",
@@ -222,7 +272,12 @@
     "patch_added": "26.12",
     "tags": [
       "attack_speed"
-    ]
+    ],
+    "win_rate": 25.65,
+    "pick_rate": 55.83,
+    "site_rank": 40,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "biggest_snowball_ever",
@@ -251,7 +306,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 22.7,
+    "pick_rate": 54.22,
+    "site_rank": 55,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "eat_the_path",
@@ -274,7 +334,12 @@
       "heal",
       "tank",
       "true_damage"
-    ]
+    ],
+    "win_rate": 24.23,
+    "pick_rate": 53.04,
+    "site_rank": 76,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stuck_in_here_with_me",
@@ -292,7 +357,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 6.49,
+    "pick_rate": 48.96,
+    "site_rank": 150,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "spell_splitting",
@@ -307,7 +377,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/spell-splitting"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 14.39,
+    "pick_rate": 47.4,
+    "site_rank": 170,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "echoing_release",
@@ -324,7 +399,12 @@
     "aliases": [
       "echo cast"
     ],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 15.14,
+    "pick_rate": 46.67,
+    "site_rank": 172,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "back_to_basics",
@@ -353,7 +433,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 18.25,
+    "pick_rate": 55.99,
+    "site_rank": 39,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "cerberus",
@@ -378,7 +463,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 185,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "multishot",
@@ -393,7 +483,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/multishot"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 20.15,
+    "pick_rate": 45.92,
+    "site_rank": 175,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "earthwake",
@@ -428,7 +523,12 @@
       "damage",
       "economy",
       "movement"
-    ]
+    ],
+    "win_rate": 6.1,
+    "pick_rate": 52.19,
+    "site_rank": 98,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "king_me",
@@ -447,7 +547,12 @@
     "tags": [
       "economy",
       "rune"
-    ]
+    ],
+    "win_rate": 8.73,
+    "pick_rate": 53.08,
+    "site_rank": 75,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "eureka",
@@ -465,7 +570,12 @@
     "patch_added": "26.12",
     "tags": [
       "ap"
-    ]
+    ],
+    "win_rate": 38.91,
+    "pick_rate": 57.83,
+    "site_rank": 19,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stats_on_stats_on_stats",
@@ -484,7 +594,12 @@
     "tags": [
       "economy",
       "rune"
-    ]
+    ],
+    "win_rate": 13.38,
+    "pick_rate": 52.76,
+    "site_rank": 82,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "giant_slayer",
@@ -503,7 +618,12 @@
     "tags": [
       "damage",
       "movement"
-    ]
+    ],
+    "win_rate": 34.43,
+    "pick_rate": 56.81,
+    "site_rank": 29,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "courage_of_the_colossus",
@@ -522,7 +642,12 @@
     "tags": [
       "cc",
       "shield"
-    ]
+    ],
+    "win_rate": 10.4,
+    "pick_rate": 50.72,
+    "site_rank": 122,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "quickstep",
@@ -537,7 +662,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/quickstep"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 11.06,
+    "pick_rate": 44.24,
+    "site_rank": 180,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "symphony_of_war",
@@ -555,7 +685,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 9.57,
+    "pick_rate": 50.2,
+    "site_rank": 129,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "triggered_inferno",
@@ -570,7 +705,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/triggered-inferno"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 8.44,
+    "pick_rate": 48.78,
+    "site_rank": 155,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "high_roller",
@@ -585,7 +725,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/high-roller"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 51.72,
+    "pick_rate": 63.62,
+    "site_rank": 3,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "infinite_recursion",
@@ -600,7 +745,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/infinite-recursion"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 28.54,
+    "pick_rate": 59.93,
+    "site_rank": 8,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "scopiest_weapons",
@@ -615,7 +765,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/scopiest-weapons"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 18.76,
+    "pick_rate": 51.43,
+    "site_rank": 111,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "final_form",
@@ -636,7 +791,12 @@
       "movement",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 19.3,
+    "pick_rate": 53.52,
+    "site_rank": 67,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "goliath",
@@ -661,7 +821,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 29.86,
+    "pick_rate": 56.56,
+    "site_rank": 34,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "circle_of_death",
@@ -689,7 +854,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 1.33,
+    "pick_rate": 49.24,
+    "site_rank": 142,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "cruelty",
@@ -708,7 +878,12 @@
     "tags": [
       "cc",
       "damage"
-    ]
+    ],
+    "win_rate": 10.32,
+    "pick_rate": 51.03,
+    "site_rank": 117,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "titan_resolve",
@@ -728,7 +903,12 @@
       "damage",
       "tank",
       "tenacity"
-    ]
+    ],
+    "win_rate": 18.25,
+    "pick_rate": 47.45,
+    "site_rank": 169,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pandoras_box",
@@ -746,7 +926,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 28.02,
+    "pick_rate": 53.28,
+    "site_rank": 73,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "hellbent",
@@ -764,7 +949,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 2.44,
+    "pick_rate": 48.85,
+    "site_rank": 153,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "spirit_bomb",
@@ -784,7 +974,12 @@
       "heal",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 189,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "infernal_conduit",
@@ -803,7 +998,12 @@
     "tags": [
       "burn",
       "damage"
-    ]
+    ],
+    "win_rate": 27.42,
+    "pick_rate": 57.36,
+    "site_rank": 24,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "master_of_duality",
@@ -823,7 +1023,12 @@
       "ad",
       "ap",
       "damage"
-    ]
+    ],
+    "win_rate": 7.02,
+    "pick_rate": 50.69,
+    "site_rank": 123,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "glass_cannon",
@@ -844,7 +1049,12 @@
       "heal",
       "tank",
       "true_damage"
-    ]
+    ],
+    "win_rate": 5.37,
+    "pick_rate": 45.42,
+    "site_rank": 179,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "jeweled_gauntlet",
@@ -862,7 +1072,12 @@
     "patch_added": "26.12",
     "tags": [
       "crit"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 212,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "hand_of_baron",
@@ -877,7 +1092,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/hand-of-baron"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 3.39,
+    "pick_rate": 54.18,
+    "site_rank": 57,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "can_t_touch_this",
@@ -923,7 +1143,12 @@
     "tags": [
       "damage",
       "snowball"
-    ]
+    ],
+    "win_rate": 6.15,
+    "pick_rate": 46.32,
+    "site_rank": 173,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "mad_scientist",
@@ -943,7 +1168,12 @@
       "heal",
       "movement",
       "tank"
-    ]
+    ],
+    "win_rate": 14.86,
+    "pick_rate": 55.64,
+    "site_rank": 42,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "mystic_punch",
@@ -958,7 +1188,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/mystic-punch"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 24.54,
+    "pick_rate": 55.1,
+    "site_rank": 45,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "drop_bear",
@@ -977,7 +1212,12 @@
     "tags": [
       "damage",
       "rune"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 182,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "fey_magic",
@@ -995,7 +1235,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 13.73,
+    "pick_rate": 49.56,
+    "site_rank": 137,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ultimate_revolution",
@@ -1010,7 +1255,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-revolution"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 15.67,
+    "pick_rate": 49.02,
+    "site_rank": 147,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ultimate_awakening",
@@ -1025,7 +1275,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-awakening"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 15.84,
+    "pick_rate": 50.78,
+    "site_rank": 121,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "empyrean_promise",
@@ -1045,7 +1300,12 @@
       "heal",
       "shield",
       "summoner"
-    ]
+    ],
+    "win_rate": 3.56,
+    "pick_rate": 48.61,
+    "site_rank": 159,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "prom_queen",
@@ -1060,7 +1320,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/prom-queen"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 2.29,
+    "pick_rate": 47.68,
+    "site_rank": 168,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "icathian_fall",
@@ -1095,7 +1360,12 @@
       "heal",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 2.17,
+    "pick_rate": 49.02,
+    "site_rank": 148,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "transmute_chaos",
@@ -1113,7 +1383,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 37.6,
+    "pick_rate": 55.27,
+    "site_rank": 44,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "overload",
@@ -1128,7 +1403,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/overload"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 30.77,
+    "pick_rate": 52.35,
+    "site_rank": 93,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "tap_dancer",
@@ -1147,7 +1427,12 @@
     "tags": [
       "attack_speed",
       "movement"
-    ]
+    ],
+    "win_rate": 15.53,
+    "pick_rate": 51.99,
+    "site_rank": 100,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "squishy_slappy_grab",
@@ -1162,7 +1447,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/squishy-slappy-grab"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 190,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "fan_the_hammer",
@@ -1190,7 +1480,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 16.81,
+    "pick_rate": 51.49,
+    "site_rank": 110,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "chain_reaction",
@@ -1210,7 +1505,12 @@
       "damage",
       "knockback",
       "knockup"
-    ]
+    ],
+    "win_rate": 11.43,
+    "pick_rate": 46.24,
+    "site_rank": 174,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pincushion",
@@ -1230,7 +1530,12 @@
       "damage",
       "movement",
       "snowball"
-    ]
+    ],
+    "win_rate": 12.39,
+    "pick_rate": 45.46,
+    "site_rank": 177,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "windspeakers_blessing",
@@ -1250,7 +1555,12 @@
       "heal",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 2.12,
+    "pick_rate": 56.26,
+    "site_rank": 35,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "rite_of_ascension",
@@ -1268,7 +1578,12 @@
     "patch_added": "26.12",
     "tags": [
       "movement"
-    ]
+    ],
+    "win_rate": 15.2,
+    "pick_rate": 47.92,
+    "site_rank": 166,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "dropkick",
@@ -1296,7 +1611,12 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "win_rate": 45.32,
+    "pick_rate": 57.75,
+    "site_rank": 20,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "poro_stampede",
@@ -1315,7 +1635,12 @@
     "tags": [
       "poro",
       "summoner"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 186,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "impassable",
@@ -1333,7 +1658,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 6.56,
+    "pick_rate": 48.44,
+    "site_rank": 163,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "merciful_strike",
@@ -1354,7 +1684,12 @@
       "damage",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 13.7,
+    "pick_rate": 50.41,
+    "site_rank": 127,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "minionmancer",
@@ -1378,7 +1713,12 @@
       "url": "https://blitz.gg/lol/aram-mayhem-augments",
       "verified_at": "2026-06-16"
     },
-    "notes": ""
+    "notes": "",
+    "win_rate": 4.1,
+    "pick_rate": 50.93,
+    "site_rank": 120,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "quest_steel_your_heart",
@@ -1393,7 +1733,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/quest-steel-your-heart"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 30.43,
+    "pick_rate": 59.77,
+    "site_rank": 11,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "all_for_you",
@@ -1428,7 +1773,12 @@
         "ok": true,
         "t": "莫甘娜黑盾增幅后几乎无法被控制"
       }
-    ]
+    ],
+    "win_rate": 3.52,
+    "pick_rate": 49.2,
+    "site_rank": 144,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ice_burst",
@@ -1449,7 +1799,12 @@
       "knockback",
       "knockup",
       "snowball"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 188,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_infinity_edge",
@@ -1469,7 +1824,12 @@
       "crit",
       "damage",
       "economy"
-    ]
+    ],
+    "win_rate": 41.56,
+    "pick_rate": 59.75,
+    "site_rank": 12,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_sheen",
@@ -1490,7 +1850,12 @@
       "economy",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 9.5,
+    "pick_rate": 52.52,
+    "site_rank": 91,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "soul_eater",
@@ -1510,7 +1875,12 @@
       "cc",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 22.08,
+    "pick_rate": 52.55,
+    "site_rank": 88,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "sonata",
@@ -1530,7 +1900,12 @@
       "heal",
       "movement",
       "shield"
-    ]
+    ],
+    "win_rate": 11.44,
+    "pick_rate": 53.41,
+    "site_rank": 69,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ouch_my_coins",
@@ -1548,7 +1923,12 @@
     "patch_added": "26.12",
     "tags": [
       "economy"
-    ]
+    ],
+    "win_rate": 29.5,
+    "pick_rate": 52.75,
+    "site_rank": 83,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "wee_oo_wee_oo",
@@ -1572,7 +1952,12 @@
       "movement",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 3.21,
+    "pick_rate": 57.12,
+    "site_rank": 26,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ok_boomerang",
@@ -1587,7 +1972,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/ok-boomerang"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 6.09,
+    "pick_rate": 49.49,
+    "site_rank": 138,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "terrain_expert",
@@ -1605,7 +1995,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 6.03,
+    "pick_rate": 51.72,
+    "site_rank": 104,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "tank_engine",
@@ -1624,7 +2019,12 @@
     "tags": [
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 48.31,
+    "pick_rate": 61.91,
+    "site_rank": 4,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "nightstalking",
@@ -1642,7 +2042,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 17.11,
+    "pick_rate": 49.38,
+    "site_rank": 141,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pursuit_of_power",
@@ -1660,7 +2065,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 67.29,
+    "pick_rate": 61.45,
+    "site_rank": 5,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "lil_extra_help",
@@ -1678,7 +2088,12 @@
     "patch_added": "26.12",
     "tags": [
       "attack_speed"
-    ]
+    ],
+    "win_rate": 36.97,
+    "pick_rate": 55.8,
+    "site_rank": 41,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "apex_inventor",
@@ -1693,7 +2108,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/apex-inventor"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 15.08,
+    "pick_rate": 51.63,
+    "site_rank": 105,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stats_on_stats",
@@ -1711,7 +2131,12 @@
     "patch_added": "26.12",
     "tags": [
       "economy"
-    ]
+    ],
+    "win_rate": 31.0,
+    "pick_rate": 56.75,
+    "site_rank": 30,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pinball",
@@ -1731,7 +2156,12 @@
       "damage",
       "snowball",
       "true_damage"
-    ]
+    ],
+    "win_rate": 11.8,
+    "pick_rate": 48.51,
+    "site_rank": 160,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "recursion",
@@ -1746,7 +2176,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/recursion"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 37.18,
+    "pick_rate": 56.69,
+    "site_rank": 31,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "spiritual_purification",
@@ -1767,7 +2202,12 @@
       "heal",
       "slow",
       "tank"
-    ]
+    ],
+    "win_rate": 12.69,
+    "pick_rate": 49.41,
+    "site_rank": 139,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "with_haste",
@@ -1785,7 +2225,12 @@
     "patch_added": "26.12",
     "tags": [
       "movement"
-    ]
+    ],
+    "win_rate": 15.72,
+    "pick_rate": 52.72,
+    "site_rank": 85,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pursuit_of_haste",
@@ -1800,7 +2245,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/pursuit-of-haste"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 70.14,
+    "pick_rate": 64.41,
+    "site_rank": 2,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "terror",
@@ -1818,7 +2268,12 @@
     "patch_added": "26.12",
     "tags": [
       "cc"
-    ]
+    ],
+    "win_rate": 8.35,
+    "pick_rate": 48.44,
+    "site_rank": 162,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "our_healing",
@@ -1836,7 +2291,12 @@
     "patch_added": "26.12",
     "tags": [
       "heal"
-    ]
+    ],
+    "win_rate": 12.52,
+    "pick_rate": 49.04,
+    "site_rank": 146,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "donation",
@@ -1854,7 +2314,12 @@
     "patch_added": "26.12",
     "tags": [
       "economy"
-    ]
+    ],
+    "win_rate": 33.57,
+    "pick_rate": 57.6,
+    "site_rank": 21,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "endless_rampage",
@@ -1873,7 +2338,12 @@
     "tags": [
       "damage",
       "heal"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 183,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "celestial_body",
@@ -1900,7 +2370,12 @@
     },
     "notes": "",
     "rar": "gold",
-    "tests": []
+    "tests": [],
+    "win_rate": 27.37,
+    "pick_rate": 55.02,
+    "site_rank": 47,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "scopier_weapons",
@@ -1915,7 +2390,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/scopier-weapons"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 36.62,
+    "pick_rate": 56.1,
+    "site_rank": 37,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "from_beginning_to_end",
@@ -1933,7 +2413,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 14.17,
+    "pick_rate": 55.37,
+    "site_rank": 43,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "warlock_juicebox",
@@ -1948,7 +2433,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/warlock-juicebox"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 46.84,
+    "pick_rate": 58.77,
+    "site_rank": 15,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "its_killing_time",
@@ -1967,7 +2457,12 @@
     "tags": [
       "damage",
       "snowball"
-    ]
+    ],
+    "win_rate": 19.39,
+    "pick_rate": 50.0,
+    "site_rank": 132,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "rejuvenation",
@@ -1991,7 +2486,12 @@
       "url": "https://blitz.gg/lol/aram-mayhem-augments",
       "verified_at": "2026-06-16"
     },
-    "notes": ""
+    "notes": "",
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 187,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "overflow",
@@ -2011,7 +2511,12 @@
       "damage",
       "heal",
       "shield"
-    ]
+    ],
+    "win_rate": 15.26,
+    "pick_rate": 51.75,
+    "site_rank": 103,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "firebrand",
@@ -2030,7 +2535,12 @@
     "tags": [
       "burn",
       "damage"
-    ]
+    ],
+    "win_rate": 11.94,
+    "pick_rate": 50.08,
+    "site_rank": 130,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "searing_dawn",
@@ -2049,7 +2559,12 @@
     "tags": [
       "damage",
       "snowball"
-    ]
+    ],
+    "win_rate": 7.49,
+    "pick_rate": 48.93,
+    "site_rank": 151,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "combusting_interest",
@@ -2069,7 +2584,12 @@
       "burn",
       "damage",
       "economy"
-    ]
+    ],
+    "win_rate": 23.35,
+    "pick_rate": 57.38,
+    "site_rank": 23,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "tooth_fairy",
@@ -2088,7 +2608,12 @@
     "tags": [
       "magic_pen",
       "penetration"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 192,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "outlaws_grit",
@@ -2106,7 +2631,12 @@
     "patch_added": "26.12",
     "tags": [
       "tank"
-    ]
+    ],
+    "win_rate": 11.61,
+    "pick_rate": 53.35,
+    "site_rank": 71,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "from_downtown",
@@ -2124,7 +2654,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 27.25,
+    "pick_rate": 52.53,
+    "site_rank": 89,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "burst_of_vitality",
@@ -2146,7 +2681,12 @@
       "growth spurt",
       "growthspurt"
     ],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 18.38,
+    "pick_rate": 52.53,
+    "site_rank": 90,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "divine_intervention",
@@ -2164,7 +2704,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 11.88,
+    "pick_rate": 48.5,
+    "site_rank": 161,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "marksmage",
@@ -2183,7 +2728,12 @@
     "tags": [
       "ap",
       "damage"
-    ]
+    ],
+    "win_rate": 16.69,
+    "pick_rate": 52.78,
+    "site_rank": 80,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "thread_the_needle",
@@ -2203,7 +2753,12 @@
       "magic_pen",
       "penetration",
       "tank"
-    ]
+    ],
+    "win_rate": 23.7,
+    "pick_rate": 51.15,
+    "site_rank": 116,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "shrink_ray",
@@ -2221,7 +2776,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 11.36,
+    "pick_rate": 47.83,
+    "site_rank": 167,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "shrink_engine",
@@ -2239,7 +2799,12 @@
     "patch_added": "26.12",
     "tags": [
       "movement"
-    ]
+    ],
+    "win_rate": 46.42,
+    "pick_rate": 59.77,
+    "site_rank": 10,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "get_excited",
@@ -2266,7 +2831,12 @@
     },
     "notes": "",
     "rar": "gold",
-    "tests": []
+    "tests": [],
+    "win_rate": 22.25,
+    "pick_rate": 52.77,
+    "site_rank": 81,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "skilled_sniper",
@@ -2281,7 +2851,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/skilled-sniper"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 26.09,
+    "pick_rate": 52.55,
+    "site_rank": 87,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "nature_heals",
@@ -2300,7 +2875,12 @@
     "tags": [
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 184,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "bush_hide",
@@ -2320,7 +2900,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 20.01,
+    "pick_rate": 49.67,
+    "site_rank": 134,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ethereal_weapon",
@@ -2335,7 +2920,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/ethereal-weapon"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 41.81,
+    "pick_rate": 56.6,
+    "site_rank": 33,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "void_dash",
@@ -2354,7 +2944,12 @@
     "tags": [
       "damage",
       "slow"
-    ]
+    ],
+    "win_rate": 40.81,
+    "pick_rate": 54.57,
+    "site_rank": 52,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "soul_siphon",
@@ -2374,7 +2969,12 @@
       "crit",
       "damage",
       "heal"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 234,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "executioner",
@@ -2402,7 +3002,12 @@
     },
     "notes": "",
     "rar": "gold",
-    "tests": []
+    "tests": [],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 200,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "porcupine",
@@ -2421,7 +3026,12 @@
     "tags": [
       "damage",
       "slow"
-    ]
+    ],
+    "win_rate": 16.9,
+    "pick_rate": 48.75,
+    "site_rank": 156,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "transmute_prismatic",
@@ -2439,7 +3049,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 69.86,
+    "pick_rate": 67.38,
+    "site_rank": 1,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "greedy_grasp",
@@ -2461,7 +3076,12 @@
       "cc",
       "damage",
       "heal"
-    ]
+    ],
+    "win_rate": 44.95,
+    "pick_rate": 56.63,
+    "site_rank": 32,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "phenomenal_evil",
@@ -2481,7 +3101,12 @@
       "ap",
       "damage",
       "rune"
-    ]
+    ],
+    "win_rate": 33.78,
+    "pick_rate": 58.52,
+    "site_rank": 16,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "big_brain",
@@ -2517,7 +3142,12 @@
         "ok": true,
         "t": "18级后胜率提升7.3%"
       }
-    ]
+    ],
+    "win_rate": 9.6,
+    "pick_rate": 52.66,
+    "site_rank": 86,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pat_on_the_back",
@@ -2536,7 +3166,12 @@
     "tags": [
       "movement",
       "shield"
-    ]
+    ],
+    "win_rate": 10.97,
+    "pick_rate": 51.54,
+    "site_rank": 107,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "overextender",
@@ -2554,7 +3189,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 6.79,
+    "pick_rate": 51.76,
+    "site_rank": 101,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "bang",
@@ -2572,7 +3212,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 13.8,
+    "pick_rate": 53.95,
+    "site_rank": 63,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "flash_forward",
@@ -2602,7 +3247,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-cheese"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 28.22,
+    "pick_rate": 53.29,
+    "site_rank": 72,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "bread_and_jam",
@@ -2617,7 +3267,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-jam"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 25.66,
+    "pick_rate": 52.23,
+    "site_rank": 96,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "bread_and_butter",
@@ -2644,7 +3299,12 @@
     },
     "notes": "",
     "rar": "gold",
-    "tests": []
+    "tests": [],
+    "win_rate": 31.63,
+    "pick_rate": 54.06,
+    "site_rank": 60,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "pressure_cooker",
@@ -2665,7 +3325,12 @@
       "damage",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 21.95,
+    "pick_rate": 58.94,
+    "site_rank": 14,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "magic_missile",
@@ -2686,7 +3351,12 @@
       "heal",
       "tank",
       "true_damage"
-    ]
+    ],
+    "win_rate": 38.29,
+    "pick_rate": 56.22,
+    "site_rank": 36,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "shark_storm",
@@ -2706,7 +3376,12 @@
       "damage",
       "slow",
       "snowball"
-    ]
+    ],
+    "win_rate": 0.14,
+    "pick_rate": 45.74,
+    "site_rank": 176,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "shark_bait",
@@ -2721,7 +3396,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/shark-bait"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 8.16,
+    "pick_rate": 51.6,
+    "site_rank": 106,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "dawnbringers_resolve",
@@ -2740,7 +3420,12 @@
     "tags": [
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 14.51,
+    "pick_rate": 52.49,
+    "site_rank": 92,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "scoped_weapons",
@@ -2755,7 +3440,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/scoped-weapons"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 25.61,
+    "pick_rate": 51.52,
+    "site_rank": 109,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "snow_day",
@@ -2774,7 +3464,12 @@
     "tags": [
       "damage",
       "snowball"
-    ]
+    ],
+    "win_rate": 26.02,
+    "pick_rate": 49.59,
+    "site_rank": 136,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "support_main",
@@ -2793,7 +3488,12 @@
     "tags": [
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 3.43,
+    "pick_rate": 49.61,
+    "site_rank": 135,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "erosion",
@@ -2819,7 +3519,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 14.74,
+    "pick_rate": 53.03,
+    "site_rank": 77,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stay_firm",
@@ -2840,7 +3545,12 @@
     "tags": [
       "damage",
       "tank"
-    ]
+    ],
+    "win_rate": 8.98,
+    "pick_rate": 54.06,
+    "site_rank": 61,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "dive_bomber",
@@ -2868,7 +3578,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 26.51,
+    "pick_rate": 51.17,
+    "site_rank": 115,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ice_cold",
@@ -2887,7 +3602,12 @@
     "tags": [
       "movement",
       "slow"
-    ]
+    ],
+    "win_rate": 25.22,
+    "pick_rate": 53.21,
+    "site_rank": 74,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "don_t_stop_channeling",
@@ -2907,7 +3627,12 @@
     "patch_added": "26.12",
     "tags": [
       "shield"
-    ]
+    ],
+    "win_rate": 9.74,
+    "pick_rate": 50.98,
+    "site_rank": 118,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "time_to_advance",
@@ -2929,7 +3654,12 @@
     "patch_added": "26.12",
     "tags": [
       "movement"
-    ]
+    ],
+    "win_rate": 15.44,
+    "pick_rate": 51.53,
+    "site_rank": 108,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_zhonyas",
@@ -2948,7 +3678,12 @@
     "tags": [
       "economy",
       "movement"
-    ]
+    ],
+    "win_rate": 17.56,
+    "pick_rate": 52.24,
+    "site_rank": 95,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_collector",
@@ -2968,7 +3703,12 @@
       "economy",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 35.74,
+    "pick_rate": 53.77,
+    "site_rank": 66,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "upgrade_immolate",
@@ -2986,7 +3726,12 @@
     "patch_added": "26.12",
     "tags": [
       "economy"
-    ]
+    ],
+    "win_rate": 16.84,
+    "pick_rate": 54.75,
+    "site_rank": 49,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "twin_fire",
@@ -3005,7 +3750,12 @@
     "tags": [
       "crit",
       "damage"
-    ]
+    ],
+    "win_rate": 31.56,
+    "pick_rate": 53.37,
+    "site_rank": 70,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stackasaurus",
@@ -3023,7 +3773,12 @@
     "patch_added": "26.12",
     "tags": [
       "rune"
-    ]
+    ],
+    "win_rate": 18.35,
+    "pick_rate": 59.88,
+    "site_rank": 9,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "reliable_weapon",
@@ -3043,7 +3798,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 33.44,
+    "pick_rate": 56.03,
+    "site_rank": 38,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "typhoon",
@@ -3061,7 +3821,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 19.33,
+    "pick_rate": 50.96,
+    "site_rank": 119,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "poltergeist",
@@ -3079,7 +3844,12 @@
     "patch_added": "26.12",
     "tags": [
       "summoner"
-    ]
+    ],
+    "win_rate": 7.08,
+    "pick_rate": 48.66,
+    "site_rank": 158,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "don_t_blink",
@@ -3106,7 +3876,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 9.81,
+    "pick_rate": 52.75,
+    "site_rank": 84,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "solid_as_rock",
@@ -3127,7 +3902,12 @@
     "tags": [
       "cc",
       "tank"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 182,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "blunt_force",
@@ -3154,7 +3934,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 37.83,
+    "pick_rate": 56.92,
+    "site_rank": 27,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "master_crafted",
@@ -3173,7 +3958,12 @@
     "tags": [
       "damage",
       "rune"
-    ]
+    ],
+    "win_rate": 38.74,
+    "pick_rate": 57.46,
+    "site_rank": 22,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "sonic_boom",
@@ -3194,7 +3984,12 @@
       "heal",
       "shield",
       "slow"
-    ]
+    ],
+    "win_rate": 4.59,
+    "pick_rate": 50.55,
+    "site_rank": 124,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "homeguard",
@@ -3220,7 +4015,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 17.56,
+    "pick_rate": 54.31,
+    "site_rank": 53,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "stats",
@@ -3235,7 +4035,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/stats"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 18.84,
+    "pick_rate": 52.27,
+    "site_rank": 94,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "mountain_soul",
@@ -3253,7 +4058,12 @@
     "patch_added": "26.12",
     "tags": [
       "shield"
-    ]
+    ],
+    "win_rate": 6.04,
+    "pick_rate": 49.2,
+    "site_rank": 143,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "witchful_thinking",
@@ -3271,7 +4081,12 @@
     "patch_added": "26.12",
     "tags": [
       "ap"
-    ]
+    ],
+    "win_rate": 31.06,
+    "pick_rate": 53.85,
+    "site_rank": 64,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "mighty_shield",
@@ -3289,7 +4104,12 @@
     "patch_added": "26.12",
     "tags": [
       "shield"
-    ]
+    ],
+    "win_rate": 2.34,
+    "pick_rate": 46.74,
+    "site_rank": 171,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "swift_and_safe",
@@ -3307,7 +4127,12 @@
     "patch_added": "26.12",
     "tags": [
       "shield"
-    ]
+    ],
+    "win_rate": 13.05,
+    "pick_rate": 53.47,
+    "site_rank": 68,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "first_aid_kit",
@@ -3333,7 +4158,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 5.94,
+    "pick_rate": 50.44,
+    "site_rank": 126,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "guilty_pleasure",
@@ -3361,7 +4191,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 206,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "slap_around",
@@ -3379,7 +4214,12 @@
     "patch_added": "26.12",
     "tags": [
       "cc"
-    ]
+    ],
+    "win_rate": 31.36,
+    "pick_rate": 54.25,
+    "site_rank": 54,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "spin_to_win",
@@ -3397,7 +4237,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 16.85,
+    "pick_rate": 53.78,
+    "site_rank": 65,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "shadow_runner",
@@ -3415,7 +4260,12 @@
     "patch_added": "26.12",
     "tags": [
       "movement"
-    ]
+    ],
+    "win_rate": 22.1,
+    "pick_rate": 54.69,
+    "site_rank": 51,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "kill_secured",
@@ -3435,7 +4285,12 @@
       "heal",
       "movement",
       "tank"
-    ]
+    ],
+    "win_rate": 11.01,
+    "pick_rate": 50.02,
+    "site_rank": 131,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "juiced",
@@ -3454,7 +4309,12 @@
     "tags": [
       "crit",
       "damage"
-    ]
+    ],
+    "win_rate": 10.49,
+    "pick_rate": 48.22,
+    "site_rank": 164,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "hextech_soul",
@@ -3473,7 +4333,12 @@
     "tags": [
       "damage",
       "slow"
-    ]
+    ],
+    "win_rate": 17.2,
+    "pick_rate": 51.23,
+    "site_rank": 114,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ocean_soul",
@@ -3493,7 +4358,12 @@
       "damage",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 27.53,
+    "pick_rate": 55.08,
+    "site_rank": 46,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "goredrink",
@@ -3518,7 +4388,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 48.49,
+    "pick_rate": 57.87,
+    "site_rank": 18,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "firefox",
@@ -3537,7 +4412,12 @@
     "tags": [
       "damage",
       "movement"
-    ]
+    ],
+    "win_rate": 10.8,
+    "pick_rate": 52.12,
+    "site_rank": 99,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "deft",
@@ -3562,7 +4442,12 @@
     },
     "notes": "",
     "rar": "silver",
-    "tests": []
+    "tests": [],
+    "win_rate": 36.01,
+    "pick_rate": 54.87,
+    "site_rank": 48,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "light_em_up",
@@ -3580,7 +4465,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 13.67,
+    "pick_rate": 51.36,
+    "site_rank": 113,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "infernal_soul",
@@ -3598,7 +4488,12 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
+    ],
+    "win_rate": 21.25,
+    "pick_rate": 51.37,
+    "site_rank": 112,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "zealot",
@@ -3618,7 +4513,12 @@
       "ap",
       "attack_speed",
       "crit"
-    ]
+    ],
+    "win_rate": null,
+    "pick_rate": null,
+    "site_rank": 255,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "mind_to_matter",
@@ -3637,7 +4537,12 @@
     "tags": [
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 23.0,
+    "pick_rate": 54.12,
+    "site_rank": 59,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "purist_caster",
@@ -3655,7 +4560,12 @@
     "patch_added": "26.12",
     "tags": [
       "attack_speed"
-    ]
+    ],
+    "win_rate": 27.51,
+    "pick_rate": 51.75,
+    "site_rank": 102,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "leg_day",
@@ -3674,7 +4584,12 @@
     "tags": [
       "movement",
       "slow"
-    ]
+    ],
+    "win_rate": 24.43,
+    "pick_rate": 54.17,
+    "site_rank": 58,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "ultimate_unstoppable",
@@ -3689,7 +4604,12 @@
       "url": "https://arammayhem.com/zh-cn/augments/ultimate-unstoppable"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "win_rate": 18.35,
+    "pick_rate": 48.99,
+    "site_rank": 149,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "adaptive_defense",
@@ -3708,7 +4628,12 @@
     "tags": [
       "damage",
       "tank"
-    ]
+    ],
+    "win_rate": 28.19,
+    "pick_rate": 52.22,
+    "site_rank": 97,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "transmute_gold",
@@ -3745,7 +4670,12 @@
     "patch_added": "26.12",
     "tags": [
       "summoner"
-    ]
+    ],
+    "win_rate": 4.62,
+    "pick_rate": 45.46,
+    "site_rank": 178,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "adapt",
@@ -3767,7 +4697,12 @@
       "ad",
       "ap",
       "damage"
-    ]
+    ],
+    "win_rate": 29.55,
+    "pick_rate": 54.2,
+    "site_rank": 56,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "escape_plan",
@@ -3788,7 +4723,12 @@
       "movement",
       "shield",
       "tank"
-    ]
+    ],
+    "win_rate": 30.12,
+    "pick_rate": 57.13,
+    "site_rank": 25,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "heavy_hitter",
@@ -3808,7 +4748,12 @@
       "damage",
       "heal",
       "tank"
-    ]
+    ],
+    "win_rate": 36.24,
+    "pick_rate": 58.03,
+    "site_rank": 17,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "veil_of_protection",
@@ -3848,7 +4793,12 @@
       "ad",
       "ap",
       "damage"
-    ]
+    ],
+    "win_rate": 20.4,
+    "pick_rate": 54.05,
+    "site_rank": 62,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   },
   {
     "id": "bolstered",

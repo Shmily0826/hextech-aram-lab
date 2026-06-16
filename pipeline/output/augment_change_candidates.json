@@ -1,0 +1,2610 @@
+{
+  "generated_at": "2026-06-16T23:12:04Z",
+  "source": "arammayhem.com",
+  "summary": {
+    "total_on_site": 255,
+    "total_in_local": 198,
+    "matched": 191,
+    "to_add": 64,
+    "to_remove": 7,
+    "to_update_stats": 174,
+    "to_update_tier": 4
+  },
+  "to_add": [
+    {
+      "id": "archmage",
+      "name": "大法师",
+      "name_en": "Archmage",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/archmage"
+      },
+      "win_rate": 61.08,
+      "pick_rate": 61.41,
+      "site_rank": 6
+    },
+    {
+      "id": "void_immolation",
+      "name": "任务：艾卡西亚的陷落",
+      "name_en": "Void Immolation",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/void-immolation"
+      },
+      "win_rate": 8.72,
+      "pick_rate": 59.15,
+      "site_rank": 13
+    },
+    {
+      "id": "double_defense",
+      "name": "双重防御",
+      "name_en": "Double Defense",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/double-defense"
+      },
+      "win_rate": 4.45,
+      "pick_rate": 49.72,
+      "site_rank": 133
+    },
+    {
+      "id": "flash_2",
+      "name": "闪闪现现",
+      "name_en": "Flash 2",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/flash-2"
+      },
+      "win_rate": 0.28,
+      "pick_rate": 49.13,
+      "site_rank": 145
+    },
+    {
+      "id": "flashbang",
+      "name": "闪光弹",
+      "name_en": "Flashbang",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/flashbang"
+      },
+      "win_rate": 0.3,
+      "pick_rate": 48.79,
+      "site_rank": 154
+    },
+    {
+      "id": "cant_touch_this",
+      "name": "你摸不到",
+      "name_en": "Cant Touch This",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/cant-touch-this"
+      },
+      "win_rate": 9.37,
+      "pick_rate": 48.0,
+      "site_rank": 165
+    },
+    {
+      "id": "mystery_augment",
+      "name": "???",
+      "name_en": "???",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/mystery-augment"
+      },
+      "site_rank": 181,
+      "notes": "未命名强化，wiki 上标记为 ??? 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "bounce_of_the_poro_king",
+      "name": "魄罗之王的弹跳",
+      "name_en": "Bounce of the Poro King",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/bounce-of-the-poro-king"
+      },
+      "site_rank": 183,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "buff_buddies",
+      "name": "霸符兄弟",
+      "name_en": "Buff Buddies",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/buff-buddies"
+      },
+      "site_rank": 184,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "cheating",
+      "name": "作弊：我能回城！",
+      "name_en": "Cheating",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/cheating"
+      },
+      "site_rank": 186,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "clown_college",
+      "name": "小丑学院",
+      "name_en": "Clown College",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/clown-college"
+      },
+      "site_rank": 187,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "crack_open_that_egg",
+      "name": "砸开那颗蛋",
+      "name_en": "Crack Open That Egg",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/crack-open-that-egg"
+      },
+      "site_rank": 188,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "crit_n_cast",
+      "name": "由暴生急",
+      "name_en": "Crit 'n Cast",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/crit-n-cast"
+      },
+      "site_rank": 189,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "critical_healing",
+      "name": "会心治疗",
+      "name_en": "Critical Healing",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/critical-healing"
+      },
+      "site_rank": 190,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "critical_missile",
+      "name": "暴击飞弹",
+      "name_en": "Critical Missile",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/critical-missile"
+      },
+      "site_rank": 191,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "critical_rhythm",
+      "name": "暴击律动",
+      "name_en": "Critical Rhythm",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/critical-rhythm"
+      },
+      "site_rank": 192,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "demons_dance",
+      "name": "魔鬼之舞",
+      "name_en": "Demon's Dance",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/demons-dance"
+      },
+      "site_rank": 193,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "devil_on_your_shoulder",
+      "name": "你肩上的恶魔",
+      "name_en": "Devil on Your Shoulder",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/devil-on-your-shoulder"
+      },
+      "site_rank": 194,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "dimension_shift",
+      "name": "位面转移",
+      "name_en": "Dimension Shift",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/dimension-shift"
+      },
+      "site_rank": 181,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "double_tap",
+      "name": "双发快射",
+      "name_en": "Double Tap",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/double-tap"
+      },
+      "site_rank": 196,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "droppybara",
+      "name": "卡皮巴拉空投",
+      "name_en": "Droppybara",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/droppybara"
+      },
+      "site_rank": 198,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "feel_the_burn",
+      "name": "感受燃烧",
+      "name_en": "Feel the Burn",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/feel-the-burn"
+      },
+      "site_rank": 201,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "final_city_transit",
+      "name": "最终都市列车",
+      "name_en": "Final City Transit",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/final-city-transit"
+      },
+      "site_rank": 202,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "frost_wraith",
+      "name": "冰霜 幽灵",
+      "name_en": "Frost Wraith",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/frost-wraith"
+      },
+      "site_rank": 203,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "gash",
+      "name": "砍伤",
+      "name_en": "Gash",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/gash"
+      },
+      "site_rank": 204,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "grandmas_chili_oil",
+      "name": "祖母的辣椒油",
+      "name_en": "Grandma's Chili Oil",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/grandmas-chili-oil"
+      },
+      "site_rank": 205,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "hat_on_a_hat",
+      "name": "帽上加帽",
+      "name_en": "Hat on a Hat",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/hat-on-a-hat"
+      },
+      "site_rank": 207,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "heads_up_cupcake",
+      "name": "当心小蛋糕！",
+      "name_en": "Heads Up Cupcake!",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/heads-up-cupcake"
+      },
+      "site_rank": 208,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "holy_fire",
+      "name": "圣火",
+      "name_en": "Holy Fire",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/holy-fire"
+      },
+      "site_rank": 209,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "im_a_baby_kitty_where_is_mama",
+      "name": "小猫咪找妈妈",
+      "name_en": "I'm a Baby Kitty Where is Mama",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/im-a-baby-kitty-where-is-mama"
+      },
+      "site_rank": 210,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "its_critical",
+      "name": "关键暴击",
+      "name_en": "It's Critical",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/its-critical"
+      },
+      "site_rank": 211,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "keystone_conjurer",
+      "name": "基石法师",
+      "name_en": "Keystone Conjurer",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/keystone-conjurer"
+      },
+      "site_rank": 213,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "laser_heal",
+      "name": "激光治疗",
+      "name_en": "Laser Heal",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/laser-heal"
+      },
+      "site_rank": 214,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "lightning_strikes",
+      "name": "闪电打击",
+      "name_en": "Lightning Strikes",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/lightning-strikes"
+      },
+      "site_rank": 215,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "one_trick_pony",
+      "name": "绝活玩家",
+      "name_en": "One Trick Pony",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/one-trick-pony"
+      },
+      "site_rank": 185,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "orbitallaser",
+      "name": "轨道镭射",
+      "name_en": "OrbitalLaser",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/orbitallaser"
+      },
+      "site_rank": 218,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "perseverance",
+      "name": "坚韧",
+      "name_en": "Perseverance",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/perseverance"
+      },
+      "site_rank": 219,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "poro_blaster",
+      "name": "魄罗爆破手",
+      "name_en": "Poro Blaster",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/poro-blaster"
+      },
+      "site_rank": 220,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "quantum_computing",
+      "name": "量子计算",
+      "name_en": "Quantum Computing",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/quantum-computing"
+      },
+      "site_rank": 222,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "rabble_rousing",
+      "name": "古式佳酿",
+      "name_en": "Rabble Rousing",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/rabble-rousing"
+      },
+      "site_rank": 223,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "red_envelopes",
+      "name": "红包",
+      "name_en": "Red Envelopes",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/red-envelopes"
+      },
+      "site_rank": 224,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "repulsor",
+      "name": "退敌力场",
+      "name_en": "Repulsor",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/repulsor"
+      },
+      "site_rank": 226,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "restless_restoration",
+      "name": "无休回复",
+      "name_en": "Restless Restoration",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/restless-restoration"
+      },
+      "site_rank": 227,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "self_destruct",
+      "name": "自我毁灭",
+      "name_en": "Self Destruct",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/self-destruct"
+      },
+      "site_rank": 228,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "slow_and_steady",
+      "name": "一板一眼",
+      "name_en": "Slow And Steady",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/slow-and-steady"
+      },
+      "site_rank": 229,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "slow_cooker",
+      "name": "慢炖",
+      "name_en": "Slow Cooker",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/slow-cooker"
+      },
+      "site_rank": 230,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "snowball_roulette",
+      "name": "雪球扭蛋机",
+      "name_en": "Snowball Roulette",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/snowball-roulette"
+      },
+      "site_rank": 231,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "snowball_upgrade",
+      "name": "升级：雪球",
+      "name_en": "Snowball Upgrade",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/snowball-upgrade"
+      },
+      "site_rank": 232,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "speed_demon",
+      "name": "速度恶魔",
+      "name_en": "Speed Demon",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/speed-demon"
+      },
+      "site_rank": 235,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "surge_field",
+      "name": "电涌力场",
+      "name_en": "Surge Field",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/surge-field"
+      },
+      "site_rank": 191,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "tank_it_or_leave_it",
+      "name": "会心防御",
+      "name_en": "Tank It Or Leave It",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/tank-it-or-leave-it"
+      },
+      "site_rank": 239,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "the_brutalizer",
+      "name": "残暴之力",
+      "name_en": "The Brutalizer",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/the-brutalizer"
+      },
+      "site_rank": 240,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "tormentor",
+      "name": "折磨者",
+      "name_en": "Tormentor",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/tormentor"
+      },
+      "site_rank": 242,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "trailblazer",
+      "name": "开拓者",
+      "name_en": "Trailblazer",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/trailblazer"
+      },
+      "site_rank": 243,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "trueshotprodigy",
+      "name": "精准奇才",
+      "name_en": "TrueshotProdigy",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/trueshotprodigy"
+      },
+      "site_rank": 244,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "twice_thrice",
+      "name": "接二连三",
+      "name_en": "Twice Thrice",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/twice-thrice"
+      },
+      "site_rank": 245,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "upgrade_cutlass",
+      "name": "升级：弯刀",
+      "name_en": "Upgrade Cutlass",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/upgrade-cutlass"
+      },
+      "site_rank": 246,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "upgrade_hubris",
+      "name": "升级：狂妄",
+      "name_en": "Upgrade Hubris",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/upgrade-hubris"
+      },
+      "site_rank": 247,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "upgrade_thornmail",
+      "name": "升级：荆棘之甲",
+      "name_en": "Upgrade Thornmail",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/upgrade-thornmail"
+      },
+      "site_rank": 249,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "vampirism",
+      "name": "吸血习性",
+      "name_en": "Vampirism",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/vampirism"
+      },
+      "site_rank": 250,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "void_rift",
+      "name": "虚空裂隙",
+      "name_en": "Void Rift",
+      "tier": "prismatic",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/void-rift"
+      },
+      "site_rank": 251,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "vulnerability",
+      "name": "易损",
+      "name_en": "Vulnerability",
+      "tier": "gold",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/vulnerability"
+      },
+      "site_rank": 252,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "weighted_popoffs",
+      "name": "负重爆气",
+      "name_en": "Weighted Popoffs",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/weighted-popoffs"
+      },
+      "site_rank": 253,
+      "notes": " 新增强化，尚无胜率数据"
+    },
+    {
+      "id": "wind_beneath_blade",
+      "name": "刃下生风",
+      "name_en": "Wind Beneath Blade",
+      "tier": "silver",
+      "status": "active",
+      "source": {
+        "type": "arammayhem_com",
+        "url": "https://arammayhem.com/zh-cn/augments/wind-beneath-blade"
+      },
+      "site_rank": 254,
+      "notes": " 新增强化，尚无胜率数据"
+    }
+  ],
+  "to_remove": [
+    {
+      "id": "bolstered",
+      "name": "加固护盾",
+      "name_en": "Bolstered",
+      "tier": "silver",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "can_t_touch_this",
+      "name": "碰不到我",
+      "name_en": "Can't Touch This",
+      "tier": "prismatic",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "earthwake",
+      "name": "大地苏醒",
+      "name_en": "Earthwake",
+      "tier": "prismatic",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "flash_forward",
+      "name": "闪现向前",
+      "name_en": "Flash Forward",
+      "tier": "gold",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "icathian_fall",
+      "name": "艾卡西亚的陷落",
+      "name_en": "Icathian Fall",
+      "tier": "prismatic",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "transmute_gold",
+      "name": "质变：黄金阶",
+      "name_en": "Transmute Gold",
+      "tier": "silver",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    },
+    {
+      "id": "veil_of_protection",
+      "name": "防护面纱",
+      "name_en": "Veil Of Protection",
+      "tier": "silver",
+      "reason": "不在 arammayhem.com 当前列表中（可能已在 16.12 移除）"
+    }
+  ],
+  "to_update": [
+    {
+      "id": "transmute_prismatic",
+      "name": "质变：棱彩阶",
+      "updates": {
+        "win_rate": 69.86,
+        "pick_rate": 67.38,
+        "tier": "prismatic",
+        "tier_old": "gold",
+        "site_rank": 1
+      }
+    },
+    {
+      "id": "pursuit_of_haste",
+      "name": "急速之追求",
+      "updates": {
+        "win_rate": 70.14,
+        "pick_rate": 64.41,
+        "site_rank": 2
+      }
+    },
+    {
+      "id": "high_roller",
+      "name": "掷骰狂人",
+      "updates": {
+        "win_rate": 51.72,
+        "pick_rate": 63.62,
+        "site_rank": 3
+      }
+    },
+    {
+      "id": "tank_engine",
+      "name": "坦克引擎",
+      "updates": {
+        "win_rate": 48.31,
+        "pick_rate": 61.91,
+        "site_rank": 4
+      }
+    },
+    {
+      "id": "pursuit_of_power",
+      "name": "威能之追求",
+      "updates": {
+        "win_rate": 67.29,
+        "pick_rate": 61.45,
+        "tier": "silver",
+        "tier_old": "gold",
+        "site_rank": 5
+      }
+    },
+    {
+      "id": "draw_your_sword",
+      "name": "亮出你的剑",
+      "updates": {
+        "win_rate": 13.25,
+        "pick_rate": 60.68,
+        "site_rank": 7
+      }
+    },
+    {
+      "id": "infinite_recursion",
+      "name": "无限循环往复",
+      "updates": {
+        "win_rate": 28.54,
+        "pick_rate": 59.93,
+        "site_rank": 8
+      }
+    },
+    {
+      "id": "stackasaurus",
+      "name": "叠角龙",
+      "updates": {
+        "win_rate": 18.35,
+        "pick_rate": 59.88,
+        "site_rank": 9
+      }
+    },
+    {
+      "id": "shrink_engine",
+      "name": "缩小引擎",
+      "updates": {
+        "win_rate": 46.42,
+        "pick_rate": 59.77,
+        "site_rank": 10
+      }
+    },
+    {
+      "id": "quest_steel_your_heart",
+      "name": "任务：钢化你心",
+      "updates": {
+        "win_rate": 30.43,
+        "pick_rate": 59.77,
+        "site_rank": 11
+      }
+    },
+    {
+      "id": "upgrade_infinity_edge",
+      "name": "升级：无尽之刃",
+      "updates": {
+        "win_rate": 41.56,
+        "pick_rate": 59.75,
+        "site_rank": 12
+      }
+    },
+    {
+      "id": "pressure_cooker",
+      "name": "高压锅",
+      "updates": {
+        "win_rate": 21.95,
+        "pick_rate": 58.94,
+        "site_rank": 14
+      }
+    },
+    {
+      "id": "warlock_juicebox",
+      "name": "术士果汁盒",
+      "updates": {
+        "win_rate": 46.84,
+        "pick_rate": 58.77,
+        "site_rank": 15
+      }
+    },
+    {
+      "id": "phenomenal_evil",
+      "name": "超凡邪恶",
+      "updates": {
+        "win_rate": 33.78,
+        "pick_rate": 58.52,
+        "site_rank": 16
+      }
+    },
+    {
+      "id": "heavy_hitter",
+      "name": "重量级打击手",
+      "updates": {
+        "win_rate": 36.24,
+        "pick_rate": 58.03,
+        "site_rank": 17
+      }
+    },
+    {
+      "id": "goredrink",
+      "name": "渴血",
+      "updates": {
+        "win_rate": 48.49,
+        "pick_rate": 57.87,
+        "site_rank": 18
+      }
+    },
+    {
+      "id": "eureka",
+      "name": "尤里卡",
+      "updates": {
+        "win_rate": 38.91,
+        "pick_rate": 57.83,
+        "site_rank": 19
+      }
+    },
+    {
+      "id": "dropkick",
+      "name": "飞身踢",
+      "updates": {
+        "win_rate": 45.32,
+        "pick_rate": 57.75,
+        "site_rank": 20
+      }
+    },
+    {
+      "id": "donation",
+      "name": "捐赠",
+      "updates": {
+        "win_rate": 33.57,
+        "pick_rate": 57.6,
+        "site_rank": 21
+      }
+    },
+    {
+      "id": "master_crafted",
+      "name": "大师铸就",
+      "updates": {
+        "win_rate": 38.74,
+        "pick_rate": 57.46,
+        "site_rank": 22
+      }
+    },
+    {
+      "id": "combusting_interest",
+      "name": "燃烧利息",
+      "updates": {
+        "win_rate": 23.35,
+        "pick_rate": 57.38,
+        "site_rank": 23
+      }
+    },
+    {
+      "id": "infernal_conduit",
+      "name": "炼狱导管",
+      "updates": {
+        "win_rate": 27.42,
+        "pick_rate": 57.36,
+        "site_rank": 24
+      }
+    },
+    {
+      "id": "escape_plan",
+      "name": "逃跑计划",
+      "updates": {
+        "win_rate": 30.12,
+        "pick_rate": 57.13,
+        "site_rank": 25
+      }
+    },
+    {
+      "id": "wee_oo_wee_oo",
+      "name": "喂呜喂呜",
+      "updates": {
+        "win_rate": 3.21,
+        "pick_rate": 57.12,
+        "site_rank": 26
+      }
+    },
+    {
+      "id": "blunt_force",
+      "name": "大力",
+      "updates": {
+        "win_rate": 37.83,
+        "pick_rate": 56.92,
+        "site_rank": 27
+      }
+    },
+    {
+      "id": "soul_siphon",
+      "name": "虹吸",
+      "updates": {
+        "win_rate": 38.19,
+        "pick_rate": 56.83,
+        "tier": "silver",
+        "tier_old": "gold",
+        "site_rank": 28
+      }
+    },
+    {
+      "id": "giant_slayer",
+      "name": "巨人杀手",
+      "updates": {
+        "win_rate": 34.43,
+        "pick_rate": 56.81,
+        "site_rank": 29
+      }
+    },
+    {
+      "id": "stats_on_stats",
+      "name": "属性叠属性！",
+      "updates": {
+        "win_rate": 31.0,
+        "pick_rate": 56.75,
+        "site_rank": 30
+      }
+    },
+    {
+      "id": "recursion",
+      "name": "循环往复",
+      "updates": {
+        "win_rate": 37.18,
+        "pick_rate": 56.69,
+        "site_rank": 31
+      }
+    },
+    {
+      "id": "greedy_grasp",
+      "name": "贪欲束缚",
+      "updates": {
+        "win_rate": 44.95,
+        "pick_rate": 56.63,
+        "site_rank": 32
+      }
+    },
+    {
+      "id": "ethereal_weapon",
+      "name": "虚幻武器",
+      "updates": {
+        "win_rate": 41.81,
+        "pick_rate": 56.6,
+        "site_rank": 33
+      }
+    },
+    {
+      "id": "goliath",
+      "name": "歌利亚巨人",
+      "updates": {
+        "win_rate": 29.86,
+        "pick_rate": 56.56,
+        "site_rank": 34
+      }
+    },
+    {
+      "id": "windspeakers_blessing",
+      "name": "风语者的祝福",
+      "updates": {
+        "win_rate": 2.12,
+        "pick_rate": 56.26,
+        "site_rank": 35
+      }
+    },
+    {
+      "id": "magic_missile",
+      "name": "魔法飞弹",
+      "updates": {
+        "win_rate": 38.29,
+        "pick_rate": 56.22,
+        "site_rank": 36
+      }
+    },
+    {
+      "id": "scopier_weapons",
+      "name": "更万用的瞄准镜",
+      "updates": {
+        "win_rate": 36.62,
+        "pick_rate": 56.1,
+        "site_rank": 37
+      }
+    },
+    {
+      "id": "reliable_weapon",
+      "name": "可靠武器",
+      "updates": {
+        "win_rate": 33.44,
+        "pick_rate": 56.03,
+        "site_rank": 38
+      }
+    },
+    {
+      "id": "back_to_basics",
+      "name": "回归基本功",
+      "updates": {
+        "win_rate": 18.25,
+        "pick_rate": 55.99,
+        "site_rank": 39
+      }
+    },
+    {
+      "id": "dual_wield",
+      "name": "双刀流",
+      "updates": {
+        "win_rate": 25.65,
+        "pick_rate": 55.83,
+        "site_rank": 40
+      }
+    },
+    {
+      "id": "lil_extra_help",
+      "name": "小小的额外帮助",
+      "updates": {
+        "win_rate": 36.97,
+        "pick_rate": 55.8,
+        "site_rank": 41
+      }
+    },
+    {
+      "id": "mad_scientist",
+      "name": "科学狂人",
+      "updates": {
+        "win_rate": 14.86,
+        "pick_rate": 55.64,
+        "site_rank": 42
+      }
+    },
+    {
+      "id": "from_beginning_to_end",
+      "name": "有始有终",
+      "updates": {
+        "win_rate": 14.17,
+        "pick_rate": 55.37,
+        "site_rank": 43
+      }
+    },
+    {
+      "id": "transmute_chaos",
+      "name": "质变：混沌",
+      "updates": {
+        "win_rate": 37.6,
+        "pick_rate": 55.27,
+        "site_rank": 44
+      }
+    },
+    {
+      "id": "mystic_punch",
+      "name": "秘术冲拳",
+      "updates": {
+        "win_rate": 24.54,
+        "pick_rate": 55.1,
+        "site_rank": 45
+      }
+    },
+    {
+      "id": "ocean_soul",
+      "name": "海洋龙魂",
+      "updates": {
+        "win_rate": 27.53,
+        "pick_rate": 55.08,
+        "site_rank": 46
+      }
+    },
+    {
+      "id": "celestial_body",
+      "name": "星界躯体",
+      "updates": {
+        "win_rate": 27.37,
+        "pick_rate": 55.02,
+        "site_rank": 47
+      }
+    },
+    {
+      "id": "deft",
+      "name": "灵巧",
+      "updates": {
+        "win_rate": 36.01,
+        "pick_rate": 54.87,
+        "site_rank": 48
+      }
+    },
+    {
+      "id": "upgrade_immolate",
+      "name": "升级：献祭",
+      "updates": {
+        "win_rate": 16.84,
+        "pick_rate": 54.75,
+        "site_rank": 49
+      }
+    },
+    {
+      "id": "quest_wooglets_witchcap",
+      "name": "任务：沃格勒特的巫师帽",
+      "updates": {
+        "win_rate": 15.3,
+        "pick_rate": 54.72,
+        "site_rank": 50
+      }
+    },
+    {
+      "id": "shadow_runner",
+      "name": "暗影疾奔",
+      "updates": {
+        "win_rate": 22.1,
+        "pick_rate": 54.69,
+        "site_rank": 51
+      }
+    },
+    {
+      "id": "void_dash",
+      "name": "虚空冲刺",
+      "updates": {
+        "win_rate": 40.81,
+        "pick_rate": 54.57,
+        "site_rank": 52
+      }
+    },
+    {
+      "id": "homeguard",
+      "name": "家园卫士",
+      "updates": {
+        "win_rate": 17.56,
+        "pick_rate": 54.31,
+        "site_rank": 53
+      }
+    },
+    {
+      "id": "slap_around",
+      "name": "扇巴掌",
+      "updates": {
+        "win_rate": 31.36,
+        "pick_rate": 54.25,
+        "site_rank": 54
+      }
+    },
+    {
+      "id": "biggest_snowball_ever",
+      "name": "史上最大雪球",
+      "updates": {
+        "win_rate": 22.7,
+        "pick_rate": 54.22,
+        "site_rank": 55
+      }
+    },
+    {
+      "id": "adapt",
+      "name": "适应",
+      "updates": {
+        "win_rate": 29.55,
+        "pick_rate": 54.2,
+        "site_rank": 56
+      }
+    },
+    {
+      "id": "hand_of_baron",
+      "name": "男爵之手",
+      "updates": {
+        "win_rate": 3.39,
+        "pick_rate": 54.18,
+        "site_rank": 57
+      }
+    },
+    {
+      "id": "leg_day",
+      "name": "练腿日",
+      "updates": {
+        "win_rate": 24.43,
+        "pick_rate": 54.17,
+        "site_rank": 58
+      }
+    },
+    {
+      "id": "mind_to_matter",
+      "name": "由心及物",
+      "updates": {
+        "win_rate": 23.0,
+        "pick_rate": 54.12,
+        "site_rank": 59
+      }
+    },
+    {
+      "id": "bread_and_butter",
+      "name": "面包和黄油",
+      "updates": {
+        "win_rate": 31.63,
+        "pick_rate": 54.06,
+        "site_rank": 60
+      }
+    },
+    {
+      "id": "stay_firm",
+      "name": "保持坚定",
+      "updates": {
+        "win_rate": 8.98,
+        "pick_rate": 54.06,
+        "site_rank": 61
+      }
+    },
+    {
+      "id": "escapade",
+      "name": "魔法转物理",
+      "updates": {
+        "win_rate": 20.4,
+        "pick_rate": 54.05,
+        "site_rank": 62
+      }
+    },
+    {
+      "id": "bang",
+      "name": "邦！",
+      "updates": {
+        "win_rate": 13.8,
+        "pick_rate": 53.95,
+        "site_rank": 63
+      }
+    },
+    {
+      "id": "witchful_thinking",
+      "name": "巫师式思考",
+      "updates": {
+        "win_rate": 31.06,
+        "pick_rate": 53.85,
+        "site_rank": 64
+      }
+    },
+    {
+      "id": "spin_to_win",
+      "name": "旋转至胜",
+      "updates": {
+        "win_rate": 16.85,
+        "pick_rate": 53.78,
+        "site_rank": 65
+      }
+    },
+    {
+      "id": "upgrade_collector",
+      "name": "升级：收集者",
+      "updates": {
+        "win_rate": 35.74,
+        "pick_rate": 53.77,
+        "site_rank": 66
+      }
+    },
+    {
+      "id": "final_form",
+      "name": "最终形态",
+      "updates": {
+        "win_rate": 19.3,
+        "pick_rate": 53.52,
+        "site_rank": 67
+      }
+    },
+    {
+      "id": "swift_and_safe",
+      "name": "快中求稳",
+      "updates": {
+        "win_rate": 13.05,
+        "pick_rate": 53.47,
+        "site_rank": 68
+      }
+    },
+    {
+      "id": "sonata",
+      "name": "咏叹奏鸣",
+      "updates": {
+        "win_rate": 11.44,
+        "pick_rate": 53.41,
+        "site_rank": 69
+      }
+    },
+    {
+      "id": "twin_fire",
+      "name": "双生火焰",
+      "updates": {
+        "win_rate": 31.56,
+        "pick_rate": 53.37,
+        "site_rank": 70
+      }
+    },
+    {
+      "id": "outlaws_grit",
+      "name": "狂徒豪气",
+      "updates": {
+        "win_rate": 11.61,
+        "pick_rate": 53.35,
+        "site_rank": 71
+      }
+    },
+    {
+      "id": "bread_and_cheese",
+      "name": "面包和奶酪",
+      "updates": {
+        "win_rate": 28.22,
+        "pick_rate": 53.29,
+        "site_rank": 72
+      }
+    },
+    {
+      "id": "pandoras_box",
+      "name": "潘朵拉的盒子",
+      "updates": {
+        "win_rate": 28.02,
+        "pick_rate": 53.28,
+        "site_rank": 73
+      }
+    },
+    {
+      "id": "ice_cold",
+      "name": "冰寒",
+      "updates": {
+        "win_rate": 25.22,
+        "pick_rate": 53.21,
+        "site_rank": 74
+      }
+    },
+    {
+      "id": "king_me",
+      "name": "尊我为王",
+      "updates": {
+        "win_rate": 8.73,
+        "pick_rate": 53.08,
+        "site_rank": 75
+      }
+    },
+    {
+      "id": "eat_the_path",
+      "name": "吃过路兵",
+      "updates": {
+        "win_rate": 24.23,
+        "pick_rate": 53.04,
+        "site_rank": 76
+      }
+    },
+    {
+      "id": "erosion",
+      "name": "侵蚀",
+      "updates": {
+        "win_rate": 14.74,
+        "pick_rate": 53.03,
+        "site_rank": 77
+      }
+    },
+    {
+      "id": "quest_urfs_champion",
+      "name": "任务：海牛阿福的勇士",
+      "updates": {
+        "win_rate": 12.31,
+        "pick_rate": 52.98,
+        "site_rank": 78
+      }
+    },
+    {
+      "id": "omni_soul",
+      "name": "全能龙魂",
+      "updates": {
+        "win_rate": 10.08,
+        "pick_rate": 52.93,
+        "site_rank": 79
+      }
+    },
+    {
+      "id": "marksmage",
+      "name": "神射法师",
+      "updates": {
+        "win_rate": 16.69,
+        "pick_rate": 52.78,
+        "site_rank": 80
+      }
+    },
+    {
+      "id": "get_excited",
+      "name": "罪恶快感",
+      "updates": {
+        "win_rate": 22.25,
+        "pick_rate": 52.77,
+        "site_rank": 81
+      }
+    },
+    {
+      "id": "stats_on_stats_on_stats",
+      "name": "属性叠属性叠属性！",
+      "updates": {
+        "win_rate": 13.38,
+        "pick_rate": 52.76,
+        "site_rank": 82
+      }
+    },
+    {
+      "id": "ouch_my_coins",
+      "name": "哎哟，我的硬币！",
+      "updates": {
+        "win_rate": 29.5,
+        "pick_rate": 52.75,
+        "site_rank": 83
+      }
+    },
+    {
+      "id": "don_t_blink",
+      "name": "唯快不破",
+      "updates": {
+        "win_rate": 9.81,
+        "pick_rate": 52.75,
+        "site_rank": 84
+      }
+    },
+    {
+      "id": "with_haste",
+      "name": "急急小子",
+      "updates": {
+        "win_rate": 15.72,
+        "pick_rate": 52.72,
+        "site_rank": 85
+      }
+    },
+    {
+      "id": "big_brain",
+      "name": "超强大脑",
+      "updates": {
+        "win_rate": 9.6,
+        "pick_rate": 52.66,
+        "site_rank": 86
+      }
+    },
+    {
+      "id": "skilled_sniper",
+      "name": "老练狙神",
+      "updates": {
+        "win_rate": 26.09,
+        "pick_rate": 52.55,
+        "site_rank": 87
+      }
+    },
+    {
+      "id": "soul_eater",
+      "name": "吞噬灵魂",
+      "updates": {
+        "win_rate": 22.08,
+        "pick_rate": 52.55,
+        "site_rank": 88
+      }
+    },
+    {
+      "id": "from_downtown",
+      "name": "狙神飞星",
+      "updates": {
+        "win_rate": 27.25,
+        "pick_rate": 52.53,
+        "site_rank": 89
+      }
+    },
+    {
+      "id": "burst_of_vitality",
+      "name": "生机迸发",
+      "updates": {
+        "win_rate": 18.38,
+        "pick_rate": 52.53,
+        "site_rank": 90
+      }
+    },
+    {
+      "id": "upgrade_sheen",
+      "name": "升级：耀光",
+      "updates": {
+        "win_rate": 9.5,
+        "pick_rate": 52.52,
+        "site_rank": 91
+      }
+    },
+    {
+      "id": "dawnbringers_resolve",
+      "name": "黎明使者的坚决",
+      "updates": {
+        "win_rate": 14.51,
+        "pick_rate": 52.49,
+        "site_rank": 92
+      }
+    },
+    {
+      "id": "overload",
+      "name": "超负荷",
+      "updates": {
+        "win_rate": 30.77,
+        "pick_rate": 52.35,
+        "site_rank": 93
+      }
+    },
+    {
+      "id": "stats",
+      "name": "属性！",
+      "updates": {
+        "win_rate": 18.84,
+        "pick_rate": 52.27,
+        "site_rank": 94
+      }
+    },
+    {
+      "id": "upgrade_zhonyas",
+      "name": "升级：中娅",
+      "updates": {
+        "win_rate": 17.56,
+        "pick_rate": 52.24,
+        "site_rank": 95
+      }
+    },
+    {
+      "id": "bread_and_jam",
+      "name": "面包和果酱",
+      "updates": {
+        "win_rate": 25.66,
+        "pick_rate": 52.23,
+        "site_rank": 96
+      }
+    },
+    {
+      "id": "adaptive_defense",
+      "name": "自适应防护",
+      "updates": {
+        "win_rate": 28.19,
+        "pick_rate": 52.22,
+        "site_rank": 97
+      }
+    },
+    {
+      "id": "goldrend",
+      "name": "夺金",
+      "updates": {
+        "win_rate": 6.1,
+        "pick_rate": 52.19,
+        "site_rank": 98
+      }
+    },
+    {
+      "id": "firefox",
+      "name": "火狐",
+      "updates": {
+        "win_rate": 10.8,
+        "pick_rate": 52.12,
+        "site_rank": 99
+      }
+    },
+    {
+      "id": "tap_dancer",
+      "name": "踢踏舞",
+      "updates": {
+        "win_rate": 15.53,
+        "pick_rate": 51.99,
+        "site_rank": 100
+      }
+    },
+    {
+      "id": "overextender",
+      "name": "过量延伸者",
+      "updates": {
+        "win_rate": 6.79,
+        "pick_rate": 51.76,
+        "site_rank": 101
+      }
+    },
+    {
+      "id": "purist_caster",
+      "name": "纯粹主义者 - 术师",
+      "updates": {
+        "win_rate": 27.51,
+        "pick_rate": 51.75,
+        "site_rank": 102
+      }
+    },
+    {
+      "id": "overflow",
+      "name": "溢流",
+      "updates": {
+        "win_rate": 15.26,
+        "pick_rate": 51.75,
+        "site_rank": 103
+      }
+    },
+    {
+      "id": "terrain_expert",
+      "name": "地形专家",
+      "updates": {
+        "win_rate": 6.03,
+        "pick_rate": 51.72,
+        "site_rank": 104
+      }
+    },
+    {
+      "id": "apex_inventor",
+      "name": "尖端发明家",
+      "updates": {
+        "win_rate": 15.08,
+        "pick_rate": 51.63,
+        "site_rank": 105
+      }
+    },
+    {
+      "id": "shark_bait",
+      "name": "鲨鱼诱饵",
+      "updates": {
+        "win_rate": 8.16,
+        "pick_rate": 51.6,
+        "site_rank": 106
+      }
+    },
+    {
+      "id": "pat_on_the_back",
+      "name": "轻拍背部",
+      "updates": {
+        "win_rate": 10.97,
+        "pick_rate": 51.54,
+        "site_rank": 107
+      }
+    },
+    {
+      "id": "time_to_advance",
+      "name": "前进时间到",
+      "updates": {
+        "win_rate": 15.44,
+        "pick_rate": 51.53,
+        "site_rank": 108
+      }
+    },
+    {
+      "id": "scoped_weapons",
+      "name": "万用瞄准镜",
+      "updates": {
+        "win_rate": 25.61,
+        "pick_rate": 51.52,
+        "site_rank": 109
+      }
+    },
+    {
+      "id": "fan_the_hammer",
+      "name": "连拨击锤",
+      "updates": {
+        "win_rate": 16.81,
+        "pick_rate": 51.49,
+        "site_rank": 110
+      }
+    },
+    {
+      "id": "scopiest_weapons",
+      "name": "最万用的瞄准镜",
+      "updates": {
+        "win_rate": 18.76,
+        "pick_rate": 51.43,
+        "site_rank": 111
+      }
+    },
+    {
+      "id": "infernal_soul",
+      "name": "炼狱龙魂",
+      "updates": {
+        "win_rate": 21.25,
+        "pick_rate": 51.37,
+        "site_rank": 112
+      }
+    },
+    {
+      "id": "light_em_up",
+      "name": "点亮他们！",
+      "updates": {
+        "win_rate": 13.67,
+        "pick_rate": 51.36,
+        "site_rank": 113
+      }
+    },
+    {
+      "id": "hextech_soul",
+      "name": "海克斯科技龙魂",
+      "updates": {
+        "win_rate": 17.2,
+        "pick_rate": 51.23,
+        "site_rank": 114
+      }
+    },
+    {
+      "id": "dive_bomber",
+      "name": "俯冲轰炸",
+      "updates": {
+        "win_rate": 26.51,
+        "pick_rate": 51.17,
+        "site_rank": 115
+      }
+    },
+    {
+      "id": "thread_the_needle",
+      "name": "穿针引线",
+      "updates": {
+        "win_rate": 23.7,
+        "pick_rate": 51.15,
+        "site_rank": 116
+      }
+    },
+    {
+      "id": "cruelty",
+      "name": "残忍",
+      "updates": {
+        "win_rate": 10.32,
+        "pick_rate": 51.03,
+        "site_rank": 117
+      }
+    },
+    {
+      "id": "don_t_stop_channeling",
+      "name": "别停止引导",
+      "updates": {
+        "win_rate": 9.74,
+        "pick_rate": 50.98,
+        "site_rank": 118
+      }
+    },
+    {
+      "id": "typhoon",
+      "name": "台风",
+      "updates": {
+        "win_rate": 19.33,
+        "pick_rate": 50.96,
+        "site_rank": 119
+      }
+    },
+    {
+      "id": "minionmancer",
+      "name": "仆从大师",
+      "updates": {
+        "win_rate": 4.1,
+        "pick_rate": 50.93,
+        "site_rank": 120
+      }
+    },
+    {
+      "id": "ultimate_awakening",
+      "name": "终极唤醒",
+      "updates": {
+        "win_rate": 15.84,
+        "pick_rate": 50.78,
+        "site_rank": 121
+      }
+    },
+    {
+      "id": "courage_of_the_colossus",
+      "name": "巨像的勇气",
+      "updates": {
+        "win_rate": 10.4,
+        "pick_rate": 50.72,
+        "site_rank": 122
+      }
+    },
+    {
+      "id": "master_of_duality",
+      "name": "物法皆修",
+      "updates": {
+        "win_rate": 7.02,
+        "pick_rate": 50.69,
+        "site_rank": 123
+      }
+    },
+    {
+      "id": "sonic_boom",
+      "name": "天音爆",
+      "updates": {
+        "win_rate": 4.59,
+        "pick_rate": 50.55,
+        "site_rank": 124
+      }
+    },
+    {
+      "id": "dashing",
+      "name": "全凭身法",
+      "updates": {
+        "win_rate": 17.63,
+        "pick_rate": 50.53,
+        "site_rank": 125
+      }
+    },
+    {
+      "id": "first_aid_kit",
+      "name": "急救用具",
+      "updates": {
+        "win_rate": 5.94,
+        "pick_rate": 50.44,
+        "site_rank": 126
+      }
+    },
+    {
+      "id": "merciful_strike",
+      "name": "仁慈打击",
+      "updates": {
+        "win_rate": 13.7,
+        "pick_rate": 50.41,
+        "site_rank": 127
+      }
+    },
+    {
+      "id": "ominous_pact",
+      "name": "不祥契约",
+      "updates": {
+        "win_rate": 7.92,
+        "pick_rate": 50.22,
+        "site_rank": 128
+      }
+    },
+    {
+      "id": "symphony_of_war",
+      "name": "战争交响乐",
+      "updates": {
+        "win_rate": 9.57,
+        "pick_rate": 50.2,
+        "site_rank": 129
+      }
+    },
+    {
+      "id": "firebrand",
+      "name": "火上浇油",
+      "updates": {
+        "win_rate": 11.94,
+        "pick_rate": 50.08,
+        "site_rank": 130
+      }
+    },
+    {
+      "id": "kill_secured",
+      "name": "杀意翻涌",
+      "updates": {
+        "win_rate": 11.01,
+        "pick_rate": 50.02,
+        "site_rank": 131
+      }
+    },
+    {
+      "id": "its_killing_time",
+      "name": "杀戮时间到了",
+      "updates": {
+        "win_rate": 19.39,
+        "pick_rate": 50.0,
+        "site_rank": 132
+      }
+    },
+    {
+      "id": "bush_hide",
+      "name": "藏身草丛",
+      "updates": {
+        "win_rate": 20.01,
+        "pick_rate": 49.67,
+        "site_rank": 134
+      }
+    },
+    {
+      "id": "support_main",
+      "name": "主玩辅助",
+      "updates": {
+        "win_rate": 3.43,
+        "pick_rate": 49.61,
+        "site_rank": 135
+      }
+    },
+    {
+      "id": "snow_day",
+      "name": "下雪天",
+      "updates": {
+        "win_rate": 26.02,
+        "pick_rate": 49.59,
+        "site_rank": 136
+      }
+    },
+    {
+      "id": "fey_magic",
+      "name": "精怪魔法",
+      "updates": {
+        "win_rate": 13.73,
+        "pick_rate": 49.56,
+        "site_rank": 137
+      }
+    },
+    {
+      "id": "ok_boomerang",
+      "name": "回力OK镖",
+      "updates": {
+        "win_rate": 6.09,
+        "pick_rate": 49.49,
+        "site_rank": 138
+      }
+    },
+    {
+      "id": "spiritual_purification",
+      "name": "心灵净化",
+      "updates": {
+        "win_rate": 12.69,
+        "pick_rate": 49.41,
+        "site_rank": 139
+      }
+    },
+    {
+      "id": "empowered_by_the_faithful",
+      "name": "信念者的强化",
+      "updates": {
+        "win_rate": 3.91,
+        "pick_rate": 49.4,
+        "site_rank": 140
+      }
+    },
+    {
+      "id": "nightstalking",
+      "name": "夜狩",
+      "updates": {
+        "win_rate": 17.11,
+        "pick_rate": 49.38,
+        "site_rank": 141
+      }
+    },
+    {
+      "id": "circle_of_death",
+      "name": "死亡之环",
+      "updates": {
+        "win_rate": 1.33,
+        "pick_rate": 49.24,
+        "site_rank": 142
+      }
+    },
+    {
+      "id": "mountain_soul",
+      "name": "山脉龙魂",
+      "updates": {
+        "win_rate": 6.04,
+        "pick_rate": 49.2,
+        "site_rank": 143
+      }
+    },
+    {
+      "id": "all_for_you",
+      "name": "全心为你",
+      "updates": {
+        "win_rate": 3.52,
+        "pick_rate": 49.2,
+        "site_rank": 144
+      }
+    },
+    {
+      "id": "our_healing",
+      "name": "我们的治疗",
+      "updates": {
+        "win_rate": 12.52,
+        "pick_rate": 49.04,
+        "site_rank": 146
+      }
+    },
+    {
+      "id": "ultimate_revolution",
+      "name": "终极刷新",
+      "updates": {
+        "win_rate": 15.67,
+        "pick_rate": 49.02,
+        "site_rank": 147
+      }
+    },
+    {
+      "id": "protein_shake",
+      "name": "蛋白粉奶昔",
+      "updates": {
+        "win_rate": 2.17,
+        "pick_rate": 49.02,
+        "site_rank": 148
+      }
+    },
+    {
+      "id": "ultimate_unstoppable",
+      "name": "终极不可阻挡",
+      "updates": {
+        "win_rate": 18.35,
+        "pick_rate": 48.99,
+        "site_rank": 149
+      }
+    },
+    {
+      "id": "stuck_in_here_with_me",
+      "name": "和我一起困在这里",
+      "updates": {
+        "win_rate": 6.49,
+        "pick_rate": 48.96,
+        "site_rank": 150
+      }
+    },
+    {
+      "id": "searing_dawn",
+      "name": "炽烈黎明",
+      "updates": {
+        "win_rate": 7.49,
+        "pick_rate": 48.93,
+        "site_rank": 151
+      }
+    },
+    {
+      "id": "blade_waltz",
+      "name": "利刃华尔兹",
+      "updates": {
+        "win_rate": 9.04,
+        "pick_rate": 48.87,
+        "site_rank": 152
+      }
+    },
+    {
+      "id": "hellbent",
+      "name": "濒死悟道",
+      "updates": {
+        "win_rate": 2.44,
+        "pick_rate": 48.85,
+        "site_rank": 153
+      }
+    },
+    {
+      "id": "triggered_inferno",
+      "name": "扳机炼狱",
+      "updates": {
+        "win_rate": 8.44,
+        "pick_rate": 48.78,
+        "site_rank": 155
+      }
+    },
+    {
+      "id": "porcupine",
+      "name": "豪猪",
+      "updates": {
+        "win_rate": 16.9,
+        "pick_rate": 48.75,
+        "site_rank": 156
+      }
+    },
+    {
+      "id": "triple_shot",
+      "name": "三重射击",
+      "updates": {
+        "win_rate": 12.09,
+        "pick_rate": 48.71,
+        "site_rank": 157
+      }
+    },
+    {
+      "id": "poltergeist",
+      "name": "吵闹鬼",
+      "updates": {
+        "win_rate": 7.08,
+        "pick_rate": 48.66,
+        "site_rank": 158
+      }
+    },
+    {
+      "id": "empyrean_promise",
+      "name": "至高天诺言",
+      "updates": {
+        "win_rate": 3.56,
+        "pick_rate": 48.61,
+        "site_rank": 159
+      }
+    },
+    {
+      "id": "pinball",
+      "name": "弹球",
+      "updates": {
+        "win_rate": 11.8,
+        "pick_rate": 48.51,
+        "site_rank": 160
+      }
+    },
+    {
+      "id": "divine_intervention",
+      "name": "神圣干预",
+      "updates": {
+        "win_rate": 11.88,
+        "pick_rate": 48.5,
+        "site_rank": 161
+      }
+    },
+    {
+      "id": "terror",
+      "name": "惊惧",
+      "updates": {
+        "win_rate": 8.35,
+        "pick_rate": 48.44,
+        "tier": "prismatic",
+        "tier_old": "gold",
+        "site_rank": 162
+      }
+    },
+    {
+      "id": "impassable",
+      "name": "不动如山",
+      "updates": {
+        "win_rate": 6.56,
+        "pick_rate": 48.44,
+        "site_rank": 163
+      }
+    },
+    {
+      "id": "juiced",
+      "name": "注魔",
+      "updates": {
+        "win_rate": 10.49,
+        "pick_rate": 48.22,
+        "site_rank": 164
+      }
+    },
+    {
+      "id": "rite_of_ascension",
+      "name": "飞升仪式",
+      "updates": {
+        "win_rate": 15.2,
+        "pick_rate": 47.92,
+        "site_rank": 166
+      }
+    },
+    {
+      "id": "shrink_ray",
+      "name": "缩小射线",
+      "updates": {
+        "win_rate": 11.36,
+        "pick_rate": 47.83,
+        "site_rank": 167
+      }
+    },
+    {
+      "id": "prom_queen",
+      "name": "舞会女王",
+      "updates": {
+        "win_rate": 2.29,
+        "pick_rate": 47.68,
+        "site_rank": 168
+      }
+    },
+    {
+      "id": "titan_resolve",
+      "name": "泰坦的坚决",
+      "updates": {
+        "win_rate": 18.25,
+        "pick_rate": 47.45,
+        "site_rank": 169
+      }
+    },
+    {
+      "id": "spell_splitting",
+      "name": "咒语裂变",
+      "updates": {
+        "win_rate": 14.39,
+        "pick_rate": 47.4,
+        "site_rank": 170
+      }
+    },
+    {
+      "id": "mighty_shield",
+      "name": "强力护盾",
+      "updates": {
+        "win_rate": 2.34,
+        "pick_rate": 46.74,
+        "site_rank": 171
+      }
+    },
+    {
+      "id": "echoing_release",
+      "name": "回响施放",
+      "updates": {
+        "win_rate": 15.14,
+        "pick_rate": 46.67,
+        "site_rank": 172
+      }
+    },
+    {
+      "id": "holy_snowball",
+      "name": "神圣雪球",
+      "updates": {
+        "win_rate": 6.15,
+        "pick_rate": 46.32,
+        "site_rank": 173
+      }
+    },
+    {
+      "id": "chain_reaction",
+      "name": "连锁反应",
+      "updates": {
+        "win_rate": 11.43,
+        "pick_rate": 46.24,
+        "site_rank": 174
+      }
+    },
+    {
+      "id": "multishot",
+      "name": "多重射击",
+      "updates": {
+        "win_rate": 20.15,
+        "pick_rate": 45.92,
+        "site_rank": 175
+      }
+    },
+    {
+      "id": "shark_storm",
+      "name": "鲨鱼暴风",
+      "updates": {
+        "win_rate": 0.14,
+        "pick_rate": 45.74,
+        "site_rank": 176
+      }
+    },
+    {
+      "id": "pincushion",
+      "name": "针插垫",
+      "updates": {
+        "win_rate": 12.39,
+        "pick_rate": 45.46,
+        "site_rank": 177
+      }
+    },
+    {
+      "id": "spin_me_right_round",
+      "name": "转得我眩晕了",
+      "updates": {
+        "win_rate": 4.62,
+        "pick_rate": 45.46,
+        "site_rank": 178
+      }
+    },
+    {
+      "id": "glass_cannon",
+      "name": "玻璃大炮",
+      "updates": {
+        "win_rate": 5.37,
+        "pick_rate": 45.42,
+        "site_rank": 179
+      }
+    },
+    {
+      "id": "quickstep",
+      "name": "快步",
+      "updates": {
+        "win_rate": 11.06,
+        "pick_rate": 44.24,
+        "site_rank": 180
+      }
+    },
+    {
+      "id": "solid_as_rock",
+      "name": "坚若磐石",
+      "updates": {
+        "site_rank": 182
+      }
+    },
+    {
+      "id": "cerberus",
+      "name": "地狱三头犬",
+      "updates": {
+        "site_rank": 185
+      }
+    },
+    {
+      "id": "drop_bear",
+      "name": "空投熊",
+      "updates": {
+        "site_rank": 182
+      }
+    },
+    {
+      "id": "endless_rampage",
+      "name": "无尽大杀四方",
+      "updates": {
+        "site_rank": 183
+      }
+    },
+    {
+      "id": "executioner",
+      "name": "裁决使",
+      "updates": {
+        "site_rank": 200
+      }
+    },
+    {
+      "id": "guilty_pleasure",
+      "name": "恶趣味",
+      "updates": {
+        "site_rank": 206
+      }
+    },
+    {
+      "id": "jeweled_gauntlet",
+      "name": "珠光护手",
+      "updates": {
+        "site_rank": 212
+      }
+    },
+    {
+      "id": "nature_heals",
+      "name": "自然即是治愈",
+      "updates": {
+        "site_rank": 184
+      }
+    },
+    {
+      "id": "poro_stampede",
+      "name": "魄罗蛮冲",
+      "updates": {
+        "site_rank": 186
+      }
+    },
+    {
+      "id": "rejuvenation",
+      "name": "活力焕发",
+      "updates": {
+        "site_rank": 187
+      }
+    },
+    {
+      "id": "ice_burst",
+      "name": "冰雪爆裂",
+      "updates": {
+        "site_rank": 188
+      }
+    },
+    {
+      "id": "soul_siphon",
+      "name": "虹吸",
+      "updates": {
+        "site_rank": 234
+      }
+    },
+    {
+      "id": "spirit_bomb",
+      "name": "灵魄炸弹",
+      "updates": {
+        "site_rank": 189
+      }
+    },
+    {
+      "id": "squishy_slappy_grab",
+      "name": "软弹啪叽抓",
+      "updates": {
+        "site_rank": 190
+      }
+    },
+    {
+      "id": "tooth_fairy",
+      "name": "牙仙子",
+      "updates": {
+        "site_rank": 192
+      }
+    },
+    {
+      "id": "upgrade_mikaels",
+      "name": "升级：花晓之剑",
+      "updates": {
+        "site_rank": 248
+      }
+    },
+    {
+      "id": "zealot",
+      "name": "狂热者",
+      "updates": {
+        "site_rank": 255
+      }
+    }
+  ],
+  "notes": [
+    "层级差异: 质变：棱彩阶 本地=gold 网站=prismatic",
+    "层级差异: 威能之追求 本地=gold 网站=silver",
+    "层级差异: 虹吸 本地=gold 网站=silver",
+    "层级差异: 惊惧 本地=gold 网站=prismatic",
+    "名称差异: combusting_interest 本地=燃烧利息 网站=炽燃利息",
+    "名称差异: adapt 本地=适应 网站=物理转魔法",
+    "名称差异: support_main 本地=主玩辅助 网站=任务：专精辅助",
+    "名称差异: soul_siphon 本地=虹吸 网站=灵魂虹吸",
+    "名称差异: upgrade_mikaels 本地=升级：花晓之剑 网站=升级：米凯尔的祝福"
+  ]
+}
