@@ -178,2065 +178,2065 @@
       "name": "吉格斯",
       "title": "爆破鬼才",
       "role": "法师",
-      "tier": "S",
-      "wr": 57.8,
-      "pr": 8.2,
-      "games": 10534,
-      "kda": 3.42,
-      "build": "大天使之杖 → 灭世者之帽 → 虚空之杖",
-      "tips": "AOE法师之王，Q消耗+R收割。增强优先AOE类。"
+      "tier": "B",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "布兰德",
       "title": "复仇焰魂",
       "role": "法师",
       "tier": "S",
-      "wr": 56.5,
-      "pr": 11.3,
-      "games": 14513,
-      "kda": 3.18,
-      "build": "兰德里的折磨 → 灭世者之帽 → 瑞莱的冰晶节杖",
-      "tips": "被动灼烧是核心，增强选持续伤害类。"
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "卡莎",
       "title": "虚空之女",
       "role": "射手",
-      "tier": "S",
-      "wr": 55.4,
-      "pr": 28.7,
-      "games": 36841,
-      "kda": 3.65,
-      "build": "纳什之牙 → 鬼索的狂暴之刃 → 灭世者之帽",
-      "tips": "进化Q→E→W，增强选攻速类。"
+      "tier": "B",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "提莫",
       "title": "迅捷斥候",
       "role": "法师",
-      "tier": "S",
-      "wr": 56.1,
-      "pr": 14.5,
-      "games": 18623,
-      "kda": 2.87,
-      "build": "兰德里的折磨 → 灭世者之帽 → 莫雷洛秘典",
-      "tips": "蘑菇铺路控视野，增强选持续伤害类。"
+      "tier": "B",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "卡尔萨斯",
       "title": "死亡颂唱者",
       "role": "法师",
-      "tier": "S",
-      "wr": 55.9,
-      "pr": 5.2,
-      "games": 6678,
-      "kda": 3.28,
-      "build": "大天使之杖 → 灭世者之帽 → 虚空之杖",
-      "tips": "Q单体双倍+R全图收割。"
+      "tier": "A",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "维克托",
       "title": "机械先驱",
       "role": "法师",
       "tier": "A",
-      "wr": 54.2,
-      "pr": 6.8,
-      "games": 8731,
-      "kda": 3.05,
-      "build": "大天使之杖 → 灭世者之帽 → 中娅沙漏",
-      "tips": "进化优先E→Q→W。"
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "韦鲁斯",
       "title": "惩戒之箭",
       "role": "射手",
-      "tier": "A",
-      "wr": 53.8,
-      "pr": 12.3,
-      "games": 15792,
-      "kda": 3.12,
-      "build": "魔宗 → 鬼索的狂暴之刃 → 破败王者之刃",
-      "tips": "特效流在大乱斗里表现更好。"
+      "tier": "C",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "婕拉",
       "title": "荆棘之兴",
       "role": "法师",
       "tier": "A",
-      "wr": 53.5,
-      "pr": 7.1,
-      "games": 9118,
-      "kda": 2.94,
-      "build": "兰德里的折磨 → 灭世者之帽 → 瑞莱的冰晶节杖",
-      "tips": "植物铺场+增强AOE=团战噩梦。"
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "泽拉斯",
       "title": "远古巫灵",
       "role": "法师",
-      "tier": "A",
-      "wr": 53.1,
-      "pr": 5.9,
-      "games": 7576,
-      "kda": 3.38,
-      "build": "大天使之杖 → 灭世者之帽 → 虚空之杖",
-      "tips": "纯poke法师，站位是生命线。"
+      "tier": "B",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "阿狸",
       "title": "九尾妖狐",
       "role": "法师",
       "tier": "A",
-      "wr": 51.2,
-      "pr": 15.6,
-      "games": 20033,
-      "kda": 2.82,
-      "build": "卢登的激荡 → 灭世者之帽 → 中娅沙漏",
-      "tips": "灵活法师，E命中率决定上限。"
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "莫甘娜",
       "title": "堕落天使",
       "role": "辅助",
       "tier": "A",
-      "wr": 51.5,
-      "pr": 10.8,
-      "games": 13871,
-      "kda": 2.65,
-      "build": "卢登的激荡 → 中娅沙漏 → 灭世者之帽",
-      "tips": "黑盾是团队核心。"
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "凯南",
       "title": "狂暴之心",
       "role": "法师",
-      "tier": "A",
-      "wr": 53.9,
-      "pr": 4.5,
-      "games": 5779,
-      "kda": 2.91,
-      "build": "火箭腰带 → 灭世者之帽 → 中娅沙漏",
-      "tips": "R进场是核心玩法。"
+      "tier": "D",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "伊泽瑞尔",
       "title": "探险家",
       "role": "射手",
-      "tier": "B",
-      "wr": 50.8,
-      "pr": 22.4,
-      "games": 28765,
-      "kda": 3.01,
-      "build": "魔宗 → 冰霜之锤 → 暮刃",
-      "tips": "Q技能poke为主。"
+      "tier": "C",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "亚索",
       "title": "疾风剑豪",
       "role": "战士",
-      "tier": "B",
-      "wr": 48.3,
-      "pr": 19.2,
-      "games": 24657,
-      "kda": 2.35,
-      "build": "鬼索的狂暴之刃 → 破败王者之刃 → 死亡之舞",
-      "tips": "近战在大乱斗吃亏，增强选防御类。"
+      "tier": "A",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "塞拉斯",
       "title": "解脱者",
       "role": "法师",
-      "tier": "C",
-      "wr": 47.9,
-      "pr": 8.7,
-      "games": 11174,
-      "kda": 2.28,
-      "build": "火箭腰带 → 中娅沙漏 → 灭世者之帽",
-      "tips": "偷大招是关键。"
+      "tier": "B",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "薇恩",
       "title": "暗夜猎手",
       "role": "射手",
-      "tier": "C",
-      "wr": 49.1,
-      "pr": 13.4,
-      "games": 17210,
-      "kda": 2.72,
-      "build": "鬼索的狂暴之刃 → 破败王者之刃 → 智慧末刃",
-      "tips": "近战AD在大乱斗比较吃亏。"
+      "tier": "S",
+      "wr": null,
+      "pr": null,
+      "games": null,
+      "kda": null,
+      "build": "",
+      "tips": ""
     },
     {
       "name": "暗裔剑魔",
       "title": "亚托克斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "离群之刺",
       "title": "阿卡丽",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "影哨",
       "title": "阿克尚",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "牛头酋长",
       "title": "阿利斯塔",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "铁血狼母",
       "title": "安蓓萨",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "殇之木乃伊",
       "title": "阿木木",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "冰晶凤凰",
       "title": "艾尼维亚",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "黑暗之女",
       "title": "安妮",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "残月之肃",
       "title": "厄斐琉斯",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "寒冰射手",
       "title": "艾希",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "铸星龙王",
       "title": "奥瑞利安·索尔",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "双界灵兔",
       "title": "阿萝拉",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "沙漠皇帝",
       "title": "阿兹尔",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "星界游神",
       "title": "巴德",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空女皇",
       "title": "卑尔维斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "蒸汽机器人",
       "title": "布里茨",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "弗雷尔卓德之心",
       "title": "布隆",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "狂厄蔷薇",
       "title": "贝蕾亚",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "皮城女警",
       "title": "凯特琳",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "青钢影",
       "title": "卡蜜尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "魔蛇之拥",
       "title": "卡西奥佩娅",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空恐惧",
       "title": "科加斯",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "英勇投弹手",
       "title": "库奇",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "诺克萨斯之手",
       "title": "德莱厄斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "皎月女神",
       "title": "黛安娜",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "荣耀行刑官",
       "title": "德莱文",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "祖安狂人",
       "title": "蒙多医生",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "时间刺客",
       "title": "艾克",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "蜘蛛女皇",
       "title": "伊莉丝",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "痛苦之拥",
       "title": "伊芙琳",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "远古恐惧",
       "title": "费德提克",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "无双剑姬",
       "title": "菲奥娜",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "潮汐海灵",
       "title": "菲兹",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "正义巨像",
       "title": "加里奥",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "海洋之灾",
       "title": "普朗克",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "德玛西亚之力",
       "title": "盖伦",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "迷失之牙",
       "title": "纳尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "酒桶",
       "title": "古拉加斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "法外狂徒",
       "title": "格雷福斯",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "灵罗娃娃",
       "title": "格温",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "战争之影",
       "title": "赫卡里姆",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "大发明家",
       "title": "黑默丁格",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "异画师",
       "title": "彗",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "海兽祭司",
       "title": "俄洛伊",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "刀锋舞者",
       "title": "艾瑞莉娅",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "翠神",
       "title": "艾翁",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "风暴之怒",
       "title": "迦娜",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "德玛西亚皇子",
       "title": "嘉文四世",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "武器大师",
       "title": "贾克斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "未来守护者",
       "title": "杰斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "戏命师",
       "title": "烬",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "暴走萝莉",
       "title": "金克丝",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "复仇之矛",
       "title": "卡莉丝塔",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "天启者",
       "title": "卡尔玛",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空行者",
       "title": "卡萨丁",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不祥之刃",
       "title": "卡特琳娜",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "正义天使",
       "title": "凯尔",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "影流之镰",
       "title": "凯隐",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空掠夺者",
       "title": "卡兹克",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "永猎双子",
       "title": "千珏",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "暴怒骑士",
       "title": "克烈",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "深渊巨口",
       "title": "克格莫",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "纳祖芒荣耀",
       "title": "奎桑提",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "诡术妖姬",
       "title": "乐芙兰",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "盲僧",
       "title": "李青",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "曙光女神",
       "title": "蕾欧娜",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "含羞蓓蕾",
       "title": "莉莉娅",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "冰霜女巫",
       "title": "丽桑卓",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "圣枪游侠",
       "title": "卢锡安",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "仙灵女巫",
       "title": "璐璐",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "光辉女郎",
       "title": "拉克丝",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "熔岩巨兽",
       "title": "墨菲特",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空先知",
       "title": "玛尔扎哈",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "扭曲树精",
       "title": "茂凯",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "无极剑圣",
       "title": "易",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "流光镜影",
       "title": "梅尔",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "明烛",
       "title": "米利欧",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "赏金猎人",
       "title": "厄运小姐",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "齐天大圣",
       "title": "孙悟空",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "铁铠冥魂",
       "title": "莫德凯撒",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "百裂冥犬",
       "title": "纳亚菲利",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "唤潮鲛姬",
       "title": "娜美",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "沙漠死神",
       "title": "内瑟斯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "深海泰坦",
       "title": "诺提勒斯",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "万花通灵",
       "title": "妮蔻",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "狂野女猎手",
       "title": "奈德丽",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不羁之悦",
       "title": "尼菈",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "永恒梦魇",
       "title": "魔腾",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "雪原双子",
       "title": "努努和威朗普",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "狂战士",
       "title": "奥拉夫",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "发条魔灵",
       "title": "奥莉安娜",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "山隐之焰",
       "title": "奥恩",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不屈之枪",
       "title": "潘森",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "圣锤之毅",
       "title": "波比",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "血港鬼影",
       "title": "派克",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "元素女皇",
       "title": "奇亚娜",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "德玛西亚之翼",
       "title": "奎因",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "幻翎",
       "title": "洛",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "披甲龙龟",
       "title": "拉莫斯",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空遁地兽",
       "title": "雷克塞",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "镕铁少女",
       "title": "芮尔",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "炼金男爵",
       "title": "烈娜塔 · 戈拉斯克",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "荒漠屠夫",
       "title": "雷克顿",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "傲之追猎者",
       "title": "雷恩加尔",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "放逐之刃",
       "title": "锐雯",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "机械公敌",
       "title": "兰博",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "符文法师",
       "title": "瑞兹",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "沙漠玫瑰",
       "title": "莎弥拉",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "北地之怒",
       "title": "瑟庄妮",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "涤魂圣枪",
       "title": "赛娜",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "星籁歌姬",
       "title": "萨勒芬妮",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "腕豪",
       "title": "瑟提",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "恶魔小丑",
       "title": "萨科",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "暮光之眼",
       "title": "慎",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "龙血武姬",
       "title": "希瓦娜",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "炼金术士",
       "title": "辛吉德",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "亡灵战神",
       "title": "赛恩",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "战争女神",
       "title": "希维尔",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "上古领主",
       "title": "斯卡纳",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "炽炎雏龙",
       "title": "斯莫德",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "琴瑟仙女",
       "title": "娑娜",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "众星之子",
       "title": "索拉卡",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "诺克萨斯统领",
       "title": "斯维因",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "暗黑元首",
       "title": "辛德拉",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "河流之王",
       "title": "塔姆",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "岩雀",
       "title": "塔莉垭",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "刀锋之影",
       "title": "泰隆",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "瓦洛兰之盾",
       "title": "塔里克",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "魂锁典狱长",
       "title": "锤石",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "麦林炮手",
       "title": "崔丝塔娜",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "巨魔之王",
       "title": "特朗德尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "蛮族之王",
       "title": "泰达米尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "卡牌大师",
       "title": "崔斯特",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "瘟疫之源",
       "title": "图奇",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "兽灵行者",
       "title": "乌迪尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "无畏战车",
       "title": "厄加特",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "邪恶小法师",
       "title": "维迦",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "虚空之眼",
       "title": "维克兹",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "愁云使者",
       "title": "薇古丝",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "皮城执法官",
       "title": "蔚",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "破败之王",
       "title": "佛耶戈",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "猩红收割者",
       "title": "弗拉基米尔",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不灭狂雷",
       "title": "沃利贝尔",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "祖安怒兽",
       "title": "沃里克",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "逆羽",
       "title": "霞",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "德邦总管",
       "title": "赵信",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "封魔剑魂",
       "title": "永恩",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "牧魂人",
       "title": "约里克",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不破之誓",
       "title": "芸阿娜",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "魔法猫咪",
       "title": "悠米",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "B",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "不落魔锋",
       "title": "亚恒",
       "role": "战士",
-      "tier": "unknown",
+      "tier": "S",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "生化魔人",
       "title": "扎克",
       "role": "坦克",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "影流之主",
       "title": "劫",
       "role": "刺客",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "祖安花火",
       "title": "泽丽",
       "role": "射手",
-      "tier": "unknown",
+      "tier": "C",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "时光守护者",
       "title": "基兰",
       "role": "辅助",
-      "tier": "unknown",
+      "tier": "A",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     },
     {
       "name": "暮光星灵",
       "title": "佐伊",
       "role": "法师",
-      "tier": "unknown",
+      "tier": "D",
       "wr": null,
       "pr": null,
       "games": null,
       "kda": null,
       "build": "",
-      "tips": "暂无海克斯大乱斗专属说明。"
+      "tips": ""
     }
   ]
 }
