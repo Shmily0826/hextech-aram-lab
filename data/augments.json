@@ -134,12 +134,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "拥有冲刺或闪烁效果的技能获得175技能急速。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -185,42 +179,6 @@
     },
     "notes": "Tier 已从 gold 修正为 prismatic（来源: LoL Wiki Module）",
     "rar": "prism",
-    "wr": 55.2,
-    "pr": 18.7,
-    "desc": "攻击时获得额外35%攻速和12%移速，连续攻击5次后触发剑舞效果。",
-    "trigger": "普攻命中时叠加，每5次触发一次剑舞。攻速加成持续3秒。",
-    "best": [
-      {
-        "h": "卡莎",
-        "wr": 61.3,
-        "t": "transform"
-      },
-      {
-        "h": "韦鲁斯",
-        "wr": 59.0,
-        "t": "transform"
-      },
-      {
-        "h": "薇恩",
-        "wr": 56.3,
-        "t": "recommend"
-      },
-      {
-        "h": "亚索",
-        "wr": 54.1,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "吉格斯",
-        "r": "法师不需要攻速"
-      },
-      {
-        "h": "泽拉斯",
-        "r": "法师不需要攻速"
-      }
-    ],
     "tests": [
       {
         "a": "数据分析师",
@@ -293,12 +251,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "将你的标记升级为巨型雪球，体积增大且可穿过非英雄单位。命中后爆炸造成200-350（+100%额外攻击力）（+60%法术强度）魔法伤害，击飞0.75秒并减速20%持续2秒。标记冷却缩减相当于100技能急速。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -358,62 +310,6 @@
     "patch_added": "26.12"
   },
   {
-    "id": "echo",
-    "name": "回响",
-    "name_en": "Echo",
-    "aliases": [
-      "echo",
-      "echoshield",
-      "move charge"
-    ],
-    "tier": "prismatic",
-    "status": "active",
-    "effect": "移动积累能量，下次技能命中释放回响造成范围魔法伤害。",
-    "effect_en": "Movement builds charge. Next skill hit releases an echo dealing AoE magic damage.",
-    "tags": [
-      "damage",
-      "aoe",
-      "mobility"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Echo_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "prism",
-    "wr": 57.1,
-    "pr": 4.8,
-    "desc": "移动积累能量，下次技能命中释放回响造成范围魔法伤害。",
-    "trigger": "移动200码后充满，下次技能命中释放。",
-    "best": [
-      {
-        "h": "吉格斯",
-        "wr": 61.2,
-        "t": "recommend"
-      },
-      {
-        "h": "阿狸",
-        "wr": 58.4,
-        "t": "recommend"
-      },
-      {
-        "h": "布兰德",
-        "wr": 59.8,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "站桩英雄",
-        "r": "需要移动充能"
-      }
-    ],
-    "tests": []
-  },
-  {
     "id": "echoing_release",
     "name": "回响施放",
     "name_en": "Echoing Release",
@@ -457,12 +353,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "基础技能伤害提升35%，获得70技能急速，所有来源的治疗和护盾效果提升35%，但终极技能被永久封印。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -488,12 +378,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -777,12 +661,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "获得35%额外生命值、15自适应之力和50%体型增大。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -811,12 +689,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "你的治疗和自我恢复会对最近1000码内的敌方英雄造成等值70%的魔法伤害。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -836,74 +708,6 @@
     "tags": [
       "cc",
       "damage"
-    ]
-  },
-  {
-    "id": "annihilation_gaze",
-    "name": "毁灭凝视",
-    "name_en": "Annihilation Gaze",
-    "aliases": [
-      "annihilation gaze",
-      "annihilation",
-      "gaze",
-      "execute gaze",
-      "execute"
-    ],
-    "tier": "prismatic",
-    "status": "active",
-    "effect": "对生命值低于30%的敌人造成额外25%伤害。目标死亡后回复10%最大法力值。",
-    "effect_en": "Deal 25% bonus damage to enemies below 30% HP. Restores 10% max mana on champion kill.",
-    "tags": [
-      "damage",
-      "execute"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Annihilation_Gaze_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "prism",
-    "wr": 58.4,
-    "pr": 8.2,
-    "desc": "对生命值低于30%的敌人造成额外25%伤害。目标死亡后回复10%最大法力值。",
-    "trigger": "伤害命中低血量目标时自动触发。斩杀判定在伤害结算后进行。",
-    "best": [
-      {
-        "h": "卡尔萨斯",
-        "wr": 63.1,
-        "t": "transform"
-      },
-      {
-        "h": "吉格斯",
-        "wr": 61.4,
-        "t": "transform"
-      },
-      {
-        "h": "布兰德",
-        "wr": 60.2,
-        "t": "recommend"
-      },
-      {
-        "h": "泽拉斯",
-        "wr": 58.6,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "莫甘娜",
-        "r": "缺少爆发伤害"
-      }
-    ],
-    "tests": [
-      {
-        "a": "大乱斗之王",
-        "ok": true,
-        "t": "R+斩杀线约30%血量"
-      }
     ]
   },
   {
@@ -1100,12 +904,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "施放终极技能后获得2秒无敌（8秒冷却）。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -1228,70 +1026,6 @@
     },
     "aliases": [],
     "patch_added": "26.12"
-  },
-  {
-    "id": "ultimate_hunter",
-    "name": "终极猎手",
-    "name_en": "Ultimate Hunter",
-    "aliases": [
-      "ultimate hunter",
-      "ult hunter",
-      "ultimatehunter",
-      "终极猎手",
-      "ult hunt",
-      "ult hunter"
-    ],
-    "tier": "prismatic",
-    "status": "active",
-    "effect": "每次击杀参与后大招CD缩减20%，获得10点技能急速（永久叠加，最多5层）。",
-    "effect_en": "Each kill participation reduces ultimate CD by 20% and grants 10 ability haste (permanent, max 5 stacks).",
-    "tags": [
-      "ability",
-      "cooldown"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Ultimate_Hunter_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "prism",
-    "wr": 57.5,
-    "pr": 7.5,
-    "desc": "每次击杀参与后大招CD缩减20%，获得10点技能急速（永久叠加，最多5层）。",
-    "trigger": "击杀或助攻后触发。",
-    "best": [
-      {
-        "h": "卡莎",
-        "wr": 60.8,
-        "t": "recommend"
-      },
-      {
-        "h": "韦鲁斯",
-        "wr": 59.3,
-        "t": "recommend"
-      },
-      {
-        "h": "凯南",
-        "wr": 58.1,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "卡尔萨斯",
-        "r": "疑似CD计算冲突Bug"
-      }
-    ],
-    "tests": [
-      {
-        "a": "数据分析师",
-        "ok": false,
-        "t": "卡尔萨斯+终极猎手偶现CD异常"
-      }
-    ]
   },
   {
     "id": "empyrean_promise",
@@ -1456,12 +1190,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "每次对敌方英雄的普攻会在四个方向各发射5枚爆竹，每枚造成8-51（+14%额外攻击力）物理伤害（每方向5秒冷却）。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -1568,12 +1296,6 @@
     },
     "notes": "",
     "rar": "prism",
-    "wr": null,
-    "pr": null,
-    "desc": "普攻和技能可处决生命值低于5%（+3.5%/100基础攻击力）（+2%/1000额外生命值）最大生命值的敌方英雄，并将其尸体击飞。尸体撞到敌方英雄或地形时爆炸，对附近敌人造成150-500（+100%额外护甲）（+100%额外魔抗）魔法伤害。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -1700,43 +1422,6 @@
     },
     "notes": "Tier 已从 silver 修正为 gold（来源: LoL Wiki Module）",
     "rar": "gold",
-    "wr": 53.2,
-    "pr": 20.1,
-    "desc": "治疗和护盾效果提升25%。获得额外8%最大生命值。",
-    "trigger": "施放治疗或护盾技能时自动增幅效果。",
-    "best": [
-      {
-        "h": "莫甘娜",
-        "wr": 55.5,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "吉格斯",
-        "r": "无治疗/护盾"
-      },
-      {
-        "h": "布兰德",
-        "r": "无治疗/护盾"
-      },
-      {
-        "h": "提莫",
-        "r": "无治疗/护盾"
-      },
-      {
-        "h": "泽拉斯",
-        "r": "无治疗/护盾"
-      },
-      {
-        "h": "凯南",
-        "r": "无治疗/护盾"
-      },
-      {
-        "h": "婕拉",
-        "r": "无治疗/护盾"
-      }
-    ],
     "tests": [
       {
         "a": "团战指挥官",
@@ -2029,61 +1714,6 @@
     ]
   },
   {
-    "id": "phantom_dance",
-    "name": "幻影之舞",
-    "name_en": "Phantom Dance",
-    "aliases": [
-      "phantom dance",
-      "phantomdance",
-      "phantom"
-    ],
-    "tier": "gold",
-    "status": "active",
-    "effect": "获得12%移速。附近2+敌方英雄时获得25%伤害减免，持续3秒。",
-    "effect_en": "Gain 12% move speed. When 2+ enemy champions are nearby, gain 25% damage reduction for 3 seconds.",
-    "tags": [
-      "mobility",
-      "tank"
-    ],
-    "patch_added": "14.12",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Phantom_Dance_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "gold",
-    "wr": 53.8,
-    "pr": 9.4,
-    "desc": "获得12%移速。附近2+敌方英雄时获得25%伤害减免，持续3秒。",
-    "trigger": "被动生效。减伤在检测到2+敌人时自动触发。",
-    "best": [
-      {
-        "h": "亚索",
-        "wr": 55.6,
-        "t": "recommend"
-      },
-      {
-        "h": "凯南",
-        "wr": 54.2,
-        "t": "recommend"
-      },
-      {
-        "h": "卡莎",
-        "wr": 53.5,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "远程poke英雄",
-        "r": "不会处于多敌人包围中"
-      }
-    ],
-    "tests": []
-  },
-  {
     "id": "pinball",
     "name": "弹球",
     "name_en": "Pinball",
@@ -2270,12 +1900,6 @@
     },
     "notes": "",
     "rar": "gold",
-    "wr": null,
-    "pr": null,
-    "desc": "获得1500额外生命值，但伤害输出降低10%。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -2343,82 +1967,6 @@
     "tags": [
       "damage",
       "snowball"
-    ]
-  },
-  {
-    "id": "toxic_amplifier",
-    "name": "毒性增幅",
-    "name_en": "Toxic Amplifier",
-    "aliases": [
-      "toxic amplifier",
-      "toxic amp",
-      "toxic",
-      "amp"
-    ],
-    "tier": "gold",
-    "status": "active",
-    "effect": "持续伤害效果（灼烧、中毒、流血）提升40%。多个持续伤害叠加时各自独立增幅。",
-    "effect_en": "Damage over time effects (burn, poison, bleed) are amplified by 40%. Multiple DoT sources are independently amplified.",
-    "tags": [
-      "damage",
-      "dot"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Toxic_Amplifier_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "gold",
-    "wr": 57.1,
-    "pr": 12.3,
-    "desc": "持续伤害效果（灼烧、中毒、流血）提升40%。多个持续伤害叠加时各自独立增幅。",
-    "trigger": "持续伤害效果tick时触发，与源技能伤害计算同步。",
-    "best": [
-      {
-        "h": "布兰德",
-        "wr": 64.9,
-        "t": "bug"
-      },
-      {
-        "h": "提莫",
-        "wr": 61.6,
-        "t": "transform"
-      },
-      {
-        "h": "婕拉",
-        "wr": 59.3,
-        "t": "transform"
-      },
-      {
-        "h": "卡尔萨斯",
-        "wr": 56.8,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "伊泽瑞尔",
-        "r": "无持续伤害技能"
-      },
-      {
-        "h": "亚索",
-        "r": "无持续伤害技能"
-      }
-    ],
-    "tests": [
-      {
-        "a": "蘑菇大师",
-        "ok": true,
-        "t": "提莫蘑菇灼烧实测提升约38%"
-      },
-      {
-        "a": "大乱斗之王",
-        "ok": false,
-        "t": "布兰德叠加效果疑似超过40%，可能是Bug"
-      }
     ]
   },
   {
@@ -2594,7 +2142,6 @@
       "utility"
     ],
     "rar": "gold",
-    "desc": "替换一个召唤师技能为成长突增。增大自身体型，击飞400码内的敌人1秒。接下来7秒内获得300（+20%最大生命值）额外生命值和50%体型增大。",
     "aliases": [
       "growth spurt",
       "growthspurt"
@@ -2636,77 +2183,6 @@
     "tags": [
       "ap",
       "damage"
-    ]
-  },
-  {
-    "id": "armor_piercing",
-    "name": "穿甲弹头",
-    "name_en": "Armor Piercing",
-    "aliases": [
-      "armor piercing",
-      "armor piercing rounds",
-      "piercing",
-      "armor pierce",
-      "ap round",
-      "ap rounds"
-    ],
-    "tier": "gold",
-    "status": "active",
-    "effect": "物理伤害获得额外18%护甲穿透。对护盾的物理伤害提升25%。",
-    "effect_en": "Physical damage gains 18% bonus armor penetration. Physical damage against shields is increased by 25%.",
-    "tags": [
-      "damage",
-      "armor_pen"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Armor_Piercing_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "gold",
-    "wr": 51.8,
-    "pr": 14.5,
-    "desc": "物理伤害获得额外18%护甲穿透。对护盾的物理伤害提升25%。",
-    "trigger": "物理伤害计算时自动应用护甲穿透。",
-    "best": [
-      {
-        "h": "韦鲁斯",
-        "wr": 54.2,
-        "t": "recommend"
-      },
-      {
-        "h": "伊泽瑞尔",
-        "wr": 53.0,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "吉格斯",
-        "r": "纯魔法伤害"
-      },
-      {
-        "h": "布兰德",
-        "r": "纯魔法伤害"
-      },
-      {
-        "h": "婕拉",
-        "r": "纯魔法伤害"
-      },
-      {
-        "h": "莫甘娜",
-        "r": "纯魔法伤害"
-      }
-    ],
-    "tests": [
-      {
-        "a": "快乐风男",
-        "ok": false,
-        "t": "对亚索Q疑似不生效"
-      }
     ]
   },
   {
@@ -2790,12 +2266,6 @@
     },
     "notes": "",
     "rar": "gold",
-    "wr": null,
-    "pr": null,
-    "desc": "击杀或参与击杀后获得100%额外移动速度和15%总攻击速度，持续4秒。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -2844,7 +2314,9 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bush-hide"
     },
-    "aliases": ["Hide on Bush"],
+    "aliases": [
+      "Hide on Bush"
+    ],
     "patch_added": "26.12",
     "tags": [
       "damage"
@@ -2930,12 +2402,6 @@
     },
     "notes": "",
     "rar": "gold",
-    "wr": null,
-    "pr": null,
-    "desc": "",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3045,33 +2511,6 @@
     },
     "notes": "Tier 已从 prismatic 修正为 gold（来源: LoL Wiki Module）。注：Wiki 中 Big Brain 为 Gold 级别",
     "rar": "gold",
-    "wr": 56.9,
-    "pr": 6.8,
-    "desc": "获得一个吸收等于300%法术强度伤害的护盾，持续至被摧毁。护盾在重生时和每70秒补充一次。",
-    "trigger": "被动生效，护盾在重生和定时补充时触发",
-    "best": [
-      {
-        "h": "维克托",
-        "wr": 61.0,
-        "t": "transform"
-      },
-      {
-        "h": "卡尔萨斯",
-        "wr": 58.5,
-        "t": "recommend"
-      },
-      {
-        "h": "阿狸",
-        "wr": 56.2,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "亚索",
-        "r": "技能等级上限收益低"
-      }
-    ],
     "tests": [
       {
         "a": "数据分析师",
@@ -3115,87 +2554,6 @@
     "patch_added": "26.12",
     "tags": [
       "damage"
-    ]
-  },
-  {
-    "id": "chain_lightning",
-    "name": "连锁闪电",
-    "name_en": "Chain Lightning",
-    "aliases": [
-      "chain lightning",
-      "chainlightning",
-      "chain"
-    ],
-    "tier": "gold",
-    "status": "active",
-    "effect": "技能命中后释放连锁闪电，对附近敌人造成额外魔法伤害。最多弹射3个目标。",
-    "effect_en": "Skill hits release chain lightning, dealing bonus magic damage to nearby enemies. Bounces up to 3 targets.",
-    "tags": [
-      "damage",
-      "aoe",
-      "magic"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Chain_Lightning_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "gold",
-    "wr": 56.8,
-    "pr": 22.4,
-    "desc": "技能命中后释放连锁闪电，对附近敌人造成额外魔法伤害。最多弹射3个目标。",
-    "trigger": "技能命中敌方英雄时触发，0.5秒内置CD。闪电优先弹射至最近未被命中的敌方英雄，弹射范围约450码。",
-    "best": [
-      {
-        "h": "布兰德",
-        "wr": 63.8,
-        "t": "transform"
-      },
-      {
-        "h": "吉格斯",
-        "wr": 64.2,
-        "t": "transform"
-      },
-      {
-        "h": "泽拉斯",
-        "wr": 59.5,
-        "t": "transform"
-      },
-      {
-        "h": "凯南",
-        "wr": 58.8,
-        "t": "transform"
-      },
-      {
-        "h": "婕拉",
-        "wr": 57.2,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "亚索",
-        "r": "风墙阻挡弹射"
-      },
-      {
-        "h": "薇恩",
-        "r": "AD加成不触发"
-      }
-    ],
-    "tests": [
-      {
-        "a": "数据分析师",
-        "ok": true,
-        "t": "实测弹射范围450码，优先未被命中目标"
-      },
-      {
-        "a": "大乱斗之王",
-        "ok": true,
-        "t": "5人抱团时效果最佳"
-      }
     ]
   },
   {
@@ -3286,12 +2644,6 @@
     },
     "notes": "",
     "rar": "gold",
-    "wr": null,
-    "pr": null,
-    "desc": "英雄的Q技能获得100技能急速。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3444,63 +2796,6 @@
     ]
   },
   {
-    "id": "untouchable",
-    "name": "你摸不到",
-    "name_en": "Untouchable",
-    "aliases": [
-      "untouchable",
-      "can't touch me",
-      "摸不到",
-      "cant touch",
-      "dodge"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "闪避敌方技能后获得20%移速加成和持续2秒的护盾。",
-    "effect_en": "After dodging an enemy ability, gain 20% move speed and a shield for 2 seconds.",
-    "tags": [
-      "mobility",
-      "tank"
-    ],
-    "patch_added": "14.12",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Untouchable_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 51.2,
-    "pr": 11.8,
-    "desc": "闪避敌方技能后获得20%移速加成和持续2秒的护盾。",
-    "trigger": "成功闪避后的0.3秒内触发。",
-    "best": [
-      {
-        "h": "亚索",
-        "wr": 52.8,
-        "t": "recommend"
-      },
-      {
-        "h": "薇恩",
-        "wr": 52.1,
-        "t": "recommend"
-      },
-      {
-        "h": "伊泽瑞尔",
-        "wr": 51.5,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "吉格斯",
-        "r": "远程法师不需要近身闪避"
-      }
-    ],
-    "tests": []
-  },
-  {
     "id": "erosion",
     "name": "侵蚀",
     "name_en": "Erosion",
@@ -3524,12 +2819,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "每次对敌人造成伤害时，降低其护甲和魔抗1.5%，持续4秒，最多叠加20层，总计降低30%双抗。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3544,7 +2833,9 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stay-firm"
     },
-    "aliases": ["Stay Resolute"],
+    "aliases": [
+      "Stay Resolute"
+    ],
     "patch_added": "26.12",
     "tags": [
       "damage",
@@ -3577,12 +2868,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "死亡时爆炸，对500码内的敌人造成相当于目标20%最大生命值的真实伤害。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3616,7 +2901,9 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/don-t-stop-channeling"
     },
-    "aliases": ["Don't Change the Channel"],
+    "aliases": [
+      "Don't Change the Channel"
+    ],
     "patch_added": "26.12",
     "tags": [
       "shield"
@@ -3819,12 +3106,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "每比目标多10点移动速度，造成的伤害提升1%。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3873,12 +3154,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "攻击伤害提升20%。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -3945,12 +3220,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "获得100%额外移动速度。受到英雄伤害后该加成消失6秒。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -4064,12 +3333,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "获得20%治疗和护盾强度。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -4098,12 +3361,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -4179,72 +3436,6 @@
       "movement",
       "tank"
     ]
-  },
-  {
-    "id": "mana_fountain",
-    "name": "法力涌泉",
-    "name_en": "Mana Fountain",
-    "aliases": [
-      "mana fountain",
-      "manafountain",
-      "mana regen",
-      "fountain",
-      "mana"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "获得额外30%法力回复和15%最大法力值。技能法力消耗降低15%。",
-    "effect_en": "Gain 30% bonus mana regeneration and 15% max mana. Skill mana costs reduced by 15%.",
-    "tags": [
-      "ability",
-      "mana"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Mana_Fountain_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 52.8,
-    "pr": 18.9,
-    "desc": "获得额外30%法力回复和15%最大法力值。技能法力消耗降低15%。",
-    "trigger": "被动生效。",
-    "best": [
-      {
-        "h": "吉格斯",
-        "wr": 55.1,
-        "t": "recommend"
-      },
-      {
-        "h": "泽拉斯",
-        "wr": 54.8,
-        "t": "recommend"
-      },
-      {
-        "h": "维克托",
-        "wr": 54.3,
-        "t": "recommend"
-      },
-      {
-        "h": "卡尔萨斯",
-        "wr": 53.5,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "亚索",
-        "r": "不依赖法力"
-      },
-      {
-        "h": "卡莎",
-        "r": "蓝耗不高"
-      }
-    ],
-    "tests": []
   },
   {
     "id": "juiced",
@@ -4327,12 +3518,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "获得15%全能吸血。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
     "tests": []
   },
   {
@@ -4377,64 +3562,6 @@
     },
     "notes": "",
     "rar": "silver",
-    "wr": null,
-    "pr": null,
-    "desc": "获得60%额外攻击速度。",
-    "trigger": "",
-    "best": [],
-    "avoid": [],
-    "tests": []
-  },
-  {
-    "id": "psionic_shield",
-    "name": "灵能护盾",
-    "name_en": "Psionic Shield",
-    "aliases": [
-      "psionic shield",
-      "psionicshield",
-      "psi shield",
-      "psionic",
-      "psi"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "受到致命伤害时自动获得护盾（300+等级×20），90秒冷却。",
-    "effect_en": "Automatically gain a shield (300 + level x 20) when taking lethal damage. 90 second cooldown.",
-    "tags": [
-      "tank",
-      "shield"
-    ],
-    "patch_added": "14.12",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Psionic_Shield_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 51.5,
-    "pr": 8.8,
-    "desc": "受到致命伤害时自动获得护盾（300+等级×20），90秒冷却。",
-    "trigger": "生命值降至0时被动触发。",
-    "best": [
-      {
-        "h": "亚索",
-        "wr": 53.2,
-        "t": "recommend"
-      },
-      {
-        "h": "薇恩",
-        "wr": 52.4,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "远程法师",
-        "r": "很少处于致命危险中"
-      }
-    ],
     "tests": []
   },
   {
@@ -4472,60 +3599,6 @@
     "tags": [
       "damage"
     ]
-  },
-  {
-    "id": "physical_to_magical",
-    "name": "物理转魔法",
-    "name_en": "Physical to Magical",
-    "aliases": [
-      "physical to magical",
-      "phys to magic",
-      "ad to ap",
-      "物理转魔",
-      "phys2magic",
-      "conversion",
-      "ad2ap"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "将20%的物理伤害转化为魔法伤害，享受法术强度加成。",
-    "effect_en": "Convert 20% of physical damage to magic damage, scaling with ability power.",
-    "tags": [
-      "damage",
-      "conversion"
-    ],
-    "patch_added": "14.12",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Physical_to_Magical_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 52.1,
-    "pr": 9.5,
-    "desc": "将20%的物理伤害转化为魔法伤害，享受法术强度加成。",
-    "trigger": "被动生效，伤害结算时自动转化。",
-    "best": [
-      {
-        "h": "卡莎",
-        "wr": 54.8,
-        "t": "recommend"
-      },
-      {
-        "h": "伊泽瑞尔",
-        "wr": 53.2,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "纯AP英雄",
-        "r": "没有物理伤害可转化"
-      }
-    ],
-    "tests": []
   },
   {
     "id": "zealot",
@@ -4619,79 +3692,6 @@
     "patch_added": "26.12"
   },
   {
-    "id": "ultimate_cooldown",
-    "name": "终极冷却",
-    "name_en": "Ultimate Cooldown",
-    "aliases": [
-      "ultimate cooldown",
-      "ult cooldown",
-      "ult cd",
-      "ultimate cool",
-      "ult cooldown"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "大招冷却时间缩短35%。大招命中后额外恢复5%最大法力值。",
-    "effect_en": "Ultimate ability cooldown is reduced by 35%. Restore 5% max mana on ultimate hit.",
-    "tags": [
-      "ability",
-      "cooldown"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Ultimate_Cooldown_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 54.5,
-    "pr": 25.6,
-    "desc": "大招冷却时间缩短35%。大招命中后额外恢复5%最大法力值。",
-    "trigger": "被动生效，R技能CD计算时自动应用。",
-    "best": [
-      {
-        "h": "吉格斯",
-        "wr": 58.2,
-        "t": "recommend"
-      },
-      {
-        "h": "卡尔萨斯",
-        "wr": 57.3,
-        "t": "recommend"
-      },
-      {
-        "h": "泽拉斯",
-        "wr": 56.1,
-        "t": "recommend"
-      },
-      {
-        "h": "凯南",
-        "wr": 55.8,
-        "t": "recommend"
-      },
-      {
-        "h": "莫甘娜",
-        "wr": 54.2,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "亚索",
-        "r": "亚索R的CD本身就短"
-      }
-    ],
-    "tests": [
-      {
-        "a": "团战指挥官",
-        "ok": true,
-        "t": "多一次大招就多一次翻盘机会"
-      }
-    ]
-  },
-  {
     "id": "adaptive_defense",
     "name": "自适应防护",
     "name_en": "Adaptive Defense",
@@ -4709,66 +3709,6 @@
       "damage",
       "tank"
     ]
-  },
-  {
-    "id": "lethal_tempo",
-    "name": "致命节奏",
-    "name_en": "Lethal Tempo",
-    "aliases": [
-      "lethal tempo",
-      "lethaltempo",
-      "tempo",
-      "attack speed"
-    ],
-    "tier": "silver",
-    "status": "active",
-    "effect": "攻击叠加攻速（每层8%，最多6层），满层后获得50额外攻击距离和15%伤害加成。",
-    "effect_en": "Attacks stack attack speed (8% per stack, max 6). At max stacks, gain 50 bonus attack range and 15% damage amp.",
-    "tags": [
-      "attack_speed",
-      "damage"
-    ],
-    "patch_added": "14.10",
-    "patch_removed": null,
-    "source": {
-      "type": "manual",
-      "url": "https://leagueoflegends.fandom.com/wiki/Lethal_Tempo_(ARAM_Augment)",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "原型增强：该增强不在 LoL Wiki ARAM:Mayhem 数据中，可能为早期占位数据。保留供后续人工审核。",
-    "rar": "silver",
-    "wr": 53.5,
-    "pr": 16.2,
-    "desc": "攻击叠加攻速（每层8%，最多6层），满层后获得50额外攻击距离和15%伤害加成。",
-    "trigger": "普攻命中叠加，满层效果持续5秒。",
-    "best": [
-      {
-        "h": "卡莎",
-        "wr": 56.7,
-        "t": "recommend"
-      },
-      {
-        "h": "薇恩",
-        "wr": 55.2,
-        "t": "recommend"
-      },
-      {
-        "h": "韦鲁斯",
-        "wr": 54.8,
-        "t": "recommend"
-      }
-    ],
-    "avoid": [
-      {
-        "h": "布兰德",
-        "r": "法师不需要"
-      },
-      {
-        "h": "吉格斯",
-        "r": "法师不需要"
-      }
-    ],
-    "tests": []
   },
   {
     "id": "transmute_gold",
@@ -4882,7 +3822,9 @@
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/veil-of-protection"
     },
-    "aliases": ["Veil of Warding"],
+    "aliases": [
+      "Veil of Warding"
+    ],
     "patch_added": "26.12",
     "tags": [
       "shield"
