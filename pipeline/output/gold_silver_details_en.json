@@ -1,0 +1,212 @@
+{
+  "impassable": {
+    "en_raw": "Gain the Aftershock and Glacial Augment keystone runes.",
+    "en_clean": "Gain the Aftershock and Glacial Augment keystone runes.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "all_for_you": {
+    "en_raw": "Your heals and shields on allied champions are increased in effectiveness by 30%.",
+    "en_clean": "Your heals and shields on allied champions are increased in effectiveness by 30%.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "tank_engine": {
+    "en_raw": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your [stat:health][b]maximum[/b] health[/stat] and size by 5%. Lose 65% of stacks on death.",
+    "en_clean": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your maximum health and size by 5%. Lose 65% of stacks on death.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "pinball": {
+    "en_raw": "Your Mark is empowered to instead throw a pinball, which deals [stat:truedmg]100 to 500 [b]bonus[/b] true damage[/stat] and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset and it increases its radius by 25%, its damage by 20%, and its range by 10%, as well as reduces Mark remaining cooldown by 30%. Additionally, your Mark cooldown is reduced equivalent to 50 ability haste.[br/][br/]If Mark is not equipped, the summoner spell in the slot not occupied by Flash is replaced with Mark.",
+    "en_clean": "Your Mark is empowered to instead throw a pinball, which deals 100 to 500 bonus true damage and ricochets off of terrain that it collides with. Each time the pinball ricochets, its remaining travel distance is reset and it increases its radius by 25%, its damage by 20%, and its range by 10%, as well as reduces Mark remaining cooldown by 30%. Additionally, your Mark cooldown is reduced equivalent to 50 ability haste. If Mark is not equipped, the summoner spell in the slot not occupied by Flash is replaced with Mark.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "terror": {
+    "en_raw": "Whenever you cast your chosen ability, <status>Fear</status> enemies around you.",
+    "en_clean": "Whenever you cast your chosen ability, Fear enemies around you.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "from_beginning_to_end": {
+    "en_raw": "Gain the Dark Harvest and First Strike keystone runes.",
+    "en_clean": "Gain the Dark Harvest and First Strike keystone runes.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "its_killing_time": {
+    "en_raw": "Upon casting your ultimate ability, you apply Death Mark to all enemy champions (8 second cooldown). The mark stores 40% of all post-mitigation damage you deal to the affected target, detonating after 5 seconds to deal [stat:truedmg]true damage[/stat] equal to the damage stored against them.",
+    "en_clean": "Upon casting your ultimate ability, you apply Death Mark to all enemy champions (8 second cooldown). The mark stores 40% of all post-mitigation damage you deal to the affected target, detonating after 5 seconds to deal true damage equal to the damage stored against them.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "rejuvenation": {
+    "en_raw": "Using your chosen ability restores <healing>Health</healing>.",
+    "en_clean": "Using your chosen ability restores Health.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "overflow": {
+    "en_raw": "Your abilities' [stat:mana]mana[/stat] costs are doubled, but you also gain 10% [stat:mana](+ 0.5% per 100 [b]maximum[/b] mana)[/stat] increased damage as well as self and outgoing healing and shielding.",
+    "en_clean": "Your abilities' mana costs are doubled, but you also gain 10% (+ 0.5% per 100 maximum mana) increased damage as well as self and outgoing healing and shielding.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "firebrand": {
+    "en_raw": "Basic attacks apply a [stat:burn]Burn[/stat] for 5 seconds that deals [stat:magic][b]bonus[/b] magic damage[/stat] equal to[stat:health]0.4% of the target's [b]maximum[/b] health[/stat] per second.This [stat:burn]Burn[/stat] stacks infinitely and refreshes with each application.",
+    "en_clean": "Basic attacks apply a Burn for 5 seconds that deals bonus magic damage equal to0.4% of the target's maximum health per second.This Burn stacks infinitely and refreshes with each application.",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "searing_dawn": {
+    "en_raw": "Gain Sunlight.[br/][br/][b]Sunlight:[/b] Your damaging abilities mark enemies, causing them to take [stat:magic]40 to 200[/stat] [stat:magic][b]bonus[/b] magic damage[/stat] from your ally's next basic attack or ability hit against them (0.75-second cooldown per target).",
+    "en_clean": "Gain Sunlight. Sunlight: Your damaging abilities mark enemies, causing them to take 40 to 200 bonus magic damage from your ally's next basic attack or ability hit against them (0.75-second cooldown per target).",
+    "has_nums": true,
+    "tier": "gold"
+  },
+  "combusting_interest": {
+    "en_raw": "Burns and damage over time applied to champions generates <gold>gold</gold>.",
+    "en_clean": "Burns and damage over time applied to champions generates gold.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "tooth_fairy": {
+    "en_raw": "Bursting enemies drops <keyword>Teeth</keyword>. Picking up <keyword>Teeth</keyword> grants you permanent <scaleLethality>Lethality</scaleLethality> and <magicPen>Magic Penetration</magicPen>.",
+    "en_clean": "Bursting enemies drops Teeth. Picking up Teeth grants you permanent Lethality and Magic Penetration.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "void_dash": {
+    "en_raw": "Dashing with your chosen ability spawns a Void Zone that <status>Slows</status> enemy champions and deals magic damage.",
+    "en_clean": "Dashing with your chosen ability spawns a Void Zone that Slows enemy champions and deals magic damage.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "porcupine": {
+    "en_raw": "Taking damage from champions builds up a burst of needles that fly out of you, dealing damage and slowing nearby enemies.",
+    "en_clean": "Taking damage from champions builds up a burst of needles that fly out of you, dealing damage and slowing nearby enemies.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "pat_on_the_back": {
+    "en_raw": "Allies encourage you when you walk past, granting you a <shield>Shield</shield> and <speed>Movement Speed</speed>.",
+    "en_clean": "Allies encourage you when you walk past, granting you a Shield and Movement Speed.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "overextender": {
+    "en_raw": "Recall to enter your Cannon Launcher.  It has significantly increased range, travel speed, and damage.",
+    "en_clean": "Recall to enter your Cannon Launcher. It has significantly increased range, travel speed, and damage.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "pressure_cooker": {
+    "en_raw": "Every second, apply a stacking <keywordMajor>Burn</keywordMajor> to nearby enemy champions, scaling with your <scaleHealth>max Health</scaleHealth>.<br><br><font color='#F0C200'>QUEST:</font> Deal <keywordMajor>Burn</keywordMajor> damage to enemy Champions.<br><br><font color='#F0C200'>REWARD</font>: Size and damage increase per Quest Level.",
+    "en_clean": "Every second, apply a stacking Burn to nearby enemy champions, scaling with your max Health.QUEST: Deal Burn damage to enemy Champions.REWARD: Size and damage increase per Quest Level.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "shark_bait": {
+    "en_raw": "A few seconds after death, a shark chomps all nearby enemies. You can move after death to aim the shark attack.",
+    "en_clean": "A few seconds after death, a shark chomps all nearby enemies. You can move after death to aim the shark attack.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "dive_bomber": {
+    "en_raw": "Upon death, you explode to deal [stat:truedmg]true damage[/stat] equal to [stat:health]20% of the target's [b]maximum[/b] health[/stat] to enemies within 500 units.",
+    "en_clean": "Upon death, you explode to deal true damage equal to 20% of the target's maximum health to enemies within 500 units.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "typhoon": {
+    "en_raw": "Basic attacks fire a bolt at an additional target that deals [stat:damage]30% AD[/stat] [stat:physical]physical damage[/stat] and applies on-hit effects.",
+    "en_clean": "Basic attacks fire a bolt at an additional target that deals 30% AD physical damage and applies on-hit effects.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "poltergeist": {
+    "en_raw": "Replace a summoner spell with Poltergeist.[br/][br/][b]Poltergeist:[/b]",
+    "en_clean": "Replace a summoner spell with Poltergeist. Poltergeist:",
+    "has_nums": false,
+    "tier": "silver"
+  },
+  "sonic_boom": {
+    "en_raw": "Granting a buff, heal, or shield to your ally deals [stat:truedmg]30 to 150 true damage[/stat] to enemies within 450 units of them and slows targets by 30% for 2 seconds (2 second cooldown).",
+    "en_clean": "Granting a buff, heal, or shield to your ally deals 30 to 150 true damage to enemies within 450 units of them and slows targets by 30% for 2 seconds (2 second cooldown).",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "swift_and_safe": {
+    "en_raw": "After dashing or blinking, gain a shield that lasts for 2 seconds and absorbs 65 to 290 [stat:damage](+ 65% AD)[/stat] [stat:ap](+ 26% AP)[/stat] damage (5 second cooldown).",
+    "en_clean": "After dashing or blinking, gain a shield that lasts for 2 seconds and absorbs 65 to 290 (+ 65% AD) (+ 26% AP) damage (5 second cooldown).",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "shadow_runner": {
+    "en_raw": "After dashing, blinking, or exiting stealth, gain [stat:ms]300 [b]bonus[/b] movement speed[/stat] for 2 seconds.",
+    "en_clean": "After dashing, blinking, or exiting stealth, gain 300 bonus movement speed for 2 seconds.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "kill_secured": {
+    "en_raw": "Gain [stat:ms]60% [b]bonus[/b] movement speed[/stat] towards enemy champions below [stat:health]40% of their [b]maximum[/b] health[/stat].",
+    "en_clean": "Gain 60% bonus movement speed towards enemy champions below 40% of their maximum health.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "hextech_soul": {
+    "en_raw": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "en_clean": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "has_nums": false,
+    "tier": "silver"
+  },
+  "ocean_soul": {
+    "en_raw": "Grants the Ocean Dragon Soul, which has a modified base heal value of 100, or a different Dragon Soul if you aleady have it.",
+    "en_clean": "Grants the Ocean Dragon Soul, which has a modified base heal value of 100, or a different Dragon Soul if you aleady have it.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "infernal_soul": {
+    "en_raw": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "en_clean": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you aleady have it.",
+    "has_nums": false,
+    "tier": "silver"
+  },
+  "mind_to_matter": {
+    "en_raw": "Grants [stat:health][b]bonus[/b] health[/stat] equal to [stat:mana]50% [b]maximum[/b] mana[/stat].",
+    "en_clean": "Grants bonus health equal to 50% maximum mana.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "purist_caster": {
+    "en_raw": "Convert [b]all[/b] of your [stat:as][b]bonus[/b] attack speed[/stat] into [stat:ah]ability haste[/stat] at a rate of [stat:ah]0.65 ability haste[/stat] per [stat:as]1% [b]bonus[/b] attack speed[/stat]. Additionally, your abilities' [b]total[/b] cooldowns are reduced by 10%.",
+    "en_clean": "Convert all of your bonus attack speed into ability haste at a rate of 0.65 ability haste per 1% bonus attack speed. Additionally, your abilities' total cooldowns are reduced by 10%.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "spin_me_right_round": {
+    "en_raw": "Replace a summoner spell with Heroic Swing.[br/][br/][b]Heroic Swing - Active:[/b] You can activate Heroic Swing three times before the ability goes on cooldown, and you can use the third cast only after 0.5 seconds of the second cast. An attack or movement command may be inputted to use the second and third casts.[br/][br/][b]First Cast:[/b] Fire a hook in the target direction that embeds in the first terrain hit for 2 seconds. Heroic Swing's second cast can be used while the hook is attached. If the hook fails to attach or you become immobilized, grounded, or polymorphed within the duration, Heroic Swing is cancelled and placed on full cooldown.[br/][br/][b]Second Cast:[/b] Swing around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to your facing direction, stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest visible enemy every 0.2 to deal them [stat:physical]15 to 90[/stat] [stat:damage](+ 15% AD)[/stat] x [stat:as](1 + 0.3 per 100% [b]bonus[/b] attack speed)[/stat] [stat:physical]physical damage[/stat] and apply on-hit effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be interrupted if you are affected by any immobilizing or polymorphing crowd control during the dash.[br/][br/][b]Third Cast:[/b] End the swing by jumping to the target location and fire one last shot at a nearby visible enemy.[br/][br/]Scoring an enemy champion takedown reduces Heroic Swing's [b]current[/b] cooldown to 0.5 seconds.",
+    "en_clean": "Replace a summoner spell with Heroic Swing. Heroic Swing - Active: You can activate Heroic Swing three times before the ability goes on cooldown, and you can use the third cast only after 0.5 seconds of the second cast. An attack or movement command may be inputted to use the second and third casts. First Cast: Fire a hook in the target direction that embeds in the first terrain hit for 2 seconds. Heroic Swing's second cast can be used while the hook is attached. If the hook fails to attach or you become immobilized, grounded, or polymorphed within the duration, Heroic Swing is cancelled and placed on full cooldown. Second Cast: Swing around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to your facing direction, stopping upon colliding with an enemy champion or terrain. While swinging, fire at the nearest visible enemy every 0.2 to deal them 15 to 90 (+ 15% AD) x (1 + 0.3 per 100% bonus attack speed) physical damage and apply on-hit effects for each shot, with on-hit damage reduced to 25% effectiveness. The dash will be interrupted if you are affected by any immobilizing or polymorphing crowd control during the dash. Third Cast: End the swing by jumping to the target location and fire one last shot at a nearby visible enemy. Scoring an enemy champion takedown reduces Heroic Swing's current cooldown to 0.5 seconds.",
+    "has_nums": true,
+    "tier": "silver"
+  },
+  "archmage": {
+    "en_raw": "Casting a spell refunds another random spell's cost by the required number of% of the original spell's Cooldown.",
+    "en_clean": "Casting a spell refunds another random spell's cost by the required number of% of the original spell's Cooldown.",
+    "has_nums": false,
+    "tier": "gold"
+  },
+  "double_defense": {
+    "en_raw": "Shields granted from your chosen ability are stronger and scaling with target's missing Health.",
+    "en_clean": "Shields granted from your chosen ability are stronger and scaling with target's missing Health.",
+    "has_nums": false,
+    "tier": "silver"
+  },
+  "flash_2": {
+    "en_raw": "Replace a summoner spell with Flash. Additionally, gain 70 summoner spell haste.[br/][br/]You have Flash in both of your summoner spell slots while equipped with this augment, and they do not share cooldowns when either of them are used.",
+    "en_clean": "Replace a summoner spell with Flash. Additionally, gain 70 summoner spell haste. You have Flash in both of your summoner spell slots while equipped with this augment, and they do not share cooldowns when either of them are used.",
+    "has_nums": true,
+    "tier": "silver"
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "source": "arammayhem.com",
+  "scraped_at": "2026-06-17T01:14:33Z",
+  "total": 64,
+  "success": 64,
+  "with_effect": 64,
+  "with_champions": 0,
+  "errors": 0,
+  "results": [
+    {
+      "slug": "archmage",
+      "effect_cn": "施放一个技能会返还另一个随机技能的花费，数额相当于若干%原技能冷却时间。",
+      "effect_en": null,
+      "champions": [],
+      "id": "archmage",
+      "name": "大法师",
+      "is_new": true
+    },
+    {
+      "slug": "void-immolation",
+      "effect_cn": "即刻：获得一个斑比的熔渣并且你可以同时购买两件献祭装备。 需求：持有【日炎圣盾】和【璀璨回响】。 奖励：将【日炎圣盾】和【璀璨回响】组合成【虚空献祭】。",
+      "effect_en": null,
+      "champions": [],
+      "id": "void_immolation",
+      "name": "任务：艾卡西亚的陷落",
+      "is_new": true
+    },
+    {
+      "slug": "double-defense",
+      "effect_cn": "来自【所选技能】技能的护盾变得更强并且受益于目标的已损失生命值。",
+      "effect_en": null,
+      "champions": [],
+      "id": "double_defense",
+      "name": "双重防御",
+      "is_new": true
+    },
+    {
+      "slug": "flash-2",
+      "effect_cn": "虚空裂隙前期秒脆皮后期烧大肉，装备出法穿补伤害，其他海克斯可拿移速可拿坦度 / 打团千万别着急拉扯站草里等机会一个q人后w后拉跑，e可以打消耗，大招可以开团但不是必要的。",
+      "effect_en": null,
+      "champions": [],
+      "id": "flash_2",
+      "name": "闪闪现现",
+      "is_new": true
+    },
+    {
+      "slug": "flashbang",
+      "effect_cn": "你在【闪现】时会在你周围引发爆炸，造成70 - 240 (基于等级) (+ 70% AD) (+ 60% AP) 魔法伤害和持续@SlowDuration@秒的@SlowAmount*100@%减速。每次阵亡时重置闪现。",
+      "effect_en": null,
+      "champions": [],
+      "id": "flashbang",
+      "name": "闪光弹",
+      "is_new": true
+    },
+    {
+      "slug": "cant-touch-this",
+      "effect_cn": "施放你的终极技能会使你进入持续@InvulnDuration@秒的的免疫伤害状态(@Cooldown@秒冷却时间)。",
+      "effect_en": null,
+      "champions": [],
+      "id": "cant_touch_this",
+      "name": "你摸不到",
+      "is_new": true
+    },
+    {
+      "slug": "mystery-augment",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "mystery_augment",
+      "name": "???",
+      "is_new": true
+    },
+    {
+      "slug": "bounce-of-the-poro-king",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "bounce_of_the_poro_king",
+      "name": "魄罗之王的弹跳",
+      "is_new": true
+    },
+    {
+      "slug": "buff-buddies",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "buff_buddies",
+      "name": "霸符兄弟",
+      "is_new": true
+    },
+    {
+      "slug": "cheating",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "cheating",
+      "name": "作弊：我能回城！",
+      "is_new": true
+    },
+    {
+      "slug": "clown-college",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "clown_college",
+      "name": "小丑学院",
+      "is_new": true
+    },
+    {
+      "slug": "crack-open-that-egg",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "crack_open_that_egg",
+      "name": "砸开那颗蛋",
+      "is_new": true
+    },
+    {
+      "slug": "crit-n-cast",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "crit_n_cast",
+      "name": "由暴生急",
+      "is_new": true
+    },
+    {
+      "slug": "critical-healing",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "critical_healing",
+      "name": "会心治疗",
+      "is_new": true
+    },
+    {
+      "slug": "critical-missile",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "critical_missile",
+      "name": "暴击飞弹",
+      "is_new": true
+    },
+    {
+      "slug": "critical-rhythm",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "critical_rhythm",
+      "name": "暴击律动",
+      "is_new": true
+    },
+    {
+      "slug": "demons-dance",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "demons_dance",
+      "name": "魔鬼之舞",
+      "is_new": true
+    },
+    {
+      "slug": "devil-on-your-shoulder",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "devil_on_your_shoulder",
+      "name": "你肩上的恶魔",
+      "is_new": true
+    },
+    {
+      "slug": "dimension-shift",
+      "effect_cn": "该强化符文已在 26.12 版本上线。胜率、登场率、排名和适配英雄会在 ARAM Mayhem 对局数据充足后更新。",
+      "effect_en": null,
+      "champions": [],
+      "id": "dimension_shift",
+      "name": "位面转移",
+      "is_new": true
+    },
+    {
+      "slug": "double-tap",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "double_tap",
+      "name": "双发快射",
+      "is_new": true
+    },
+    {
+      "slug": "droppybara",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "droppybara",
+      "name": "卡皮巴拉空投",
+      "is_new": true
+    },
+    {
+      "slug": "feel-the-burn",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "feel_the_burn",
+      "name": "感受燃烧",
+      "is_new": true
+    },
+    {
+      "slug": "final-city-transit",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "final_city_transit",
+      "name": "最终都市列车",
+      "is_new": true
+    },
+    {
+      "slug": "frost-wraith",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "frost_wraith",
+      "name": "冰霜 幽灵",
+      "is_new": true
+    },
+    {
+      "slug": "gash",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "gash",
+      "name": "砍伤",
+      "is_new": true
+    },
+    {
+      "slug": "grandmas-chili-oil",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "grandmas_chili_oil",
+      "name": "祖母的辣椒油",
+      "is_new": true
+    },
+    {
+      "slug": "hat-on-a-hat",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "hat_on_a_hat",
+      "name": "帽上加帽",
+      "is_new": true
+    },
+    {
+      "slug": "heads-up-cupcake",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "heads_up_cupcake",
+      "name": "当心小蛋糕！",
+      "is_new": true
+    },
+    {
+      "slug": "holy-fire",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "holy_fire",
+      "name": "圣火",
+      "is_new": true
+    },
+    {
+      "slug": "im-a-baby-kitty-where-is-mama",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "im_a_baby_kitty_where_is_mama",
+      "name": "小猫咪找妈妈",
+      "is_new": true
+    },
+    {
+      "slug": "its-critical",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "its_critical",
+      "name": "关键暴击",
+      "is_new": true
+    },
+    {
+      "slug": "keystone-conjurer",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "keystone_conjurer",
+      "name": "基石法师",
+      "is_new": true
+    },
+    {
+      "slug": "laser-heal",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "laser_heal",
+      "name": "激光治疗",
+      "is_new": true
+    },
+    {
+      "slug": "lightning-strikes",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "lightning_strikes",
+      "name": "闪电打击",
+      "is_new": true
+    },
+    {
+      "slug": "one-trick-pony",
+      "effect_cn": "该强化符文已在 26.12 版本上线。胜率、登场率、排名和适配英雄会在 ARAM Mayhem 对局数据充足后更新。",
+      "effect_en": null,
+      "champions": [],
+      "id": "one_trick_pony",
+      "name": "绝活玩家",
+      "is_new": true
+    },
+    {
+      "slug": "orbitallaser",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "orbitallaser",
+      "name": "轨道镭射",
+      "is_new": true
+    },
+    {
+      "slug": "perseverance",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "perseverance",
+      "name": "坚韧",
+      "is_new": true
+    },
+    {
+      "slug": "poro-blaster",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "poro_blaster",
+      "name": "魄罗爆破手",
+      "is_new": true
+    },
+    {
+      "slug": "quantum-computing",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "quantum_computing",
+      "name": "量子计算",
+      "is_new": true
+    },
+    {
+      "slug": "rabble-rousing",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "rabble_rousing",
+      "name": "古式佳酿",
+      "is_new": true
+    },
+    {
+      "slug": "red-envelopes",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "red_envelopes",
+      "name": "红包",
+      "is_new": true
+    },
+    {
+      "slug": "repulsor",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "repulsor",
+      "name": "退敌力场",
+      "is_new": true
+    },
+    {
+      "slug": "restless-restoration",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "restless_restoration",
+      "name": "无休回复",
+      "is_new": true
+    },
+    {
+      "slug": "self-destruct",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "self_destruct",
+      "name": "自我毁灭",
+      "is_new": true
+    },
+    {
+      "slug": "slow-and-steady",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "slow_and_steady",
+      "name": "一板一眼",
+      "is_new": true
+    },
+    {
+      "slug": "slow-cooker",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "slow_cooker",
+      "name": "慢炖",
+      "is_new": true
+    },
+    {
+      "slug": "snowball-roulette",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "snowball_roulette",
+      "name": "雪球扭蛋机",
+      "is_new": true
+    },
+    {
+      "slug": "snowball-upgrade",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "snowball_upgrade",
+      "name": "升级：雪球",
+      "is_new": true
+    },
+    {
+      "slug": "speed-demon",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "speed_demon",
+      "name": "速度恶魔",
+      "is_new": true
+    },
+    {
+      "slug": "surge-field",
+      "effect_cn": "该强化符文已在 26.12 版本上线。胜率、登场率、排名和适配英雄会在 ARAM Mayhem 对局数据充足后更新。",
+      "effect_en": null,
+      "champions": [],
+      "id": "surge_field",
+      "name": "电涌力场",
+      "is_new": true
+    },
+    {
+      "slug": "tank-it-or-leave-it",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "tank_it_or_leave_it",
+      "name": "会心防御",
+      "is_new": true
+    },
+    {
+      "slug": "the-brutalizer",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "the_brutalizer",
+      "name": "残暴之力",
+      "is_new": true
+    },
+    {
+      "slug": "tormentor",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "tormentor",
+      "name": "折磨者",
+      "is_new": true
+    },
+    {
+      "slug": "trailblazer",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "trailblazer",
+      "name": "开拓者",
+      "is_new": true
+    },
+    {
+      "slug": "trueshotprodigy",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "trueshotprodigy",
+      "name": "精准奇才",
+      "is_new": true
+    },
+    {
+      "slug": "twice-thrice",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "twice_thrice",
+      "name": "接二连三",
+      "is_new": true
+    },
+    {
+      "slug": "upgrade-cutlass",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "upgrade_cutlass",
+      "name": "升级：弯刀",
+      "is_new": true
+    },
+    {
+      "slug": "upgrade-hubris",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "upgrade_hubris",
+      "name": "升级：狂妄",
+      "is_new": true
+    },
+    {
+      "slug": "upgrade-thornmail",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "upgrade_thornmail",
+      "name": "升级：荆棘之甲",
+      "is_new": true
+    },
+    {
+      "slug": "vampirism",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "vampirism",
+      "name": "吸血习性",
+      "is_new": true
+    },
+    {
+      "slug": "void-rift",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "void_rift",
+      "name": "虚空裂隙",
+      "is_new": true
+    },
+    {
+      "slug": "vulnerability",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "vulnerability",
+      "name": "易损",
+      "is_new": true
+    },
+    {
+      "slug": "weighted-popoffs",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "weighted_popoffs",
+      "name": "负重爆气",
+      "is_new": true
+    },
+    {
+      "slug": "wind-beneath-blade",
+      "effect_cn": "该强化符文已在 26.12 版本从正式 ARAM Mayhem 中移除。页面仍保留用于版本历史、旧视频和组合引用。",
+      "effect_en": null,
+      "champions": [],
+      "id": "wind_beneath_blade",
+      "name": "刃下生风",
+      "is_new": true
+    }
+  ],
+  "error_details": []
+}

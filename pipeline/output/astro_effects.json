@@ -1,0 +1,122 @@
+{
+  "quest_urfs_champion": {
+    "en": "Quest: Score 18 champion takedowns.[br/][br/]Reward: Upon completing your Quest, you receive The Golden Spatula.",
+    "cn": "需求：参与击杀@TakedownsNeeded@次。[br/][br/]奖励：金铲铲"
+  },
+  "multishot": {
+    "en": "<font color='#F0C200'>QUEST: Hit enemy Champions with your chosen ability the required number of times.<font color='#F0C200'>REWARD: Fire additional missiles per Quest Level.",
+    "cn": "<font color='#F0C200'>任务：用【所选技能】技能命中敌方英雄若干次。<font color='#F0C200'>奖励：发射数量基于任务等级的额外飞弹。"
+  },
+  "courage_of_the_colossus": {
+    "en": "Immobilizing or grounding an enemy champion grants a shield for 3 seconds that absorbs 100 to 300 (+ 5% maximum health) damage (5 second cooldown per cast instance). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
+    "cn": "定身或缚地一个敌方英雄后获得100 – 300(基于等级)（+ 5%最大生命值）护盾值。[br/]"
+  },
+  "quickstep": {
+    "en": "When you use your chosen ability, dash towards your cursor.",
+    "cn": "当你使用【所选技能】技能时，朝你的鼠标指针进行冲刺。"
+  },
+  "scopiest_weapons": {
+    "en": "Gain 250/150 bonus attack range.",
+    "cn": "获得300攻击距离，如果你是远程英雄则降低至150攻击距离。"
+  },
+  "jeweled_gauntlet": {
+    "en": "Your abilities can now critically strike for (145% + bonus critical damage) damage. Additionally, gain 25% (+ 4.5% per 100 AP) critical strike chance.[br/][br/]If both Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
+    "cn": "你的技能可以造成暴击，造成145%总伤害。获得25%(+ 4.5% AP)%暴击几率。"
+  },
+  "empyrean_promise": {
+    "en": "Replace a summoner spell with Empyrean Promise Vigilance active. Additionally, gain 15% heal and shield power.[br/][br/]Active - Vigilance: After a 0.25-second delay, dash to the current location of the target allied champion and gain a 100 to 250 (+ 100% AP) (+ 10% bonus health) shield for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
+    "cn": "获得15%治疗和护盾强度，获得至高天诺言召唤师技能。警惕传送至你的友军并在着陆时提供持续3秒的100 - 250(基于等级) +100%AP + 10%额外生命值护盾值。"
+  },
+  "protein_shake": {
+    "en": "Gain 25% (+ 35% per 100 bonus armor) (+ 35% per 100 bonus magic resistance) heal and shield power.",
+    "cn": "获得25%(+35%额外护甲)(+35%额外魔抗)治疗和护盾强度。"
+  },
+  "chain_reaction": {
+    "en": "If a target Knocked Back by your chosen ability hits another champion, they are Knocked Up and dealt damage. When colliding with terrain, the Knock Up duration is extended and they are dealt bonus damage.",
+    "cn": "如果一个被【所选技能】技能击退的目标命中了另一个英雄，则二者都会被击飞并受到伤害。在与地形产生碰撞时，该击飞时长会延长并且他们会受到额外伤害。"
+  },
+  "poro_stampede": {
+    "en": "<font color='#F0C200'>QUEST: Gather Poro Snax and feed the required number of Poros.<font color='#F0C200'>REWARD: Gain the Poro Charge Summoner Spell, which launches waves of Poros at the enemy team. Additional waves unlock per Quest Level.\\\"Oho! Look how charming they are!\\\" — Poro Herder",
+    "cn": "<font color='#F0C200'>任务：收集【魄罗佳肴】并投喂若干只魄罗<font color='#F0C200'>奖励：获得【魄罗冲锋】召唤师技能，可让魄罗们对敌方队伍发动几波攻势。每任务等级都会解锁额外的波次。“噢吼！它们可真萌啊！”——魄罗驯养人"
+  },
+  "ok_boomerang": {
+    "en": "Automatically cast Boomerang Blade at the closest nearby enemy champion within 1250 units, dealing 40 to 200 (+ 30% bonus AD) (+ 20% AP) adaptive damage to enemies hit (10 second cooldown).",
+    "cn": "每@BaseCooldown@秒朝着一个附近的敌人自动施放投掷一个回力镖，对命中的敌人们造成40 – 200 (基于等级) (+ 22%额外AD) (+ 15% AP)自适应伤害。"
+  },
+  "pursuit_of_power": {
+    "en": "<font color='#F0C200'>QUEST: Hit enemy champions with your chosen ability the required number of times.<font color='#F0C200'>REWARD: Permanently increase your chosen ability damage.",
+    "cn": "<font color='#F0C200'>任务：用【所选技能】技能命中敌人若干次。<font color='#F0C200'>奖励：永久提升【所选技能】技能伤害。"
+  },
+  "lil_extra_help": {
+    "en": "Gain the required number of Attack Range and the required number of Attack Speed during your chosen ability duration.",
+    "cn": "在你的【所选技能】技能持续期间获得若干攻击距离和若干攻击速度。"
+  },
+  "pursuit_of_haste": {
+    "en": "<font color='#F0C200'>QUEST: Hit enemy champions with your chosen ability the required number of times.<font color='#F0C200'>REWARD: Gain Ability Haste on your chosen ability per Quest Level up to the required number of.",
+    "cn": "<font color='#F0C200'>任务：用【所选技能】技能命中敌方英雄若干次<font color='#F0C200'>奖励：【所选技能】技能获得技能急速，基于任务等级，至多至若干。"
+  },
+  "terror": {
+    "en": "Whenever you cast your chosen ability, Fear enemies around you.",
+    "cn": "每当你施放【所选技能】技能时，恐惧你周围的敌人们."
+  },
+  "scopier_weapons": {
+    "en": "Gain 200/100 bonus attack range.",
+    "cn": "获得200攻击距离，如果你是远程英雄则降低至100攻击距离。"
+  },
+  "warlock_juicebox": {
+    "en": "Gain the required number of Omnivamp.",
+    "cn": "获得若干全能吸血。"
+  },
+  "from_downtown": {
+    "en": "<font color='#F0C200'>QUEST: Snipe the required number of enemy champions with abilities<font color='#F0C200'>REWARD: Send a meteor at Sniped enemy champions, dealing Magic damage in an area around them",
+    "cn": "<font color='#F0C200'>任务：用技能狙击若干个敌方英雄<font color='#F0C200'>奖励：一颗流星会飞向被狙击的敌方英雄，在其周围的一个区域内造成魔法伤害"
+  },
+  "void_dash": {
+    "en": "Dashing with your chosen ability spawns a Void Zone that Slows enemy champions and deals magic damage.",
+    "cn": "用【所选技能】技能冲刺时会产生一片【虚空地带】来对敌方英雄们造成减速和魔法伤害。"
+  },
+  "soul_siphon": {
+    "en": "Your critical strikes heal you for 12% of damage dealt. Additionally, gain 25% critical strike chance.",
+    "cn": "获得@CritChance*100@%暴击几率和作用于暴击的@HealPercentage*100@%生命偷取。"
+  },
+  "bread_and_cheese": {
+    "en": "Your champion's third basic ability (E) gains 100 ability haste.",
+    "cn": "你的E获得@EAbilityHaste@技能急速。"
+  },
+  "bread_and_jam": {
+    "en": "Your champion's second basic ability (W) gains 100 ability haste.",
+    "cn": "你的W获得@WAbilityHaste@技能急速。"
+  },
+  "bread_and_butter": {
+    "en": "Your champion's first basic ability (Q) gains 100 ability haste.",
+    "cn": "你的Q获得100技能急速。"
+  },
+  "scoped_weapons": {
+    "en": "Gain 75/50 bonus attack range.",
+    "cn": "获得100攻击距离，如果你是远程英雄则降低至50攻击距离。"
+  },
+  "support_main": {
+    "en": "<font color='#F0C200'>QUEST: Heal allied champions for the required number of Health. <font color='#F0C200'>REWARD: Any healing you provide now also Heals Over Time after the initial heal.",
+    "cn": "<font color='#F0C200'>任务：治疗友方英雄若干生命值。<font color='#F0C200'>奖励：你提供的任何治疗效果现在还会在初始治疗之后提供持续治疗。"
+  },
+  "twin_fire": {
+    "en": "Damaging abilities launch 1 (+ 1 per 33.33% critical strike chance) firecracker missiles at the target that each deal 10 to 30 (+ 7% bonus AD) (+ 7% AP) magic damage (5 second cooldown). Additionally, gain 15% critical strike chance.",
+    "cn": "技能会发射1-4个飞弹(基于暴击率)，每个飞弹造成10-30(基于等级)(+7%额外攻击力+7%法术强度)魔法伤害，获得15%暴击几率"
+  },
+  "witchful_thinking": {
+    "en": "Grants 20 to 80 ability power.",
+    "cn": "获得20-80(基于等级)法术强度。"
+  },
+  "mighty_shield": {
+    "en": "Gain 40 to 100 adaptive force for 3 seconds upon gaining a shield (5 second cooldown).",
+    "cn": "当你获得护盾时，获得%i:miniAdaptiveForce%40-100(基于等级)适应之力，持续3秒。(5秒冷却时间)"
+  },
+  "juiced": {
+    "en": "Basic attacks on-hit consume 2.5% of your maximum mana to deal bonus magic damage equal to 3.5% of your maximum mana. This damage can critically strike for 100 bonus damage.",
+    "cn": "攻击会消耗2.5%最大法力值，造成相当于3.5%最大法力值的魔法伤害，该伤害可以暴击"
+  },
+  "zealot": {
+    "en": "Gain 35% (+ 5% per 100 AP) bonus attack speed and 25% (+ 5% per 100 AP) critical strike chance.",
+    "cn": "获得25%暴击率（+0.05%AP）和35%攻击速度（+0.05%AP）"
+  }
+}

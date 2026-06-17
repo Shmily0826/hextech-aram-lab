@@ -5,7 +5,7 @@
     "name_en": "Triple Shot",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的【?】技能会瞄准你前方2个额外的敌人。",
+    "effect": "你的【所选技能】技能会瞄准你前方2个额外的敌人。",
     "effect_en": "Your ? targets 2 additional enemies in front of you.",
     "source": {
       "type": "blitz_gg",
@@ -17,7 +17,10 @@
     "pick_rate": 48.71,
     "site_rank": 157,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "攻击力"
+    ]
   },
   {
     "id": "ominous_pact",
@@ -25,8 +28,8 @@
     "name_en": "Ominous Pact",
     "tier": "prismatic",
     "status": "active",
-    "effect": "基于已损失生命值，获得法术强度、移动速度和全能吸血，每次你施放技能时会对自身造成伤害。",
-    "effect_en": "Gain Ability Power, Movement Speed, and Omnivamp based on missing Health, taking damage each time you cast.",
+    "effect": "你的技能现在需要消耗5%当前生命值才能施放。作为回报，基于已损失生命值获得法术强度(70%损失时最高75-150)、0-50移动速度和最高15%全能吸血。",
+    "effect_en": "Your abilities now have a health cost of 5% current health to cast them. In return, you gain ability power based on your missing health, up to 75 to 150 at 70% missing health, 0 to 50 bonus movement speed, and up to 15% omnivamp.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ominous-pact"
@@ -51,8 +54,8 @@
     "name_en": "Draw Your Sword",
     "tier": "prismatic",
     "status": "active",
-    "effect": "变为近战状态，并且获得攻击力、生命值、攻击速度、生命偷取和移动速度 (每个属性都基于舍弃的攻击距离而进一步提升)。",
-    "effect_en": "Become melee and gain Attack Damage, Health, Attack Speed, Lifesteal, and Movement Speed (scaling with the range you give up).",
+    "effect": "变为近战状态，攻击距离改为200。此外获得30%额外攻击力、25%额外攻击速度、30%额外生命值、25%额外移动速度和20%生命偷取。这些加成基于舍弃的攻击距离进一步提升。",
+    "effect_en": "Become melee, modifying your attack range to 200 units. Additionally, gain 30% bonus attack damage, 25% bonus attack speed, 30% bonus health, 25% bonus movement speed, and 20% lifesteal. These bonuses scale with the range you give up.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/draw-your-sword"
@@ -89,7 +92,12 @@
     "pick_rate": 54.72,
     "site_rank": 50,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "法术强度",
+      "攻击力",
+      "任务"
+    ]
   },
   {
     "id": "quest_urfs_champion",
@@ -97,8 +105,8 @@
     "name_en": "Quest: Urf's Champion",
     "tier": "prismatic",
     "status": "active",
-    "effect": "任务：参与击杀?次。奖励：金铲铲",
-    "effect_en": "Quest: Score 18 champion takedowns. Reward: Upon completing your Quest:, you receive The Golden Spatula. If your inventory is full at the time of quest completion, the item will be granted as soon as a slot in the inventory is available.",
+    "effect": "任务：参与击杀18次。奖励：完成需求后获得金铲铲。",
+    "effect_en": "Quest: Score 18 champion takedowns. Reward: Upon completing your Quest, you receive The Golden Spatula.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quest-urfs-champion"
@@ -120,8 +128,8 @@
     "name_en": "Empowered By The Faithful",
     "tier": "prismatic",
     "status": "active",
-    "effect": "为友军提供治疗或护盾会赐福他们，使其伤害填充你的虔诚。当你拥有足够的虔诚时，释放一道冲击波来造成魔法伤害并处决低生命值的敌人们。",
-    "effect_en": "Healing or Shielding allies blesses them, causing their damage to fill you with devotion. When you have enough devotion, unleash a shockwave dealing magic damage and executes low health enemies.",
+    "effect": "为友军提供治疗或护盾会赐福他们8秒。被赐福的友军对敌方英雄造成伤害时，你获得1层虔诚(最高50层)。满层时释放一道冲击波造成魔法伤害并处决低生命值敌人。",
+    "effect_en": "Granting a heal or shield to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching 50 stacks, unleash a shockwave dealing magic damage and executing low health enemies.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/empowered-by-the-faithful"
@@ -189,7 +197,11 @@
     "pick_rate": 52.93,
     "site_rank": 79,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "龙魂",
+      "随机"
+    ]
   },
   {
     "id": "blade_waltz",
@@ -250,8 +262,8 @@
       "attack_speed",
       "heal"
     ],
-    "win_rate": null,
-    "pick_rate": null,
+    "win_rate": 54.96,
+    "pick_rate": 1.84,
     "site_rank": 248,
     "stats_source": "arammayhem_com",
     "stats_updated": "2026-06-17"
@@ -347,8 +359,8 @@
     "name_en": "Stuck in Here With Me",
     "tier": "prismatic",
     "status": "active",
-    "effect": "使用你的终极技能时会嘲讽附近的敌人们并提供给你伤害减免。",
-    "effect_en": "Using your Ultimate Taunts nearby enemies and grants you damage reduction.",
+    "effect": "施放终极技能时创造一个500范围的领域持续2秒，期间你获得40%伤害减免。结束后嘲讽领域内的所有敌人。",
+    "effect_en": "Casting your ultimate ability creates an aura with a radius of 500 units around you for 2 seconds, during which you also gain 40% damage reduction. After the duration, you taunt all enemies within the area.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/stuck-in-here-with-me"
@@ -370,7 +382,7 @@
     "name_en": "Spell Splitting",
     "tier": "prismatic",
     "status": "active",
-    "effect": "在命中时、最大距离时或再次施放时，你的【?】技能的飞弹会分裂为两部分。",
+    "effect": "在命中时、最大距离时或再次施放时，你的【所选技能】技能的飞弹会分裂为两部分。",
     "effect_en": "Your ? missile splits into two on hit, at max Range, or when Recast.",
     "source": {
       "type": "blitz_gg",
@@ -382,7 +394,10 @@
     "pick_rate": 47.4,
     "site_rank": 170,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "飞弹"
+    ]
   },
   {
     "id": "echoing_release",
@@ -390,7 +405,7 @@
     "name_en": "Echoing Release",
     "tier": "prismatic",
     "status": "active",
-    "effect": "施放你的【?】技能时会朝你的鼠标位置派出一个复制体并再次施放该技能。",
+    "effect": "施放你的【所选技能】技能时会朝你的鼠标位置派出一个复制体并再次施放该技能。",
     "effect_en": "Casting your ? sends a clone toward your mouse position and recasts it.",
     "source": {
       "type": "blitz_gg",
@@ -404,7 +419,11 @@
     "pick_rate": 46.67,
     "site_rank": 172,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "回响",
+      "施放"
+    ]
   },
   {
     "id": "back_to_basics",
@@ -417,8 +436,8 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "获得提升过的技能伤害、治疗效果、护盾和技能急速，但你不能使用你的终极技能。",
-    "effect_en": "Gain increased Ability Damage, Healing, Shielding, and Ability Haste, but you cannot use your Ultimate Ability.",
+    "effect": "你的技能造成35%额外伤害，获得70技能急速，所有来源的治疗和护盾效果提升35%，但你的终极技能被永久封印。",
+    "effect_en": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased healing and shielding from all sources, but your ultimate ability is permanently sealed.",
     "tags": [
       "damage",
       "utility",
@@ -476,8 +495,8 @@
     "name_en": "Multishot",
     "tier": "prismatic",
     "status": "active",
-    "effect": "任务：用【?】技能命中敌方英雄?次。奖励：发射数量基于任务等级的额外飞弹。",
-    "effect_en": "QUEST: Hit enemy Champions with ? ? times. REWARD: Fire additional missiles per Quest Level.",
+    "effect": "任务：用【所选技能】技能命中敌方英雄8次。奖励：发射数量基于任务等级的额外飞弹。",
+    "effect_en": "QUEST: Hit enemy Champions with your chosen ability the required number of times.REWARD: Fire additional missiles per Quest Level.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/multishot"
@@ -488,7 +507,12 @@
     "pick_rate": 45.92,
     "site_rank": 175,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "攻击力",
+      "任务",
+      "飞弹"
+    ]
   },
   {
     "id": "earthwake",
@@ -503,7 +527,7 @@
       "url": "https://arammayhem.com/zh-cn/augments/earthwake"
     },
     "aliases": [],
-    "patch_added": "26.12",
+    "patch_added": "",
     "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
@@ -512,8 +536,8 @@
     "name_en": "Goldrend",
     "tier": "prismatic",
     "status": "active",
-    "effect": "用攻击或技能对一个英雄造成伤害时会造成额外魔法伤害，并为你提供金币和 移动速度。",
-    "effect_en": "Damaging a champion with Attacks or Abilities deals additional magic damage, and grants you Gold and Movement Speed.",
+    "effect": "对敌方英雄的攻击或技能造成50-150(+40%额外AD)(+20%AP)额外魔法伤害，并获得30金币和25%额外移动速度，持续1.5秒(30秒冷却)。",
+    "effect_en": "Damaging basic attacks or abilities against enemy champions deal 50 to 150 (+40% bonus AD) (+20% AP) bonus magic damage, and grant you 30 gold and 25% bonus movement speed for 1.5 seconds (30 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/goldrend"
@@ -537,8 +561,8 @@
     "name_en": "King Me",
     "tier": "prismatic",
     "status": "active",
-    "effect": "当你第一次携带一件传说级装备并乘坐敌人的传送门时，你会加冕为王，升级你的装备并获得一个随机棱彩阶强化符文。",
-    "effect_en": "Upon entering the enemy team's gate or Catapult for the first time, either of which are located near their spawn, you become Kinged, causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all Includes AH, AP, AD, AS, AR, MR, and HP on the item is increased by exactly 1000 gold. King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+    "effect": "首次进入敌方传送门或弹射器时加冕为王，获得1个随机棱彩阶强化符文，且你的第一件传说级装备升级。",
+    "effect_en": "Upon entering the enemy gate or Catapult for the first time, you become Kinged, gaining one random Prismatic augment and upgrading your first legendary item.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/king-me"
@@ -608,8 +632,8 @@
     "name_en": "Giant Slayer",
     "tier": "prismatic",
     "status": "active",
-    "effect": "体型变小，获得移动速度，并基于敌方英雄体型大于你的程度获得额外伤害。",
-    "effect_en": "Become tiny, gain Movement Speed, and gain bonus damage to champions based on how much larger they are than you.",
+    "effect": "体型缩小75%，获得30%额外移动速度。对体型大于你的敌方英雄造成10/15/25/30额外伤害。",
+    "effect_en": "Become tiny, reducing your size by 75% and gaining 30% bonus movement speed. Additionally, deal 10/15/25/30 bonus damage against enemy champions with greater size than you.",
     "source": {
       "type": "arammayhem_wiki",
       "url": "https://arammayhem.com/zh-cn/augments/giant-slayer"
@@ -632,8 +656,8 @@
     "name_en": "Courage of the Colossus",
     "tier": "prismatic",
     "status": "active",
-    "effect": "定身或缚地一个敌方英雄后获得?护盾值。",
-    "effect_en": "Gain ? Shield after Immobilizing or Grounding an enemy champion.",
+    "effect": "定身或缚地一个敌方英雄后获得100-300(基于等级)(+5%最大生命值)护盾值。5秒冷却。",
+    "effect_en": "Immobilizing or grounding an enemy champion grants a shield for 3 seconds that absorbs 100 to 300 (+ 5% maximum health) damage (5 second cooldown per cast instance). Shields can stack between multiple triggers of this effect, though not refreshing the duration of previous shields.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/courage-of-the-colossus"
@@ -656,8 +680,8 @@
     "name_en": "Quickstep",
     "tier": "prismatic",
     "status": "active",
-    "effect": "当你使用【?】技能时，朝你的鼠标指针进行冲刺。",
-    "effect_en": "When you use ?, dash towards your cursor.",
+    "effect": "当你使用【所选技能】技能时，朝你的鼠标指针进行冲刺。",
+    "effect_en": "When you use your chosen ability, dash towards your cursor.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/quickstep"
@@ -668,7 +692,10 @@
     "pick_rate": 44.24,
     "site_rank": 180,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "冲刺"
+    ]
   },
   {
     "id": "symphony_of_war",
@@ -699,7 +726,7 @@
     "name_en": "Triggered Inferno",
     "tier": "prismatic",
     "status": "active",
-    "effect": "获得悍勇本色。在你达到S评价等级时，自动使用炼狱扳机。",
+    "effect": "对不同敌方英雄的攻击或技能获得风格层数，持续6秒可无限叠加。达到S评价时自动使用炼狱扳机。",
     "effect_en": "Gain Daredevil Impulse. When you reach S Style, automatically use Inferno Trigger.",
     "source": {
       "type": "blitz_gg",
@@ -711,7 +738,11 @@
     "pick_rate": 48.78,
     "site_rank": 155,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "灼烧",
+      "攻击特效"
+    ]
   },
   {
     "id": "high_roller",
@@ -731,7 +762,11 @@
     "pick_rate": 63.62,
     "site_rank": 3,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "金币",
+      "属性锻造器"
+    ]
   },
   {
     "id": "infinite_recursion",
@@ -751,7 +786,10 @@
     "pick_rate": 59.93,
     "site_rank": 8,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速"
+    ]
   },
   {
     "id": "scopiest_weapons",
@@ -759,8 +797,8 @@
     "name_en": "Scopiest Weapons",
     "tier": "prismatic",
     "status": "active",
-    "effect": "获得?攻击距离。",
-    "effect_en": "Gain ? Attack Range.",
+    "effect": "获得300攻击距离，如果你是远程英雄则降低至150攻击距离。",
+    "effect_en": "Gain 250/150 bonus attack range.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scopiest-weapons"
@@ -771,7 +809,10 @@
     "pick_rate": 51.43,
     "site_rank": 111,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "攻击距离"
+    ]
   },
   {
     "id": "final_form",
@@ -840,8 +881,8 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "治疗效果和生命回复效果还会对相距最近的那个敌方英雄造成魔法伤害。",
-    "effect_en": "Healing and Health Regen also deals magic damage to the nearest enemy champion.",
+    "effect": "你的治疗和生命回复会对1000范围内最近的敌方英雄造成该数值70%的魔法伤害。",
+    "effect_en": "Healing and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units.",
     "tags": [
       "damage",
       "utility"
@@ -868,8 +909,8 @@
     "name_en": "Cruelty",
     "tier": "prismatic",
     "status": "active",
-    "effect": "定身或缚地一个英雄时，召唤一颗会在短暂延迟后着陆的彗星，对附近的敌人们造成魔法伤害。",
-    "effect_en": "On Immobilizing or Grounding a champion, summon a comet that lands after a delay, dealing magic damage to nearby enemies.",
+    "effect": "定身或缚地一个敌方英雄时召唤一颗彗星，1秒后着陆，对附近敌人造成50-150(+40%AP)(+4%最大生命值)魔法伤害。",
+    "effect_en": "Immobilizing or grounding an enemy champion summons a comet above them that lands after 1 second, dealing 50 to 150 (+40% AP) (+4% max health) magic damage to nearby enemies.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/cruelty"
@@ -988,8 +1029,8 @@
     "name_en": "Infernal Conduit",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的技能会施加一层可叠加的灼烧，持续造成魔法伤害。你的灼烧效果会降低你各基础技能的冷却时间。",
-    "effect_en": "Your Abilities apply stacking Burn that deals damage over time. Your Burn effects reduce your basic Ability Cooldowns.",
+    "effect": "你的技能命中英雄时施加持续5秒的灼烧，每秒造成1.2-12(+2.8%额外AD)(+1.2%AP)魔法伤害(每个施法实例1秒冷却)。灼烧效果可叠加，并且你的灼烧会降低你的基础技能冷却时间。",
+    "effect_en": "Your ability hits against champions apply a Burn for 5 seconds that deals 1.2 to 12 (+2.8% bonus AD) (+1.2% AP) bonus magic damage per second. Your Burn effects reduce your basic ability cooldowns.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/infernal-conduit"
@@ -1012,8 +1053,8 @@
     "name_en": "Master of Duality",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的每次攻击为你提供可叠加的法术强度，并且你的每次技能在伤害敌人时为你提供可叠加的攻击力。",
-    "effect_en": "Your Attacks grant you stacking Ability Power and your Abilities that damage enemies grant you Attack Damage.",
+    "effect": "攻击特效提供6-18法术强度，造成伤害的技能每次施法提供3-9攻击力，持续5秒可叠加。",
+    "effect_en": "Basic attacks on-hit grant 6 to 18 ability power and damaging abilities grant 3 to 9 bonus attack damage, lasting for 5 seconds, stacking.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/master-of-duality"
@@ -1063,8 +1104,8 @@
     "name_en": "Jeweled Gauntlet",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的技能可以造成暴击。获得 ?暴击几率。",
-    "effect_en": "Your Abilities can Critically Strike. Gain  ?% Crit Chance.",
+    "effect": "你的技能可以造成暴击，造成145%总伤害。获得25%(+4.5%每100AP)暴击几率。",
+    "effect_en": "Your abilities can now critically strike for (145% + bonus critical damage) damage. Additionally, gain 25% (+ 4.5% per 100 AP) critical strike chance. If both Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/jeweled-gauntlet"
@@ -1074,11 +1115,11 @@
     "tags": [
       "crit"
     ],
-    "win_rate": null,
-    "pick_rate": null,
     "site_rank": 212,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "win_rate": 59.0,
+    "pick_rate": 49.66
   },
   {
     "id": "hand_of_baron",
@@ -1098,7 +1139,11 @@
     "pick_rate": 54.18,
     "site_rank": 57,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "法术强度",
+      "攻击力"
+    ]
   },
   {
     "id": "can_t_touch_this",
@@ -1116,7 +1161,7 @@
     "tags": [
       "ability"
     ],
-    "patch_added": "26.12",
+    "patch_added": "",
     "patch_removed": null,
     "source": {
       "type": "lol_wiki_module",
@@ -1158,8 +1203,8 @@
     "name_en": "Mad Scientist",
     "tier": "prismatic",
     "status": "active",
-    "effect": "每次重生时，你的体型要么变大(获得适应之力和生命值)，要么变小(获得技能急速和移动速度)。",
-    "effect_en": "On each Revive, you grow large (gaining Adaptive Force and Health) or tiny (gaining Ability Haste and Movement Speed).",
+    "effect": "获得此强化和每次重生时，要么变大(获得30%适应之力、20%额外生命值和40%体型增大)，要么变小(获得70技能急速、40%额外移动速度和40%体型缩小)。",
+    "effect_en": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force, 20% bonus health, and 40% increased size or 70 ability haste, 40% bonus movement speed, and 40% reduced size.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mad-scientist"
@@ -1195,7 +1240,11 @@
     "pick_rate": 55.1,
     "site_rank": 45,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速",
+      "攻击特效"
+    ]
   },
   {
     "id": "drop_bear",
@@ -1227,8 +1276,8 @@
     "name_en": "Fey Magic",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的终极技能的伤害会对敌人造成持续若干秒的变形效果。",
-    "effect_en": "Damaging with your Ultimate Polymorphs enemies for a few seconds.",
+    "effect": "用终极技能伤害敌人会将其变形为无害的小动物2秒，期间基础移动速度降低60并被缴械(15秒冷却)。",
+    "effect_en": "Damaging enemies with your ultimate ability polymorphs them into harmless critters for 2 seconds, during which their base movement speed is reduced by 60 and disarms them (15 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/fey-magic"
@@ -1262,7 +1311,10 @@
     "pick_rate": 49.02,
     "site_rank": 147,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "终极技能"
+    ]
   },
   {
     "id": "ultimate_awakening",
@@ -1282,7 +1334,11 @@
     "pick_rate": 50.78,
     "site_rank": 121,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速",
+      "终极技能"
+    ]
   },
   {
     "id": "empyrean_promise",
@@ -1290,8 +1346,8 @@
     "name_en": "Empyrean Promise",
     "tier": "prismatic",
     "status": "active",
-    "effect": "获得15%治疗和护盾强度。获得至高天诺言作为一个召唤师技能。警惕传送至你的友军并在着陆时提供持续3秒的?护盾值。",
-    "effect_en": "Gain  15% Heal and Shield power. Gain Empyrean Promise as a Summoner Spell. Vigilance Teleport to an ally and grant ? Shield for 3 seconds after landing.",
+    "effect": "获得15%治疗和护盾强度，获得至高天诺言召唤师技能。警惕传送至你的友军并在着陆时提供持续3秒的100-250(基于等级)(+100%AP)(+10%额外生命值)护盾值。",
+    "effect_en": "Replace a summoner spell with Empyrean Promise Vigilance active. Additionally, gain 15% heal and shield power. Active - Vigilance: After a 0.25-second delay, dash to the current location of the target allied champion and gain a 100 to 250 (+ 100% AP) (+ 10% bonus health) shield for 3 seconds. Upon arrival, grant the ally the same shield (20 second cooldown; 2000 range).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/empyrean-promise"
@@ -1327,7 +1383,10 @@
     "pick_rate": 47.68,
     "site_rank": 168,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "终极技能"
+    ]
   },
   {
     "id": "icathian_fall",
@@ -1342,7 +1401,7 @@
       "url": "https://arammayhem.com/zh-cn/augments/icathian-fall"
     },
     "aliases": [],
-    "patch_added": "26.12",
+    "patch_added": "",
     "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
@@ -1351,8 +1410,8 @@
     "name_en": "Protein Shake",
     "tier": "prismatic",
     "status": "active",
-    "effect": "获得?%治疗和护盾强度，基于额外护甲和魔抗。",
-    "effect_en": "Gain ?% Heal and Shield Power based on bonus Armor and Magic Resist.",
+    "effect": "获得25%(+35%每100额外护甲)(+35%每100额外魔抗)治疗和护盾强度。",
+    "effect_en": "Gain 25% (+ 35% per 100 bonus armor) (+ 35% per 100 bonus magic resistance) heal and shield power.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/protein-shake"
@@ -1399,7 +1458,7 @@
     "name_en": "Overload",
     "tier": "prismatic",
     "status": "active",
-    "effect": "使用另一个技能会重置【?】技能的冷却时间。",
+    "effect": "使用另一个技能会重置【所选技能】技能的冷却时间。",
     "effect_en": "Using another Ability resets the cooldown of ?.",
     "source": {
       "type": "blitz_gg",
@@ -1411,7 +1470,11 @@
     "pick_rate": 52.35,
     "site_rank": 93,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "重置",
+      "技能"
+    ]
   },
   {
     "id": "tap_dancer",
@@ -1419,8 +1482,8 @@
     "name_en": "Tap Dancer",
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的攻击会为你提供移动速度。基于你的移动速度获得攻击速度。",
-    "effect_en": "Your Attacks grant you Movement Speed. Gain Attack Speed based on your Movement Speed.",
+    "effect": "对敌方英雄和小兵的攻击特效获得10移动速度，持续5秒可无限叠加。此外，基于你的移动速度获得额外攻击速度。",
+    "effect_en": "Basic attacks against champions and minions grant 10 bonus movement speed, lasting 5 seconds, stacking infinitely. Gain bonus attack speed based on your movement speed.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/tap-dancer"
@@ -1455,7 +1518,10 @@
     "pick_rate": null,
     "site_rank": 190,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "法术强度"
+    ]
   },
   {
     "id": "fan_the_hammer",
@@ -1496,8 +1562,8 @@
     "name_en": "Chain Reaction",
     "tier": "prismatic",
     "status": "active",
-    "effect": "如果一个被【?】技能击退的目标命中了另一个英雄，则二者都会被击飞并受到伤害。在与地形产生碰撞时，该击飞时长会延长并且他们会受到额外伤害。",
-    "effect_en": "If a target Knocked Back by ? hits another champion, they are Knocked Up and dealt damage. When colliding with terrain, the Knock Up duration is extended and they are dealt bonus damage.",
+    "effect": "如果一个被【所选技能】技能击退的目标命中了另一个英雄，则二者都会被击飞并受到伤害。在与地形产生碰撞时，该击飞时长会延长并且他们会受到额外伤害。",
+    "effect_en": "If a target Knocked Back by your chosen ability hits another champion, they are Knocked Up and dealt damage. When colliding with terrain, the Knock Up duration is extended and they are dealt bonus damage.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/chain-reaction"
@@ -1521,7 +1587,7 @@
     "name_en": "Pin Cushion",
     "tier": "prismatic",
     "status": "active",
-    "effect": "在【?】技能期间进行攻击会施加标记，其会在该持续时长结束时爆炸，从而造成伤害并提供移动速度。",
+    "effect": "在【所选技能】技能期间进行攻击会施加标记，其会在该持续时长结束时爆炸，从而造成伤害并提供移动速度。",
     "effect_en": "Attacks during ? apply Marks that explode at the end of its duration, dealing damage and granting Move Speed.",
     "source": {
       "type": "blitz_gg",
@@ -1597,8 +1663,8 @@
     ],
     "tier": "prismatic",
     "status": "active",
-    "effect": "你的攻击会处决低生命值的敌方英雄，从而击退并引发一次爆炸，同时治疗你自身。",
-    "effect_en": "Your Attacks execute low Health enemy champions, Knocking Back and causing an explosion while healing you.",
+    "effect": "你的攻击和技能处决生命值低于5%(+3%每100AD)(+0.2%每1000最大生命值)的敌方英雄，将其击飞并引发爆炸，同时治疗你自身。",
+    "effect_en": "Your attacks and abilities execute enemy champions below 5% (+3% per 100 AD) (+0.2% per 1000 max health) of their max health, knocking back and causing an explosion while healing you.",
     "tags": [
       "damage",
       "utility",
@@ -1627,8 +1693,8 @@
     "name_en": "Poro Stampede",
     "tier": "prismatic",
     "status": "active",
-    "effect": "任务：收集【魄罗佳肴】并投喂?只魄罗奖励：获得【魄罗冲锋】召唤师技能，可让魄罗们对敌方队伍发动几波攻势。每任务等级都会解锁额外的波次。“噢吼！它们可真萌啊！”——魄罗驯养人",
-    "effect_en": "QUEST: Gather Poro Snax and feed ? Poros. REWARD: Gain the Poro Charge Summoner Spell, which launches waves of Poros at the enemy team. Additional waves unlock per Quest Level.",
+    "effect": "任务：收集【魄罗佳肴】并投喂5只魄罗。奖励：获得【魄罗冲锋】召唤师技能，可让魄罗们对敌方队伍发动几波攻势。每任务等级都会解锁额外的波次。",
+    "effect_en": "QUEST: Gather Poro Snax and feed the required number of Poros.REWARD: Gain the Poro Charge Summoner Spell, which launches waves of Poros at the enemy team. Additional waves unlock per Quest Level.\\\"Oho! Look how charming they are!\\\" — Poro Herder",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/poro-stampede"
@@ -1674,7 +1740,7 @@
     "name_en": "Merciful Strike",
     "tier": "gold",
     "status": "active",
-    "effect": "在使用【?】技能之后，你的下一次普攻获得攻击距离、攻击速度并造成额外最大生命值魔法伤害。",
+    "effect": "在使用【所选技能】技能之后，你的下一次普攻获得50攻击距离、50%攻击速度并造成额外10%最大生命值魔法伤害。",
     "effect_en": "After using ?, your next basic attack gains attack range, attack speed and deals bonus max Health magic damage.",
     "source": {
       "type": "blitz_gg",
@@ -1741,7 +1807,11 @@
     "pick_rate": 59.77,
     "site_rank": 11,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "任务",
+      "终极技能"
+    ]
   },
   {
     "id": "all_for_you",
@@ -1755,8 +1825,8 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "你的治疗和护盾在用在一个友军身上时会变强。",
-    "effect_en": "Your Heals and Shields are stronger when used on an ally.",
+    "effect": "你对友军的治疗和护盾效果提升30%。",
+    "effect_en": "Your heals and shields on allied champions are increased in effectiveness by 30%.",
     "tags": [
       "healing",
       "tank"
@@ -1968,8 +2038,8 @@
     "name_en": "OK Boomerang",
     "tier": "gold",
     "status": "active",
-    "effect": "每?秒朝着一个附近的敌人自动施放投掷一个回力镖。",
-    "effect_en": "Autocast throw a boomerang at a nearby enemy every ?s.",
+    "effect": "每10秒朝着一个附近的敌人自动施放投掷一个回力镖，对命中的敌人们造成40-200(基于等级)(+22%额外AD)(+15%AP)自适应伤害。",
+    "effect_en": "Automatically cast Boomerang Blade at the closest nearby enemy champion within 1250 units, dealing 40 to 200 (+ 30% bonus AD) (+ 20% AP) adaptive damage to enemies hit (10 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ok-boomerang"
@@ -1980,7 +2050,11 @@
     "pick_rate": 49.49,
     "site_rank": 138,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "回力镖",
+      "自动施放"
+    ]
   },
   {
     "id": "terrain_expert",
@@ -1988,7 +2062,7 @@
     "name_en": "Terrain Expert",
     "tier": "gold",
     "status": "active",
-    "effect": "你的【?】技能会在它周围的一个区域内造成伤害。",
+    "effect": "你的【所选技能】技能会在它周围的一个区域内造成伤害。",
     "effect_en": "Your ? deals damage in an area around it.",
     "source": {
       "type": "blitz_gg",
@@ -2011,8 +2085,8 @@
     "name_en": "Tank Engine",
     "tier": "gold",
     "status": "active",
-    "effect": "参与击杀时，获得一个层数，使你的体型增大并提升最大生命值。阵亡时损失层数。",
-    "effect_en": "On takedown, gain a stack that increases your size and max Health. Lose stacks on death.",
+    "effect": "参与击杀敌方英雄时获得1层，可无限叠加。每层提升5%最大生命值和体型。阵亡时损失65%层数。",
+    "effect_en": "Scoring a champion takedown generates a stack, stacking infinitely. For each stack, increase your maximum health and size by 5%. Lose 65% of stacks on death.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/tank-engine"
@@ -2058,8 +2132,8 @@
     "name_en": "Pursuit of Power",
     "tier": "gold",
     "status": "active",
-    "effect": "任务：用【?】技能命中敌人?次。奖励：永久提升【?】技能伤害。",
-    "effect_en": "QUEST: Hit enemy champions with ? ? times. REWARD: Permanently increase ? damage.",
+    "effect": "任务：用【所选技能】技能命中敌人10次。奖励：永久提升【所选技能】技能伤害。",
+    "effect_en": "QUEST: Hit enemy champions with your chosen ability the required number of times.REWARD: Permanently increase your chosen ability damage.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pursuit-of-power"
@@ -2081,8 +2155,8 @@
     "name_en": "Lil' Extra Help",
     "tier": "gold",
     "status": "active",
-    "effect": "在你的【?】技能持续期间获得?攻击距离和?攻击速度。",
-    "effect_en": "Gain ? Attack Range and ? Attack Speed during your ? duration.",
+    "effect": "在你的【所选技能】技能持续期间获得50攻击距离和30%攻击速度。",
+    "effect_en": "Gain the required number of Attack Range and the required number of Attack Speed during your chosen ability duration.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/lil-extra-help"
@@ -2116,7 +2190,10 @@
     "pick_rate": 51.63,
     "site_rank": 105,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速"
+    ]
   },
   {
     "id": "stats_on_stats",
@@ -2147,8 +2224,8 @@
     "name_en": "Pinball",
     "tier": "gold",
     "status": "active",
-    "effect": "你的雪球获得技能急速并且造成额外的真实伤害。当雪球从墙体上反弹时，它的体型和伤害获得提升，并缩短它的冷却时间。",
-    "effect_en": "Your Snowball gains Ability Haste and deals extra True Damage. When the Snowball bounces off walls, it increases in size and damage and has a reduced Cooldown.",
+    "effect": "你的标记变为弹球，造成100-500额外真实伤害，碰到地形会弹射。每次弹射增加飞行距离和伤害。",
+    "effect_en": "Your Mark is empowered to throw a pinball, dealing 100 to 500 bonus true damage and ricocheting off terrain. Each ricochet increases travel distance and damage.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pinball"
@@ -2184,7 +2261,10 @@
     "pick_rate": 56.69,
     "site_rank": 31,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速"
+    ]
   },
   {
     "id": "spiritual_purification",
@@ -2241,8 +2321,8 @@
     "name_en": "Pursuit of Haste",
     "tier": "gold",
     "status": "active",
-    "effect": "任务：用【?】技能命中敌方英雄?次奖励：【?】技能获得技能急速，基于任务等级，至多至?。",
-    "effect_en": "QUEST: Hit enemy champions with ? ? times. REWARD: Gain Ability Haste on ? per Quest Level up to ?.",
+    "effect": "任务：用【所选技能】技能命中敌方英雄8次。奖励：【所选技能】技能获得技能急速，基于任务等级，至多至80。",
+    "effect_en": "QUEST: Hit enemy champions with your chosen ability the required number of times.REWARD: Gain Ability Haste on your chosen ability per Quest Level up to the required number of.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/pursuit-of-haste"
@@ -2253,7 +2333,11 @@
     "pick_rate": 64.41,
     "site_rank": 2,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速",
+      "任务"
+    ]
   },
   {
     "id": "terror",
@@ -2261,8 +2345,8 @@
     "name_en": "Terror",
     "tier": "gold",
     "status": "active",
-    "effect": "每当你施放【?】技能时，恐惧你周围的敌人们.",
-    "effect_en": "Whenever you cast ?, Fear enemies around you.",
+    "effect": "每当你施放【所选技能】技能时，恐惧你周围的敌人们.",
+    "effect_en": "Whenever you cast your chosen ability, Fear enemies around you.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/terror"
@@ -2386,8 +2470,8 @@
     "name_en": "Scopier Weapons",
     "tier": "gold",
     "status": "active",
-    "effect": "获得?攻击距离。",
-    "effect_en": "Gain ? Attack Range.",
+    "effect": "获得200攻击距离，如果你是远程英雄则降低至100攻击距离。",
+    "effect_en": "Gain 200/100 bonus attack range.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scopier-weapons"
@@ -2398,7 +2482,10 @@
     "pick_rate": 56.1,
     "site_rank": 37,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "攻击距离"
+    ]
   },
   {
     "id": "from_beginning_to_end",
@@ -2429,8 +2516,8 @@
     "name_en": "Warlock Juicebox",
     "tier": "gold",
     "status": "active",
-    "effect": "获得?全能吸血。",
-    "effect_en": "Gain ? Omnivamp.",
+    "effect": "获得15%全能吸血。",
+    "effect_en": "Gain the required number of Omnivamp.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/warlock-juicebox"
@@ -2441,7 +2528,10 @@
     "pick_rate": 58.77,
     "site_rank": 15,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "全能吸血"
+    ]
   },
   {
     "id": "its_killing_time",
@@ -2449,8 +2539,8 @@
     "name_en": "It's Killing Time",
     "tier": "gold",
     "status": "active",
-    "effect": "在施放你的终极技能后，标记所有敌人并存储你对他们造成的伤害。当它结束时，引爆该伤害。",
-    "effect_en": "After casting your Ultimate, mark all enemies and store up damage you deal to them. When it ends, detonate the damage.",
+    "effect": "施放终极技能时对所有敌方英雄施加死亡印记(8秒冷却)。印记储存你对其造成伤害的40%，在标记结束后引爆。",
+    "effect_en": "Upon casting your ultimate ability, apply Death Mark to all enemy champions (8 second cooldown). The mark stores 40% of all post-mitigation damage you deal, detonating after the mark ends.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/its-killing-time"
@@ -2476,7 +2566,7 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "使用召唤师技能时回复生命值。",
+    "effect": "使用召唤师技能时回复15%最大生命值。",
     "effect_en": "Using a Summoner Spell restores Health.",
     "tags": [
       "heal",
@@ -2502,8 +2592,8 @@
     "name_en": "Overflow",
     "tier": "gold",
     "status": "active",
-    "effect": "你的法力消耗翻倍。你的技能的治疗效果、护盾效果和伤害获得提升，提升幅度基于你的最大法力值。",
-    "effect_en": "Your Mana costs are doubled. Your Ability Heals, Shields, and damage are increased based on your max Mana.",
+    "effect": "你的技能法力消耗翻倍，但获得10%(+0.5%每100最大法力值)额外伤害以及自我和输出治疗/护盾提升。",
+    "effect_en": "Your abilities' mana costs are doubled, but you gain 10% (+0.5% per 100 max mana) increased damage, healing, and shielding.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/overflow"
@@ -2527,8 +2617,8 @@
     "name_en": "Firebrand",
     "tier": "gold",
     "status": "active",
-    "effect": "你的攻击会施加一个可无限叠加的灼烧攻击特效，持续造成伤害。",
-    "effect_en": "Your Attacks apply an infinitely stacking Burn  On-Hit, dealing damage over time.",
+    "effect": "攻击施加持续5秒的灼烧，每秒造成目标最大生命值0.4%的额外魔法伤害。灼烧可无限叠加，每次施加刷新持续时间。",
+    "effect_en": "Basic attacks apply a Burn for 5 seconds dealing bonus magic damage equal to 0.4% of target's max health per second. Stacks infinitely, refreshes on reapplication.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/firebrand"
@@ -2551,8 +2641,8 @@
     "name_en": "Searing Dawn",
     "tier": "gold",
     "status": "active",
-    "effect": "你的技能会标记敌人，使其在被你的友军的下一个攻击或技能命中时会受到额外魔法伤害。",
-    "effect_en": "Your Abilities mark enemies, causing them to take additional magic damage from your ally's next Attack or Ability.",
+    "effect": "获得阳光效果：你的伤害技能会标记敌人，使其受到友军下一次攻击或技能命中时40-200额外魔法伤害(每个目标0.75秒冷却)。",
+    "effect_en": "Gain Sunlight: Your damaging abilities mark enemies, causing them to take 40 to 200 bonus magic damage from ally's next attack or ability (0.75s cooldown per target).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/searing-dawn"
@@ -2575,7 +2665,7 @@
     "name_en": "Combusting Interest",
     "tier": "gold",
     "status": "active",
-    "effect": "施加至英雄的灼烧和持续伤害会生成金币。",
+    "effect": "施加至英雄的灼烧和持续伤害每秒生成3金币。",
     "effect_en": "Burns and damage over time applied to champions generates gold.",
     "source": {
       "type": "blitz_gg",
@@ -2600,7 +2690,7 @@
     "name_en": "Tooth Fairy",
     "tier": "gold",
     "status": "active",
-    "effect": "爆裂敌人会掉落牙齿。拾取牙齿会提供给你永久的穿甲和法术穿透。",
+    "effect": "爆裂敌人会掉落牙齿。拾取牙齿提供2穿甲和2法术穿透(永久叠加)。",
     "effect_en": "Bursting enemies drops Teeth. Picking up Teeth grants you permanent Lethality and Magic Penetration.",
     "source": {
       "type": "blitz_gg",
@@ -2647,8 +2737,8 @@
     "name_en": "From Downtown",
     "tier": "gold",
     "status": "active",
-    "effect": "任务：用技能狙击?个敌方英雄奖励：一颗流星会飞向被狙击的敌方英雄，在其周围的一个区域内造成魔法伤害",
-    "effect_en": "QUEST: Snipe ? enemy champions with abilities REWARD: Send a meteor at Sniped enemy champions, dealing Magic damage in an area around them",
+    "effect": "任务：用技能狙击5个敌方英雄。奖励：一颗流星会飞向被狙击的敌方英雄，在其周围的一个区域内造成魔法伤害。",
+    "effect_en": "QUEST: Snipe the required number of enemy champions with abilitiesREWARD: Send a meteor at Sniped enemy champions, dealing Magic damage in an area around them",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/from-downtown"
@@ -2670,7 +2760,7 @@
     "name_en": "Burst Of Vitality",
     "tier": "gold",
     "status": "active",
-    "effect": "获得生机迸发作为一个召唤师技能。生机迸发会猛然提升你的体型，击飞附近的敌人们并提供最大生命值。",
+    "effect": "获得生机迸发作为一个召唤师技能。生机迸发会猛然提升你20%体型，击飞附近敌人并提供25%最大生命值。",
     "effect_en": "Gain Growth Spurt as a Summoner Spell. Growth Spurt suddenly increases your size, Knocking Up nearby enemies and granting max Health.",
     "source": {
       "type": "blitz_gg",
@@ -2859,7 +2949,10 @@
     "pick_rate": 52.55,
     "site_rank": 87,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "终极技能"
+    ]
   },
   {
     "id": "nature_heals",
@@ -2867,7 +2960,7 @@
     "name_en": "Nature Heals",
     "tier": "gold",
     "status": "active",
-    "effect": "站在草丛中时，每秒回复?最大生命值。",
+    "effect": "站在草丛中时，每秒回复2%最大生命值。",
     "effect_en": "Standing in Brush regenerates ? max Health per second.",
     "source": {
       "type": "blitz_gg",
@@ -2928,7 +3021,10 @@
     "pick_rate": 56.6,
     "site_rank": 33,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "法术强度"
+    ]
   },
   {
     "id": "void_dash",
@@ -2936,8 +3032,8 @@
     "name_en": "Void Dash",
     "tier": "gold",
     "status": "active",
-    "effect": "用【?】技能冲刺时会产生一片【虚空地带】来对敌方英雄们造成减速和魔法伤害。",
-    "effect_en": "Dashing with ? spawns a Void Zone that Slows enemy champions and deals magic damage.",
+    "effect": "用【所选技能】技能冲刺时会产生一片虚空地带，减速敌人30%并造成40-120(+20%AP)魔法伤害。",
+    "effect_en": "Dashing with your chosen ability spawns a Void Zone that Slows enemy champions and deals magic damage.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/void-dash"
@@ -2960,8 +3056,8 @@
     "name_en": "Soul Siphon",
     "tier": "gold",
     "status": "active",
-    "effect": "用【?】技能伤害敌方英雄时会治疗你。",
-    "effect_en": "Heal for 12% of damage done by Critical Strikes. Gain  25% Crit chance.",
+    "effect": "你的暴击会治疗你，治疗量相当于所造成伤害的12%。此外，获得25%暴击几率。",
+    "effect_en": "Your critical strikes heal you for 12% of damage dealt. Additionally, gain 25% critical strike chance.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/soul-siphon"
@@ -2973,11 +3069,11 @@
       "damage",
       "heal"
     ],
-    "win_rate": null,
-    "pick_rate": null,
     "site_rank": 234,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "win_rate": 53.13,
+    "pick_rate": 17.95
   },
   {
     "id": "executioner",
@@ -3018,7 +3114,7 @@
     "name_en": "Porcupine",
     "tier": "gold",
     "status": "active",
-    "effect": "承受来自英雄的伤害会积攒一次尖针迸发，这些尖针会从你身上飞出，对附近的敌人们造成伤害和减速。",
+    "effect": "承受英雄伤害积攒尖针，释放时对附近敌人造成30-100伤害并减速25%，持续1.5秒。",
     "effect_en": "Taking damage from champions builds up a burst of needles that fly out of you, dealing damage and slowing nearby enemies.",
     "source": {
       "type": "blitz_gg",
@@ -3065,7 +3161,7 @@
     "name_en": "Greedy Grasp",
     "tier": "gold",
     "status": "active",
-    "effect": "用你的【?】技能定身或缚地敌方英雄时造成额外伤害并对你进行治疗。",
+    "effect": "用【所选技能】技能定身或缚地敌方英雄时造成40-120(+15%AP)额外伤害并治疗你自身。",
     "effect_en": "Immobilizing or Grounding enemy champions with ? deals extra damage and heals you.",
     "source": {
       "type": "blitz_gg",
@@ -3158,7 +3254,7 @@
     "name_en": "Pat On The Back",
     "tier": "gold",
     "status": "active",
-    "effect": "友军会在你走过时鼓励你，为你提供护盾和移动速度。",
+    "effect": "友军走过时为你提供60-180护盾和25%移动速度(持续2秒)。",
     "effect_en": "Allies encourage you when you walk past, granting you a Shield and Movement Speed.",
     "source": {
       "type": "blitz_gg",
@@ -3182,7 +3278,7 @@
     "name_en": "Overextender",
     "tier": "gold",
     "status": "active",
-    "effect": "回城并进入到你的加农炮发射器。它的距离、飞行速度和伤害已经得到显著提升。",
+    "effect": "回城进入加农炮发射器。射程、飞行速度和伤害提升150%。",
     "effect_en": "Recall to enter your Cannon Launcher. It has significantly increased range, travel speed, and damage.",
     "source": {
       "type": "blitz_gg",
@@ -3205,7 +3301,7 @@
     "name_en": "Bang",
     "tier": "gold",
     "status": "active",
-    "effect": "被【?】技能强化的攻击或技能会对目标和附近的敌人们造成额外伤害。",
+    "effect": "被【所选技能】技能强化的攻击或技能对目标和附近敌人造成20-60(+20%额外AD)(+10%AP)额外魔法伤害。",
     "effect_en": "Attacks and Abilities empowered by ? deal additional damage to the target and nearby enemies.",
     "source": {
       "type": "blitz_gg",
@@ -3235,7 +3331,7 @@
       "url": "https://arammayhem.com/zh-cn/augments/flash-forward"
     },
     "aliases": [],
-    "patch_added": "26.12",
+    "patch_added": "",
     "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
@@ -3244,8 +3340,8 @@
     "name_en": "Bread And Cheese",
     "tier": "gold",
     "status": "active",
-    "effect": "你的【?】技能获得100技能急速。",
-    "effect_en": "Your ? gains 100 Ability Haste.",
+    "effect": "你的【所选技能】技能获得100技能急速。",
+    "effect_en": "Your champion's third basic ability (E) gains 100 ability haste.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-cheese"
@@ -3256,7 +3352,10 @@
     "pick_rate": 53.29,
     "site_rank": 72,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速"
+    ]
   },
   {
     "id": "bread_and_jam",
@@ -3264,8 +3363,8 @@
     "name_en": "Bread And Jam",
     "tier": "gold",
     "status": "active",
-    "effect": "你的【?】技能获得100技能急速。",
-    "effect_en": "Your ? gains 100 Ability Haste.",
+    "effect": "你的【所选技能】技能获得100技能急速。",
+    "effect_en": "Your champion's second basic ability (W) gains 100 ability haste.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/bread-and-jam"
@@ -3276,7 +3375,10 @@
     "pick_rate": 52.23,
     "site_rank": 96,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "技能急速"
+    ]
   },
   {
     "id": "bread_and_butter",
@@ -3289,8 +3391,8 @@
     ],
     "tier": "gold",
     "status": "active",
-    "effect": "你的【?】技能获得100技能急速。",
-    "effect_en": "Your ? gains 100 Ability Haste.",
+    "effect": "你的【所选技能】技能获得100技能急速。",
+    "effect_en": "Your champion's first basic ability (Q) gains 100 ability haste.",
     "tags": [
       "ability"
     ],
@@ -3316,7 +3418,7 @@
     "name_en": "Pressure Cooker",
     "tier": "gold",
     "status": "active",
-    "effect": "每一秒，对附近的敌方英雄们施加一层可叠加的灼烧，这个效果受益于你的最大生命值。任务：对敌方英雄造成灼烧伤害奖励：提升【高压锅】的规模和伤害，基于任务等级。",
+    "effect": "每秒对附近敌方英雄施加灼烧(基于最大生命值)。任务：对英雄造成灼烧伤害。奖励：提升高压锅的规模和伤害。",
     "effect_en": "Every second, apply a stacking Burn to nearby enemy champions, scaling with your max Health. QUEST: Deal Burn damage to enemy Champions. REWARD: Size and damage increase per Quest Level.",
     "source": {
       "type": "blitz_gg",
@@ -3368,7 +3470,7 @@
     "name_en": "Shark Storm",
     "tier": "gold",
     "status": "active",
-    "effect": "鲨鱼们环绕着你的【雪球】，对附近的敌人们造成伤害和减速。当你的【雪球】命中一个英雄时，其会陷入一阵鲨鱼风暴之中！",
+    "effect": "鲨鱼环绕雪球，对附近敌人每秒造成20-80魔法伤害并减速30%。雪球命中英雄时触发鲨鱼风暴。",
     "effect_en": "Sharks circle your Snowball, slowing and damaging nearby enemies. When your Snowball hits a Champion, they become trapped in a shark storm!",
     "source": {
       "type": "blitz_gg",
@@ -3381,7 +3483,7 @@
       "slow",
       "snowball"
     ],
-    "win_rate": 0.14,
+    "win_rate": 14.0,
     "pick_rate": 45.74,
     "site_rank": 176,
     "stats_source": "arammayhem_com",
@@ -3393,7 +3495,7 @@
     "name_en": "Shark Bait",
     "tier": "gold",
     "status": "active",
-    "effect": "在阵亡之后的若干秒，一头鲨鱼会啃噬所有附近的敌人们。你可以在阵亡后进行移动，以给鲨鱼攻击进行定位。",
+    "effect": "阵亡3秒后，一头鲨鱼啃噬附近所有敌人，造成200-600(+30%AP)魔法伤害。你可以在阵亡后移动来瞄准。",
     "effect_en": "A few seconds after death, a shark chomps all nearby enemies. You can move after death to aim the shark attack.",
     "source": {
       "type": "blitz_gg",
@@ -3405,7 +3507,11 @@
     "pick_rate": 51.6,
     "site_rank": 106,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "鲨鱼",
+      "阵亡"
+    ]
   },
   {
     "id": "dawnbringers_resolve",
@@ -3437,8 +3543,8 @@
     "name_en": "Scoped Weapons",
     "tier": "silver",
     "status": "active",
-    "effect": "获得?攻击距离。",
-    "effect_en": "Gain ? Attack Range.",
+    "effect": "获得100攻击距离，如果你是远程英雄则降低至50攻击距离。",
+    "effect_en": "Gain 75/50 bonus attack range.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/scoped-weapons"
@@ -3449,7 +3555,10 @@
     "pick_rate": 51.52,
     "site_rank": 109,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "攻击距离"
+    ]
   },
   {
     "id": "snow_day",
@@ -3481,8 +3590,8 @@
     "name_en": "Support Main",
     "tier": "silver",
     "status": "active",
-    "effect": "任务：治疗友方英雄?生命值。奖励：你提供的任何治疗效果现在还会在初始治疗之后提供持续治疗。",
-    "effect_en": "QUEST: Heal allied champions for ? Health. REWARD: Any healing you provide now also Heals Over Time after the initial heal.",
+    "effect": "任务：治疗友方英雄2500生命值。奖励：你提供的任何治疗效果现在还会在初始治疗之后提供持续治疗。",
+    "effect_en": "QUEST: Heal allied champions for the required number of Health. REWARD: Any healing you provide now also Heals Over Time after the initial heal.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/support-main"
@@ -3536,7 +3645,7 @@
     "name_en": "Stay Firm",
     "tier": "silver",
     "status": "active",
-    "effect": "当【?】技能对敌方英雄造成伤害时，获得?护甲和魔法抗性。",
+    "effect": "当【所选技能】技能对敌方英雄造成伤害时，获得10护甲和魔法抗性。可叠加至5层。",
     "effect_en": "When ? damages enemy champions, gain ? Armor and Magic Resistance.",
     "source": {
       "type": "blitz_gg",
@@ -3566,8 +3675,8 @@
     ],
     "tier": "silver",
     "status": "active",
-    "effect": "在你阵亡时爆炸，造成巨量真实伤害。",
-    "effect_en": "Explodes when you die, dealing massive true damage.",
+    "effect": "阵亡时爆炸，对500范围内的敌人造成相当于目标最大生命值20%的真实伤害。",
+    "effect_en": "Upon death, explode to deal true damage equal to 20% of target's max health to enemies within 500 units.",
     "tags": [
       "damage",
       "utility",
@@ -3619,7 +3728,7 @@
     "name_en": "Don't Stop Channeling",
     "tier": "silver",
     "status": "active",
-    "effect": "你每引导一秒都会获得护盾值。",
+    "effect": "你每引导一秒获得30-90护盾值(基于等级)，最高叠加至900。",
     "effect_en": "Gain a Shield for every second you spend Channeling.",
     "source": {
       "type": "blitz_gg",
@@ -3644,7 +3753,7 @@
     "name_en": "Time To Advance",
     "tier": "silver",
     "status": "active",
-    "effect": "激活【?】技能会在其持续期间为你提供移动速度。",
+    "effect": "激活【所选技能】技能期间获得30%移动速度。",
     "effect_en": "Activating ? grants you Movement Speed for its duration.",
     "source": {
       "type": "blitz_gg",
@@ -3743,8 +3852,8 @@
     "name_en": "Twin Fire",
     "tier": "silver",
     "status": "active",
-    "effect": "造成技能伤害时，发射1+?个飞弹，每个造成?魔法伤害。此外，获得15%暴击几率。",
-    "effect_en": "On ability damage, fire 1 plus ? missiles that deal ? magic damage each. Gain  15% Critical Strike Chance.",
+    "effect": "造成技能伤害时，发射1-4个飞弹(基于暴击率)，每个飞弹造成10-30(基于等级)(+7%额外AD)(+7%AP)魔法伤害。此外，获得15%暴击几率。",
+    "effect_en": "Damaging abilities launch 1 (+ 1 per 33.33% critical strike chance) firecracker missiles at the target that each deal 10 to 30 (+ 7% bonus AD) (+ 7% AP) magic damage (5 second cooldown). Additionally, gain 15% critical strike chance.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/twin-fire"
@@ -3790,7 +3899,7 @@
     "name_en": "Reliable Weapon",
     "tier": "silver",
     "status": "active",
-    "effect": "用【?】技能打击敌方英雄时会铸造一条友谊纽带。【?】技能基于你的友谊等级获得到临时提升伤害",
+    "effect": "用【所选技能】技能打击敌方英雄时铸造友谊纽带。每层友谊提供5-15额外伤害。",
     "effect_en": "Striking enemy champions with ? forges a bond of Friendship. ? gains temporarily increased damage based on your level of Friendship.",
     "source": {
       "type": "blitz_gg",
@@ -3815,8 +3924,8 @@
     "name_en": "Typhoon",
     "tier": "silver",
     "status": "active",
-    "effect": "你的攻击会对一个额外目标发射一个飞弹，从而造成削减过的伤害并施加攻击特效。",
-    "effect_en": "Your Attacks shoot a missile at an additional target, dealing reduced damage and applying  On-Hit effects.",
+    "effect": "攻击会向一个额外目标发射一枚飞弹，造成30%AD的物理伤害并施加攻击特效。",
+    "effect_en": "Basic attacks fire a bolt at an additional target dealing 30% AD physical damage and applying on-hit effects.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/typhoon"
@@ -3893,7 +4002,7 @@
     "name_en": "Solid As Rock",
     "tier": "silver",
     "status": "active",
-    "effect": "每当你定身或缚地一个敌人时，获得护甲和魔抗。",
+    "effect": "每当定身或缚地一个敌人时，获得10护甲和10魔抗，持续4秒，最高叠加5层。",
     "effect_en": "Each time you Immobilize or Ground an enemy, gain Armor and Magic Resist.",
     "source": {
       "type": "blitz_gg",
@@ -3951,7 +4060,7 @@
     "name_en": "Master Crafted",
     "tier": "silver",
     "status": "active",
-    "effect": "使你的装备和强化符文伤害提升?。",
+    "effect": "使你的装备和强化符文伤害提升12%。",
     "effect_en": "Increase your Item and Augment damage by ?.",
     "source": {
       "type": "blitz_gg",
@@ -3975,8 +4084,8 @@
     "name_en": "Sonic Boom",
     "tier": "silver",
     "status": "active",
-    "effect": "在为你的友军提供增益效果、治疗效果或护盾效果时，会对其附近的敌人们造成伤害和减速。",
-    "effect_en": "Buffing, Healing, or Shielding your ally deals damage and Slows enemies surrounding them.",
+    "effect": "为友军提供增益、治疗或护盾时，对450范围内的敌人造成30-150真实伤害并减速30%，持续2秒(2秒冷却)。",
+    "effect_en": "Granting a buff, heal, or shield to an ally deals 30 to 150 true damage to enemies within 450 units and slows by 30% for 2 seconds (2 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/sonic-boom"
@@ -4044,7 +4153,10 @@
     "pick_rate": 52.27,
     "site_rank": 94,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "属性锻造器"
+    ]
   },
   {
     "id": "mountain_soul",
@@ -4052,7 +4164,7 @@
     "name_en": "Mountain Soul",
     "tier": "silver",
     "status": "active",
-    "effect": "你获得山脉龙魂，在脱离战斗之后获得一个持续一小段时间的护盾。",
+    "effect": "获得山脉龙魂，脱离战斗2秒后获得相当于10%最大生命值的护盾。",
     "effect_en": "You gain the Mountain Soul, gaining a Shield after being out of combat for a short time.",
     "source": {
       "type": "blitz_gg",
@@ -4075,8 +4187,8 @@
     "name_en": "Witchful Thinking",
     "tier": "silver",
     "status": "active",
-    "effect": "获得?法术强度。",
-    "effect_en": "Gain  ? Ability Power.",
+    "effect": "获得20-80(基于等级)法术强度。",
+    "effect_en": "Grants 20 to 80 ability power.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/witchful-thinking"
@@ -4098,8 +4210,8 @@
     "name_en": "Mighty Shield",
     "tier": "silver",
     "status": "active",
-    "effect": "当你获得护盾时，获得?适应之力，持续3秒。(5秒冷却时间)",
-    "effect_en": "Gain ? Adaptive Force for 3 seconds when you gain a Shield (5 seconds Cooldown).",
+    "effect": "当你获得护盾时，获得40-100(基于等级)适应之力，持续3秒。(5秒冷却时间)",
+    "effect_en": "Gain 40 to 100 adaptive force for 3 seconds upon gaining a shield (5 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mighty-shield"
@@ -4121,8 +4233,8 @@
     "name_en": "Swift and Safe",
     "tier": "silver",
     "status": "active",
-    "effect": "在冲刺或闪烁后，获得护盾值。",
-    "effect_en": "Gain a Shield after a Dash or Blink.",
+    "effect": "冲刺或闪烁后获得一个持续2秒的护盾，吸收65-290(+65%AD)(+26%AP)伤害(5秒冷却)。",
+    "effect_en": "After dashing or blinking, gain a shield lasting 2 seconds that absorbs 65 to 290 (+65% AD) (+26% AP) damage (5 second cooldown).",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/swift-and-safe"
@@ -4254,8 +4366,8 @@
     "name_en": "Shadow Runner",
     "tier": "silver",
     "status": "active",
-    "effect": "在使用一个冲刺、闪烁或传送类技能或离开潜行状态之后，获得移动速度。",
-    "effect_en": "After using a Dash, Blink, or Teleport Ability or exiting Stealth, gain Movement Speed.",
+    "effect": "冲刺、闪烁或退出隐身状态后，获得300移动速度，持续2秒。",
+    "effect_en": "After dashing, blinking, or exiting stealth, gain 300 bonus movement speed for 2 seconds.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/shadow-runner"
@@ -4277,8 +4389,8 @@
     "name_en": "Kill Secured",
     "tier": "silver",
     "status": "active",
-    "effect": "在朝着低生命值的敌人时，获得额外移动速度。",
-    "effect_en": "Gain 60% bonus movement speed towards enemy champions below 40% of their maximum health.",
+    "effect": "对生命值低于40%最大生命值的敌方英雄，获得60%额外移动速度。",
+    "effect_en": "Gain 60% bonus movement speed towards enemy champions below 40% of their max health.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/kill-secured"
@@ -4302,8 +4414,8 @@
     "name_en": "Juiced",
     "tier": "silver",
     "status": "active",
-    "effect": "攻击特效消耗?法力值以造成?魔法伤害，这个伤害可以暴击。",
-    "effect_en": "On-Hit consume ? Mana to deal ? magic damage, this damage can Critically Strike.",
+    "effect": "攻击特效消耗2.5%最大法力值，造成相当于3.5%最大法力值的魔法伤害，该伤害可以暴击。",
+    "effect_en": "Basic attacks on-hit consume 2.5% of your maximum mana to deal bonus magic damage equal to 3.5% of your maximum mana. This damage can critically strike for 100 bonus damage.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/juiced"
@@ -4326,7 +4438,7 @@
     "name_en": "Hextech Soul",
     "tier": "silver",
     "status": "active",
-    "effect": "周期性地使你的下一个伤害型技能或攻击触发一道闪电爆裂，连锁穿过敌人以造成伤害和减速。",
+    "effect": "获得海克斯科技龙魂，每3秒下一次伤害型技能或攻击触发闪电爆裂，对敌人造成80-120魔法伤害并减速40%。",
     "effect_en": "Periodically your next damaging Ability or Attack triggers a lightning blast, chaining through enemies to deal damage and Slow.",
     "source": {
       "type": "blitz_gg",
@@ -4350,8 +4462,8 @@
     "name_en": "Ocean Soul",
     "tier": "silver",
     "status": "active",
-    "effect": "获得【海洋龙魂】，在对敌方英雄造成伤害后提供高额的生命和法力回复。",
-    "effect_en": "Gain the Ocean Soul, granting high Health and Mana regen after damaging enemies.",
+    "effect": "获得海洋龙魂(基础治疗值100)，如果你已有海洋龙魂则获得其他龙魂。",
+    "effect_en": "Grants the Ocean Dragon Soul with a modified base heal value of 100, or a different Dragon Soul if you already have it.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/ocean-soul"
@@ -4482,7 +4594,7 @@
     "name_en": "Infernal Soul",
     "tier": "silver",
     "status": "active",
-    "effect": "你获得炼狱龙魂，使用技能或攻击命中敌人时造成额外伤害。",
+    "effect": "获得炼狱龙魂，使用技能或攻击命中敌人时造成30-60(+10%AD)(+5%AP)额外魔法伤害。",
     "effect_en": "You gain the Infernal Dragon Soul, dealing bonus damage when you hit enemies with Abilities or Attacks.",
     "source": {
       "type": "blitz_gg",
@@ -4505,8 +4617,8 @@
     "name_en": "Zealot",
     "tier": "silver",
     "status": "active",
-    "effect": "获得?暴击几率和?攻击速度（随法术强度变化）。",
-    "effect_en": "Gain ? Critical Strike Chance and ? Attack Speed.",
+    "effect": "获得25%暴击几率(+5%每100AP)和35%攻击速度(+5%每100AP)。",
+    "effect_en": "Gain 35% (+ 5% per 100 AP) bonus attack speed and 25% (+ 5% per 100 AP) critical strike chance.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/zealot"
@@ -4518,8 +4630,8 @@
       "attack_speed",
       "crit"
     ],
-    "win_rate": null,
-    "pick_rate": null,
+    "win_rate": 53.22,
+    "pick_rate": 20.07,
     "site_rank": 255,
     "stats_source": "arammayhem_com",
     "stats_updated": "2026-06-17"
@@ -4530,8 +4642,8 @@
     "name_en": "Mind to Matter",
     "tier": "silver",
     "status": "active",
-    "effect": "使你的最大生命值提升，数额相当于你一半的法力值。",
-    "effect_en": "Increase max Health by half of your Mana.",
+    "effect": "获得相当于最大法力值50%的额外生命值。",
+    "effect_en": "Grants bonus health equal to 50% maximum mana.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/mind-to-matter"
@@ -4554,8 +4666,8 @@
     "name_en": "Purist - Caster",
     "tier": "silver",
     "status": "active",
-    "effect": "获得百分比冷却缩减并将你的所有攻击速度转化为技能急速。",
-    "effect_en": "Gain percent cooldown reduction and convert all of your Attack Speed into Ability Haste.",
+    "effect": "将所有额外攻击速度按0.65技能急速/1%攻速的比例转化为技能急速。此外，你的技能总冷却时间缩减10%。",
+    "effect_en": "Convert all bonus attack speed into ability haste at 0.65 haste per 1% AS. Additionally, abilities' total cooldowns reduced by 10%.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/purist-caster"
@@ -4613,7 +4725,10 @@
     "pick_rate": 48.99,
     "site_rank": 149,
     "stats_source": "arammayhem_com",
-    "stats_updated": "2026-06-17"
+    "stats_updated": "2026-06-17",
+    "tags": [
+      "终极技能"
+    ]
   },
   {
     "id": "adaptive_defense",
@@ -4621,7 +4736,7 @@
     "name_en": "Adaptive Defense",
     "tier": "silver",
     "status": "active",
-    "effect": "用【?】技能打击一个敌方英雄时，为你提供持续6秒的?护甲或魔法抗性，基于该技能的伤害类型。这个效果可以叠加。",
+    "effect": "用【所选技能】技能打击一个敌方英雄时，为你提供持续6秒的8护甲或魔法抗性，基于该技能的伤害类型。可叠加至5层。",
     "effect_en": "Striking an enemy champion with ? grants you ? Armor or Magic Resist based on their damage type for 6 seconds. This effect can stack.",
     "source": {
       "type": "blitz_gg",
@@ -4652,7 +4767,7 @@
       "url": "https://arammayhem.com/zh-cn/augments/transmute-gold"
     },
     "aliases": [],
-    "patch_added": "26.12",
+    "patch_added": "",
     "tags": [
       "economy",
       "rune"
@@ -4665,8 +4780,8 @@
     "name_en": "Spin Me Right Round",
     "tier": "silver",
     "status": "active",
-    "effect": "将一个召唤师技能替换为骄行荡寇。骄行荡寇发射一根钩爪，吸附在地形上，在此之后，你可以再次施放来绕着它摆荡。在摆荡状态下，自动攻击相距最近的那个敌人。在与一个敌方英雄碰撞或再次施放时结束摆荡。",
-    "effect_en": "Replace a Summoner Spell with Heroic Swing. Heroic Swing fires a grappling hook, sticking into terrain, after which you can Recast to swing around it. While swinging, automatically Attack the nearest enemy. Colliding with an enemy champion or Recasting ends the swing.",
+    "effect": "替换一个召唤师技能为骄行荡寇。可激活3次后进入冷却，第3次需在0.5秒后才能使用。",
+    "effect_en": "Replace a summoner spell with Heroic Swing. Can activate 3 times before cooldown; third cast requires 0.5s delay.",
     "source": {
       "type": "blitz_gg",
       "url": "https://arammayhem.com/zh-cn/augments/spin-me-right-round"
@@ -4775,7 +4890,7 @@
     "aliases": [
       "Veil of Warding"
     ],
-    "patch_added": "26.12",
+    "patch_added": "",
     "tags": [
       "shield"
     ],
@@ -4819,11 +4934,1250 @@
       "url": "https://blitz.gg/lol/aram-mayhem/augments/bolstered"
     },
     "aliases": [],
-    "patch_added": "26.12",
+    "patch_added": "",
     "tags": [
       "shield",
       "support"
     ],
     "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
+  },
+  {
+    "id": "archmage",
+    "name": "大法师",
+    "name_en": "Archmage",
+    "tier": "gold",
+    "status": "active",
+    "effect": "施放一个技能返还另一个随机技能30%冷却时间的法力消耗。",
+    "effect_en": "Casting a spell refunds another random spell&#39;s cost by the required number of% of the original spell&#39;s Cooldown.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/archmage"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "法力",
+      "技能",
+      "冷却"
+    ],
+    "win_rate": 61.08,
+    "pick_rate": 61.41,
+    "site_rank": 6,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "void_immolation",
+    "name": "任务：艾卡西亚的陷落",
+    "name_en": "Void Immolation",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "即刻：获得一个斑比的熔渣并且你可以同时购买两件献祭装备。需求：持有日炎圣盾和璀璨回响。奖励：将它们合成为虚空献祭。",
+    "effect_en": "Invincible. Charge in invuln.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/void-immolation"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "任务",
+      "装备",
+      "日炎"
+    ],
+    "win_rate": 8.72,
+    "pick_rate": 59.15,
+    "site_rank": 13,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "double_defense",
+    "name": "双重防御",
+    "name_en": "Double Defense",
+    "tier": "silver",
+    "status": "active",
+    "effect": "来自【所选技能】技能的护盾提升25%，并且受益于目标已损失生命值额外获得最多50%护盾值。",
+    "effect_en": "Shields granted from your chosen ability are stronger and scaling with target&#39;s missing Health.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/double-defense"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "护盾",
+      "生命值"
+    ],
+    "win_rate": 4.45,
+    "pick_rate": 49.72,
+    "site_rank": 133,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "flash_2",
+    "name": "闪闪现现",
+    "name_en": "Flash 2",
+    "tier": "silver",
+    "status": "active",
+    "effect": "替换一个召唤师技能为闪现。此外获得70召唤师技能急速。装备此强化时两个召唤师技能栏都是闪现，且共享冷却时间。",
+    "effect_en": "Replace a summoner spell with Flash. Gain 70 summoner spell haste. Both summoner spell slots become Flash and share a cooldown.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/flash-2"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "灼烧",
+      "穿透"
+    ],
+    "win_rate": 28.0,
+    "pick_rate": 49.13,
+    "site_rank": 145,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "flashbang",
+    "name": "闪光弹",
+    "name_en": "Flashbang",
+    "tier": "silver",
+    "status": "active",
+    "effect": "你在【闪现】时会在你周围引发爆炸，造成70 - 240 (基于等级) (+ 70% AD) (+ 60% AP) 魔法伤害和持续@SlowDuration@秒的@SlowAmount*100@%减速。每次阵亡时重置闪现。",
+    "effect_en": "Using Flash creates an explosion around the blink location that deals 70 to 240 (+ 70% AD) (+ 60% AP) magic damage to nearby enemies and slows them by 35% for 1.25 seconds. Additionally, the cooldown of your Flash resets upon your death.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/flashbang"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "法术强度",
+      "攻击力",
+      "减速"
+    ],
+    "win_rate": 30.0,
+    "pick_rate": 48.79,
+    "site_rank": 154,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "cant_touch_this",
+    "name": "你摸不到",
+    "name_en": "Cant Touch This",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能使你免疫伤害2秒(8秒冷却)。",
+    "effect_en": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/cant-touch-this"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "终极技能"
+    ],
+    "win_rate": 9.37,
+    "pick_rate": 48.0,
+    "site_rank": 165,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "bounce_of_the_poro_king",
+    "name": "魄罗之王的弹跳",
+    "name_en": "Bounce of the Poro King",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/bounce-of-the-poro-king"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 183,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "buff_buddies",
+    "name": "霸符兄弟",
+    "name_en": "Buff Buddies",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/buff-buddies"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 184,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "cheating",
+    "name": "作弊：我能回城！",
+    "name_en": "Cheating",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/cheating"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 186,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "clown_college",
+    "name": "小丑学院",
+    "name_en": "Clown College",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/clown-college"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 187,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "crack_open_that_egg",
+    "name": "砸开那颗蛋",
+    "name_en": "Crack Open That Egg",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/crack-open-that-egg"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 188,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "crit_n_cast",
+    "name": "由暴生急",
+    "name_en": "Crit 'n Cast",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/crit-n-cast"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 189,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "critical_healing",
+    "name": "会心治疗",
+    "name_en": "Critical Healing",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/critical-healing"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 190,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "critical_missile",
+    "name": "暴击飞弹",
+    "name_en": "Critical Missile",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/critical-missile"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 191,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "critical_rhythm",
+    "name": "暴击律动",
+    "name_en": "Critical Rhythm",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/critical-rhythm"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 192,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "demons_dance",
+    "name": "魔鬼之舞",
+    "name_en": "Demon's Dance",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/demons-dance"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 193,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "devil_on_your_shoulder",
+    "name": "你肩上的恶魔",
+    "name_en": "Devil on Your Shoulder",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/devil-on-your-shoulder"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 194,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "dimension_shift",
+    "name": "位面转移",
+    "name_en": "Dimension Shift",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "获得【当黑暗降临】召唤师技能。创造一个区域，其中的友军获得隐身效果和移动速度。",
+    "effect_en": "Gain the When the Darkness Comes Summoner Spell. Create a zone that transports everyone inside of it to another dimension.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/dimension-shift"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "召唤物"
+    ],
+    "site_rank": 181,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "double_tap",
+    "name": "双发快射",
+    "name_en": "Double Tap",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/double-tap"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 196,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "droppybara",
+    "name": "卡皮巴拉空投",
+    "name_en": "Droppybara",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/droppybara"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 198,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "feel_the_burn",
+    "name": "感受燃烧",
+    "name_en": "Feel the Burn",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/feel-the-burn"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 201,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "final_city_transit",
+    "name": "最终都市列车",
+    "name_en": "Final City Transit",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/final-city-transit"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 202,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "frost_wraith",
+    "name": "冰霜 幽灵",
+    "name_en": "Frost Wraith",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/frost-wraith"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 203,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "gash",
+    "name": "砍伤",
+    "name_en": "Gash",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/gash"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 204,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "grandmas_chili_oil",
+    "name": "祖母的辣椒油",
+    "name_en": "Grandma's Chili Oil",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/grandmas-chili-oil"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 205,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "hat_on_a_hat",
+    "name": "帽上加帽",
+    "name_en": "Hat on a Hat",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/hat-on-a-hat"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 207,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "heads_up_cupcake",
+    "name": "当心小蛋糕！",
+    "name_en": "Heads Up Cupcake!",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/heads-up-cupcake"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 208,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "holy_fire",
+    "name": "圣火",
+    "name_en": "Holy Fire",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/holy-fire"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 209,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "im_a_baby_kitty_where_is_mama",
+    "name": "小猫咪找妈妈",
+    "name_en": "I'm a Baby Kitty Where is Mama",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/im-a-baby-kitty-where-is-mama"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 210,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "its_critical",
+    "name": "关键暴击",
+    "name_en": "It's Critical",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/its-critical"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 211,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "keystone_conjurer",
+    "name": "基石法师",
+    "name_en": "Keystone Conjurer",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/keystone-conjurer"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 213,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "laser_heal",
+    "name": "激光治疗",
+    "name_en": "Laser Heal",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/laser-heal"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 214,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "lightning_strikes",
+    "name": "闪电打击",
+    "name_en": "Lightning Strikes",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/lightning-strikes"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 215,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "one_trick_pony",
+    "name": "绝活玩家",
+    "name_en": "One Trick Pony",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "在选择强化符文时，一栏将始终只包含与你之前选择的强化符文相同稀有度的强化符文。",
+    "effect_en": "When selecting augments in ARAM: Mayhem, One Trick Pony is particularly effective on champions that can maximize its benefits.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/one-trick-pony"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "强化符文",
+      "选取"
+    ],
+    "site_rank": 185,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "orbitallaser",
+    "name": "轨道镭射",
+    "name_en": "OrbitalLaser",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/orbitallaser"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 218,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "perseverance",
+    "name": "坚韧",
+    "name_en": "Perseverance",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/perseverance"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 219,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "poro_blaster",
+    "name": "魄罗爆破手",
+    "name_en": "Poro Blaster",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/poro-blaster"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 220,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "quantum_computing",
+    "name": "量子计算",
+    "name_en": "Quantum Computing",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/quantum-computing"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 222,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "rabble_rousing",
+    "name": "古式佳酿",
+    "name_en": "Rabble Rousing",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/rabble-rousing"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 223,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "red_envelopes",
+    "name": "红包",
+    "name_en": "Red Envelopes",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/red-envelopes"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 224,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "repulsor",
+    "name": "退敌力场",
+    "name_en": "Repulsor",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/repulsor"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 226,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "restless_restoration",
+    "name": "无休回复",
+    "name_en": "Restless Restoration",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/restless-restoration"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 227,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "self_destruct",
+    "name": "自我毁灭",
+    "name_en": "Self Destruct",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/self-destruct"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 228,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "slow_and_steady",
+    "name": "一板一眼",
+    "name_en": "Slow And Steady",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/slow-and-steady"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 229,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "slow_cooker",
+    "name": "慢炖",
+    "name_en": "Slow Cooker",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/slow-cooker"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 230,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "snowball_roulette",
+    "name": "雪球扭蛋机",
+    "name_en": "Snowball Roulette",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/snowball-roulette"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 231,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "snowball_upgrade",
+    "name": "升级：雪球",
+    "name_en": "Snowball Upgrade",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/snowball-upgrade"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 232,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "speed_demon",
+    "name": "速度恶魔",
+    "name_en": "Speed Demon",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/speed-demon"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 235,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "surge_field",
+    "name": "电涌力场",
+    "name_en": "Surge Field",
+    "tier": "prismatic",
+    "status": "active",
+    "effect": "施放终极技能时，创造一个区域，为其中的友军提供技能急速和移动速度。",
+    "effect_en": "On Ultimate cast, spawn a Zone that grants Ability Haste and Movement Speed. While inside, it fires missiles that deal the required number of% of your damage.",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/surge-field"
+    },
+    "aliases": [],
+    "patch_added": "26.12",
+    "tags": [
+      "技能急速",
+      "移动速度",
+      "终极技能",
+      "飞弹"
+    ],
+    "site_rank": 191,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "tank_it_or_leave_it",
+    "name": "会心防御",
+    "name_en": "Tank It Or Leave It",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/tank-it-or-leave-it"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 239,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "the_brutalizer",
+    "name": "残暴之力",
+    "name_en": "The Brutalizer",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/the-brutalizer"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 240,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "tormentor",
+    "name": "折磨者",
+    "name_en": "Tormentor",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/tormentor"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 242,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "trailblazer",
+    "name": "开拓者",
+    "name_en": "Trailblazer",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/trailblazer"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 243,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "trueshotprodigy",
+    "name": "精准奇才",
+    "name_en": "TrueshotProdigy",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/trueshotprodigy"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 244,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "twice_thrice",
+    "name": "接二连三",
+    "name_en": "Twice Thrice",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/twice-thrice"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 245,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "upgrade_cutlass",
+    "name": "升级：弯刀",
+    "name_en": "Upgrade Cutlass",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-cutlass"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 246,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "upgrade_hubris",
+    "name": "升级：狂妄",
+    "name_en": "Upgrade Hubris",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-hubris"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 247,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "upgrade_thornmail",
+    "name": "升级：荆棘之甲",
+    "name_en": "Upgrade Thornmail",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/upgrade-thornmail"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 249,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "vampirism",
+    "name": "吸血习性",
+    "name_en": "Vampirism",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/vampirism"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 250,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "void_rift",
+    "name": "虚空裂隙",
+    "name_en": "Void Rift",
+    "tier": "prismatic",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/void-rift"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 251,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "vulnerability",
+    "name": "易损",
+    "name_en": "Vulnerability",
+    "tier": "gold",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/vulnerability"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 252,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "weighted_popoffs",
+    "name": "负重爆气",
+    "name_en": "Weighted Popoffs",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/weighted-popoffs"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 253,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
+  },
+  {
+    "id": "wind_beneath_blade",
+    "name": "刃下生风",
+    "name_en": "Wind Beneath Blade",
+    "tier": "silver",
+    "status": "removed",
+    "effect": "",
+    "effect_en": "",
+    "source": {
+      "type": "arammayhem_com",
+      "url": "https://arammayhem.com/zh-cn/augments/wind-beneath-blade"
+    },
+    "aliases": [],
+    "patch_added": "",
+    "tags": [],
+    "site_rank": 254,
+    "stats_source": "arammayhem_com",
+    "stats_updated": "2026-06-17"
   }
 ]

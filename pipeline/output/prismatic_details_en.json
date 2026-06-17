@@ -1,0 +1,130 @@
+{
+  "ominous_pact": {
+    "en_raw": "Your abilities now have a health cost of [stat:health]5% [b]current[/b] health[/stat] to cast them. In return, you gain [stat:ap]ability power[/stat] based on your [stat:health][b]missing[/b] health[/stat], up to [stat:ap]75 to 150[/stat] at [stat:health]70% [b]missing[/b] health[/stat], 0 to 50 [stat:ms][b]bonus[/b] movement speed[/stat], and 0 to 20 [stat:omnivamp]omnivamp[/stat].",
+    "en_clean": "Your abilities now have a health cost of 5% current health to cast them. In return, you gain ability power based on your missing health, up to 75 to 150 at 70% missing health, 0 to 50 bonus movement speed, and 0 to 20 omnivamp."
+  },
+  "draw_your_sword": {
+    "en_raw": "Become melee, modifying your attack range to 200 units. Additionally, gain [stat:ad]30% [b]bonus[/b] attack damage[/stat], [stat:as]25% [b]bonus[/b] attack speed[/stat], [stat:health]30% [b]bonus[/b] health[/stat], [stat:ms]25% [b]bonus[/b] movement speed[/stat], and 20% life steal. These bonuses are increased by 0 to 30.[br/][br/]This augment is only available for ranged champions.",
+    "en_clean": "Become melee, modifying your attack range to 200 units. Additionally, gain 30% bonus attack damage, 25% bonus attack speed, 30% bonus health, 25% bonus movement speed, and 20% life steal. These bonuses are increased by 0 to 30. This augment is only available for ranged champions."
+  },
+  "quest_wooglets_witchcap": {
+    "en_raw": "Gain a Needlessly Large Rod.[br/][br/][b]Quest:[/b] Obtain Rabadon's Deathcap and Zhonya's Hourglass.[br/][br/][b]Reward:[/b] Upon completing your [b]Quest[/b], convert the items you obtained for the quest into Wooglet's Witchcap.",
+    "en_clean": "Gain a Needlessly Large Rod. Quest: Obtain Rabadon's Deathcap and Zhonya's Hourglass. Reward: Upon completing your Quest, convert the items you obtained for the quest into Wooglet's Witchcap."
+  },
+  "empowered_by_the_faithful": {
+    "en_raw": "Granting a heal or shield to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals [stat:magic]50 to 350 magic damage[/stat] to nearby enemies. Enemy champions damaged below [stat:health]25% of their [b]maximum[/b] health[/stat] are executed.",
+    "en_clean": "Granting a heal or shield to an allied champion blesses them for 8 seconds. Whenever a blessed ally damages an enemy champion, you generate a stack of Devotion, stacking up to 50 times. Upon reaching maximum stacks, you unleash a shockwave that deals 50 to 350 magic damage to nearby enemies. Enemy champions damaged below 25% of their maximum health are executed."
+  },
+  "blade_waltz": {
+    "en_raw": "Gain the [stat:spell]Blade Waltz[/stat] Summoner Spell.[br/][br/]<rules>[stat:spell]Blade Waltz[/stat] makes you untargetable while you dash at and damage enemies repeatedly.</rules>",
+    "en_clean": "Gain the Blade Waltz Summoner Spell. Blade Waltz makes you untargetable while you dash at and damage enemies repeatedly."
+  },
+  "stuck_in_here_with_me": {
+    "en_raw": "Casting your ultimate ability creates an aura with a radius of 500 units around you for 2 seconds, during which you also gain 40% damage reduction. After the duration, you taunt all enemies within the aura for 2 seconds (30 second cooldown). Additionally, gain 30 ultimate haste.",
+    "en_clean": "Casting your ultimate ability creates an aura with a radius of 500 units around you for 2 seconds, during which you also gain 40% damage reduction. After the duration, you taunt all enemies within the aura for 2 seconds (30 second cooldown). Additionally, gain 30 ultimate haste."
+  },
+  "back_to_basics": {
+    "en_raw": "Your champion abilities deal 35% increased damage and you gain [stat:ah]70 ability haste[/stat] and 35% increased healing and shielding from all sources, but your ultimate ability is permanently sealed.",
+    "en_clean": "Your champion abilities deal 35% increased damage and you gain 70 ability haste and 35% increased healing and shielding from all sources, but your ultimate ability is permanently sealed."
+  },
+  "goldrend": {
+    "en_raw": "Damaging basic attacks or abilities against enemy champions deal [stat:magic]50 to 150[/stat] [stat:ad](+ 40% [b]bonus[/b] AD)[/stat] [stat:ap](+ 20% AP)[/stat] [stat:magic][b]bonus[/b] magic damage[/stat], and grant you 30 gold and [stat:ms]25% [b]bonus[/b] movement speed[/stat] for 1.5 seconds (30 second cooldown per champion).",
+    "en_clean": "Damaging basic attacks or abilities against enemy champions deal 50 to 150 (+ 40% bonus AD) (+ 20% AP) bonus magic damage, and grant you 30 gold and 25% bonus movement speed for 1.5 seconds (30 second cooldown per champion)."
+  },
+  "king_me": {
+    "en_raw": "Upon entering the enemy team's gate or Catapult for the first time, either of which are located near their spawn, you become[br/][stat:damage]Kinged[/stat], causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all upgradeable stats on the item is increased by exactly 1000 gold.[br/][br/]King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+    "en_clean": "Upon entering the enemy team's gate or Catapult for the first time, either of which are located near their spawn, you become Kinged, causing you to gain one random Prismatic-tier augment and the first eligible Legendary item in your inventory to be upgraded with improved stats. The gold value of all upgradeable stats on the item is increased by exactly 1000 gold. King Me prioritize upgrading the first Legendary item eligible for a upgrade based on its position in the inventory, detecting each slot until an eligible item is found."
+  },
+  "giant_slayer": {
+    "en_raw": "Become tiny, reducing your size by 75% and gaining [stat:ms]30% [b]bonus[/b] movement speed[/stat]. Additionally, deal 10;15;25;30 [b]bonus[/b] damage against enemy champions with greater size than you.",
+    "en_clean": "Become tiny, reducing your size by 75% and gaining 30% bonus movement speed. Additionally, deal 10;15;25;30 bonus damage against enemy champions with greater size than you."
+  },
+  "quickstep": {
+    "en_raw": "When you use your chosen ability, dash towards your cursor.",
+    "en_clean": "When you use your chosen ability, dash towards your cursor."
+  },
+  "symphony_of_war": {
+    "en_raw": "Gain the Conqueror and Lethal Tempo keystone runes.",
+    "en_clean": "Gain the Conqueror and Lethal Tempo keystone runes."
+  },
+  "triggered_inferno": {
+    "en_raw": "Your damaging basic attacks and abilities against at least one enemy champion unique from the previous damaging hit made against champions generate a stack of Style for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain [stat:ms]2.75 to 3.5 [b]bonus[/b] movement speed[/stat], up to a maximum of [stat:ms]16.5 to 21[/stat].[br/][br/]Upon reaching maximum Style stacks, you unleash a torrent of shots for 2.25, during which you rapidly shoot at nearby enemies over 2 at sporadic times in 0.2-second intervals each (up to 10 times per enemy), dealing [stat:physical]10 to 40[/stat] [stat:damage](+ 35% AD)[/stat] [stat:ap](+ 20% AP)[/stat] [stat:physical]physical damage[/stat] with each shot, reduced by 75% against minions. Enemies below [stat:health]30% of their [b]maximum[/b] health[/stat] are critically struck fordouble damage(15 second cooldown).[br/][br/]Shot damage applies [stat:lifesteal]life steal[/stat]. Style stacks are consumed at the end of the shooting effect.",
+    "en_clean": "Your damaging basic attacks and abilities against at least one enemy champion unique from the previous damaging hit made against champions generate a stack of Style for 6 seconds, refreshing on subsequent unique or non-unique hits and stacking up to 6 times. For each stack, gain 2.75 to 3.5 bonus movement speed, up to a maximum of 16.5 to 21. Upon reaching maximum Style stacks, you unleash a torrent of shots for 2.25, during which you rapidly shoot at nearby enemies over 2 at sporadic times in 0.2-second intervals each (up to 10 times per enemy), dealing 10 to 40 (+ 35% AD) (+ 20% AP) physical damage with each shot, reduced by 75% against minions. Enemies below 30% of their maximum health are critically struck fordouble damage(15 second cooldown). Shot damage applies life steal. Style stacks are consumed at the end of the shooting effect."
+  },
+  "high_roller": {
+    "en_raw": "Nearby enemies have a chance to drop Stat Anvils on death.",
+    "en_clean": "Nearby enemies have a chance to drop Stat Anvils on death."
+  },
+  "circle_of_death": {
+    "en_raw": "Healing and health regeneration you do causes you to deal 70% of that value in [stat:magic]magic damage[/stat] to the nearest enemy champion within 1000 units.",
+    "en_clean": "Healing and health regeneration you do causes you to deal 70% of that value in magic damage to the nearest enemy champion within 1000 units."
+  },
+  "cruelty": {
+    "en_raw": "Immobilizing or grounding an enemy champion summons a comet above them that lands at their current location after 1 second, dealing [stat:magic]50 to 150[/stat] [stat:ap](+ 40% AP)[/stat] [stat:health](+ 4% of your [b]maximum[/b] health)[/stat] [stat:magic]magic damage[/stat] to enemies within the area (6 second cooldown per target per cast instance).",
+    "en_clean": "Immobilizing or grounding an enemy champion summons a comet above them that lands at their current location after 1 second, dealing 50 to 150 (+ 40% AP) (+ 4% of your maximum health) magic damage to enemies within the area (6 second cooldown per target per cast instance)."
+  },
+  "hellbent": {
+    "en_raw": "Damaging enemy champions with Attacks or Abilities grants stacks. At max stacks, you <attention>revive empowered</attention> upon death.",
+    "en_clean": "Damaging enemy champions with Attacks or Abilities grants stacks. At max stacks, you revive empowered upon death."
+  },
+  "spirit_bomb": {
+    "en_raw": "<healing>Healing</healing> and <shield>Shielding</shield> allied champions builds up a Spirit Bomb. At max stacks, toss the bomb onto <scaleHealth>lowest Health ally</scaleHealth> to <healing>heal</healing> and <shield>shield</shield> them and nearby allies.",
+    "en_clean": "Healing and Shielding allied champions builds up a Spirit Bomb. At max stacks, toss the bomb onto lowest Health ally to heal and shield them and nearby allies."
+  },
+  "infernal_conduit": {
+    "en_raw": "Your ability hits against champions apply a [stat:burn]Burn[/stat] for 5 seconds that deals1.2 to 12 [stat:ad](+ 2.8% [b]bonus[/b] AD)[/stat] [stat:ap](+ 1.2% AP)[/stat] [stat:magic][b]bonus[/b] magic damage[/stat] per second(1 second cooldown per cast instance). This [stat:burn]Burn[/stat] stacks infinitely and refreshes with each application.[br/][br/]Additionally, all of your [stat:burn]Burn[/stat] effects reduce the cooldowns of all your basic abilities by 0.08 seconds for each tick of damage they deal to a target.",
+    "en_clean": "Your ability hits against champions apply a Burn for 5 seconds that deals1.2 to 12 (+ 2.8% bonus AD) (+ 1.2% AP) bonus magic damage per second(1 second cooldown per cast instance). This Burn stacks infinitely and refreshes with each application. Additionally, all of your Burn effects reduce the cooldowns of all your basic abilities by 0.08 seconds for each tick of damage they deal to a target."
+  },
+  "master_of_duality": {
+    "en_raw": "Basic attacks on-hit grant [stat:ap]6 to 18 ability power[/stat] and damaging abilities once per cast instance grant [stat:ad]3 to 9 [b]bonus[/b] attack damage[/stat], lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely.",
+    "en_clean": "Basic attacks on-hit grant 6 to 18 ability power and damaging abilities once per cast instance grant 3 to 9 bonus attack damage, lasting for 5 seconds, with the duration of both refreshing on subsequent hits, and stacking infinitely."
+  },
+  "mad_scientist": {
+    "en_raw": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force, [stat:health]20% [b]bonus[/b] health[/stat], and 40% increased size or [stat:ah]70 ability haste[/stat], [stat:ms]40% [b]bonus[/b] movement speed[/stat], and 40% reduced size.",
+    "en_clean": "Upon acquiring this augment and each time you respawn, gain either 30% adaptive force, 20% bonus health, and 40% increased size or 70 ability haste, 40% bonus movement speed, and 40% reduced size."
+  },
+  "fey_magic": {
+    "en_raw": "Damaging enemies with your ultimate ability polymorphs them into harmless critters for 2 seconds, during which their [stat:ms][b]base[/b] movement speed[/stat] is reduced by [stat:ms]60[/stat], and disarms them for the same duration (15 second cooldown per target).",
+    "en_clean": "Damaging enemies with your ultimate ability polymorphs them into harmless critters for 2 seconds, during which their base movement speed is reduced by 60, and disarms them for the same duration (15 second cooldown per target)."
+  },
+  "tap_dancer": {
+    "en_raw": "Basic attacks on-hit against enemy champions and minions grant [stat:ms]10 [b]bonus[/b] movement speed[/stat], lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain [stat:as][b]bonus[/b] attack speed[/stat] equal to [stat:ms]10% [b]total[/b] movement speed[/stat].",
+    "en_clean": "Basic attacks on-hit against enemy champions and minions grant 10 bonus movement speed, lasting for 5 seconds, refreshing on subsequent triggers, and stacking infinitely. Additionally, gain bonus attack speed equal to 10% total movement speed."
+  },
+  "squishy_slappy_grab": {
+    "en_raw": "Occasionally send out squishy, slappy hands towards all nearby enemy champions, tethering them. Your next attack will pull in all tethered enemies.",
+    "en_clean": "Occasionally send out squishy, slappy hands towards all nearby enemy champions, tethering them. Your next attack will pull in all tethered enemies."
+  },
+  "chain_reaction": {
+    "en_raw": "If a target <status>Knocked Back</status> by your chosen ability hits another champion, they are <status>Knocked Up</status> and dealt <magicDamage>damage</magicDamage>. When colliding with terrain, the <status>Knock Up</status> duration is extended and they are dealt <magicDamage>bonus damage</magicDamage>.",
+    "en_clean": "If a target Knocked Back by your chosen ability hits another champion, they are Knocked Up and dealt damage. When colliding with terrain, the Knock Up duration is extended and they are dealt bonus damage."
+  },
+  "rite_of_ascension": {
+    "en_raw": "On takedown, enemy champions leave behind their Essence. Attacking the Essence grants <speed>movement speed</speed> and resets basic ability cooldowns.",
+    "en_clean": "On takedown, enemy champions leave behind their Essence. Attacking the Essence grants movement speed and resets basic ability cooldowns."
+  },
+  "dropkick": {
+    "en_raw": "Your basic attacks and abilities execute enemy champions below [stat:health]5%[/stat] [stat:damage](+ 3% per 100 of your AD)[/stat] [stat:health](+ 0.2% per 1000 of your [b]maximum[/b] health)[/stat] [stat:health]of their [b]maximum[/b] health[/stat], which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal [stat:magic]150 to 500[/stat] [stat:armor](+ 100% of your armor)[/stat] [stat:mr](+ 100% of your magic resistance)[/stat] [stat:magic]magic damage[/stat] to nearby enemies. Successful executions heal you for 100 to 300 [stat:health](+ 2.5% of your [b]maximum[/b] health)[/stat].[br/][br/]The execution may also be triggered by the explosion.",
+    "en_clean": "Your basic attacks and abilities execute enemy champions below 5% (+ 3% per 100 of your AD) (+ 0.2% per 1000 of your maximum health) of their maximum health, which causes their corpse to be sent flying away in a line. Upon collision with an enemy champion or terrain, the target's corpse explodes to deal 150 to 500 (+ 100% of your armor) (+ 100% of your magic resistance) magic damage to nearby enemies. Successful executions heal you for 100 to 300 (+ 2.5% of your maximum health). The execution may also be triggered by the explosion."
+  },
+  "void_immolation": {
+    "en_raw": "Quest: Icathia's Fall - Immediately: Gain a Bami's Cinder and you can purchase 2 Immolate Items. Requirement: Possess Sunfire Aegis and Hollow Radiance. Reward: These Items combine into Void Immolation.",
+    "en_clean": "Quest: Icathia's Fall - Immediately: Gain a Bami's Cinder and you can purchase 2 Immolate Items. Requirement: Possess Sunfire Aegis and Hollow Radiance. Reward: These Items combine into Void Immolation."
+  },
+  "cant_touch_this": {
+    "en_raw": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown).",
+    "en_clean": "Casting your ultimate grants you invulnerability for 2 seconds (8 second cooldown)."
+  },
+  "dimension_shift": {
+    "en_raw": "Gain the <spellName>When the Darkness Comes</spellName> Summoner Spell. Create a zone that transports everyone inside of it to another dimension.",
+    "en_clean": "Gain the When the Darkness Comes Summoner Spell. Create a zone that transports everyone inside of it to another dimension."
+  },
+  "one_trick_pony": {
+    "en_raw": "Added to ARAM Mayhem in Patch 26.12. Riot lists this augment in the official patch notes; its full client tooltip is not exposed in the current 16.12 augment file yet.",
+    "en_clean": "Added to ARAM Mayhem in Patch 26.12. Riot lists this augment in the official patch notes; its full client tooltip is not exposed in the current 16.12 augment file yet."
+  },
+  "surge_field": {
+    "en_raw": "On Ultimate cast, spawn a <keywordMajor>Zone</keywordMajor> that grants <scaleAbilityHaste>Ability Haste</scaleAbilityHaste> and <speed>Movement Speed</speed>. While inside, it fires missiles that deal <magicDamage>the required number of% of your damage</magicDamage>.",
+    "en_clean": "On Ultimate cast, spawn a Zone that grants Ability Haste and Movement Speed. While inside, it fires missiles that deal the required number of% of your damage."
+  }
+}

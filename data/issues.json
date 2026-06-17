@@ -1,1 +1,203 @@
-[]
+[
+  {
+    "sev": "major",
+    "title": "远程英雄未获得增强符文的额外护甲/魔抗",
+    "heroes": [],
+    "augs": [],
+    "desc": "LoL Wiki 记录的已知 Bug：代码中远程英雄应从部分增强获得额外护甲/魔抗加成，但实际未生效。影响所有远程英雄。",
+    "ver": "26.12",
+    "time": "已知未修复",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "远程英雄选择提供双抗的增强时需注意可能不生效。",
+    "evidence": [
+      {
+        "type": "wiki",
+        "url": "https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem",
+        "summary": "LoL Wiki documented: ranged champions should receive bonus armor/MR from certain augments but receive no bonus"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 70,
+    "source_note": "LoL Wiki ARAM Mayhem 已知问题"
+  },
+  {
+    "sev": "minor",
+    "title": "克烈在出生点异常生成勇气值",
+    "heroes": [
+      "克烈"
+    ],
+    "augs": [],
+    "desc": "LoL Wiki 记录：克烈在出生点以每 0.25 秒 25 点的速率异常生成勇气值。",
+    "ver": "26.12",
+    "time": "已知未修复",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "暂不影响正常游戏，属于底层机制 Bug。",
+    "evidence": [
+      {
+        "type": "wiki",
+        "url": "https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem",
+        "summary": "Kled generates Courage at 25 per 0.25s at spawn point unexpectedly"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 60,
+    "source_note": "LoL Wiki ARAM Mayhem 已知问题"
+  },
+  {
+    "sev": "critical",
+    "title": "会心治疗 + 暴击飞弹无限触发循环",
+    "heroes": [],
+    "augs": [
+      "Critical Healing",
+      "Critical Missile"
+    ],
+    "desc": "Critical Healing 和 Critical Missile 两个增强可以互相无限触发，造成治疗和飞弹的无限循环。已在 26.9 版本修复。",
+    "ver": "26.9",
+    "time": "26.9 已修复",
+    "status": "verified",
+    "confirm": 0,
+    "tip": "已修复，之前版本需避免同时选取这两个增强。",
+    "evidence": [
+      {
+        "type": "patch_notes",
+        "url": "https://www.leagueoflegends.com/en-ph/news/game-updates/league-of-legends-patch-26-9-notes/",
+        "summary": "Patch 26.9: Fixed Critical Healing + Critical Missile infinite trigger loop"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 90,
+    "source_note": "官方 26.9 补丁说明"
+  },
+  {
+    "sev": "major",
+    "title": "闪电打击攻速计算错误（加成攻速而非总攻速）",
+    "heroes": [],
+    "augs": [
+      "Lightning Strike"
+    ],
+    "desc": "闪电打击提供的是 20% 加成攻速而非 20% 总攻速，导致实际效果弱于预期。26.9 版本修复为正确的总攻速。",
+    "ver": "26.9",
+    "time": "26.9 已修复",
+    "status": "verified",
+    "confirm": 0,
+    "tip": "已修复。修复后闪电打击强度提升，可考虑选取。",
+    "evidence": [
+      {
+        "type": "patch_notes",
+        "url": "https://news.qq.com/rain/a/20260428A08OGG00",
+        "summary": "QQ News 26.9 补丁分析：闪电打击从加成攻速修正为总攻速"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 85,
+    "source_note": "QQ News 26.9 补丁分析 + 官方补丁说明"
+  },
+  {
+    "sev": "major",
+    "title": "一板一眼 + 潘多拉的盒子攻速锁定后丢失攻击力",
+    "heroes": [
+      "泽丽"
+    ],
+    "augs": [
+      "Methodical",
+      "Pandora's Box"
+    ],
+    "desc": "当潘多拉的盒子变形一板一眼增强后，攻速锁定在 0.63 的限制保留，但补偿的攻击力加成丢失。泽丽受影响尤其严重。NGA 社区报告 26.1 版本修复了一半。",
+    "ver": "26.1",
+    "time": "部分修复",
+    "status": "investigating",
+    "confirm": 0,
+    "tip": "避免在泽丽身上同时选取一板一眼和潘多拉的盒子。",
+    "evidence": [
+      {
+        "type": "forum",
+        "url": "https://bbs.nga.cn/read.php?tid=45742416",
+        "summary": "NGA 社区多人确认：Pandora's Box 变形 Methodical 后攻击力补偿丢失"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 65,
+    "source_note": "NGA 论坛 tid=45742416, tid=45937019"
+  },
+  {
+    "sev": "critical",
+    "title": "船长 E 技能零冷却问题（多次修复仍复发）",
+    "heroes": [
+      "普朗克"
+    ],
+    "augs": [
+      "Infernal Conduit"
+    ],
+    "desc": "船长的 E（火药桶）在部分增强配置下冷却变为零，可无限放置火药桶。已在 25.22 和 26.7 版本两次修复。",
+    "ver": "26.7",
+    "time": "26.7 二次修复",
+    "status": "verified",
+    "confirm": 0,
+    "tip": "已修复。如再次遇到请反馈。",
+    "evidence": [
+      {
+        "type": "patch_notes",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-22-notes/",
+        "summary": "Patch 25.22: Fixed Gangplank E zero cooldown with Infernal Conduit"
+      },
+      {
+        "type": "patch_notes",
+        "url": "https://www.leagueoflegends.com/en-gb/news/game-updates/league-of-legends-patch-26-7-notes/",
+        "summary": "Patch 26.7: Second fix for Gangplank E no cooldown"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 90,
+    "source_note": "官方 25.22 + 26.7 补丁说明"
+  },
+  {
+    "sev": "major",
+    "title": "佛耶戈附身后升级所有装备",
+    "heroes": [
+      "佛耶戈"
+    ],
+    "augs": [],
+    "desc": "佛耶戈通过大招附身敌方英雄后，可以升级所有装备（不仅是自己的）。已在 26.7 版本修复。",
+    "ver": "26.7",
+    "time": "26.7 已修复",
+    "status": "verified",
+    "confirm": 0,
+    "tip": "已修复。",
+    "evidence": [
+      {
+        "type": "patch_notes",
+        "url": "https://www.leagueoflegends.com/en-gb/news/game-updates/league-of-legends-patch-26-7-notes/",
+        "summary": "Patch 26.7: Fixed Viego upgrading all items post-possess"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 85,
+    "source_note": "官方 26.7 补丁说明"
+  },
+  {
+    "sev": "major",
+    "title": "潘多拉的盒子显示 Bug（等级15时显示异常）",
+    "heroes": [],
+    "augs": [
+      "Pandora's Box"
+    ],
+    "desc": "在等级 15 选取潘多拉的盒子时，界面显示 3 个棱彩 + 1 个黄金增强，但实际将全部 4 个转化为棱彩。显示误导但实际效果正确。游戏结算界面也会显示为其他增强。",
+    "ver": "25.24",
+    "time": "25.24 已修复",
+    "status": "verified",
+    "confirm": 0,
+    "tip": "已修复。之前版本中显示异常但实际效果正确（全部变为棱彩）。",
+    "evidence": [
+      {
+        "type": "forum",
+        "url": "https://tieba.baidu.com/p/10277346608",
+        "summary": "贴吧玩家报告：Pandora's Box 在15级时显示3棱彩+1金但实际全变棱彩"
+      }
+    ],
+    "updated_at": "2026-06-17T00:00:00Z",
+    "confidence": 75,
+    "source_note": "百度贴吧 + QQ News 25.24 补丁分析"
+  }
+]
