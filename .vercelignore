@@ -1,0 +1,9 @@
+scripts
+pipeline
+tests
+tools
+docs
+*.py
+*.md
+requirements.txt
+.vercelignore
