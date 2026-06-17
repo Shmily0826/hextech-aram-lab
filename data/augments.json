@@ -495,7 +495,7 @@
     "name": "大地苏醒",
     "name_en": "Earthwake",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "你的冲刺、闪烁或传送类技能会留下一条在0.75秒后爆炸的轨迹。",
     "effect_en": "Your dash, blink, or teleport Abilities leave behind a trail that detonates after 0.75 second.",
     "source": {
@@ -503,7 +503,8 @@
       "url": "https://arammayhem.com/zh-cn/augments/earthwake"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "goldrend",
@@ -1109,7 +1110,7 @@
       "ctt"
     ],
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "施放你的终极技能会使你进入短时间的免疫伤害状态。",
     "effect_en": "Casting your Ultimate makes you Invulnerable for a short duration.",
     "tags": [
@@ -1124,7 +1125,8 @@
     },
     "notes": "",
     "rar": "prism",
-    "tests": []
+    "tests": [],
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "holy_snowball",
@@ -1332,7 +1334,7 @@
     "name": "艾卡西亚的陷落",
     "name_en": "Icathian Fall",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "即刻：获得1个【斑比的熔渣】。任务：持有日炎圣盾和璀璨回响。奖励：将这些装备合成为虚空献祭。",
     "effect_en": "Immediately: Gain a Bami's Cinder. QUEST: Possess Sunfire Aegis and Hollow Radiance. REWARD: These Items combine into Void Immolation.",
     "source": {
@@ -1340,7 +1342,8 @@
       "url": "https://arammayhem.com/zh-cn/augments/icathian-fall"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "protein_shake",
@@ -3224,7 +3227,7 @@
     "name": "闪现向前",
     "name_en": "Flash Forward",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "你的闪现有3层充能。在120秒后，再次获得所有充能。",
     "effect_en": "Your Flash has 3 charges. After 120 seconds, regain all charges.",
     "source": {
@@ -3232,7 +3235,8 @@
       "url": "https://arammayhem.com/zh-cn/augments/flash-forward"
     },
     "aliases": [],
-    "patch_added": "26.12"
+    "patch_added": "26.12",
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "bread_and_cheese",
@@ -4640,7 +4644,7 @@
     "name": "质变：黄金阶",
     "name_en": "Transmute Gold",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "获得1个随机黄金阶强化符文。",
     "effect_en": "Gain a random  Gold Augment.",
     "source": {
@@ -4652,7 +4656,8 @@
     "tags": [
       "economy",
       "rune"
-    ]
+    ],
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "spin_me_right_round",
@@ -4760,7 +4765,7 @@
     "name": "防护面纱",
     "name_en": "Veil Of Protection",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "每30秒获得一层法术护盾来格挡下一个敌方技能。",
     "effect_en": "Gain a Spell Shield every 30 seconds that blocks the next enemy Ability.",
     "source": {
@@ -4773,7 +4778,8 @@
     "patch_added": "26.12",
     "tags": [
       "shield"
-    ]
+    ],
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   },
   {
     "id": "escapade",
@@ -4805,7 +4811,7 @@
     "name": "加固护盾",
     "name_en": "Bolstered",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "来自【?】技能的护盾变得更强并且受益于目标的已损失生命值。",
     "effect_en": "Shields granted from ? are stronger and scaling with target's missing Health.",
     "source": {
@@ -4817,6 +4823,7 @@
     "tags": [
       "shield",
       "support"
-    ]
+    ],
+    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
   }
 ]

@@ -1,0 +1,4961 @@
+{
+  "source": "blitz.gg",
+  "scraped_at": "2026-06-16T23:52:30Z",
+  "total": 172,
+  "success": 172,
+  "with_stats": 172,
+  "errors": 0,
+  "results": [
+    {
+      "champion": "Sion",
+      "display": "Sion",
+      "cn_name": "亡灵战神",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 15569,
+          "win_rate": 56.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 489,
+          "win_rate": 56.65
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 670,
+          "win_rate": 44.18
+        }
+      ],
+      "total_games": 16728,
+      "weighted_win_rate": 55.91,
+      "overall": {
+        "games": 80908,
+        "win_rate": 50.29,
+        "pick_rate": 3.43
+      }
+    },
+    {
+      "champion": "Sett",
+      "display": "Sett",
+      "cn_name": "腕豪",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9585,
+          "win_rate": 53.48
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12794,
+          "win_rate": 55.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2930,
+          "win_rate": 54.81
+        }
+      ],
+      "total_games": 25309,
+      "weighted_win_rate": 54.6,
+      "overall": {
+        "games": 59636,
+        "win_rate": 50.38,
+        "pick_rate": 2.53
+      }
+    },
+    {
+      "champion": "Kayle",
+      "display": "Kayle",
+      "cn_name": "正义天使",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 923,
+          "win_rate": 57.85
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5935,
+          "win_rate": 55.28
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 466,
+          "win_rate": 61.16
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11926,
+          "win_rate": 55.94
+        }
+      ],
+      "total_games": 19250,
+      "weighted_win_rate": 55.95,
+      "overall": {
+        "games": 37222,
+        "win_rate": 51.68,
+        "pick_rate": 1.58
+      }
+    },
+    {
+      "champion": "Lillia",
+      "display": "Lillia",
+      "cn_name": "含羞蓓蕾",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1146,
+          "win_rate": 47.82
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 22496,
+          "win_rate": 49.04
+        }
+      ],
+      "total_games": 23642,
+      "weighted_win_rate": 48.98,
+      "overall": {
+        "games": 28540,
+        "win_rate": 50.2,
+        "pick_rate": 1.21
+      }
+    },
+    {
+      "champion": "Rell",
+      "display": "Rell",
+      "cn_name": "镕铁少女",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7649,
+          "win_rate": 54.83
+        }
+      ],
+      "total_games": 7649,
+      "weighted_win_rate": 54.83,
+      "overall": {
+        "games": 40821,
+        "win_rate": 51.42,
+        "pick_rate": 1.73
+      }
+    },
+    {
+      "champion": "Gwen",
+      "display": "Gwen",
+      "cn_name": "灵罗娃娃",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4498,
+          "win_rate": 56.31
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 718,
+          "win_rate": 55.85
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1942,
+          "win_rate": 49.02
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1705,
+          "win_rate": 54.9
+        }
+      ],
+      "total_games": 8863,
+      "weighted_win_rate": 54.4,
+      "overall": {
+        "games": 44468,
+        "win_rate": 50.2,
+        "pick_rate": 1.88
+      }
+    },
+    {
+      "champion": "Fiora",
+      "display": "Fiora",
+      "cn_name": "无双剑姬",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 438,
+          "win_rate": 52.05
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4237,
+          "win_rate": 52.77
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 90,
+          "win_rate": 48.73
+        }
+      ],
+      "total_games": 4765,
+      "weighted_win_rate": 52.63,
+      "overall": {
+        "games": 37641,
+        "win_rate": 50.42,
+        "pick_rate": 1.59
+      }
+    },
+    {
+      "champion": "Zaahen",
+      "display": "Zaahen",
+      "cn_name": "不落魔锋",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 475,
+          "win_rate": 55.58
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14155,
+          "win_rate": 59.16
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 372,
+          "win_rate": 51.34
+        }
+      ],
+      "total_games": 15002,
+      "weighted_win_rate": 58.85,
+      "overall": {
+        "games": 39178,
+        "win_rate": 49.62,
+        "pick_rate": 1.66
+      }
+    },
+    {
+      "champion": "Seraphine",
+      "display": "Seraphine",
+      "cn_name": "星籁歌姬",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 38229,
+          "win_rate": 51.12
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2702,
+          "win_rate": 53.37
+        }
+      ],
+      "total_games": 40931,
+      "weighted_win_rate": 51.27,
+      "overall": {
+        "games": 144061,
+        "win_rate": 51.67,
+        "pick_rate": 6.1
+      }
+    },
+    {
+      "champion": "DrMundo",
+      "display": "Dr. Mundo",
+      "cn_name": "祖安狂人",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19689,
+          "win_rate": 55.16
+        }
+      ],
+      "total_games": 19689,
+      "weighted_win_rate": 55.16,
+      "overall": {
+        "games": 48148,
+        "win_rate": 50.36,
+        "pick_rate": 2.04
+      }
+    },
+    {
+      "champion": "Shyvana",
+      "display": "Shyvana",
+      "cn_name": "龙血武姬",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1952,
+          "win_rate": 50.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 932,
+          "win_rate": 53.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3683,
+          "win_rate": 53.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1394,
+          "win_rate": 47.42
+        }
+      ],
+      "total_games": 7961,
+      "weighted_win_rate": 51.7,
+      "overall": {
+        "games": 51277,
+        "win_rate": 51.08,
+        "pick_rate": 2.17
+      }
+    },
+    {
+      "champion": "Shen",
+      "display": "Shen",
+      "cn_name": "暮光之眼",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 21783,
+          "win_rate": 54.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1039,
+          "win_rate": 56.11
+        }
+      ],
+      "total_games": 22822,
+      "weighted_win_rate": 54.44,
+      "overall": {
+        "games": 56287,
+        "win_rate": 50.99,
+        "pick_rate": 2.38
+      }
+    },
+    {
+      "champion": "Brand",
+      "display": "Brand",
+      "cn_name": "布兰德",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 55324,
+          "win_rate": 52.42
+        }
+      ],
+      "total_games": 55324,
+      "weighted_win_rate": 52.42,
+      "overall": {
+        "games": 99366,
+        "win_rate": 50.41,
+        "pick_rate": 4.21
+      }
+    },
+    {
+      "champion": "Jinx",
+      "display": "Jinx",
+      "cn_name": "暴走萝莉",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1269,
+          "win_rate": 46.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 46879,
+          "win_rate": 53.64
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 975,
+          "win_rate": 52.41
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9724,
+          "win_rate": 53.78
+        }
+      ],
+      "total_games": 58847,
+      "weighted_win_rate": 53.5,
+      "overall": {
+        "games": 132905,
+        "win_rate": 51.25,
+        "pick_rate": 5.63
+      }
+    },
+    {
+      "champion": "Hwei",
+      "display": "Hwei",
+      "cn_name": "异画师",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 25316,
+          "win_rate": 51.59
+        }
+      ],
+      "total_games": 25316,
+      "weighted_win_rate": 51.59,
+      "overall": {
+        "games": 94137,
+        "win_rate": 51.14,
+        "pick_rate": 3.99
+      }
+    },
+    {
+      "champion": "AurelionSol",
+      "display": "Aurelion Sol",
+      "cn_name": "铸星龙王",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 36214,
+          "win_rate": 52.78
+        }
+      ],
+      "total_games": 36214,
+      "weighted_win_rate": 52.78,
+      "overall": {
+        "games": 28444,
+        "win_rate": 49.39,
+        "pick_rate": 1.2
+      }
+    },
+    {
+      "champion": "Ekko",
+      "display": "Ekko",
+      "cn_name": "时间刺客",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 27286,
+          "win_rate": 49.98
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 729,
+          "win_rate": 45.68
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 681,
+          "win_rate": 58.88
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 437,
+          "win_rate": 47.6
+        }
+      ],
+      "total_games": 29133,
+      "weighted_win_rate": 50.04,
+      "overall": {
+        "games": 86771,
+        "win_rate": 50.15,
+        "pick_rate": 3.68
+      }
+    },
+    {
+      "champion": "Malzahar",
+      "display": "Malzahar",
+      "cn_name": "虚空先知",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 32966,
+          "win_rate": 51.97
+        }
+      ],
+      "total_games": 32966,
+      "weighted_win_rate": 51.97,
+      "overall": {
+        "games": 76986,
+        "win_rate": 49.49,
+        "pick_rate": 3.26
+      }
+    },
+    {
+      "champion": "Galio",
+      "display": "Galio",
+      "cn_name": "正义巨像",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1259,
+          "win_rate": 55.04
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2072,
+          "win_rate": 52.22
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 25840,
+          "win_rate": 54.37
+        }
+      ],
+      "total_games": 29171,
+      "weighted_win_rate": 54.25,
+      "overall": {
+        "games": 59702,
+        "win_rate": 49.36,
+        "pick_rate": 2.53
+      }
+    },
+    {
+      "champion": "Nasus",
+      "display": "Nasus",
+      "cn_name": "沙漠死神",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12269,
+          "win_rate": 55.12
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3209,
+          "win_rate": 48.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2268,
+          "win_rate": 57.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1824,
+          "win_rate": 56.25
+        }
+      ],
+      "total_games": 19570,
+      "weighted_win_rate": 54.39,
+      "overall": {
+        "games": 61600,
+        "win_rate": 50.69,
+        "pick_rate": 2.61
+      }
+    },
+    {
+      "champion": "Graves",
+      "display": "Graves",
+      "cn_name": "法外狂徒",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 990,
+          "win_rate": 45.66
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 480,
+          "win_rate": 48.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9344,
+          "win_rate": 49.35
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18282,
+          "win_rate": 50.83
+        }
+      ],
+      "total_games": 29096,
+      "weighted_win_rate": 50.14,
+      "overall": {
+        "games": 135713,
+        "win_rate": 49.38,
+        "pick_rate": 5.75
+      }
+    },
+    {
+      "champion": "Vayne",
+      "display": "Vayne",
+      "cn_name": "薇恩",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3280,
+          "win_rate": 51.25
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 30225,
+          "win_rate": 53.07
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1290,
+          "win_rate": 49.15
+        }
+      ],
+      "total_games": 34795,
+      "weighted_win_rate": 52.75,
+      "overall": {
+        "games": 101646,
+        "win_rate": 49.23,
+        "pick_rate": 4.31
+      }
+    },
+    {
+      "champion": "Aphelios",
+      "display": "Aphelios",
+      "cn_name": "残月之肃",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2296,
+          "win_rate": 55.75
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 22304,
+          "win_rate": 53.32
+        }
+      ],
+      "total_games": 24600,
+      "weighted_win_rate": 53.55,
+      "overall": {
+        "games": 50917,
+        "win_rate": 48.66,
+        "pick_rate": 2.16
+      }
+    },
+    {
+      "champion": "Maokai",
+      "display": "Maokai",
+      "cn_name": "扭曲树精",
+      "tier_blitz": "S",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 23054,
+          "win_rate": 54.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4931,
+          "win_rate": 50.13
+        }
+      ],
+      "total_games": 27985,
+      "weighted_win_rate": 54.05,
+      "overall": {
+        "games": 30094,
+        "win_rate": 50.33,
+        "pick_rate": 1.27
+      }
+    },
+    {
+      "champion": "Sona",
+      "display": "Sona",
+      "cn_name": "琴瑟仙女",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8974,
+          "win_rate": 47.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 15535,
+          "win_rate": 56.38
+        }
+      ],
+      "total_games": 24509,
+      "weighted_win_rate": 53.28,
+      "overall": {
+        "games": 30272,
+        "win_rate": 50.58,
+        "pick_rate": 1.28
+      }
+    },
+    {
+      "champion": "Illaoi",
+      "display": "Illaoi",
+      "cn_name": "海兽祭司",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9187,
+          "win_rate": 55.69
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4603,
+          "win_rate": 48.95
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6883,
+          "win_rate": 51.42
+        }
+      ],
+      "total_games": 20673,
+      "weighted_win_rate": 52.77,
+      "overall": {
+        "games": 30372,
+        "win_rate": 50.58,
+        "pick_rate": 1.29
+      }
+    },
+    {
+      "champion": "Heimerdinger",
+      "display": "Heimerdinger",
+      "cn_name": "大发明家",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 39598,
+          "win_rate": 54.03
+        }
+      ],
+      "total_games": 39598,
+      "weighted_win_rate": 54.03,
+      "overall": {
+        "games": 21029,
+        "win_rate": 51.15,
+        "pick_rate": 0.89
+      }
+    },
+    {
+      "champion": "Viktor",
+      "display": "Viktor",
+      "cn_name": "维克托",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 557,
+          "win_rate": 58.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 36044,
+          "win_rate": 53.34
+        }
+      ],
+      "total_games": 36601,
+      "weighted_win_rate": 53.42,
+      "overall": {
+        "games": 113608,
+        "win_rate": 50.06,
+        "pick_rate": 4.81
+      }
+    },
+    {
+      "champion": "Singed",
+      "display": "Singed",
+      "cn_name": "炼金术士",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4453,
+          "win_rate": 53.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2958,
+          "win_rate": 49.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8718,
+          "win_rate": 54.43
+        }
+      ],
+      "total_games": 16129,
+      "weighted_win_rate": 53.24,
+      "overall": {
+        "games": 33635,
+        "win_rate": 51.3,
+        "pick_rate": 1.42
+      }
+    },
+    {
+      "champion": "Jax",
+      "display": "Jax",
+      "cn_name": "武器大师",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1622,
+          "win_rate": 54.69
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1195,
+          "win_rate": 52.97
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13261,
+          "win_rate": 56.0
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1271,
+          "win_rate": 53.27
+        }
+      ],
+      "total_games": 17349,
+      "weighted_win_rate": 55.47,
+      "overall": {
+        "games": 87952,
+        "win_rate": 49.81,
+        "pick_rate": 3.73
+      }
+    },
+    {
+      "champion": "Aurora",
+      "display": "Aurora",
+      "cn_name": "双界灵兔",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18703,
+          "win_rate": 51.26
+        }
+      ],
+      "total_games": 18703,
+      "weighted_win_rate": 51.26,
+      "overall": {
+        "games": 38927,
+        "win_rate": 49.18,
+        "pick_rate": 1.65
+      }
+    },
+    {
+      "champion": "MasterYi",
+      "display": "Master Yi",
+      "cn_name": "无极剑圣",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2530,
+          "win_rate": 58.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7148,
+          "win_rate": 56.2
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 15102,
+          "win_rate": 56.11
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2364,
+          "win_rate": 52.03
+        }
+      ],
+      "total_games": 27144,
+      "weighted_win_rate": 56.0,
+      "overall": {
+        "games": 83837,
+        "win_rate": 49.9,
+        "pick_rate": 3.55
+      }
+    },
+    {
+      "champion": "TwistedFate",
+      "display": "Twisted Fate",
+      "cn_name": "卡牌大师",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5877,
+          "win_rate": 49.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 22302,
+          "win_rate": 52.91
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1333,
+          "win_rate": 46.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3060,
+          "win_rate": 49.93
+        }
+      ],
+      "total_games": 32572,
+      "weighted_win_rate": 51.74,
+      "overall": {
+        "games": 67453,
+        "win_rate": 50.6,
+        "pick_rate": 2.86
+      }
+    },
+    {
+      "champion": "Kassadin",
+      "display": "Kassadin",
+      "cn_name": "虚空行者",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 728,
+          "win_rate": 50.14
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 189,
+          "win_rate": 50.93
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13913,
+          "win_rate": 46.35
+        }
+      ],
+      "total_games": 14830,
+      "weighted_win_rate": 46.59,
+      "overall": {
+        "games": 31917,
+        "win_rate": 49.12,
+        "pick_rate": 1.35
+      }
+    },
+    {
+      "champion": "Zyra",
+      "display": "Zyra",
+      "cn_name": "婕拉",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 31263,
+          "win_rate": 53.11
+        }
+      ],
+      "total_games": 31263,
+      "weighted_win_rate": 53.11,
+      "overall": {
+        "games": 41895,
+        "win_rate": 49.97,
+        "pick_rate": 1.77
+      }
+    },
+    {
+      "champion": "XinZhao",
+      "display": "Xin Zhao",
+      "cn_name": "德邦总管",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 883,
+          "win_rate": 62.17
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1591,
+          "win_rate": 53.05
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10326,
+          "win_rate": 56.13
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 799,
+          "win_rate": 59.57
+        }
+      ],
+      "total_games": 13599,
+      "weighted_win_rate": 56.36,
+      "overall": {
+        "games": 69799,
+        "win_rate": 48.46,
+        "pick_rate": 2.96
+      }
+    },
+    {
+      "champion": "Ryze",
+      "display": "Ryze",
+      "cn_name": "符文法师",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 24055,
+          "win_rate": 48.37
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2743,
+          "win_rate": 49.51
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 414,
+          "win_rate": 45.89
+        }
+      ],
+      "total_games": 27212,
+      "weighted_win_rate": 48.45,
+      "overall": {
+        "games": 41761,
+        "win_rate": 47.8,
+        "pick_rate": 1.77
+      }
+    },
+    {
+      "champion": "MonkeyKing",
+      "display": "Wukong",
+      "cn_name": "齐天大圣",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20323,
+          "win_rate": 56.23
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 621,
+          "win_rate": 48.47
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 727,
+          "win_rate": 48.42
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 789,
+          "win_rate": 51.46
+        }
+      ],
+      "total_games": 22460,
+      "weighted_win_rate": 55.6,
+      "overall": {
+        "games": 71440,
+        "win_rate": 51.47,
+        "pick_rate": 3.03
+      }
+    },
+    {
+      "champion": "Hecarim",
+      "display": "Hecarim",
+      "cn_name": "战争之影",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1711,
+          "win_rate": 51.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7255,
+          "win_rate": 51.88
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1064,
+          "win_rate": 46.62
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 193,
+          "win_rate": 42.16
+        }
+      ],
+      "total_games": 10223,
+      "weighted_win_rate": 51.08,
+      "overall": {
+        "games": 43498,
+        "win_rate": 49.24,
+        "pick_rate": 1.84
+      }
+    },
+    {
+      "champion": "Ornn",
+      "display": "Ornn",
+      "cn_name": "山隐之焰",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13025,
+          "win_rate": 57.3
+        }
+      ],
+      "total_games": 13025,
+      "weighted_win_rate": 57.3,
+      "overall": {
+        "games": 49121,
+        "win_rate": 51.15,
+        "pick_rate": 2.08
+      }
+    },
+    {
+      "champion": "Yasuo",
+      "display": "Yasuo",
+      "cn_name": "亚索",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3005,
+          "win_rate": 52.11
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5625,
+          "win_rate": 55.48
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5801,
+          "win_rate": 51.4
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17368,
+          "win_rate": 56.58
+        }
+      ],
+      "total_games": 31799,
+      "weighted_win_rate": 55.02,
+      "overall": {
+        "games": 125769,
+        "win_rate": 49.02,
+        "pick_rate": 5.33
+      }
+    },
+    {
+      "champion": "Trundle",
+      "display": "Trundle",
+      "cn_name": "巨魔之王",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9608,
+          "win_rate": 53.46
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1108,
+          "win_rate": 57.13
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3540,
+          "win_rate": 54.44
+        }
+      ],
+      "total_games": 14256,
+      "weighted_win_rate": 53.99,
+      "overall": {
+        "games": 25147,
+        "win_rate": 48.51,
+        "pick_rate": 1.07
+      }
+    },
+    {
+      "champion": "Soraka",
+      "display": "Soraka",
+      "cn_name": "众星之子",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6878,
+          "win_rate": 50.7
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2827,
+          "win_rate": 50.19
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3806,
+          "win_rate": 51.71
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3601,
+          "win_rate": 47.1
+        }
+      ],
+      "total_games": 17112,
+      "weighted_win_rate": 50.08,
+      "overall": {
+        "games": 58260,
+        "win_rate": 50.94,
+        "pick_rate": 2.47
+      }
+    },
+    {
+      "champion": "Taric",
+      "display": "Taric",
+      "cn_name": "瓦洛兰之盾",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9377,
+          "win_rate": 52.64
+        }
+      ],
+      "total_games": 9377,
+      "weighted_win_rate": 52.64,
+      "overall": {
+        "games": 14848,
+        "win_rate": 52.57,
+        "pick_rate": 0.63
+      }
+    },
+    {
+      "champion": "Rumble",
+      "display": "Rumble",
+      "cn_name": "机械公敌",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1098,
+          "win_rate": 55.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 28614,
+          "win_rate": 51.96
+        }
+      ],
+      "total_games": 29712,
+      "weighted_win_rate": 52.1,
+      "overall": {
+        "games": 27097,
+        "win_rate": 48.19,
+        "pick_rate": 1.15
+      }
+    },
+    {
+      "champion": "Leona",
+      "display": "Leona",
+      "cn_name": "曙光女神",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20956,
+          "win_rate": 53.96
+        }
+      ],
+      "total_games": 20956,
+      "weighted_win_rate": 53.96,
+      "overall": {
+        "games": 88784,
+        "win_rate": 51.56,
+        "pick_rate": 3.76
+      }
+    },
+    {
+      "champion": "Karthus",
+      "display": "Karthus",
+      "cn_name": "卡尔萨斯",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 31447,
+          "win_rate": 51.58
+        }
+      ],
+      "total_games": 31447,
+      "weighted_win_rate": 51.58,
+      "overall": {
+        "games": 26090,
+        "win_rate": 49.82,
+        "pick_rate": 1.11
+      }
+    },
+    {
+      "champion": "Zilean",
+      "display": "Zilean",
+      "cn_name": "时光守护者",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 30895,
+          "win_rate": 46.96
+        }
+      ],
+      "total_games": 30895,
+      "weighted_win_rate": 46.96,
+      "overall": {
+        "games": 35752,
+        "win_rate": 51.45,
+        "pick_rate": 1.51
+      }
+    },
+    {
+      "champion": "Volibear",
+      "display": "Volibear",
+      "cn_name": "不灭狂雷",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 309,
+          "win_rate": 51.13
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 572,
+          "win_rate": 50.87
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 16330,
+          "win_rate": 52.3
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1465,
+          "win_rate": 52.29
+        }
+      ],
+      "total_games": 18676,
+      "weighted_win_rate": 52.24,
+      "overall": {
+        "games": 41766,
+        "win_rate": 49.05,
+        "pick_rate": 1.77
+      }
+    },
+    {
+      "champion": "Briar",
+      "display": "Briar",
+      "cn_name": "狂厄蔷薇",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 918,
+          "win_rate": 51.09
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1526,
+          "win_rate": 53.01
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 789,
+          "win_rate": 51.46
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4821,
+          "win_rate": 55.71
+        }
+      ],
+      "total_games": 8054,
+      "weighted_win_rate": 54.26,
+      "overall": {
+        "games": 60825,
+        "win_rate": 50.81,
+        "pick_rate": 2.58
+      }
+    },
+    {
+      "champion": "KogMaw",
+      "display": "Kog'Maw",
+      "cn_name": "深渊巨口",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14014,
+          "win_rate": 55.56
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20267,
+          "win_rate": 51.71
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1959,
+          "win_rate": 50.64
+        }
+      ],
+      "total_games": 36240,
+      "weighted_win_rate": 53.14,
+      "overall": {
+        "games": 25447,
+        "win_rate": 51.22,
+        "pick_rate": 1.08
+      }
+    },
+    {
+      "champion": "Kayn",
+      "display": "Kayn",
+      "cn_name": "影流之镰",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1105,
+          "win_rate": 49.59
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1669,
+          "win_rate": 49.97
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6342,
+          "win_rate": 52.08
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5453,
+          "win_rate": 49.37
+        }
+      ],
+      "total_games": 14569,
+      "weighted_win_rate": 50.64,
+      "overall": {
+        "games": 92157,
+        "win_rate": 50.2,
+        "pick_rate": 3.9
+      }
+    },
+    {
+      "champion": "Ahri",
+      "display": "Ahri",
+      "cn_name": "阿狸",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 53851,
+          "win_rate": 51.35
+        }
+      ],
+      "total_games": 53851,
+      "weighted_win_rate": 51.35,
+      "overall": {
+        "games": 117732,
+        "win_rate": 50.69,
+        "pick_rate": 4.99
+      }
+    },
+    {
+      "champion": "Renata",
+      "display": "Renata Glasc",
+      "cn_name": "炼金男爵",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 301,
+          "win_rate": 44.85
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2919,
+          "win_rate": 55.67
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9499,
+          "win_rate": 50.71
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 800,
+          "win_rate": 52.5
+        }
+      ],
+      "total_games": 13519,
+      "weighted_win_rate": 51.76,
+      "overall": {
+        "games": 11987,
+        "win_rate": 49.97,
+        "pick_rate": 0.51
+      }
+    },
+    {
+      "champion": "Nautilus",
+      "display": "Nautilus",
+      "cn_name": "深海泰坦",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 34244,
+          "win_rate": 54.58
+        }
+      ],
+      "total_games": 34244,
+      "weighted_win_rate": 54.58,
+      "overall": {
+        "games": 120601,
+        "win_rate": 49.94,
+        "pick_rate": 5.11
+      }
+    },
+    {
+      "champion": "Janna",
+      "display": "Janna",
+      "cn_name": "风暴之怒",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8567,
+          "win_rate": 47.06
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11432,
+          "win_rate": 51.98
+        }
+      ],
+      "total_games": 19999,
+      "weighted_win_rate": 49.87,
+      "overall": {
+        "games": 40197,
+        "win_rate": 50.98,
+        "pick_rate": 1.7
+      }
+    },
+    {
+      "champion": "Morgana",
+      "display": "Morgana",
+      "cn_name": "莫甘娜",
+      "tier_blitz": "A",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 60757,
+          "win_rate": 50.77
+        }
+      ],
+      "total_games": 60757,
+      "weighted_win_rate": 50.77,
+      "overall": {
+        "games": 55053,
+        "win_rate": 49.35,
+        "pick_rate": 2.33
+      }
+    },
+    {
+      "champion": "Caitlyn",
+      "display": "Caitlyn",
+      "cn_name": "皮城女警",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 57482,
+          "win_rate": 52.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 938,
+          "win_rate": 50.43
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3368,
+          "win_rate": 49.32
+        }
+      ],
+      "total_games": 61788,
+      "weighted_win_rate": 52.19,
+      "overall": {
+        "games": 179807,
+        "win_rate": 48.61,
+        "pick_rate": 7.62
+      }
+    },
+    {
+      "champion": "Milio",
+      "display": "Milio",
+      "cn_name": "明烛",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8113,
+          "win_rate": 45.11
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14677,
+          "win_rate": 54.6
+        }
+      ],
+      "total_games": 22790,
+      "weighted_win_rate": 51.22,
+      "overall": {
+        "games": 69505,
+        "win_rate": 50.3,
+        "pick_rate": 2.94
+      }
+    },
+    {
+      "champion": "Kled",
+      "display": "Kled",
+      "cn_name": "暴怒骑士",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 519,
+          "win_rate": 48.94
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1434,
+          "win_rate": 53.84
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 128,
+          "win_rate": 49.59
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2543,
+          "win_rate": 51.55
+        }
+      ],
+      "total_games": 4624,
+      "weighted_win_rate": 51.91,
+      "overall": {
+        "games": 19901,
+        "win_rate": 50.99,
+        "pick_rate": 0.84
+      }
+    },
+    {
+      "champion": "TahmKench",
+      "display": "Tahm Kench",
+      "cn_name": "河流之王",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 23825,
+          "win_rate": 51.32
+        }
+      ],
+      "total_games": 23825,
+      "weighted_win_rate": 51.32,
+      "overall": {
+        "games": 56670,
+        "win_rate": 50.58,
+        "pick_rate": 2.4
+      }
+    },
+    {
+      "champion": "Amumu",
+      "display": "Amumu",
+      "cn_name": "殇之木乃伊",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18858,
+          "win_rate": 54.14
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2738,
+          "win_rate": 47.19
+        }
+      ],
+      "total_games": 21596,
+      "weighted_win_rate": 53.26,
+      "overall": {
+        "games": 27725,
+        "win_rate": 49.5,
+        "pick_rate": 1.17
+      }
+    },
+    {
+      "champion": "Senna",
+      "display": "Senna",
+      "cn_name": "涤魂圣枪",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 33993,
+          "win_rate": 51.05
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13351,
+          "win_rate": 56.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2130,
+          "win_rate": 52.91
+        }
+      ],
+      "total_games": 49474,
+      "weighted_win_rate": 52.69,
+      "overall": {
+        "games": 294105,
+        "win_rate": 53.83,
+        "pick_rate": 12.46
+      }
+    },
+    {
+      "champion": "Xayah",
+      "display": "Xayah",
+      "cn_name": "逆羽",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2319,
+          "win_rate": 54.59
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 39943,
+          "win_rate": 53.35
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 629,
+          "win_rate": 44.99
+        }
+      ],
+      "total_games": 42891,
+      "weighted_win_rate": 53.29,
+      "overall": {
+        "games": 41935,
+        "win_rate": 51.38,
+        "pick_rate": 1.78
+      }
+    },
+    {
+      "champion": "Sylas",
+      "display": "Sylas",
+      "cn_name": "塞拉斯",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10528,
+          "win_rate": 51.71
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13046,
+          "win_rate": 49.87
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1629,
+          "win_rate": 52.61
+        }
+      ],
+      "total_games": 25203,
+      "weighted_win_rate": 50.82,
+      "overall": {
+        "games": 210433,
+        "win_rate": 50.4,
+        "pick_rate": 8.91
+      }
+    },
+    {
+      "champion": "Poppy",
+      "display": "Poppy",
+      "cn_name": "圣锤之毅",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13480,
+          "win_rate": 51.91
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 254,
+          "win_rate": 45.28
+        }
+      ],
+      "total_games": 13734,
+      "weighted_win_rate": 51.79,
+      "overall": {
+        "games": 40284,
+        "win_rate": 51.06,
+        "pick_rate": 1.71
+      }
+    },
+    {
+      "champion": "VelKoz",
+      "display": "Vel'Koz",
+      "cn_name": "",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 52043,
+          "win_rate": 51.47
+        }
+      ],
+      "total_games": 52043,
+      "weighted_win_rate": 51.47,
+      "overall": {
+        "games": 70006,
+        "win_rate": 51.17,
+        "pick_rate": 2.97
+      }
+    },
+    {
+      "champion": "Yone",
+      "display": "Yone",
+      "cn_name": "封魔剑魂",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5065,
+          "win_rate": 55.4
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3418,
+          "win_rate": 48.19
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6711,
+          "win_rate": 48.95
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19164,
+          "win_rate": 55.16
+        }
+      ],
+      "total_games": 34358,
+      "weighted_win_rate": 53.29,
+      "overall": {
+        "games": 142728,
+        "win_rate": 48.85,
+        "pick_rate": 6.05
+      }
+    },
+    {
+      "champion": "Olaf",
+      "display": "Olaf",
+      "cn_name": "狂战士",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1080,
+          "win_rate": 56.94
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11102,
+          "win_rate": 56.7
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 609,
+          "win_rate": 47.78
+        }
+      ],
+      "total_games": 12791,
+      "weighted_win_rate": 56.3,
+      "overall": {
+        "games": 33396,
+        "win_rate": 51.46,
+        "pick_rate": 1.41
+      }
+    },
+    {
+      "champion": "Mordekaiser",
+      "display": "Mordekaiser",
+      "cn_name": "铁铠冥魂",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 16535,
+          "win_rate": 54.99
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10903,
+          "win_rate": 54.18
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6147,
+          "win_rate": 51.08
+        }
+      ],
+      "total_games": 33585,
+      "weighted_win_rate": 54.01,
+      "overall": {
+        "games": 56477,
+        "win_rate": 49.0,
+        "pick_rate": 2.39
+      }
+    },
+    {
+      "champion": "Alistar",
+      "display": "Alistar",
+      "cn_name": "牛头酋长",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 15565,
+          "win_rate": 53.59
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 746,
+          "win_rate": 41.69
+        }
+      ],
+      "total_games": 16311,
+      "weighted_win_rate": 53.05,
+      "overall": {
+        "games": 46900,
+        "win_rate": 49.69,
+        "pick_rate": 1.99
+      }
+    },
+    {
+      "champion": "Rammus",
+      "display": "Rammus",
+      "cn_name": "披甲龙龟",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11074,
+          "win_rate": 50.39
+        }
+      ],
+      "total_games": 11074,
+      "weighted_win_rate": 50.39,
+      "overall": {
+        "games": 22567,
+        "win_rate": 51.47,
+        "pick_rate": 0.96
+      }
+    },
+    {
+      "champion": "Kalista",
+      "display": "Kalista",
+      "cn_name": "复仇之矛",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3272,
+          "win_rate": 54.37
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12066,
+          "win_rate": 57.04
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 899,
+          "win_rate": 50.5
+        }
+      ],
+      "total_games": 16237,
+      "weighted_win_rate": 56.14,
+      "overall": {
+        "games": 22285,
+        "win_rate": 48.49,
+        "pick_rate": 0.94
+      }
+    },
+    {
+      "champion": "Syndra",
+      "display": "Syndra",
+      "cn_name": "暗黑元首",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 34524,
+          "win_rate": 50.07
+        }
+      ],
+      "total_games": 34524,
+      "weighted_win_rate": 50.07,
+      "overall": {
+        "games": 90031,
+        "win_rate": 51.38,
+        "pick_rate": 3.81
+      }
+    },
+    {
+      "champion": "Sejuani",
+      "display": "Sejuani",
+      "cn_name": "北地之怒",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12350,
+          "win_rate": 52.52
+        }
+      ],
+      "total_games": 12350,
+      "weighted_win_rate": 52.52,
+      "overall": {
+        "games": 24824,
+        "win_rate": 50.21,
+        "pick_rate": 1.05
+      }
+    },
+    {
+      "champion": "Ambessa",
+      "display": "Ambessa",
+      "cn_name": "铁血狼母",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 507,
+          "win_rate": 51.87
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5701,
+          "win_rate": 50.08
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 671,
+          "win_rate": 57.53
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 716,
+          "win_rate": 52.37
+        }
+      ],
+      "total_games": 7595,
+      "weighted_win_rate": 51.07,
+      "overall": {
+        "games": 56425,
+        "win_rate": 48.69,
+        "pick_rate": 2.39
+      }
+    },
+    {
+      "champion": "Veigar",
+      "display": "Veigar",
+      "cn_name": "邪恶小法师",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1182,
+          "win_rate": 54.57
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3628,
+          "win_rate": 54.47
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 44041,
+          "win_rate": 50.43
+        }
+      ],
+      "total_games": 48851,
+      "weighted_win_rate": 50.83,
+      "overall": {
+        "games": 55576,
+        "win_rate": 50.59,
+        "pick_rate": 2.35
+      }
+    },
+    {
+      "champion": "Vladimir",
+      "display": "Vladimir",
+      "cn_name": "猩红收割者",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14363,
+          "win_rate": 48.53
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2277,
+          "win_rate": 49.58
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 467,
+          "win_rate": 46.9
+        }
+      ],
+      "total_games": 17107,
+      "weighted_win_rate": 48.63,
+      "overall": {
+        "games": 79206,
+        "win_rate": 50.93,
+        "pick_rate": 3.36
+      }
+    },
+    {
+      "champion": "RekSai",
+      "display": "Rek'Sai",
+      "cn_name": "虚空遁地兽",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1684,
+          "win_rate": 55.4
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 870,
+          "win_rate": 51.95
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 88,
+          "win_rate": 49.93
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 555,
+          "win_rate": 54.59
+        }
+      ],
+      "total_games": 3197,
+      "weighted_win_rate": 54.17,
+      "overall": {
+        "games": 34106,
+        "win_rate": 52.08,
+        "pick_rate": 1.44
+      }
+    },
+    {
+      "champion": "Ashe",
+      "display": "Ashe",
+      "cn_name": "寒冰射手",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10292,
+          "win_rate": 54.62
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7672,
+          "win_rate": 42.32
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19812,
+          "win_rate": 55.27
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14483,
+          "win_rate": 55.14
+        }
+      ],
+      "total_games": 52259,
+      "weighted_win_rate": 53.2,
+      "overall": {
+        "games": 139412,
+        "win_rate": 49.98,
+        "pick_rate": 5.91
+      }
+    },
+    {
+      "champion": "MissFortune",
+      "display": "Miss Fortune",
+      "cn_name": "赏金猎人",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19997,
+          "win_rate": 50.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17432,
+          "win_rate": 51.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20585,
+          "win_rate": 51.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7514,
+          "win_rate": 52.64
+        }
+      ],
+      "total_games": 65528,
+      "weighted_win_rate": 51.56,
+      "overall": {
+        "games": 73757,
+        "win_rate": 49.15,
+        "pick_rate": 3.12
+      }
+    },
+    {
+      "champion": "Swain",
+      "display": "Swain",
+      "cn_name": "诺克萨斯统领",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5216,
+          "win_rate": 49.6
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11865,
+          "win_rate": 50.56
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20606,
+          "win_rate": 51.45
+        }
+      ],
+      "total_games": 37687,
+      "weighted_win_rate": 50.91,
+      "overall": {
+        "games": 56746,
+        "win_rate": 49.74,
+        "pick_rate": 2.4
+      }
+    },
+    {
+      "champion": "Skarner",
+      "display": "Skarner",
+      "cn_name": "上古领主",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7979,
+          "win_rate": 49.03
+        }
+      ],
+      "total_games": 7979,
+      "weighted_win_rate": 49.03,
+      "overall": {
+        "games": 20208,
+        "win_rate": 49.83,
+        "pick_rate": 0.86
+      }
+    },
+    {
+      "champion": "Samira",
+      "display": "Samira",
+      "cn_name": "沙漠玫瑰",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2151,
+          "win_rate": 50.02
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19061,
+          "win_rate": 55.17
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 288,
+          "win_rate": 50.0
+        }
+      ],
+      "total_games": 21500,
+      "weighted_win_rate": 54.59,
+      "overall": {
+        "games": 54227,
+        "win_rate": 49.55,
+        "pick_rate": 2.3
+      }
+    },
+    {
+      "champion": "Lux",
+      "display": "Lux",
+      "cn_name": "光辉女郎",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 61350,
+          "win_rate": 51.47
+        }
+      ],
+      "total_games": 61350,
+      "weighted_win_rate": 51.47,
+      "overall": {
+        "games": 127018,
+        "win_rate": 49.82,
+        "pick_rate": 5.38
+      }
+    },
+    {
+      "champion": "Sivir",
+      "display": "Sivir",
+      "cn_name": "战争女神",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1185,
+          "win_rate": 50.8
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1339,
+          "win_rate": 47.12
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 33787,
+          "win_rate": 51.47
+        }
+      ],
+      "total_games": 36311,
+      "weighted_win_rate": 51.29,
+      "overall": {
+        "games": 51743,
+        "win_rate": 49.64,
+        "pick_rate": 2.19
+      }
+    },
+    {
+      "champion": "Azir",
+      "display": "Azir",
+      "cn_name": "沙漠皇帝",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12626,
+          "win_rate": 48.53
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2127,
+          "win_rate": 50.63
+        }
+      ],
+      "total_games": 14753,
+      "weighted_win_rate": 48.83,
+      "overall": {
+        "games": 18929,
+        "win_rate": 46.35,
+        "pick_rate": 0.8
+      }
+    },
+    {
+      "champion": "Gangplank",
+      "display": "Gangplank",
+      "cn_name": "海洋之灾",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19579,
+          "win_rate": 51.18
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5924,
+          "win_rate": 52.48
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 786,
+          "win_rate": 53.94
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 667,
+          "win_rate": 47.83
+        }
+      ],
+      "total_games": 26956,
+      "weighted_win_rate": 51.46,
+      "overall": {
+        "games": 64503,
+        "win_rate": 50.34,
+        "pick_rate": 2.73
+      }
+    },
+    {
+      "champion": "Riven",
+      "display": "Riven",
+      "cn_name": "放逐之刃",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8353,
+          "win_rate": 51.96
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 822,
+          "win_rate": 51.82
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 872,
+          "win_rate": 50.8
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 608,
+          "win_rate": 53.78
+        }
+      ],
+      "total_games": 10655,
+      "weighted_win_rate": 51.96,
+      "overall": {
+        "games": 58055,
+        "win_rate": 50.22,
+        "pick_rate": 2.46
+      }
+    },
+    {
+      "champion": "Vex",
+      "display": "Vex",
+      "cn_name": "愁云使者",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 32730,
+          "win_rate": 50.54
+        }
+      ],
+      "total_games": 32730,
+      "weighted_win_rate": 50.54,
+      "overall": {
+        "games": 29669,
+        "win_rate": 51.69,
+        "pick_rate": 1.26
+      }
+    },
+    {
+      "champion": "Nami",
+      "display": "Nami",
+      "cn_name": "唤潮鲛姬",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8405,
+          "win_rate": 46.98
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20654,
+          "win_rate": 51.34
+        }
+      ],
+      "total_games": 29059,
+      "weighted_win_rate": 50.08,
+      "overall": {
+        "games": 94101,
+        "win_rate": 49.46,
+        "pick_rate": 3.99
+      }
+    },
+    {
+      "champion": "Fiddlesticks",
+      "display": "Fiddlesticks",
+      "cn_name": "远古恐惧",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 31153,
+          "win_rate": 53.64
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 480,
+          "win_rate": 54.79
+        }
+      ],
+      "total_games": 31633,
+      "weighted_win_rate": 53.66,
+      "overall": {
+        "games": 35411,
+        "win_rate": 50.7,
+        "pick_rate": 1.5
+      }
+    },
+    {
+      "champion": "Fizz",
+      "display": "Fizz",
+      "cn_name": "潮汐海灵",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 26828,
+          "win_rate": 48.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3855,
+          "win_rate": 54.76
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 404,
+          "win_rate": 51.24
+        }
+      ],
+      "total_games": 31087,
+      "weighted_win_rate": 49.6,
+      "overall": {
+        "games": 74394,
+        "win_rate": 51.53,
+        "pick_rate": 3.15
+      }
+    },
+    {
+      "champion": "Yunara",
+      "display": "Yunara",
+      "cn_name": "不破之誓",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 22903,
+          "win_rate": 47.43
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7698,
+          "win_rate": 49.31
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 553,
+          "win_rate": 43.04
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1383,
+          "win_rate": 45.77
+        }
+      ],
+      "total_games": 32537,
+      "weighted_win_rate": 47.73,
+      "overall": {
+        "games": 52246,
+        "win_rate": 47.85,
+        "pick_rate": 2.21
+      }
+    },
+    {
+      "champion": "Tryndamere",
+      "display": "Tryndamere",
+      "cn_name": "蛮族之王",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3779,
+          "win_rate": 56.1
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3086,
+          "win_rate": 57.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1240,
+          "win_rate": 54.44
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1406,
+          "win_rate": 56.47
+        }
+      ],
+      "total_games": 9511,
+      "weighted_win_rate": 56.35,
+      "overall": {
+        "games": 42966,
+        "win_rate": 50.97,
+        "pick_rate": 1.82
+      }
+    },
+    {
+      "champion": "ChoGath",
+      "display": "Cho'Gath",
+      "cn_name": "",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 31759,
+          "win_rate": 52.85
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3244,
+          "win_rate": 46.12
+        }
+      ],
+      "total_games": 35003,
+      "weighted_win_rate": 52.23,
+      "overall": {
+        "games": 41351,
+        "win_rate": 50.14,
+        "pick_rate": 1.75
+      }
+    },
+    {
+      "champion": "Teemo",
+      "display": "Teemo",
+      "cn_name": "提莫",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4697,
+          "win_rate": 54.69
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 778,
+          "win_rate": 48.46
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 683,
+          "win_rate": 48.46
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 40185,
+          "win_rate": 50.51
+        }
+      ],
+      "total_games": 46343,
+      "weighted_win_rate": 50.87,
+      "overall": {
+        "games": 67208,
+        "win_rate": 50.35,
+        "pick_rate": 2.85
+      }
+    },
+    {
+      "champion": "Ivern",
+      "display": "Ivern",
+      "cn_name": "翠神",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3844,
+          "win_rate": 55.12
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 203,
+          "win_rate": 42.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1928,
+          "win_rate": 47.82
+        }
+      ],
+      "total_games": 5975,
+      "weighted_win_rate": 52.33,
+      "overall": {
+        "games": 16599,
+        "win_rate": 50.79,
+        "pick_rate": 0.7
+      }
+    },
+    {
+      "champion": "Yuumi",
+      "display": "Yuumi",
+      "cn_name": "魔法猫咪",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4530,
+          "win_rate": 41.74
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9801,
+          "win_rate": 47.82
+        }
+      ],
+      "total_games": 14331,
+      "weighted_win_rate": 45.9,
+      "overall": {
+        "games": 61830,
+        "win_rate": 47.14,
+        "pick_rate": 2.62
+      }
+    },
+    {
+      "champion": "Ziggs",
+      "display": "Ziggs",
+      "cn_name": "吉格斯",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 52076,
+          "win_rate": 50.86
+        }
+      ],
+      "total_games": 52076,
+      "weighted_win_rate": 50.86,
+      "overall": {
+        "games": 32704,
+        "win_rate": 50.27,
+        "pick_rate": 1.39
+      }
+    },
+    {
+      "champion": "Jhin",
+      "display": "Jhin",
+      "cn_name": "戏命师",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 51582,
+          "win_rate": 51.03
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14156,
+          "win_rate": 52.95
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1653,
+          "win_rate": 55.11
+        }
+      ],
+      "total_games": 67391,
+      "weighted_win_rate": 51.53,
+      "overall": {
+        "games": 174477,
+        "win_rate": 48.88,
+        "pick_rate": 7.39
+      }
+    },
+    {
+      "champion": "Vi",
+      "display": "Vi",
+      "cn_name": "皮城执法官",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1892,
+          "win_rate": 53.75
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1978,
+          "win_rate": 49.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2949,
+          "win_rate": 48.63
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12463,
+          "win_rate": 54.7
+        }
+      ],
+      "total_games": 19282,
+      "weighted_win_rate": 53.14,
+      "overall": {
+        "games": 61551,
+        "win_rate": 49.58,
+        "pick_rate": 2.61
+      }
+    },
+    {
+      "champion": "Kindred",
+      "display": "Kindred",
+      "cn_name": "永猎双子",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17875,
+          "win_rate": 52.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7307,
+          "win_rate": 55.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 676,
+          "win_rate": 47.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3130,
+          "win_rate": 51.21
+        }
+      ],
+      "total_games": 28988,
+      "weighted_win_rate": 52.91,
+      "overall": {
+        "games": 28699,
+        "win_rate": 50.21,
+        "pick_rate": 1.22
+      }
+    },
+    {
+      "champion": "Warwick",
+      "display": "Warwick",
+      "cn_name": "祖安怒兽",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4705,
+          "win_rate": 53.37
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3285,
+          "win_rate": 55.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3612,
+          "win_rate": 51.08
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 488,
+          "win_rate": 57.38
+        }
+      ],
+      "total_games": 12090,
+      "weighted_win_rate": 53.42,
+      "overall": {
+        "games": 53154,
+        "win_rate": 51.43,
+        "pick_rate": 2.25
+      }
+    },
+    {
+      "champion": "Orianna",
+      "display": "Orianna",
+      "cn_name": "发条魔灵",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 35912,
+          "win_rate": 47.96
+        }
+      ],
+      "total_games": 35912,
+      "weighted_win_rate": 47.96,
+      "overall": {
+        "games": 32680,
+        "win_rate": 46.34,
+        "pick_rate": 1.38
+      }
+    },
+    {
+      "champion": "KaiSa",
+      "display": "Kai'Sa",
+      "cn_name": "",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13267,
+          "win_rate": 45.79
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3892,
+          "win_rate": 47.76
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13009,
+          "win_rate": 48.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 16867,
+          "win_rate": 49.1
+        }
+      ],
+      "total_games": 47035,
+      "weighted_win_rate": 47.98,
+      "overall": {
+        "games": 141394,
+        "win_rate": 48.18,
+        "pick_rate": 5.99
+      }
+    },
+    {
+      "champion": "Annie",
+      "display": "Annie",
+      "cn_name": "黑暗之女",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 28148,
+          "win_rate": 52.22
+        }
+      ],
+      "total_games": 28148,
+      "weighted_win_rate": 52.22,
+      "overall": {
+        "games": 32393,
+        "win_rate": 50.65,
+        "pick_rate": 1.37
+      }
+    },
+    {
+      "champion": "Akshan",
+      "display": "Akshan",
+      "cn_name": "影哨",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1801,
+          "win_rate": 51.8
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3812,
+          "win_rate": 49.5
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14469,
+          "win_rate": 49.51
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1527,
+          "win_rate": 45.51
+        }
+      ],
+      "total_games": 21609,
+      "weighted_win_rate": 49.42,
+      "overall": {
+        "games": 33061,
+        "win_rate": 49.96,
+        "pick_rate": 1.4
+      }
+    },
+    {
+      "champion": "Urgot",
+      "display": "Urgot",
+      "cn_name": "无畏战车",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4629,
+          "win_rate": 54.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4536,
+          "win_rate": 53.15
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7730,
+          "win_rate": 51.51
+        }
+      ],
+      "total_games": 16895,
+      "weighted_win_rate": 52.72,
+      "overall": {
+        "games": 28767,
+        "win_rate": 51.15,
+        "pick_rate": 1.22
+      }
+    },
+    {
+      "champion": "Draven",
+      "display": "Draven",
+      "cn_name": "荣耀行刑官",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 28504,
+          "win_rate": 49.68
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3126,
+          "win_rate": 48.91
+        }
+      ],
+      "total_games": 31630,
+      "weighted_win_rate": 49.6,
+      "overall": {
+        "games": 46936,
+        "win_rate": 48.97,
+        "pick_rate": 1.99
+      }
+    },
+    {
+      "champion": "Xerath",
+      "display": "Xerath",
+      "cn_name": "泽拉斯",
+      "tier_blitz": "B",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 52404,
+          "win_rate": 50.11
+        }
+      ],
+      "total_games": 52404,
+      "weighted_win_rate": 50.11,
+      "overall": {
+        "games": 106886,
+        "win_rate": 50.81,
+        "pick_rate": 4.53
+      }
+    },
+    {
+      "champion": "Udyr",
+      "display": "Udyr",
+      "cn_name": "兽灵行者",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 408,
+          "win_rate": 50.49
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3040,
+          "win_rate": 49.74
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 221,
+          "win_rate": 47.96
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3800,
+          "win_rate": 52.18
+        }
+      ],
+      "total_games": 7469,
+      "weighted_win_rate": 50.97,
+      "overall": {
+        "games": 30953,
+        "win_rate": 50.32,
+        "pick_rate": 1.31
+      }
+    },
+    {
+      "champion": "Gragas",
+      "display": "Gragas",
+      "cn_name": "酒桶",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1129,
+          "win_rate": 51.02
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14348,
+          "win_rate": 50.05
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4927,
+          "win_rate": 53.34
+        }
+      ],
+      "total_games": 20404,
+      "weighted_win_rate": 50.9,
+      "overall": {
+        "games": 43677,
+        "win_rate": 50.31,
+        "pick_rate": 1.85
+      }
+    },
+    {
+      "champion": "Mel",
+      "display": "Mel",
+      "cn_name": "流光镜影",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 55792,
+          "win_rate": 45.49
+        }
+      ],
+      "total_games": 55792,
+      "weighted_win_rate": 45.49,
+      "overall": {
+        "games": 71071,
+        "win_rate": 44.85,
+        "pick_rate": 3.01
+      }
+    },
+    {
+      "champion": "Rengar",
+      "display": "Rengar",
+      "cn_name": "傲之追猎者",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4096,
+          "win_rate": 49.78
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 392,
+          "win_rate": 54.08
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 664,
+          "win_rate": 48.19
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4968,
+          "win_rate": 46.4
+        }
+      ],
+      "total_games": 10120,
+      "weighted_win_rate": 48.18,
+      "overall": {
+        "games": 52892,
+        "win_rate": 47.99,
+        "pick_rate": 2.24
+      }
+    },
+    {
+      "champion": "Viego",
+      "display": "Viego",
+      "cn_name": "破败之王",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6885,
+          "win_rate": 51.15
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1589,
+          "win_rate": 54.0
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1931,
+          "win_rate": 51.42
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7240,
+          "win_rate": 53.95
+        }
+      ],
+      "total_games": 17645,
+      "weighted_win_rate": 52.59,
+      "overall": {
+        "games": 113513,
+        "win_rate": 49.32,
+        "pick_rate": 4.81
+      }
+    },
+    {
+      "champion": "Nilah",
+      "display": "Nilah",
+      "cn_name": "不羁之悦",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 154,
+          "win_rate": 43.82
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 157,
+          "win_rate": 53.62
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10471,
+          "win_rate": 52.6
+        }
+      ],
+      "total_games": 10782,
+      "weighted_win_rate": 52.49,
+      "overall": {
+        "games": 15004,
+        "win_rate": 51.57,
+        "pick_rate": 0.64
+      }
+    },
+    {
+      "champion": "Twitch",
+      "display": "Twitch",
+      "cn_name": "瘟疫之源",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 24954,
+          "win_rate": 51.1
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20177,
+          "win_rate": 55.11
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1724,
+          "win_rate": 53.02
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 860,
+          "win_rate": 43.02
+        }
+      ],
+      "total_games": 47715,
+      "weighted_win_rate": 52.72,
+      "overall": {
+        "games": 65277,
+        "win_rate": 49.41,
+        "pick_rate": 2.77
+      }
+    },
+    {
+      "champion": "Pantheon",
+      "display": "Pantheon",
+      "cn_name": "不屈之枪",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4913,
+          "win_rate": 48.63
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1348,
+          "win_rate": 44.58
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19793,
+          "win_rate": 52.93
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4591,
+          "win_rate": 50.75
+        }
+      ],
+      "total_games": 30645,
+      "weighted_win_rate": 51.55,
+      "overall": {
+        "games": 85144,
+        "win_rate": 49.68,
+        "pick_rate": 3.61
+      }
+    },
+    {
+      "champion": "Varus",
+      "display": "Varus",
+      "cn_name": "韦鲁斯",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 19762,
+          "win_rate": 48.34
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12091,
+          "win_rate": 50.81
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10229,
+          "win_rate": 45.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6326,
+          "win_rate": 48.88
+        }
+      ],
+      "total_games": 48408,
+      "weighted_win_rate": 48.44,
+      "overall": {
+        "games": 59977,
+        "win_rate": 46.93,
+        "pick_rate": 2.54
+      }
+    },
+    {
+      "champion": "Diana",
+      "display": "Diana",
+      "cn_name": "皎月女神",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1731,
+          "win_rate": 53.15
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1879,
+          "win_rate": 54.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14702,
+          "win_rate": 47.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 525,
+          "win_rate": 52.19
+        }
+      ],
+      "total_games": 18837,
+      "weighted_win_rate": 49.16,
+      "overall": {
+        "games": 107389,
+        "win_rate": 50.44,
+        "pick_rate": 4.55
+      }
+    },
+    {
+      "champion": "Renekton",
+      "display": "Renekton",
+      "cn_name": "荒漠屠夫",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1355,
+          "win_rate": 49.3
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1170,
+          "win_rate": 54.53
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13633,
+          "win_rate": 55.5
+        }
+      ],
+      "total_games": 16158,
+      "weighted_win_rate": 54.91,
+      "overall": {
+        "games": 57131,
+        "win_rate": 49.3,
+        "pick_rate": 2.42
+      }
+    },
+    {
+      "champion": "JarvanIV",
+      "display": "Jarvan IV",
+      "cn_name": "德玛西亚皇子",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4882,
+          "win_rate": 46.7
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2495,
+          "win_rate": 49.58
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14359,
+          "win_rate": 51.81
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1841,
+          "win_rate": 47.26
+        }
+      ],
+      "total_games": 23577,
+      "weighted_win_rate": 50.16,
+      "overall": {
+        "games": 81894,
+        "win_rate": 49.88,
+        "pick_rate": 3.47
+      }
+    },
+    {
+      "champion": "Yorick",
+      "display": "Yorick",
+      "cn_name": "牧魂人",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 327,
+          "win_rate": 48.32
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2657,
+          "win_rate": 52.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2225,
+          "win_rate": 53.8
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3681,
+          "win_rate": 54.6
+        }
+      ],
+      "total_games": 8890,
+      "weighted_win_rate": 53.55,
+      "overall": {
+        "games": 44951,
+        "win_rate": 49.32,
+        "pick_rate": 1.9
+      }
+    },
+    {
+      "champion": "Tristana",
+      "display": "Tristana",
+      "cn_name": "麦林炮手",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3078,
+          "win_rate": 55.13
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1026,
+          "win_rate": 50.88
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 43707,
+          "win_rate": 52.16
+        }
+      ],
+      "total_games": 47811,
+      "weighted_win_rate": 52.32,
+      "overall": {
+        "games": 83072,
+        "win_rate": 50.13,
+        "pick_rate": 3.52
+      }
+    },
+    {
+      "champion": "Cassiopeia",
+      "display": "Cassiopeia",
+      "cn_name": "魔蛇之拥",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1947,
+          "win_rate": 44.32
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 15155,
+          "win_rate": 45.31
+        }
+      ],
+      "total_games": 17102,
+      "weighted_win_rate": 45.2,
+      "overall": {
+        "games": 31077,
+        "win_rate": 50.19,
+        "pick_rate": 1.32
+      }
+    },
+    {
+      "champion": "Smolder",
+      "display": "Smolder",
+      "cn_name": "炽炎雏龙",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4202,
+          "win_rate": 43.96
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 25292,
+          "win_rate": 47.77
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10713,
+          "win_rate": 46.71
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2447,
+          "win_rate": 49.78
+        }
+      ],
+      "total_games": 42654,
+      "weighted_win_rate": 47.24,
+      "overall": {
+        "games": 88326,
+        "win_rate": 48.77,
+        "pick_rate": 3.74
+      }
+    },
+    {
+      "champion": "Rakan",
+      "display": "Rakan",
+      "cn_name": "幻翎",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13560,
+          "win_rate": 51.63
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 946,
+          "win_rate": 54.76
+        }
+      ],
+      "total_games": 14506,
+      "weighted_win_rate": 51.83,
+      "overall": {
+        "games": 41768,
+        "win_rate": 50.52,
+        "pick_rate": 1.77
+      }
+    },
+    {
+      "champion": "Corki",
+      "display": "Corki",
+      "cn_name": "英勇投弹手",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 378,
+          "win_rate": 55.56
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6251,
+          "win_rate": 48.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 16887,
+          "win_rate": 47.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 883,
+          "win_rate": 52.32
+        }
+      ],
+      "total_games": 24399,
+      "weighted_win_rate": 48.07,
+      "overall": {
+        "games": 18095,
+        "win_rate": 46.85,
+        "pick_rate": 0.77
+      }
+    },
+    {
+      "champion": "Malphite",
+      "display": "Malphite",
+      "cn_name": "熔岩巨兽",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14606,
+          "win_rate": 55.04
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 27781,
+          "win_rate": 47.75
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1250,
+          "win_rate": 45.68
+        }
+      ],
+      "total_games": 43637,
+      "weighted_win_rate": 50.13,
+      "overall": {
+        "games": 100372,
+        "win_rate": 50.52,
+        "pick_rate": 4.25
+      }
+    },
+    {
+      "champion": "Darius",
+      "display": "Darius",
+      "cn_name": "诺克萨斯之手",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 679,
+          "win_rate": 53.02
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4356,
+          "win_rate": 51.17
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17798,
+          "win_rate": 52.83
+        }
+      ],
+      "total_games": 22833,
+      "weighted_win_rate": 52.52,
+      "overall": {
+        "games": 85664,
+        "win_rate": 49.91,
+        "pick_rate": 3.63
+      }
+    },
+    {
+      "champion": "Karma",
+      "display": "Karma",
+      "cn_name": "天启者",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4049,
+          "win_rate": 51.82
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 644,
+          "win_rate": 43.79
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 35175,
+          "win_rate": 46.01
+        }
+      ],
+      "total_games": 39868,
+      "weighted_win_rate": 46.56,
+      "overall": {
+        "games": 94214,
+        "win_rate": 49.06,
+        "pick_rate": 3.99
+      }
+    },
+    {
+      "champion": "Katarina",
+      "display": "Katarina",
+      "cn_name": "不祥之刃",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 11112,
+          "win_rate": 44.68
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3302,
+          "win_rate": 53.79
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 480,
+          "win_rate": 53.33
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1556,
+          "win_rate": 46.92
+        }
+      ],
+      "total_games": 16450,
+      "weighted_win_rate": 46.97,
+      "overall": {
+        "games": 91757,
+        "win_rate": 50.97,
+        "pick_rate": 3.89
+      }
+    },
+    {
+      "champion": "Garen",
+      "display": "Garen",
+      "cn_name": "德玛西亚之力",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1667,
+          "win_rate": 53.51
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 12159,
+          "win_rate": 50.82
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4605,
+          "win_rate": 55.48
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6471,
+          "win_rate": 54.6
+        }
+      ],
+      "total_games": 24902,
+      "weighted_win_rate": 52.84,
+      "overall": {
+        "games": 100405,
+        "win_rate": 51.06,
+        "pick_rate": 4.25
+      }
+    },
+    {
+      "champion": "Zac",
+      "display": "Zac",
+      "cn_name": "生化魔人",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8995,
+          "win_rate": 49.73
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 276,
+          "win_rate": 47.46
+        }
+      ],
+      "total_games": 9271,
+      "weighted_win_rate": 49.66,
+      "overall": {
+        "games": 34848,
+        "win_rate": 49.73,
+        "pick_rate": 1.48
+      }
+    },
+    {
+      "champion": "Ezreal",
+      "display": "Ezreal",
+      "cn_name": "伊泽瑞尔",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 32639,
+          "win_rate": 50.31
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18696,
+          "win_rate": 49.93
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2852,
+          "win_rate": 44.64
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2999,
+          "win_rate": 44.91
+        }
+      ],
+      "total_games": 57186,
+      "weighted_win_rate": 49.62,
+      "overall": {
+        "games": 191768,
+        "win_rate": 46.94,
+        "pick_rate": 8.12
+      }
+    },
+    {
+      "champion": "Nocturne",
+      "display": "Nocturne",
+      "cn_name": "永恒梦魇",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 867,
+          "win_rate": 50.87
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7939,
+          "win_rate": 46.93
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 853,
+          "win_rate": 43.38
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1804,
+          "win_rate": 52.72
+        }
+      ],
+      "total_games": 11463,
+      "weighted_win_rate": 47.88,
+      "overall": {
+        "games": 79737,
+        "win_rate": 50.99,
+        "pick_rate": 3.38
+      }
+    },
+    {
+      "champion": "Talon",
+      "display": "Talon",
+      "cn_name": "刀锋之影",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 516,
+          "win_rate": 56.98
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1839,
+          "win_rate": 43.12
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17720,
+          "win_rate": 48.45
+        }
+      ],
+      "total_games": 20075,
+      "weighted_win_rate": 48.18,
+      "overall": {
+        "games": 82165,
+        "win_rate": 49.98,
+        "pick_rate": 3.48
+      }
+    },
+    {
+      "champion": "Zeri",
+      "display": "Zeri",
+      "cn_name": "祖安花火",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 380,
+          "win_rate": 48.42
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 745,
+          "win_rate": 44.97
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1276,
+          "win_rate": 50.47
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18628,
+          "win_rate": 47.34
+        }
+      ],
+      "total_games": 21029,
+      "weighted_win_rate": 47.47,
+      "overall": {
+        "games": 48996,
+        "win_rate": 49.28,
+        "pick_rate": 2.08
+      }
+    },
+    {
+      "champion": "Gnar",
+      "display": "Gnar",
+      "cn_name": "迷失之牙",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 289,
+          "win_rate": 51.9
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8463,
+          "win_rate": 53.03
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2841,
+          "win_rate": 54.45
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 330,
+          "win_rate": 52.73
+        }
+      ],
+      "total_games": 11923,
+      "weighted_win_rate": 53.33,
+      "overall": {
+        "games": 38858,
+        "win_rate": 49.19,
+        "pick_rate": 1.65
+      }
+    },
+    {
+      "champion": "Lulu",
+      "display": "Lulu",
+      "cn_name": "仙灵女巫",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 445,
+          "win_rate": 46.74
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1551,
+          "win_rate": 41.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2600,
+          "win_rate": 42.88
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18318,
+          "win_rate": 50.81
+        }
+      ],
+      "total_games": 22914,
+      "weighted_win_rate": 49.19,
+      "overall": {
+        "games": 99502,
+        "win_rate": 49.49,
+        "pick_rate": 4.21
+      }
+    },
+    {
+      "champion": "BelVeth",
+      "display": "Bel'Veth",
+      "cn_name": "",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 243,
+          "win_rate": 53.09
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 454,
+          "win_rate": 58.15
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3772,
+          "win_rate": 56.6
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 694,
+          "win_rate": 54.18
+        }
+      ],
+      "total_games": 5163,
+      "weighted_win_rate": 56.25,
+      "overall": {
+        "games": 26154,
+        "win_rate": 51.55,
+        "pick_rate": 1.11
+      }
+    },
+    {
+      "champion": "Lucian",
+      "display": "Lucian",
+      "cn_name": "圣枪游侠",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 717,
+          "win_rate": 47.42
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 678,
+          "win_rate": 46.46
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 720,
+          "win_rate": 44.72
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 43491,
+          "win_rate": 48.11
+        }
+      ],
+      "total_games": 45606,
+      "weighted_win_rate": 48.02,
+      "overall": {
+        "games": 93727,
+        "win_rate": 48.56,
+        "pick_rate": 3.97
+      }
+    },
+    {
+      "champion": "Taliyah",
+      "display": "Taliyah",
+      "cn_name": "岩雀",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 22968,
+          "win_rate": 46.01
+        }
+      ],
+      "total_games": 22968,
+      "weighted_win_rate": 46.01,
+      "overall": {
+        "games": 26090,
+        "win_rate": 49.75,
+        "pick_rate": 1.11
+      }
+    },
+    {
+      "champion": "Zed",
+      "display": "Zed",
+      "cn_name": "影流之主",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 28661,
+          "win_rate": 46.32
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 669,
+          "win_rate": 44.99
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1697,
+          "win_rate": 36.48
+        }
+      ],
+      "total_games": 31027,
+      "weighted_win_rate": 45.75,
+      "overall": {
+        "games": 117867,
+        "win_rate": 49.06,
+        "pick_rate": 4.99
+      }
+    },
+    {
+      "champion": "Lissandra",
+      "display": "Lissandra",
+      "cn_name": "冰霜女巫",
+      "tier_blitz": "C",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 21282,
+          "win_rate": 51.72
+        }
+      ],
+      "total_games": 21282,
+      "weighted_win_rate": 51.72,
+      "overall": {
+        "games": 66898,
+        "win_rate": 50.87,
+        "pick_rate": 2.83
+      }
+    },
+    {
+      "champion": "Anivia",
+      "display": "Anivia",
+      "cn_name": "冰晶凤凰",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 998,
+          "win_rate": 55.91
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 37325,
+          "win_rate": 47.46
+        }
+      ],
+      "total_games": 38323,
+      "weighted_win_rate": 47.68,
+      "overall": {
+        "games": 48384,
+        "win_rate": 49.79,
+        "pick_rate": 2.05
+      }
+    },
+    {
+      "champion": "Elise",
+      "display": "Elise",
+      "cn_name": "蜘蛛女皇",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 7887,
+          "win_rate": 47.29
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 131,
+          "win_rate": 55.54
+        }
+      ],
+      "total_games": 8018,
+      "weighted_win_rate": 47.42,
+      "overall": {
+        "games": 32421,
+        "win_rate": 49.88,
+        "pick_rate": 1.37
+      }
+    },
+    {
+      "champion": "Evelynn",
+      "display": "Evelynn",
+      "cn_name": "痛苦之拥",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 10151,
+          "win_rate": 47.78
+        }
+      ],
+      "total_games": 10151,
+      "weighted_win_rate": 47.78,
+      "overall": {
+        "games": 30324,
+        "win_rate": 50.41,
+        "pick_rate": 1.28
+      }
+    },
+    {
+      "champion": "Braum",
+      "display": "Braum",
+      "cn_name": "弗雷尔卓德之心",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 17938,
+          "win_rate": 52.05
+        }
+      ],
+      "total_games": 17938,
+      "weighted_win_rate": 52.05,
+      "overall": {
+        "games": 50870,
+        "win_rate": 51.3,
+        "pick_rate": 2.15
+      }
+    },
+    {
+      "champion": "Zoe",
+      "display": "Zoe",
+      "cn_name": "暮光星灵",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 27027,
+          "win_rate": 49.28
+        }
+      ],
+      "total_games": 27027,
+      "weighted_win_rate": 49.28,
+      "overall": {
+        "games": 44041,
+        "win_rate": 49.14,
+        "pick_rate": 1.87
+      }
+    },
+    {
+      "champion": "Pyke",
+      "display": "Pyke",
+      "cn_name": "血港鬼影",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2126,
+          "win_rate": 36.92
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 35487,
+          "win_rate": 46.17
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1081,
+          "win_rate": 50.14
+        }
+      ],
+      "total_games": 38694,
+      "weighted_win_rate": 45.77,
+      "overall": {
+        "games": 77322,
+        "win_rate": 49.95,
+        "pick_rate": 3.28
+      }
+    },
+    {
+      "champion": "Irelia",
+      "display": "Irelia",
+      "cn_name": "刀锋舞者",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1468,
+          "win_rate": 51.43
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2849,
+          "win_rate": 55.95
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6239,
+          "win_rate": 55.22
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4165,
+          "win_rate": 52.87
+        }
+      ],
+      "total_games": 14721,
+      "weighted_win_rate": 54.32,
+      "overall": {
+        "games": 83750,
+        "win_rate": 49.52,
+        "pick_rate": 3.55
+      }
+    },
+    {
+      "champion": "Nunu",
+      "display": "Nunu",
+      "cn_name": "雪原双子",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 872,
+          "win_rate": 48.97
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14281,
+          "win_rate": 47.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2946,
+          "win_rate": 50.64
+        }
+      ],
+      "total_games": 18099,
+      "weighted_win_rate": 48.34,
+      "overall": {
+        "games": 29733,
+        "win_rate": 49.23,
+        "pick_rate": 1.26
+      }
+    },
+    {
+      "champion": "Neeko",
+      "display": "Neeko",
+      "cn_name": "万花通灵",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 39683,
+          "win_rate": 49.66
+        }
+      ],
+      "total_games": 39683,
+      "weighted_win_rate": 49.66,
+      "overall": {
+        "games": 26090,
+        "win_rate": 49.34,
+        "pick_rate": 1.11
+      }
+    },
+    {
+      "champion": "Naafiri",
+      "display": "Naafiri",
+      "cn_name": "百裂冥犬",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1419,
+          "win_rate": 36.36
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 613,
+          "win_rate": 43.23
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1038,
+          "win_rate": 50.1
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 9437,
+          "win_rate": 48.34
+        }
+      ],
+      "total_games": 12507,
+      "weighted_win_rate": 46.88,
+      "overall": {
+        "games": 112439,
+        "win_rate": 50.25,
+        "pick_rate": 4.76
+      }
+    },
+    {
+      "champion": "Aatrox",
+      "display": "Aatrox",
+      "cn_name": "暗裔剑魔",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1595,
+          "win_rate": 45.2
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14579,
+          "win_rate": 52.21
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 928,
+          "win_rate": 49.57
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 797,
+          "win_rate": 56.21
+        }
+      ],
+      "total_games": 17899,
+      "weighted_win_rate": 51.63,
+      "overall": {
+        "games": 97163,
+        "win_rate": 50.35,
+        "pick_rate": 4.12
+      }
+    },
+    {
+      "champion": "Nidalee",
+      "display": "Nidalee",
+      "cn_name": "狂野女猎手",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 45067,
+          "win_rate": 48.77
+        }
+      ],
+      "total_games": 45067,
+      "weighted_win_rate": 48.77,
+      "overall": {
+        "games": 40155,
+        "win_rate": 50.09,
+        "pick_rate": 1.7
+      }
+    },
+    {
+      "champion": "Blitzcrank",
+      "display": "Blitzcrank",
+      "cn_name": "蒸汽机器人",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1177,
+          "win_rate": 46.22
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14106,
+          "win_rate": 44.94
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 34142,
+          "win_rate": 51.96
+        }
+      ],
+      "total_games": 49425,
+      "weighted_win_rate": 49.82,
+      "overall": {
+        "games": 62195,
+        "win_rate": 50.49,
+        "pick_rate": 2.63
+      }
+    },
+    {
+      "champion": "Camille",
+      "display": "Camille",
+      "cn_name": "青钢影",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 145,
+          "win_rate": 49.17
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6752,
+          "win_rate": 50.22
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 253,
+          "win_rate": 47.04
+        }
+      ],
+      "total_games": 7150,
+      "weighted_win_rate": 50.09,
+      "overall": {
+        "games": 49913,
+        "win_rate": 49.73,
+        "pick_rate": 2.11
+      }
+    },
+    {
+      "champion": "Shaco",
+      "display": "Shaco",
+      "cn_name": "恶魔小丑",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 957,
+          "win_rate": 40.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 27912,
+          "win_rate": 50.29
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2451,
+          "win_rate": 40.31
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4564,
+          "win_rate": 43.32
+        }
+      ],
+      "total_games": 35884,
+      "weighted_win_rate": 48.46,
+      "overall": {
+        "games": 67972,
+        "win_rate": 49.83,
+        "pick_rate": 2.88
+      }
+    },
+    {
+      "champion": "Akali",
+      "display": "Akali",
+      "cn_name": "离群之刺",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 588,
+          "win_rate": 44.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 395,
+          "win_rate": 51.39
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1283,
+          "win_rate": 47.47
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 18278,
+          "win_rate": 43.65
+        }
+      ],
+      "total_games": 20544,
+      "weighted_win_rate": 44.06,
+      "overall": {
+        "games": 97535,
+        "win_rate": 49.34,
+        "pick_rate": 4.13
+      }
+    },
+    {
+      "champion": "Quinn",
+      "display": "Quinn",
+      "cn_name": "德玛西亚之翼",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1959,
+          "win_rate": 51.97
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 14444,
+          "win_rate": 48.5
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2175,
+          "win_rate": 47.91
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5945,
+          "win_rate": 48.51
+        }
+      ],
+      "total_games": 24523,
+      "weighted_win_rate": 48.73,
+      "overall": {
+        "games": 34389,
+        "win_rate": 49.73,
+        "pick_rate": 1.46
+      }
+    },
+    {
+      "champion": "Jayce",
+      "display": "Jayce",
+      "cn_name": "未来守护者",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2741,
+          "win_rate": 47.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5694,
+          "win_rate": 43.99
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 863,
+          "win_rate": 46.0
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 30241,
+          "win_rate": 46.83
+        }
+      ],
+      "total_games": 39539,
+      "weighted_win_rate": 46.47,
+      "overall": {
+        "games": 94776,
+        "win_rate": 48.52,
+        "pick_rate": 4.01
+      }
+    },
+    {
+      "champion": "Kennen",
+      "display": "Kennen",
+      "cn_name": "凯南",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 16369,
+          "win_rate": 49.25
+        }
+      ],
+      "total_games": 16369,
+      "weighted_win_rate": 49.25,
+      "overall": {
+        "games": 23888,
+        "win_rate": 50.18,
+        "pick_rate": 1.01
+      }
+    },
+    {
+      "champion": "Khazix",
+      "display": "Kha'Zix",
+      "cn_name": "虚空掠夺者",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2997,
+          "win_rate": 34.83
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 13212,
+          "win_rate": 44.74
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 386,
+          "win_rate": 47.41
+        }
+      ],
+      "total_games": 16595,
+      "weighted_win_rate": 43.01,
+      "overall": {
+        "games": 62240,
+        "win_rate": 49.13,
+        "pick_rate": 2.64
+      }
+    },
+    {
+      "champion": "Qiyana",
+      "display": "Qiyana",
+      "cn_name": "元素女皇",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8958,
+          "win_rate": 46.19
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 997,
+          "win_rate": 38.92
+        }
+      ],
+      "total_games": 9955,
+      "weighted_win_rate": 45.46,
+      "overall": {
+        "games": 41586,
+        "win_rate": 49.04,
+        "pick_rate": 1.76
+      }
+    },
+    {
+      "champion": "Thresh",
+      "display": "Thresh",
+      "cn_name": "魂锁典狱长",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 700,
+          "win_rate": 40.0
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 33638,
+          "win_rate": 52.75
+        }
+      ],
+      "total_games": 34338,
+      "weighted_win_rate": 52.49,
+      "overall": {
+        "games": 153132,
+        "win_rate": 51.52,
+        "pick_rate": 6.49
+      }
+    },
+    {
+      "champion": "KSante",
+      "display": "K'Sante",
+      "cn_name": "纳祖芒荣耀",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 8479,
+          "win_rate": 46.09
+        }
+      ],
+      "total_games": 8479,
+      "weighted_win_rate": 46.09,
+      "overall": {
+        "games": 57665,
+        "win_rate": 47.96,
+        "pick_rate": 2.44
+      }
+    },
+    {
+      "champion": "Leblanc",
+      "display": "LeBlanc",
+      "cn_name": "诡术妖姬",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 34360,
+          "win_rate": 43.81
+        }
+      ],
+      "total_games": 34360,
+      "weighted_win_rate": 43.81,
+      "overall": {
+        "games": 51565,
+        "win_rate": 49.01,
+        "pick_rate": 2.18
+      }
+    },
+    {
+      "champion": "Bard",
+      "display": "Bard",
+      "cn_name": "星界游神",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 3468,
+          "win_rate": 46.89
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1356,
+          "win_rate": 44.91
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 2082,
+          "win_rate": 46.54
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 6037,
+          "win_rate": 48.63
+        }
+      ],
+      "total_games": 12943,
+      "weighted_win_rate": 47.44,
+      "overall": {
+        "games": 82062,
+        "win_rate": 50.61,
+        "pick_rate": 3.48
+      }
+    },
+    {
+      "champion": "LeeSin",
+      "display": "Lee Sin",
+      "cn_name": "盲僧",
+      "tier_blitz": "D",
+      "builds": [
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 5922,
+          "win_rate": 44.38
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 1461,
+          "win_rate": 38.6
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 20804,
+          "win_rate": 47.61
+        },
+        {
+          "build_type": "champion_queue_only_builds",
+          "games": 4656,
+          "win_rate": 45.45
+        }
+      ],
+      "total_games": 32843,
+      "weighted_win_rate": 46.32,
+      "overall": {
+        "games": 152444,
+        "win_rate": 48.57,
+        "pick_rate": 6.46
+      }
+    }
+  ],
+  "error_details": []
+}

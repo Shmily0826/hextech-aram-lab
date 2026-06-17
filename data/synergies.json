@@ -211,16 +211,6 @@
   },
   {
     "hero": "上古领主",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "上古领主",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -335,16 +325,6 @@
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "上古领主",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -911,16 +891,6 @@
   },
   {
     "hero": "不祥之刃",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "不祥之刃",
     "aug": "三重射击",
     "rar": "prismatic",
     "tier": "transform",
@@ -1062,16 +1032,6 @@
   {
     "hero": "不祥之刃",
     "aug": "全凭身法",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "不祥之刃",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -1591,16 +1551,6 @@
   },
   {
     "hero": "亚索",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "亚索",
     "aug": "利刃华尔兹",
     "rar": "prismatic",
     "tier": "recommend",
@@ -1642,16 +1592,6 @@
   {
     "hero": "亡灵战神",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "亡灵战神",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -1952,16 +1892,6 @@
   {
     "hero": "仙灵女巫",
     "aug": "主玩辅助",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "仙灵女巫",
-    "aug": "加固护盾",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -2681,16 +2611,6 @@
   },
   {
     "hero": "元素女皇",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "元素女皇",
     "aug": "俯冲轰炸",
     "rar": "silver",
     "tier": "recommend",
@@ -3230,16 +3150,6 @@
     "status": "verified"
   },
   {
-    "hero": "冰晶凤凰",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "冰霜女巫",
     "aug": "尤里卡",
     "rar": "prismatic",
@@ -3415,16 +3325,6 @@
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "凯南",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -3831,16 +3731,6 @@
   },
   {
     "hero": "刀锋舞者",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "刀锋舞者",
     "aug": "质变：棱彩阶",
     "rar": "gold",
     "tier": "transform",
@@ -3972,16 +3862,6 @@
   {
     "hero": "北地之怒",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "北地之怒",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -5791,16 +5671,6 @@
   },
   {
     "hero": "圣锤之毅",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "圣锤之毅",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -7221,16 +7091,6 @@
   },
   {
     "hero": "山隐之焰",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "山隐之焰",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -7362,16 +7222,6 @@
   {
     "hero": "山隐之焰",
     "aug": "俯冲轰炸",
-    "rar": "silver",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "山隐之焰",
-    "aug": "防护面纱",
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
@@ -8301,16 +8151,6 @@
   },
   {
     "hero": "弗雷尔卓德之心",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "弗雷尔卓德之心",
     "aug": "和我一起困在这里",
     "rar": "prismatic",
     "tier": "transform",
@@ -8442,16 +8282,6 @@
   {
     "hero": "弗雷尔卓德之心",
     "aug": "由心及物",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "弗雷尔卓德之心",
-    "aug": "防护面纱",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -8781,16 +8611,6 @@
   },
   {
     "hero": "影流之主",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "影流之主",
     "aug": "利刃华尔兹",
     "rar": "prismatic",
     "tier": "recommend",
@@ -8982,16 +8802,6 @@
   {
     "hero": "影流之镰",
     "aug": "利刃华尔兹",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "影流之镰",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -10070,16 +9880,6 @@
     "status": "verified"
   },
   {
-    "hero": "愁云使者",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "戏命师",
     "aug": "最万用的瞄准镜",
     "rar": "prismatic",
@@ -10641,16 +10441,6 @@
   },
   {
     "hero": "扭曲树精",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "扭曲树精",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -10812,16 +10602,6 @@
   {
     "hero": "披甲龙龟",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "披甲龙龟",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -12230,16 +12010,6 @@
     "status": "verified"
   },
   {
-    "hero": "时间刺客",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "明烛",
     "aug": "尤里卡",
     "rar": "prismatic",
@@ -12372,16 +12142,6 @@
   {
     "hero": "明烛",
     "aug": "主玩辅助",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "明烛",
-    "aug": "加固护盾",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -13171,16 +12931,6 @@
   },
   {
     "hero": "暮光之眼",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "暮光之眼",
     "aug": "秘术冲拳",
     "rar": "prismatic",
     "tier": "transform",
@@ -13315,16 +13065,6 @@
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "暮光星灵",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -13641,27 +13381,7 @@
   },
   {
     "hero": "暴怒骑士",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "暴怒骑士",
     "aug": "灵巧",
-    "rar": "silver",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "暴怒骑士",
-    "aug": "质变：黄金阶",
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
@@ -13872,16 +13592,6 @@
   {
     "hero": "曙光女神",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "曙光女神",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -14601,16 +14311,6 @@
   },
   {
     "hero": "正义巨像",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "正义巨像",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -14952,16 +14652,6 @@
   {
     "hero": "殇之木乃伊",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "殇之木乃伊",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -15851,16 +15541,6 @@
   },
   {
     "hero": "沙漠玫瑰",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "沙漠玫瑰",
     "aug": "巨人杀手",
     "rar": "prismatic",
     "tier": "transform",
@@ -16221,16 +15901,6 @@
   },
   {
     "hero": "河流之王",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "河流之王",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -16342,16 +16012,6 @@
   {
     "hero": "河流之王",
     "aug": "升级：献祭",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "河流之王",
-    "aug": "质变：黄金阶",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -17090,16 +16750,6 @@
     "status": "verified"
   },
   {
-    "hero": "海兽祭司",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "海洋之灾",
     "aug": "巨人杀手",
     "rar": "prismatic",
@@ -17482,16 +17132,6 @@
   {
     "hero": "深海泰坦",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "深海泰坦",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -17981,16 +17621,6 @@
   },
   {
     "hero": "潮汐海灵",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "潮汐海灵",
     "aug": "俯冲轰炸",
     "rar": "silver",
     "tier": "recommend",
@@ -18331,27 +17961,7 @@
   },
   {
     "hero": "炼金术士",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "炼金术士",
     "aug": "侵蚀",
-    "rar": "silver",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "炼金术士",
-    "aug": "防护面纱",
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
@@ -18512,16 +18122,6 @@
   {
     "hero": "炼金男爵",
     "aug": "强力护盾",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "炼金男爵",
-    "aug": "加固护盾",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -19591,16 +19191,6 @@
   },
   {
     "hero": "狂战士",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "狂战士",
     "aug": "海洋龙魂",
     "rar": "silver",
     "tier": "recommend",
@@ -20321,16 +19911,6 @@
   },
   {
     "hero": "瓦洛兰之盾",
-    "aug": "加固护盾",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "瓦洛兰之盾",
     "aug": "死亡之环",
     "rar": "prismatic",
     "tier": "recommend",
@@ -20352,16 +19932,6 @@
   {
     "hero": "生化魔人",
     "aug": "歌利亚巨人",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "生化魔人",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -21031,27 +20601,7 @@
   },
   {
     "hero": "百裂冥犬",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "百裂冥犬",
     "aug": "利刃华尔兹",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "百裂冥犬",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -21215,16 +20765,6 @@
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "皎月女神",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -21581,16 +21121,6 @@
   },
   {
     "hero": "皮城执法官",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "皮城执法官",
     "aug": "利刃华尔兹",
     "rar": "prismatic",
     "tier": "recommend",
@@ -21612,16 +21142,6 @@
   {
     "hero": "盲僧",
     "aug": "扳机炼狱",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "盲僧",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -21782,16 +21302,6 @@
   {
     "hero": "破败之王",
     "aug": "最终形态",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "破败之王",
-    "aug": "碰不到我",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -22161,16 +21671,6 @@
   },
   {
     "hero": "祖安狂人",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "祖安狂人",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -22490,16 +21990,6 @@
     "status": "verified"
   },
   {
-    "hero": "祖安花火",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "离群之刺",
     "aug": "最终形态",
     "rar": "prismatic",
@@ -22641,16 +22131,6 @@
   },
   {
     "hero": "离群之刺",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "离群之刺",
     "aug": "尤里卡",
     "rar": "prismatic",
     "tier": "recommend",
@@ -22662,16 +22142,6 @@
   {
     "hero": "离群之刺",
     "aug": "利刃华尔兹",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "离群之刺",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -23390,16 +22860,6 @@
     "status": "verified"
   },
   {
-    "hero": "翠神",
-    "aug": "加固护盾",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "腕豪",
     "aug": "泰坦的坚决",
     "rar": "prismatic",
@@ -23555,16 +23015,6 @@
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "腕豪",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -23735,16 +23185,6 @@
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "英勇投弹手",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -24271,27 +23711,7 @@
   },
   {
     "hero": "莫甘娜",
-    "aug": "加固护盾",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "莫甘娜",
     "aug": "巨像的勇气",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "莫甘娜",
-    "aug": "碰不到我",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -24830,16 +24250,6 @@
     "status": "verified"
   },
   {
-    "hero": "虚空之眼",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "虚空先知",
     "aug": "尤里卡",
     "rar": "prismatic",
@@ -25231,16 +24641,6 @@
   },
   {
     "hero": "虚空恐惧",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "虚空恐惧",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -25571,16 +24971,6 @@
   },
   {
     "hero": "虚空行者",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "虚空行者",
     "aug": "尤里卡",
     "rar": "prismatic",
     "tier": "transform",
@@ -25730,28 +25120,8 @@
     "status": "verified"
   },
   {
-    "hero": "虚空行者",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "虚空遁地兽",
     "aug": "泰坦的坚决",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "虚空遁地兽",
-    "aug": "艾卡西亚的陷落",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -26281,16 +25651,6 @@
   },
   {
     "hero": "血港鬼影",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "血港鬼影",
     "aug": "利刃华尔兹",
     "rar": "prismatic",
     "tier": "transform",
@@ -26302,16 +25662,6 @@
   {
     "hero": "血港鬼影",
     "aug": "全凭身法",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "血港鬼影",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -26601,27 +25951,7 @@
   },
   {
     "hero": "诡术妖姬",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "诡术妖姬",
     "aug": "任务：沃格勒特的巫师帽",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "诡术妖姬",
-    "aug": "大地苏醒",
     "rar": "prismatic",
     "tier": "recommend",
     "conf": 70,
@@ -26990,16 +26320,6 @@
     "status": "verified"
   },
   {
-    "hero": "诺克萨斯统领",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "赏金猎人",
     "aug": "最万用的瞄准镜",
     "rar": "prismatic",
@@ -27161,30 +26481,10 @@
   },
   {
     "hero": "赏金猎人",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "recommend",
-    "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "赏金猎人",
     "aug": "冰寒",
     "rar": "silver",
     "tier": "recommend",
     "conf": 70,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "远古恐惧",
-    "aug": "碰不到我",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
     "ver": "26.12",
     "src": "blitz_gg",
     "status": "verified"
@@ -28111,16 +27411,6 @@
   },
   {
     "hero": "铁血狼母",
-    "aug": "大地苏醒",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "铁血狼母",
     "aug": "黎明使者的坚决",
     "rar": "gold",
     "tier": "transform",
@@ -28641,16 +27931,6 @@
   },
   {
     "hero": "镕铁少女",
-    "aug": "艾卡西亚的陷落",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "镕铁少女",
     "aug": "飞身踢",
     "rar": "prismatic",
     "tier": "transform",
@@ -28772,16 +28052,6 @@
   {
     "hero": "镕铁少女",
     "aug": "升级：献祭",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "镕铁少女",
-    "aug": "质变：黄金阶",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
@@ -28992,16 +28262,6 @@
   {
     "hero": "雪原双子",
     "aug": "飞身踢",
-    "rar": "prismatic",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "雪原双子",
-    "aug": "碰不到我",
     "rar": "prismatic",
     "tier": "transform",
     "conf": 90,
@@ -29690,16 +28950,6 @@
     "status": "verified"
   },
   {
-    "hero": "风暴之怒",
-    "aug": "加固护盾",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "魂锁典狱长",
     "aug": "巨像的勇气",
     "rar": "prismatic",
@@ -29870,16 +29120,6 @@
     "status": "verified"
   },
   {
-    "hero": "魂锁典狱长",
-    "aug": "防护面纱",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
     "hero": "魔法猫咪",
     "aug": "尤里卡",
     "rar": "prismatic",
@@ -30032,16 +29272,6 @@
   {
     "hero": "魔法猫咪",
     "aug": "主玩辅助",
-    "rar": "silver",
-    "tier": "transform",
-    "conf": 90,
-    "ver": "26.12",
-    "src": "blitz_gg",
-    "status": "verified"
-  },
-  {
-    "hero": "魔法猫咪",
-    "aug": "加固护盾",
     "rar": "silver",
     "tier": "transform",
     "conf": 90,
