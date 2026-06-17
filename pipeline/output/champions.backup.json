@@ -184,11 +184,7 @@
       "games": 52076,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ziggs",
-        "炸弹人"
-      ]
+      "tips": ""
     },
     {
       "name": "布兰德",
@@ -200,11 +196,7 @@
       "games": 55324,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Brand",
-        "火男"
-      ]
+      "tips": ""
     },
     {
       "name": "卡莎",
@@ -216,12 +208,7 @@
       "games": 47035,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kaisa",
-        "Kai'Sa",
-        "凯莎"
-      ]
+      "tips": ""
     },
     {
       "name": "提莫",
@@ -233,10 +220,7 @@
       "games": 46343,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Teemo"
-      ]
+      "tips": ""
     },
     {
       "name": "卡尔萨斯",
@@ -248,11 +232,7 @@
       "games": 31447,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Karthus",
-        "死歌"
-      ]
+      "tips": ""
     },
     {
       "name": "维克托",
@@ -264,11 +244,7 @@
       "games": 36601,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Viktor",
-        "三只手"
-      ]
+      "tips": ""
     },
     {
       "name": "韦鲁斯",
@@ -280,11 +256,7 @@
       "games": 48408,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Varus",
-        "维鲁斯"
-      ]
+      "tips": ""
     },
     {
       "name": "婕拉",
@@ -296,10 +268,7 @@
       "games": 31263,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zyra"
-      ]
+      "tips": ""
     },
     {
       "name": "泽拉斯",
@@ -311,12 +280,7 @@
       "games": 52404,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Xerath",
-        "棺材板",
-        "棺材"
-      ]
+      "tips": ""
     },
     {
       "name": "阿狸",
@@ -328,11 +292,7 @@
       "games": 53851,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ahri",
-        "狐狸"
-      ]
+      "tips": ""
     },
     {
       "name": "莫甘娜",
@@ -344,11 +304,7 @@
       "games": 60757,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Morgana",
-        "莫妈"
-      ]
+      "tips": ""
     },
     {
       "name": "凯南",
@@ -360,11 +316,7 @@
       "games": 16369,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kennen",
-        "电耗子"
-      ]
+      "tips": ""
     },
     {
       "name": "伊泽瑞尔",
@@ -376,12 +328,7 @@
       "games": 57186,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ezreal",
-        "EZ",
-        "ez"
-      ]
+      "tips": ""
     },
     {
       "name": "亚索",
@@ -393,11 +340,7 @@
       "games": 31799,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Yasuo",
-        "托儿索"
-      ]
+      "tips": ""
     },
     {
       "name": "塞拉斯",
@@ -409,10 +352,7 @@
       "games": 25203,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sylas"
-      ]
+      "tips": ""
     },
     {
       "name": "薇恩",
@@ -424,12 +364,7 @@
       "games": 34795,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Vayne",
-        "VN",
-        "vn"
-      ]
+      "tips": ""
     },
     {
       "name": "暗裔剑魔",
@@ -441,11 +376,7 @@
       "games": 17899,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Aatrox",
-        "剑魔"
-      ]
+      "tips": ""
     },
     {
       "name": "离群之刺",
@@ -457,11 +388,7 @@
       "games": 20544,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Akali",
-        "阿卡丽"
-      ]
+      "tips": ""
     },
     {
       "name": "影哨",
@@ -473,11 +400,7 @@
       "games": 21609,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Akshan",
-        "阿克尚"
-      ]
+      "tips": ""
     },
     {
       "name": "牛头酋长",
@@ -489,12 +412,7 @@
       "games": 16311,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Alistar",
-        "牛头",
-        "阿利斯塔"
-      ]
+      "tips": ""
     },
     {
       "name": "铁血狼母",
@@ -506,12 +424,7 @@
       "games": 7595,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ambessa",
-        "安蓓萨",
-        "狼母"
-      ]
+      "tips": ""
     },
     {
       "name": "殇之木乃伊",
@@ -523,12 +436,7 @@
       "games": 21596,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Amumu",
-        "阿木木",
-        "木乃伊"
-      ]
+      "tips": ""
     },
     {
       "name": "冰晶凤凰",
@@ -540,12 +448,7 @@
       "games": 38323,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Anivia",
-        "冰鸟",
-        "凤凰"
-      ]
+      "tips": ""
     },
     {
       "name": "黑暗之女",
@@ -557,12 +460,7 @@
       "games": 28148,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Annie",
-        "安妮",
-        "火女"
-      ]
+      "tips": ""
     },
     {
       "name": "残月之肃",
@@ -574,11 +472,7 @@
       "games": 24600,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Aphelios",
-        "厄斐琉斯"
-      ]
+      "tips": ""
     },
     {
       "name": "寒冰射手",
@@ -590,12 +484,7 @@
       "games": 52259,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ashe",
-        "艾希",
-        "寒冰"
-      ]
+      "tips": ""
     },
     {
       "name": "铸星龙王",
@@ -607,13 +496,7 @@
       "games": 36214,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "AurelionSol",
-        "Aurelion Sol",
-        "龙王",
-        "奥瑞利安索尔"
-      ]
+      "tips": ""
     },
     {
       "name": "双界灵兔",
@@ -625,13 +508,7 @@
       "games": 18703,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Aurora",
-        "极光",
-        "兔子",
-        "奥萝拉"
-      ]
+      "tips": ""
     },
     {
       "name": "沙漠皇帝",
@@ -643,12 +520,7 @@
       "games": 14753,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Azir",
-        "沙皇",
-        "黄鸡"
-      ]
+      "tips": ""
     },
     {
       "name": "星界游神",
@@ -660,11 +532,7 @@
       "games": 12943,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Bard",
-        "巴德"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空女皇",
@@ -676,12 +544,7 @@
       "games": 5163,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Belveth",
-        "Bel'Veth",
-        "贝蕾亚"
-      ]
+      "tips": ""
     },
     {
       "name": "蒸汽机器人",
@@ -693,12 +556,7 @@
       "games": 49425,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Blitzcrank",
-        "机器人",
-        "布里茨"
-      ]
+      "tips": ""
     },
     {
       "name": "弗雷尔卓德之心",
@@ -710,11 +568,7 @@
       "games": 17938,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Braum",
-        "布隆"
-      ]
+      "tips": ""
     },
     {
       "name": "狂厄蔷薇",
@@ -726,12 +580,7 @@
       "games": 8054,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Briar",
-        "布里亚",
-        "蔷薇"
-      ]
+      "tips": ""
     },
     {
       "name": "皮城女警",
@@ -743,12 +592,7 @@
       "games": 61788,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Caitlyn",
-        "女警",
-        "凯特琳"
-      ]
+      "tips": ""
     },
     {
       "name": "青钢影",
@@ -760,11 +604,7 @@
       "games": 7150,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Camille",
-        "卡蜜尔"
-      ]
+      "tips": ""
     },
     {
       "name": "魔蛇之拥",
@@ -776,12 +616,7 @@
       "games": 17102,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Cassiopeia",
-        "蛇女",
-        "卡西奥佩娅"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空恐惧",
@@ -793,14 +628,7 @@
       "games": 35003,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Chogath",
-        "Cho'Gath",
-        "大虫子",
-        "虫子",
-        "科加斯"
-      ]
+      "tips": ""
     },
     {
       "name": "英勇投弹手",
@@ -812,12 +640,7 @@
       "games": 24399,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Corki",
-        "飞机",
-        "库奇"
-      ]
+      "tips": ""
     },
     {
       "name": "诺克萨斯之手",
@@ -829,12 +652,7 @@
       "games": 22833,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Darius",
-        "诺手",
-        "德莱厄斯"
-      ]
+      "tips": ""
     },
     {
       "name": "皎月女神",
@@ -846,12 +664,7 @@
       "games": 18837,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Diana",
-        "皎月",
-        "戴安娜"
-      ]
+      "tips": ""
     },
     {
       "name": "荣耀行刑官",
@@ -863,11 +676,7 @@
       "games": 31630,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Draven",
-        "德莱文"
-      ]
+      "tips": ""
     },
     {
       "name": "祖安狂人",
@@ -879,12 +688,7 @@
       "games": 19689,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "DrMundo",
-        "Dr.Mundo",
-        "蒙多"
-      ]
+      "tips": ""
     },
     {
       "name": "时间刺客",
@@ -896,11 +700,7 @@
       "games": 29133,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ekko",
-        "艾克"
-      ]
+      "tips": ""
     },
     {
       "name": "蜘蛛女皇",
@@ -912,12 +712,7 @@
       "games": 8018,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Elise",
-        "蜘蛛",
-        "伊莉丝"
-      ]
+      "tips": ""
     },
     {
       "name": "痛苦之拥",
@@ -929,12 +724,7 @@
       "games": 10151,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Evelynn",
-        "寡妇",
-        "伊芙琳"
-      ]
+      "tips": ""
     },
     {
       "name": "远古恐惧",
@@ -946,12 +736,7 @@
       "games": 31633,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Fiddlesticks",
-        "稻草人",
-        "费德提克"
-      ]
+      "tips": ""
     },
     {
       "name": "无双剑姬",
@@ -963,12 +748,7 @@
       "games": 4765,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Fiora",
-        "剑姬",
-        "菲奥娜"
-      ]
+      "tips": ""
     },
     {
       "name": "潮汐海灵",
@@ -980,12 +760,7 @@
       "games": 31087,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Fizz",
-        "小鱼人",
-        "菲兹"
-      ]
+      "tips": ""
     },
     {
       "name": "正义巨像",
@@ -997,12 +772,7 @@
       "games": 29171,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Galio",
-        "加里奥",
-        "石像鬼"
-      ]
+      "tips": ""
     },
     {
       "name": "海洋之灾",
@@ -1014,12 +784,7 @@
       "games": 26956,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Gangplank",
-        "船长",
-        "普朗克"
-      ]
+      "tips": ""
     },
     {
       "name": "德玛西亚之力",
@@ -1031,11 +796,7 @@
       "games": 24902,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Garen",
-        "盖伦"
-      ]
+      "tips": ""
     },
     {
       "name": "迷失之牙",
@@ -1047,11 +808,7 @@
       "games": 11923,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Gnar",
-        "纳尔"
-      ]
+      "tips": ""
     },
     {
       "name": "酒桶",
@@ -1063,12 +820,7 @@
       "games": 20404,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Gragas",
-        "古拉加斯",
-        "胖子"
-      ]
+      "tips": ""
     },
     {
       "name": "法外狂徒",
@@ -1080,12 +832,7 @@
       "games": 29096,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Graves",
-        "男枪",
-        "格雷福斯"
-      ]
+      "tips": ""
     },
     {
       "name": "灵罗娃娃",
@@ -1097,11 +844,7 @@
       "games": 8863,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Gwen",
-        "格温"
-      ]
+      "tips": ""
     },
     {
       "name": "战争之影",
@@ -1113,12 +856,7 @@
       "games": 10223,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Hecarim",
-        "人马",
-        "赫卡里姆"
-      ]
+      "tips": ""
     },
     {
       "name": "大发明家",
@@ -1130,12 +868,7 @@
       "games": 39598,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Heimerdinger",
-        "大头",
-        "黑默丁格"
-      ]
+      "tips": ""
     },
     {
       "name": "异画师",
@@ -1147,11 +880,7 @@
       "games": 25316,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Hwei",
-        "慧"
-      ]
+      "tips": ""
     },
     {
       "name": "海兽祭司",
@@ -1163,12 +892,7 @@
       "games": 20673,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Illaoi",
-        "俄洛伊",
-        "触手妈"
-      ]
+      "tips": ""
     },
     {
       "name": "刀锋舞者",
@@ -1180,12 +904,7 @@
       "games": 14721,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Irelia",
-        "刀妹",
-        "艾瑞莉娅"
-      ]
+      "tips": ""
     },
     {
       "name": "翠神",
@@ -1197,12 +916,7 @@
       "games": 5975,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ivern",
-        "艾翁",
-        "树人"
-      ]
+      "tips": ""
     },
     {
       "name": "风暴之怒",
@@ -1214,12 +928,7 @@
       "games": 19999,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Janna",
-        "风女",
-        "迦娜"
-      ]
+      "tips": ""
     },
     {
       "name": "德玛西亚皇子",
@@ -1231,13 +940,7 @@
       "games": 23577,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "JarvanIV",
-        "Jarvan IV",
-        "皇子",
-        "嘉文"
-      ]
+      "tips": ""
     },
     {
       "name": "武器大师",
@@ -1249,11 +952,7 @@
       "games": 17349,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Jax",
-        "贾克斯"
-      ]
+      "tips": ""
     },
     {
       "name": "未来守护者",
@@ -1265,11 +964,7 @@
       "games": 39539,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Jayce",
-        "杰斯"
-      ]
+      "tips": ""
     },
     {
       "name": "戏命师",
@@ -1281,11 +976,7 @@
       "games": 67391,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Jhin",
-        "烬"
-      ]
+      "tips": ""
     },
     {
       "name": "暴走萝莉",
@@ -1297,11 +988,7 @@
       "games": 58847,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Jinx",
-        "金克丝"
-      ]
+      "tips": ""
     },
     {
       "name": "复仇之矛",
@@ -1313,11 +1000,7 @@
       "games": 16237,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kalista",
-        "卡莉斯塔"
-      ]
+      "tips": ""
     },
     {
       "name": "天启者",
@@ -1329,11 +1012,7 @@
       "games": 39868,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Karma",
-        "卡尔玛"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空行者",
@@ -1345,11 +1024,7 @@
       "games": 14830,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kassadin",
-        "卡萨丁"
-      ]
+      "tips": ""
     },
     {
       "name": "不祥之刃",
@@ -1361,12 +1036,7 @@
       "games": 16450,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Katarina",
-        "卡特",
-        "卡特琳娜"
-      ]
+      "tips": ""
     },
     {
       "name": "正义天使",
@@ -1378,11 +1048,7 @@
       "games": 19250,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kayle",
-        "凯尔"
-      ]
+      "tips": ""
     },
     {
       "name": "影流之镰",
@@ -1394,11 +1060,7 @@
       "games": 14569,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kayn",
-        "凯隐"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空掠夺者",
@@ -1410,12 +1072,7 @@
       "games": 16595,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Khazix",
-        "Kha'Zix",
-        "螳螂"
-      ]
+      "tips": ""
     },
     {
       "name": "永猎双子",
@@ -1427,11 +1084,7 @@
       "games": 28988,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kindred",
-        "千珏"
-      ]
+      "tips": ""
     },
     {
       "name": "暴怒骑士",
@@ -1443,11 +1096,7 @@
       "games": 4624,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Kled",
-        "克烈"
-      ]
+      "tips": ""
     },
     {
       "name": "深渊巨口",
@@ -1459,12 +1108,7 @@
       "games": 36240,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "KogMaw",
-        "Kog'Maw",
-        "大嘴"
-      ]
+      "tips": ""
     },
     {
       "name": "纳祖芒荣耀",
@@ -1476,12 +1120,7 @@
       "games": 8479,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "KSante",
-        "K'Sante",
-        "奎桑提"
-      ]
+      "tips": ""
     },
     {
       "name": "诡术妖姬",
@@ -1493,13 +1132,7 @@
       "games": 34360,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Leblanc",
-        "LeBlanc",
-        "妖姬",
-        "乐芙兰"
-      ]
+      "tips": ""
     },
     {
       "name": "盲僧",
@@ -1511,13 +1144,7 @@
       "games": 32843,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "LeeSin",
-        "Lee Sin",
-        "瞎子",
-        "李青"
-      ]
+      "tips": ""
     },
     {
       "name": "曙光女神",
@@ -1529,12 +1156,7 @@
       "games": 20956,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Leona",
-        "蕾欧娜",
-        "日女"
-      ]
+      "tips": ""
     },
     {
       "name": "含羞蓓蕾",
@@ -1546,12 +1168,7 @@
       "games": 23642,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Lillia",
-        "莉莉娅",
-        "小鹿"
-      ]
+      "tips": ""
     },
     {
       "name": "冰霜女巫",
@@ -1563,12 +1180,7 @@
       "games": 21282,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Lissandra",
-        "丽桑卓",
-        "冰女"
-      ]
+      "tips": ""
     },
     {
       "name": "圣枪游侠",
@@ -1580,12 +1192,7 @@
       "games": 45606,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Lucian",
-        "卢锡安",
-        "奥巴马"
-      ]
+      "tips": ""
     },
     {
       "name": "仙灵女巫",
@@ -1597,11 +1204,7 @@
       "games": 22914,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Lulu",
-        "璐璐"
-      ]
+      "tips": ""
     },
     {
       "name": "光辉女郎",
@@ -1613,11 +1216,7 @@
       "games": 61350,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Lux",
-        "拉克丝"
-      ]
+      "tips": ""
     },
     {
       "name": "熔岩巨兽",
@@ -1629,12 +1228,7 @@
       "games": 43637,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Malphite",
-        "石头人",
-        "墨菲特"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空先知",
@@ -1646,12 +1240,7 @@
       "games": 32966,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Malzahar",
-        "蚂蚱",
-        "玛尔扎哈"
-      ]
+      "tips": ""
     },
     {
       "name": "扭曲树精",
@@ -1663,12 +1252,7 @@
       "games": 27985,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Maokai",
-        "大树",
-        "茂凯"
-      ]
+      "tips": ""
     },
     {
       "name": "无极剑圣",
@@ -1680,14 +1264,7 @@
       "games": 27144,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "MasterYi",
-        "Master Yi",
-        "剑圣",
-        "易大师",
-        "易"
-      ]
+      "tips": ""
     },
     {
       "name": "流光镜影",
@@ -1699,11 +1276,7 @@
       "games": 55792,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Mel",
-        "梅尔"
-      ]
+      "tips": ""
     },
     {
       "name": "明烛",
@@ -1715,11 +1288,7 @@
       "games": 22790,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Milio",
-        "米利欧"
-      ]
+      "tips": ""
     },
     {
       "name": "赏金猎人",
@@ -1731,14 +1300,7 @@
       "games": 65528,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "MissFortune",
-        "Miss Fortune",
-        "女枪",
-        "好运姐",
-        "MF"
-      ]
+      "tips": ""
     },
     {
       "name": "齐天大圣",
@@ -1750,13 +1312,7 @@
       "games": 22460,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "MonkeyKing",
-        "Wukong",
-        "猴子",
-        "悟空"
-      ]
+      "tips": ""
     },
     {
       "name": "铁铠冥魂",
@@ -1768,12 +1324,7 @@
       "games": 33585,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Mordekaiser",
-        "铁男",
-        "莫德凯撒"
-      ]
+      "tips": ""
     },
     {
       "name": "百裂冥犬",
@@ -1785,12 +1336,7 @@
       "games": 12507,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Naafiri",
-        "纳亚菲利",
-        "狗子"
-      ]
+      "tips": ""
     },
     {
       "name": "唤潮鲛姬",
@@ -1802,11 +1348,7 @@
       "games": 29059,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nami",
-        "娜美"
-      ]
+      "tips": ""
     },
     {
       "name": "沙漠死神",
@@ -1818,12 +1360,7 @@
       "games": 19570,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nasus",
-        "狗头",
-        "内瑟斯"
-      ]
+      "tips": ""
     },
     {
       "name": "深海泰坦",
@@ -1835,12 +1372,7 @@
       "games": 34244,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nautilus",
-        "泰坦",
-        "诺提勒斯"
-      ]
+      "tips": ""
     },
     {
       "name": "万花通灵",
@@ -1852,11 +1384,7 @@
       "games": 39683,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Neeko",
-        "妮蔻"
-      ]
+      "tips": ""
     },
     {
       "name": "狂野女猎手",
@@ -1868,12 +1396,7 @@
       "games": 45067,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nidalee",
-        "豹女",
-        "奈德丽"
-      ]
+      "tips": ""
     },
     {
       "name": "不羁之悦",
@@ -1885,11 +1408,7 @@
       "games": 10782,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nilah",
-        "尼菈"
-      ]
+      "tips": ""
     },
     {
       "name": "永恒梦魇",
@@ -1901,12 +1420,7 @@
       "games": 11463,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nocturne",
-        "梦魇",
-        "魔腾"
-      ]
+      "tips": ""
     },
     {
       "name": "雪原双子",
@@ -1918,12 +1432,7 @@
       "games": 18099,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Nunu",
-        "努努",
-        "雪人"
-      ]
+      "tips": ""
     },
     {
       "name": "狂战士",
@@ -1935,11 +1444,7 @@
       "games": 12791,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Olaf",
-        "奥拉夫"
-      ]
+      "tips": ""
     },
     {
       "name": "发条魔灵",
@@ -1951,12 +1456,7 @@
       "games": 35912,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Orianna",
-        "发条",
-        "奥莉安娜"
-      ]
+      "tips": ""
     },
     {
       "name": "山隐之焰",
@@ -1968,12 +1468,7 @@
       "games": 13025,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ornn",
-        "奥恩",
-        "山羊"
-      ]
+      "tips": ""
     },
     {
       "name": "不屈之枪",
@@ -1985,11 +1480,7 @@
       "games": 30645,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Pantheon",
-        "潘森"
-      ]
+      "tips": ""
     },
     {
       "name": "圣锤之毅",
@@ -2001,11 +1492,7 @@
       "games": 13734,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Poppy",
-        "波比"
-      ]
+      "tips": ""
     },
     {
       "name": "血港鬼影",
@@ -2017,11 +1504,7 @@
       "games": 38694,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Pyke",
-        "派克"
-      ]
+      "tips": ""
     },
     {
       "name": "元素女皇",
@@ -2033,11 +1516,7 @@
       "games": 9955,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Qiyana",
-        "奇亚娜"
-      ]
+      "tips": ""
     },
     {
       "name": "德玛西亚之翼",
@@ -2049,12 +1528,7 @@
       "games": 24523,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Quinn",
-        "奎因",
-        "鸟人"
-      ]
+      "tips": ""
     },
     {
       "name": "幻翎",
@@ -2066,11 +1540,7 @@
       "games": 14506,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Rakan",
-        "洛"
-      ]
+      "tips": ""
     },
     {
       "name": "披甲龙龟",
@@ -2082,12 +1552,7 @@
       "games": 11074,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Rammus",
-        "龙龟",
-        "拉莫斯"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空遁地兽",
@@ -2099,13 +1564,7 @@
       "games": 3197,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "RekSai",
-        "Rek'Sai",
-        "雷克塞",
-        "挖掘机"
-      ]
+      "tips": ""
     },
     {
       "name": "镕铁少女",
@@ -2117,11 +1576,7 @@
       "games": 7649,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Rell",
-        "芮尔"
-      ]
+      "tips": ""
     },
     {
       "name": "炼金男爵",
@@ -2133,12 +1588,7 @@
       "games": 13519,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Renata",
-        "Renata Glasc",
-        "烈娜塔"
-      ]
+      "tips": ""
     },
     {
       "name": "荒漠屠夫",
@@ -2150,12 +1600,7 @@
       "games": 16158,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Renekton",
-        "鳄鱼",
-        "雷克顿"
-      ]
+      "tips": ""
     },
     {
       "name": "傲之追猎者",
@@ -2167,12 +1612,7 @@
       "games": 10120,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Rengar",
-        "狮子狗",
-        "雷恩加尔"
-      ]
+      "tips": ""
     },
     {
       "name": "放逐之刃",
@@ -2184,12 +1624,7 @@
       "games": 10655,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Riven",
-        "锐雯",
-        "瑞文"
-      ]
+      "tips": ""
     },
     {
       "name": "机械公敌",
@@ -2201,11 +1636,7 @@
       "games": 29712,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Rumble",
-        "兰博"
-      ]
+      "tips": ""
     },
     {
       "name": "符文法师",
@@ -2217,12 +1648,7 @@
       "games": 27212,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Ryze",
-        "瑞兹",
-        "流浪"
-      ]
+      "tips": ""
     },
     {
       "name": "沙漠玫瑰",
@@ -2234,11 +1660,7 @@
       "games": 21500,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Samira",
-        "莎弥拉"
-      ]
+      "tips": ""
     },
     {
       "name": "北地之怒",
@@ -2250,12 +1672,7 @@
       "games": 12350,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sejuani",
-        "猪女",
-        "瑟庄妮"
-      ]
+      "tips": ""
     },
     {
       "name": "涤魂圣枪",
@@ -2267,11 +1684,7 @@
       "games": 49474,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Senna",
-        "赛娜"
-      ]
+      "tips": ""
     },
     {
       "name": "星籁歌姬",
@@ -2283,11 +1696,7 @@
       "games": 40931,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Seraphine",
-        "萨勒芬妮"
-      ]
+      "tips": ""
     },
     {
       "name": "腕豪",
@@ -2299,11 +1708,7 @@
       "games": 25309,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sett",
-        "瑟提"
-      ]
+      "tips": ""
     },
     {
       "name": "恶魔小丑",
@@ -2315,12 +1720,7 @@
       "games": 35884,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Shaco",
-        "小丑",
-        "萨科"
-      ]
+      "tips": ""
     },
     {
       "name": "暮光之眼",
@@ -2332,11 +1732,7 @@
       "games": 22822,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Shen",
-        "慎"
-      ]
+      "tips": ""
     },
     {
       "name": "龙血武姬",
@@ -2348,12 +1744,7 @@
       "games": 7961,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Shyvana",
-        "龙女",
-        "希瓦娜"
-      ]
+      "tips": ""
     },
     {
       "name": "炼金术士",
@@ -2365,11 +1756,7 @@
       "games": 16129,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Singed",
-        "辛吉德"
-      ]
+      "tips": ""
     },
     {
       "name": "亡灵战神",
@@ -2381,11 +1768,7 @@
       "games": 16728,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sion",
-        "塞恩"
-      ]
+      "tips": ""
     },
     {
       "name": "战争女神",
@@ -2397,12 +1780,7 @@
       "games": 36311,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sivir",
-        "轮子妈",
-        "希维尔"
-      ]
+      "tips": ""
     },
     {
       "name": "上古领主",
@@ -2414,12 +1792,7 @@
       "games": 7979,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Skarner",
-        "斯卡纳",
-        "蝎子"
-      ]
+      "tips": ""
     },
     {
       "name": "炽炎雏龙",
@@ -2431,12 +1804,7 @@
       "games": 42654,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Smolder",
-        "斯莫德",
-        "小龙"
-      ]
+      "tips": ""
     },
     {
       "name": "琴瑟仙女",
@@ -2448,12 +1816,7 @@
       "games": 24509,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Sona",
-        "琴女",
-        "娑娜"
-      ]
+      "tips": ""
     },
     {
       "name": "众星之子",
@@ -2465,12 +1828,7 @@
       "games": 17112,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Soraka",
-        "奶妈",
-        "索拉卡"
-      ]
+      "tips": ""
     },
     {
       "name": "诺克萨斯统领",
@@ -2482,12 +1840,7 @@
       "games": 37687,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Swain",
-        "乌鸦",
-        "斯维因"
-      ]
+      "tips": ""
     },
     {
       "name": "暗黑元首",
@@ -2499,11 +1852,7 @@
       "games": 34524,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Syndra",
-        "辛德拉"
-      ]
+      "tips": ""
     },
     {
       "name": "河流之王",
@@ -2515,13 +1864,7 @@
       "games": 23825,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "TahmKench",
-        "Tahm Kench",
-        "蛤蟆",
-        "塔姆"
-      ]
+      "tips": ""
     },
     {
       "name": "岩雀",
@@ -2533,11 +1876,7 @@
       "games": 22968,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Taliyah",
-        "塔莉垭"
-      ]
+      "tips": ""
     },
     {
       "name": "刀锋之影",
@@ -2549,12 +1888,7 @@
       "games": 20075,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Talon",
-        "泰隆",
-        "男刀"
-      ]
+      "tips": ""
     },
     {
       "name": "瓦洛兰之盾",
@@ -2566,12 +1900,7 @@
       "games": 9377,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Taric",
-        "塔里克",
-        "宝石"
-      ]
+      "tips": ""
     },
     {
       "name": "魂锁典狱长",
@@ -2583,11 +1912,7 @@
       "games": 34338,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Thresh",
-        "锤石"
-      ]
+      "tips": ""
     },
     {
       "name": "麦林炮手",
@@ -2599,12 +1924,7 @@
       "games": 47811,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Tristana",
-        "小炮",
-        "崔丝塔娜"
-      ]
+      "tips": ""
     },
     {
       "name": "巨魔之王",
@@ -2616,12 +1936,7 @@
       "games": 14256,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Trundle",
-        "巨魔",
-        "特朗德尔"
-      ]
+      "tips": ""
     },
     {
       "name": "蛮族之王",
@@ -2633,12 +1948,7 @@
       "games": 9511,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Tryndamere",
-        "蛮王",
-        "泰达米尔"
-      ]
+      "tips": ""
     },
     {
       "name": "卡牌大师",
@@ -2650,15 +1960,7 @@
       "games": 32572,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "TwistedFate",
-        "Twisted Fate",
-        "卡牌",
-        "崔斯特",
-        "TF",
-        "tf"
-      ]
+      "tips": ""
     },
     {
       "name": "瘟疫之源",
@@ -2670,12 +1972,7 @@
       "games": 47715,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Twitch",
-        "老鼠",
-        "图奇"
-      ]
+      "tips": ""
     },
     {
       "name": "兽灵行者",
@@ -2687,11 +1984,7 @@
       "games": 7469,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Udyr",
-        "乌迪尔"
-      ]
+      "tips": ""
     },
     {
       "name": "无畏战车",
@@ -2703,12 +1996,7 @@
       "games": 16895,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Urgot",
-        "厄加特",
-        "螃蟹"
-      ]
+      "tips": ""
     },
     {
       "name": "邪恶小法师",
@@ -2720,12 +2008,7 @@
       "games": 48851,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Veigar",
-        "小法",
-        "维迦"
-      ]
+      "tips": ""
     },
     {
       "name": "虚空之眼",
@@ -2737,13 +2020,7 @@
       "games": 52043,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Velkoz",
-        "Vel'Koz",
-        "大眼",
-        "维克兹"
-      ]
+      "tips": ""
     },
     {
       "name": "愁云使者",
@@ -2755,11 +2032,7 @@
       "games": 32730,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Vex",
-        "薇古丝"
-      ]
+      "tips": ""
     },
     {
       "name": "皮城执法官",
@@ -2771,11 +2044,7 @@
       "games": 19282,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Vi",
-        "蔚"
-      ]
+      "tips": ""
     },
     {
       "name": "破败之王",
@@ -2787,11 +2056,7 @@
       "games": 17645,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Viego",
-        "佛耶戈"
-      ]
+      "tips": ""
     },
     {
       "name": "猩红收割者",
@@ -2803,12 +2068,7 @@
       "games": 17107,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Vladimir",
-        "吸血鬼",
-        "弗拉基米尔"
-      ]
+      "tips": ""
     },
     {
       "name": "不灭狂雷",
@@ -2820,12 +2080,7 @@
       "games": 18676,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Volibear",
-        "狗熊",
-        "沃利贝尔"
-      ]
+      "tips": ""
     },
     {
       "name": "祖安怒兽",
@@ -2837,12 +2092,7 @@
       "games": 12090,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Warwick",
-        "狼人",
-        "沃里克"
-      ]
+      "tips": ""
     },
     {
       "name": "逆羽",
@@ -2854,11 +2104,7 @@
       "games": 42891,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Xayah",
-        "霞"
-      ]
+      "tips": ""
     },
     {
       "name": "德邦总管",
@@ -2870,12 +2116,7 @@
       "games": 13599,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "XinZhao",
-        "Xin Zhao",
-        "赵信"
-      ]
+      "tips": ""
     },
     {
       "name": "封魔剑魂",
@@ -2887,11 +2128,7 @@
       "games": 34358,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Yone",
-        "永恩"
-      ]
+      "tips": ""
     },
     {
       "name": "牧魂人",
@@ -2903,12 +2140,7 @@
       "games": 8890,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Yorick",
-        "约里克",
-        "掘墓"
-      ]
+      "tips": ""
     },
     {
       "name": "不破之誓",
@@ -2920,11 +2152,7 @@
       "games": 32537,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Yunara",
-        "芸阿娜"
-      ]
+      "tips": ""
     },
     {
       "name": "魔法猫咪",
@@ -2936,12 +2164,7 @@
       "games": 14331,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Yuumi",
-        "悠米",
-        "猫"
-      ]
+      "tips": ""
     },
     {
       "name": "不落魔锋",
@@ -2953,11 +2176,7 @@
       "games": 15002,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zaahen",
-        "扎亨"
-      ]
+      "tips": ""
     },
     {
       "name": "生化魔人",
@@ -2969,12 +2188,7 @@
       "games": 9271,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zac",
-        "扎克",
-        "果冻人"
-      ]
+      "tips": ""
     },
     {
       "name": "影流之主",
@@ -2986,11 +2200,7 @@
       "games": 31027,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zed",
-        "劫"
-      ]
+      "tips": ""
     },
     {
       "name": "祖安花火",
@@ -3002,11 +2212,7 @@
       "games": 21029,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zeri",
-        "泽丽"
-      ]
+      "tips": ""
     },
     {
       "name": "时光守护者",
@@ -3018,12 +2224,7 @@
       "games": 30895,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zilean",
-        "基兰",
-        "时光老头"
-      ]
+      "tips": ""
     },
     {
       "name": "暮光星灵",
@@ -3035,11 +2236,7 @@
       "games": 27027,
       "kda": null,
       "build": "",
-      "tips": "",
-      "aliases": [
-        "Zoe",
-        "佐伊"
-      ]
+      "tips": ""
     }
   ]
 }
