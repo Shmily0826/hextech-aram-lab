@@ -1,0 +1,6194 @@
+[
+  {
+    "slug": "brand",
+    "name_cn": "复仇焰魂",
+    "name_en": "Brand",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.27% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Shadowflame | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (55.32% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.27% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "21.06",
+        "wr": "55.32"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "11.64",
+        "wr": "53.97"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "8.26",
+        "wr": "54.93"
+      }
+    ]
+  },
+  {
+    "slug": "yasuo",
+    "name_cn": "疾风剑豪",
+    "name_en": "Yasuo",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.69% 选取) | 起始: Rite of Ruin、Blade of The Ruined King、Infinity Edge、Death's Dance | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: Rite of Ruin Blade of The Ruined King Death's Dance (61.72% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.69% 选取)",
+    "start_items": [
+      "Rite of Ruin",
+      "Blade of The Ruined King",
+      "Infinity Edge",
+      "Death's Dance"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Rite of Ruin Blade of The Ruined King Death's Dance",
+        "pr": "6.99",
+        "wr": "61.72"
+      },
+      {
+        "items": "Rite of Ruin Blade of The Ruined King Infinity Edge",
+        "pr": "3.76",
+        "wr": "59.76"
+      },
+      {
+        "items": "Rite of Ruin Death's Dance Blade of The Ruined King",
+        "pr": "2.92",
+        "wr": "61.31"
+      }
+    ]
+  },
+  {
+    "slug": "morgana",
+    "name_cn": "堕落天使",
+    "name_en": "Morgana",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.83% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Zhonya's Hourglass | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (53.15% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.83% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Zhonya's Hourglass"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "23.58",
+        "wr": "53.15"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "7.52",
+        "wr": "52.37"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "5.96",
+        "wr": "52.96"
+      }
+    ]
+  },
+  {
+    "slug": "drmundo",
+    "name_cn": "祖安狂人",
+    "name_en": "Dr. Mundo",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.63% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Spirit Visage | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Warmog's Armor Unending Despair (52.38% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.63% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "21.40",
+        "wr": "52.38"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Spirit Visage",
+        "pr": "13.51",
+        "wr": "50.42"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "10.09",
+        "wr": "53.28"
+      }
+    ]
+  },
+  {
+    "slug": "graves",
+    "name_cn": "法外狂徒",
+    "name_en": "Graves",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.54% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Hubris | 鞋子: Mercury's Treads、Berserker's Greaves | 核心: Hubris The Collector Infinity Edge (54.48% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.54% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Hubris"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "19.20",
+        "wr": "54.48"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "16.77",
+        "wr": "54.88"
+      },
+      {
+        "items": "Hubris The Collector Lord Dominik's Regards",
+        "pr": "10.39",
+        "wr": "54.32"
+      }
+    ]
+  },
+  {
+    "slug": "xinzhao",
+    "name_cn": "德邦总管",
+    "name_en": "Xin Zhao",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.70% 选取) | 起始: Dusk and Dawn、Statikk Shiv、Death's Dance、Spirit Visage | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Statikk Shiv Dusk and Dawn Death's Dance (55.06% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.70% 选取)",
+    "start_items": [
+      "Dusk and Dawn",
+      "Statikk Shiv",
+      "Death's Dance",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Statikk Shiv Dusk and Dawn Death's Dance",
+        "pr": "12.58",
+        "wr": "55.06"
+      },
+      {
+        "items": "Statikk Shiv Dusk and Dawn Spirit Visage",
+        "pr": "6.95",
+        "wr": "54.27"
+      },
+      {
+        "items": "Heartsteel Statikk Shiv Dusk and Dawn",
+        "pr": "3.81",
+        "wr": "53.81"
+      }
+    ]
+  },
+  {
+    "slug": "jinx",
+    "name_cn": "暴走萝莉",
+    "name_en": "Jinx",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.48% 选取) | 起始: Runaan's Hurricane、Infinity Edge、The Collector、Blade of The Ruined King | 鞋子: Berserker's Greaves、Ionian Boots of Lucidity | 核心: The Collector Runaan's Hurricane Infinity Edge (55.35% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.48% 选取)",
+    "start_items": [
+      "Runaan's Hurricane",
+      "Infinity Edge",
+      "The Collector",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Runaan's Hurricane Infinity Edge",
+        "pr": "16.20",
+        "wr": "55.35"
+      },
+      {
+        "items": "Yun Tal Wildarrows Runaan's Hurricane Infinity Edge",
+        "pr": "5.20",
+        "wr": "55.33"
+      },
+      {
+        "items": "The Collector Runaan's Hurricane Lord Dominik's Regards",
+        "pr": "4.45",
+        "wr": "53.18"
+      }
+    ]
+  },
+  {
+    "slug": "vayne",
+    "name_cn": "暗夜猎手",
+    "name_en": "Vayne",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.06% 选取) | 起始: Blade of The Ruined King、Guinsoo's Rageblade、Kraken Slayer、Terminus | 鞋子: Berserker's Greaves、Boots of Swiftness | 核心: Blade of The Ruined King Guinsoo's Rageblade Terminus (58.19% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.06% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Guinsoo's Rageblade",
+      "Kraken Slayer",
+      "Terminus"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Terminus",
+        "pr": "7.56",
+        "wr": "58.19"
+      },
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Wit's End",
+        "pr": "4.28",
+        "wr": "56.82"
+      },
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Kraken Slayer",
+        "pr": "2.96",
+        "wr": "58.56"
+      }
+    ]
+  },
+  {
+    "slug": "lillia",
+    "name_cn": "含羞蓓蕾",
+    "name_en": "Lillia",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.13% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Riftmaker | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (57.43% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.13% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Riftmaker"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "20.01",
+        "wr": "57.43"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Riftmaker",
+        "pr": "11.59",
+        "wr": "62.05"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "5.51",
+        "wr": "58.53"
+      }
+    ]
+  },
+  {
+    "slug": "sett",
+    "name_cn": "腕豪",
+    "name_en": "Sett",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.95% 选取) | 起始: Heartsteel、Overlord's Bloodmail、Warmog's Armor、Hubris | 鞋子: Boots of Swiftness、Mercury's Treads | 核心: Heartsteel Overlord's Bloodmail Warmog's Armor (55.41% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.95% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Overlord's Bloodmail",
+      "Warmog's Armor",
+      "Hubris"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Overlord's Bloodmail Warmog's Armor",
+        "pr": "22.84",
+        "wr": "55.41"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "16.47",
+        "wr": "55.38"
+      },
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "3.56",
+        "wr": "48.41"
+      }
+    ]
+  },
+  {
+    "slug": "caitlyn",
+    "name_cn": "皮城女警",
+    "name_en": "Caitlyn",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.80% 选取) | 起始: Infinity Edge、The Collector、Lord Dominik's Regards、Rapid Firecannon | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: The Collector Infinity Edge Lord Dominik's Regards (53.81% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.80% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "The Collector",
+      "Lord Dominik's Regards",
+      "Rapid Firecannon"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "11.24",
+        "wr": "53.81"
+      },
+      {
+        "items": "The Collector Infinity Edge Rapid Firecannon",
+        "pr": "6.31",
+        "wr": "50.90"
+      },
+      {
+        "items": "The Collector Rapid Firecannon Infinity Edge",
+        "pr": "4.46",
+        "wr": "49.45"
+      }
+    ]
+  },
+  {
+    "slug": "aurelionsol",
+    "name_cn": "铸星龙王",
+    "name_en": "Aurelion Sol",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.36% 选取) | 起始: Rylai's Crystal Scepter、Liandry's Torment、Rod of Ages、Blackfire Torch | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Rod of Ages Rylai's Crystal Scepter Liandry's Torment (51.43% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.36% 选取)",
+    "start_items": [
+      "Rylai's Crystal Scepter",
+      "Liandry's Torment",
+      "Rod of Ages",
+      "Blackfire Torch"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "11.67",
+        "wr": "51.43"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "7.55",
+        "wr": "54.85"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "5.37",
+        "wr": "55.24"
+      }
+    ]
+  },
+  {
+    "slug": "karthus",
+    "name_cn": "死亡颂唱者",
+    "name_en": "Karthus",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.89% 选取) | 起始: Shadowflame、Liandry's Torment、Rabadon's Deathcap、Blackfire Torch | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Shadowflame (55.49% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.89% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Liandry's Torment",
+      "Rabadon's Deathcap",
+      "Blackfire Torch"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "15.83",
+        "wr": "55.49"
+      },
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "6.98",
+        "wr": "51.30"
+      },
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "5.82",
+        "wr": "47.92"
+      }
+    ]
+  },
+  {
+    "slug": "malzahar",
+    "name_cn": "虚空先知",
+    "name_en": "Malzahar",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.01% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Shadowflame | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (54.42% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.01% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "22.07",
+        "wr": "54.42"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "10.67",
+        "wr": "54.31"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "8.96",
+        "wr": "54.47"
+      }
+    ]
+  },
+  {
+    "slug": "missfortune",
+    "name_cn": "赏金猎人",
+    "name_en": "Miss Fortune",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.54% 选取) | 起始: Blackfire Torch、Liandry's Torment、The Collector、Shadowflame | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Shadowflame (50.38% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.54% 选取)",
+    "start_items": [
+      "Blackfire Torch",
+      "Liandry's Torment",
+      "The Collector",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "19.66",
+        "wr": "50.38"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "5.45",
+        "wr": "50.02"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Rabadon's Deathcap",
+        "pr": "4.52",
+        "wr": "54.41"
+      }
+    ]
+  },
+  {
+    "slug": "lucian",
+    "name_cn": "圣枪游侠",
+    "name_en": "Lucian",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.53% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Navori Flickerblade | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: The Collector Infinity Edge Lord Dominik's Regards (53.40% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.53% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Navori Flickerblade"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "14.34",
+        "wr": "53.40"
+      },
+      {
+        "items": "The Collector Navori Flickerblade Infinity Edge",
+        "pr": "6.54",
+        "wr": "49.70"
+      },
+      {
+        "items": "The Collector Infinity Edge Navori Flickerblade",
+        "pr": "4.45",
+        "wr": "51.39"
+      }
+    ]
+  },
+  {
+    "slug": "yone",
+    "name_cn": "封魔剑魂",
+    "name_en": "Yone",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.24% 选取) | 起始: Blade of The Ruined King、Infinity Edge、Death's Dance、Yun Tal Wildarrows | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: Yun Tal Wildarrows Rite of Ruin Death's Dance (61.80% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.24% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Infinity Edge",
+      "Death's Dance",
+      "Yun Tal Wildarrows"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Yun Tal Wildarrows Rite of Ruin Death's Dance",
+        "pr": "5.82",
+        "wr": "61.80"
+      },
+      {
+        "items": "Blade of The Ruined King Immortal Shieldbow Infinity Edge",
+        "pr": "3.49",
+        "wr": "50.50"
+      },
+      {
+        "items": "Yun Tal Wildarrows Blade of The Ruined King Infinity Edge",
+        "pr": "3.04",
+        "wr": "52.61"
+      }
+    ]
+  },
+  {
+    "slug": "ryze",
+    "name_cn": "符文法师",
+    "name_en": "Ryze",
+    "status": "ok",
+    "build": "技能: Q>E>W (40.10% 选取) | 起始: Rod of Ages、Rabadon's Deathcap、Actualizer、Riftmaker | 鞋子: Sorcerer's Shoes、Plated Steelcaps | 核心: Rod of Ages Archangel's Staff Rabadon's Deathcap (53.03% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (40.10% 选取)",
+    "start_items": [
+      "Rod of Ages",
+      "Rabadon's Deathcap",
+      "Actualizer",
+      "Riftmaker"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Archangel's Staff Rabadon's Deathcap",
+        "pr": "16.08",
+        "wr": "53.03"
+      },
+      {
+        "items": "Rod of Ages Archangel's Staff Actualizer",
+        "pr": "11.13",
+        "wr": "51.09"
+      },
+      {
+        "items": "Rod of Ages Archangel's Staff Winter's Approach",
+        "pr": "9.00",
+        "wr": "52.58"
+      }
+    ]
+  },
+  {
+    "slug": "twistedfate",
+    "name_cn": "卡牌大师",
+    "name_en": "Twisted Fate",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.47% 选取) | 起始: Luden's Echo、Shadowflame、Rabadon's Deathcap、Lich Bane | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Lich Bane Shadowflame (51.92% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.47% 选取)",
+    "start_items": [
+      "Luden's Echo",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Lich Bane"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Lich Bane Shadowflame",
+        "pr": "9.80",
+        "wr": "51.92"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "6.41",
+        "wr": "54.44"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "3.24",
+        "wr": "53.46"
+      }
+    ]
+  },
+  {
+    "slug": "rell",
+    "name_cn": "镕铁少女",
+    "name_en": "Rell",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.85% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Warmog's Armor Unending Despair (54.56% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.85% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "16.03",
+        "wr": "54.56"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "12.92",
+        "wr": "56.95"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "4.83",
+        "wr": "49.49"
+      }
+    ]
+  },
+  {
+    "slug": "galio",
+    "name_cn": "正义巨像",
+    "name_en": "Galio",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.63% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Warmog's Armor Unending Despair (53.37% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.63% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "8.75",
+        "wr": "53.37"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "7.07",
+        "wr": "55.97"
+      },
+      {
+        "items": "Heartsteel Unending Despair Hollow Radiance",
+        "pr": "3.87",
+        "wr": "53.24"
+      }
+    ]
+  },
+  {
+    "slug": "kayn",
+    "name_cn": "影流之镰",
+    "name_en": "Kayn",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.88% 选取) | 起始: Hubris、Death's Dance、Axiom Arc、The Collector | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Hubris Axiom Arc Death's Dance (57.34% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.88% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "Axiom Arc",
+      "The Collector"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Axiom Arc Death's Dance",
+        "pr": "9.48",
+        "wr": "57.34"
+      },
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "5.58",
+        "wr": "53.42"
+      },
+      {
+        "items": "Hubris Eclipse Death's Dance",
+        "pr": "5.52",
+        "wr": "54.15"
+      }
+    ]
+  },
+  {
+    "slug": "masteryi",
+    "name_cn": "无极剑圣",
+    "name_en": "Master Yi",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.84% 选取) | 起始: Blade of The Ruined King、The Collector、Infinity Edge、Guinsoo's Rageblade | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: The Collector Blade of The Ruined King Guinsoo's Rageblade (53.34% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.84% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "The Collector",
+      "Infinity Edge",
+      "Guinsoo's Rageblade"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Blade of The Ruined King Guinsoo's Rageblade",
+        "pr": "4.81",
+        "wr": "53.34"
+      },
+      {
+        "items": "The Collector Blade of The Ruined King Infinity Edge",
+        "pr": "3.98",
+        "wr": "55.89"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "3.35",
+        "wr": "58.19"
+      }
+    ]
+  },
+  {
+    "slug": "yunara",
+    "name_cn": "不破之誓",
+    "name_en": "Yunara",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.98% 选取) | 起始: Infinity Edge、Runaan's Hurricane、Yun Tal Wildarrows、Blade of The Ruined King | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: Yun Tal Wildarrows Runaan's Hurricane Infinity Edge (54.27% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.98% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "Runaan's Hurricane",
+      "Yun Tal Wildarrows",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Yun Tal Wildarrows Runaan's Hurricane Infinity Edge",
+        "pr": "10.34",
+        "wr": "54.27"
+      },
+      {
+        "items": "The Collector Runaan's Hurricane Infinity Edge",
+        "pr": "5.02",
+        "wr": "54.30"
+      },
+      {
+        "items": "Kraken Slayer Runaan's Hurricane Infinity Edge",
+        "pr": "3.30",
+        "wr": "54.49"
+      }
+    ]
+  },
+  {
+    "slug": "seraphine",
+    "name_cn": "星籁歌姬",
+    "name_en": "Seraphine",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.85% 选取) | 起始: Rylai's Crystal Scepter、Liandry's Torment、Shadowflame、Malignance | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Malignance Rylai's Crystal Scepter Liandry's Torment (55.75% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.85% 选取)",
+    "start_items": [
+      "Rylai's Crystal Scepter",
+      "Liandry's Torment",
+      "Shadowflame",
+      "Malignance"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "5.99",
+        "wr": "55.75"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "5.67",
+        "wr": "58.52"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "3.42",
+        "wr": "58.38"
+      }
+    ]
+  },
+  {
+    "slug": "tahmkench",
+    "name_cn": "河流之王",
+    "name_en": "Tahm Kench",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.17% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Spirit Visage | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Heartsteel Warmog's Armor Unending Despair (49.38% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.17% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "17.19",
+        "wr": "49.38"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "13.64",
+        "wr": "50.58"
+      },
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "6.19",
+        "wr": "46.49"
+      }
+    ]
+  },
+  {
+    "slug": "hecarim",
+    "name_cn": "战争之影",
+    "name_en": "Hecarim",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.97% 选取) | 起始: Spear of Shojin、Death's Dance、Hubris、Spirit Visage | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Spear of Shojin Manamune Death's Dance (54.43% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.97% 选取)",
+    "start_items": [
+      "Spear of Shojin",
+      "Death's Dance",
+      "Hubris",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Spear of Shojin Manamune Death's Dance",
+        "pr": "14.03",
+        "wr": "54.43"
+      },
+      {
+        "items": "Hubris Spear of Shojin Manamune",
+        "pr": "5.23",
+        "wr": "53.89"
+      },
+      {
+        "items": "Spear of Shojin Death's Dance Manamune",
+        "pr": "4.67",
+        "wr": "55.05"
+      }
+    ]
+  },
+  {
+    "slug": "rumble",
+    "name_cn": "机械公敌",
+    "name_en": "Rumble",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.40% 选取) | 起始: Liandry's Torment、Shadowflame、Rabadon's Deathcap、Malignance | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Liandry's Torment Shadowflame Rabadon's Deathcap (54.50% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.40% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Malignance"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Liandry's Torment Shadowflame Rabadon's Deathcap",
+        "pr": "10.39",
+        "wr": "54.50"
+      },
+      {
+        "items": "Liandry's Torment Malignance Shadowflame",
+        "pr": "5.24",
+        "wr": "51.43"
+      },
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "4.90",
+        "wr": "51.68"
+      }
+    ]
+  },
+  {
+    "slug": "kayle",
+    "name_cn": "正义天使",
+    "name_en": "Kayle",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.53% 选取) | 起始: Guinsoo's Rageblade、Blade of The Ruined King、Nashor's Tooth、Terminus | 鞋子: Sorcerer's Shoes、Berserker's Greaves | 核心: Blade of The Ruined King Guinsoo's Rageblade Terminus (54.04% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.53% 选取)",
+    "start_items": [
+      "Guinsoo's Rageblade",
+      "Blade of The Ruined King",
+      "Nashor's Tooth",
+      "Terminus"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Terminus",
+        "pr": "6.90",
+        "wr": "54.04"
+      },
+      {
+        "items": "Nashor's Tooth Dusk and Dawn Guinsoo's Rageblade",
+        "pr": "2.83",
+        "wr": "55.34"
+      },
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Wit's End",
+        "pr": "2.61",
+        "wr": "51.61"
+      }
+    ]
+  },
+  {
+    "slug": "hwei",
+    "name_cn": "异画师",
+    "name_en": "Hwei",
+    "status": "ok",
+    "build": "技能: Q>E>W (40.03% 选取) | 起始: Blackfire Torch、Liandry's Torment、Shadowflame、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Shadowflame (53.16% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (40.03% 选取)",
+    "start_items": [
+      "Blackfire Torch",
+      "Liandry's Torment",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "25.01",
+        "wr": "53.16"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Rabadon's Deathcap",
+        "pr": "6.74",
+        "wr": "57.10"
+      },
+      {
+        "items": "Blackfire Torch Shadowflame Rabadon's Deathcap",
+        "pr": "3.34",
+        "wr": "51.68"
+      }
+    ]
+  },
+  {
+    "slug": "swain",
+    "name_cn": "诺克萨斯统领",
+    "name_en": "Swain",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.59% 选取) | 起始: Heartsteel、Spirit Visage、Unending Despair、Riftmaker | 鞋子: Mercury's Treads、Sorcerer's Shoes | 核心: Heartsteel Unending Despair Spirit Visage (47.99% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.59% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Spirit Visage",
+      "Unending Despair",
+      "Riftmaker"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "8.80",
+        "wr": "47.99"
+      },
+      {
+        "items": "Heartsteel Spirit Visage Unending Despair",
+        "pr": "3.35",
+        "wr": "48.09"
+      },
+      {
+        "items": "Heartsteel Rod of Ages Riftmaker",
+        "pr": "3.17",
+        "wr": "47.65"
+      }
+    ]
+  },
+  {
+    "slug": "ashe",
+    "name_cn": "寒冰射手",
+    "name_en": "Ashe",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.85% 选取) | 起始: Blade of The Ruined King、Runaan's Hurricane、Infinity Edge、Kraken Slayer | 鞋子: Berserker's Greaves、Boots of Swiftness | 核心: Blade of The Ruined King Runaan's Hurricane Terminus (53.21% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.85% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Runaan's Hurricane",
+      "Infinity Edge",
+      "Kraken Slayer"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Runaan's Hurricane Terminus",
+        "pr": "4.94",
+        "wr": "53.21"
+      },
+      {
+        "items": "Blade of The Ruined King Runaan's Hurricane Infinity Edge",
+        "pr": "3.95",
+        "wr": "55.74"
+      },
+      {
+        "items": "Yun Tal Wildarrows Runaan's Hurricane Blade of The Ruined King",
+        "pr": "3.63",
+        "wr": "54.40"
+      }
+    ]
+  },
+  {
+    "slug": "senna",
+    "name_cn": "涤魂圣枪",
+    "name_en": "Senna",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.79% 选取) | 起始: Infinity Edge、The Collector、Statikk Shiv、Blade of The Ruined King | 鞋子: Berserker's Greaves、Boots of Swiftness | 核心: The Collector Rapid Firecannon Infinity Edge (44.62% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.79% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "The Collector",
+      "Statikk Shiv",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Rapid Firecannon Infinity Edge",
+        "pr": "4.52",
+        "wr": "44.62"
+      },
+      {
+        "items": "The Collector Infinity Edge Rapid Firecannon",
+        "pr": "2.64",
+        "wr": "45.76"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "2.07",
+        "wr": "48.58"
+      }
+    ]
+  },
+  {
+    "slug": "zyra",
+    "name_cn": "荆棘之兴",
+    "name_en": "Zyra",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.28% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Shadowflame | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (53.05% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.28% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "25.52",
+        "wr": "53.05"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "12.20",
+        "wr": "52.57"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "6.57",
+        "wr": "54.04"
+      }
+    ]
+  },
+  {
+    "slug": "singed",
+    "name_cn": "炼金术士",
+    "name_en": "Singed",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.60% 选取) | 起始: Rylai's Crystal Scepter、Liandry's Torment、Rod of Ages、Warmog's Armor | 鞋子: Boots of Swiftness、Sorcerer's Shoes | 核心: Rod of Ages Rylai's Crystal Scepter Liandry's Torment (53.55% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.60% 选取)",
+    "start_items": [
+      "Rylai's Crystal Scepter",
+      "Liandry's Torment",
+      "Rod of Ages",
+      "Warmog's Armor"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "12.67",
+        "wr": "53.55"
+      },
+      {
+        "items": "Rod of Ages Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "6.11",
+        "wr": "54.13"
+      },
+      {
+        "items": "Rylai's Crystal Scepter Liandry's Torment Winter's Approach",
+        "pr": "2.16",
+        "wr": "55.80"
+      }
+    ]
+  },
+  {
+    "slug": "ahri",
+    "name_cn": "九尾妖狐",
+    "name_en": "Ahri",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.20% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Malignance | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (52.87% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.20% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Malignance"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "15.43",
+        "wr": "52.87"
+      },
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "7.13",
+        "wr": "53.07"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "6.65",
+        "wr": "50.56"
+      }
+    ]
+  },
+  {
+    "slug": "xerath",
+    "name_cn": "远古巫灵",
+    "name_en": "Xerath",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.82% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Void Staff | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (50.16% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.82% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Void Staff"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "17.24",
+        "wr": "50.16"
+      },
+      {
+        "items": "Luden's Echo Horizon Focus Shadowflame",
+        "pr": "6.33",
+        "wr": "48.69"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Horizon Focus",
+        "pr": "4.86",
+        "wr": "48.69"
+      }
+    ]
+  },
+  {
+    "slug": "kaisa",
+    "name_cn": "虚空之女",
+    "name_en": "Kai'Sa",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.14% 选取) | 起始: Statikk Shiv、Guinsoo's Rageblade、Dusk and Dawn、Kraken Slayer | 鞋子: Berserker's Greaves、Sorcerer's Shoes | 核心: Kraken Slayer Blade of The Ruined King Guinsoo's Rageblade (48.74% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.14% 选取)",
+    "start_items": [
+      "Statikk Shiv",
+      "Guinsoo's Rageblade",
+      "Dusk and Dawn",
+      "Kraken Slayer"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Guinsoo's Rageblade",
+        "pr": "2.93",
+        "wr": "48.74"
+      },
+      {
+        "items": "Luden's Echo Horizon Focus Shadowflame",
+        "pr": "1.92",
+        "wr": "45.31"
+      },
+      {
+        "items": "Luden's Echo Dusk and Dawn Shadowflame",
+        "pr": "1.83",
+        "wr": "48.36"
+      }
+    ]
+  },
+  {
+    "slug": "sion",
+    "name_cn": "亡灵战神",
+    "name_en": "Sion",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.45% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Unending Despair Warmog's Armor (53.99% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.45% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "13.58",
+        "wr": "53.99"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "9.25",
+        "wr": "52.70"
+      },
+      {
+        "items": "Heartsteel Unending Despair Thornmail",
+        "pr": "7.94",
+        "wr": "52.26"
+      }
+    ]
+  },
+  {
+    "slug": "veigar",
+    "name_cn": "邪恶小法师",
+    "name_en": "Veigar",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.69% 选取) | 起始: Rabadon's Deathcap、Shadowflame、Rod of Ages、Luden's Echo | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Rod of Ages Archangel's Staff Rabadon's Deathcap (52.40% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.69% 选取)",
+    "start_items": [
+      "Rabadon's Deathcap",
+      "Shadowflame",
+      "Rod of Ages",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Archangel's Staff Rabadon's Deathcap",
+        "pr": "10.07",
+        "wr": "52.40"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "7.50",
+        "wr": "49.68"
+      },
+      {
+        "items": "Luden's Echo Rabadon's Deathcap Shadowflame",
+        "pr": "4.01",
+        "wr": "53.01"
+      }
+    ]
+  },
+  {
+    "slug": "maokai",
+    "name_cn": "扭曲树精",
+    "name_en": "Maokai",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.18% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Spirit Visage | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Unending Despair Spirit Visage (50.87% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.18% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "10.22",
+        "wr": "50.87"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "6.87",
+        "wr": "51.54"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "6.17",
+        "wr": "53.50"
+      }
+    ]
+  },
+  {
+    "slug": "viktor",
+    "name_cn": "奥术先驱",
+    "name_en": "Viktor",
+    "status": "ok",
+    "build": "技能: Q>E>W (32.83% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Luden's Echo、Liandry's Torment | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (50.71% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (32.83% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Luden's Echo",
+      "Liandry's Torment"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "13.08",
+        "wr": "50.71"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "7.70",
+        "wr": "53.82"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "5.51",
+        "wr": "48.54"
+      }
+    ]
+  },
+  {
+    "slug": "xayah",
+    "name_cn": "逆羽",
+    "name_en": "Xayah",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.94% 选取) | 起始: Infinity Edge、The Collector、Navori Flickerblade、Lord Dominik's Regards | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Navori Flickerblade Infinity Edge (55.35% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.94% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "The Collector",
+      "Navori Flickerblade",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Navori Flickerblade Infinity Edge",
+        "pr": "16.02",
+        "wr": "55.35"
+      },
+      {
+        "items": "Yun Tal Wildarrows Navori Flickerblade Infinity Edge",
+        "pr": "5.16",
+        "wr": "55.15"
+      },
+      {
+        "items": "The Collector Navori Flickerblade Lord Dominik's Regards",
+        "pr": "4.41",
+        "wr": "54.98"
+      }
+    ]
+  },
+  {
+    "slug": "fizz",
+    "name_cn": "潮汐海灵",
+    "name_en": "Fizz",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.53% 选取) | 起始: Shadowflame、Lich Bane、Rabadon's Deathcap、Luden's Echo | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Lich Bane Shadowflame (52.56% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.53% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Lich Bane",
+      "Rabadon's Deathcap",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Lich Bane Shadowflame",
+        "pr": "10.21",
+        "wr": "52.56"
+      },
+      {
+        "items": "Lich Bane Shadowflame Rabadon's Deathcap",
+        "pr": "5.92",
+        "wr": "56.36"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "4.06",
+        "wr": "53.97"
+      }
+    ]
+  },
+  {
+    "slug": "corki",
+    "name_cn": "英勇投弹手",
+    "name_en": "Corki",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.78% 选取) | 起始: Infinity Edge、The Collector、Lord Dominik's Regards、Bloodthirster | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: The Collector Infinity Edge Lord Dominik's Regards (53.09% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.78% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "The Collector",
+      "Lord Dominik's Regards",
+      "Bloodthirster"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "17.69",
+        "wr": "53.09"
+      },
+      {
+        "items": "The Collector Essence Reaver Infinity Edge",
+        "pr": "4.80",
+        "wr": "51.20"
+      },
+      {
+        "items": "The Collector Infinity Edge Mortal Reminder",
+        "pr": "4.77",
+        "wr": "51.00"
+      }
+    ]
+  },
+  {
+    "slug": "zed",
+    "name_cn": "影流之主",
+    "name_en": "Zed",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.13% 选取) | 起始: Hubris、Axiom Arc、The Collector、Serylda's Grudge | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Hubris Axiom Arc The Collector (51.63% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.13% 选取)",
+    "start_items": [
+      "Hubris",
+      "Axiom Arc",
+      "The Collector",
+      "Serylda's Grudge"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "15.45",
+        "wr": "51.63"
+      },
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "14.63",
+        "wr": "51.30"
+      },
+      {
+        "items": "Hubris Axiom Arc Voltaic Cyclosword",
+        "pr": "6.10",
+        "wr": "57.54"
+      }
+    ]
+  },
+  {
+    "slug": "teemo",
+    "name_cn": "迅捷斥候",
+    "name_en": "Teemo",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.93% 选取) | 起始: Liandry's Torment、Malignance、Shadowflame、Blackfire Torch | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Malignance Liandry's Torment Shadowflame (49.90% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.93% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Malignance",
+      "Shadowflame",
+      "Blackfire Torch"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "16.22",
+        "wr": "49.90"
+      },
+      {
+        "items": "Malignance Liandry's Torment Blackfire Torch",
+        "pr": "8.69",
+        "wr": "51.54"
+      },
+      {
+        "items": "Malignance Blackfire Torch Liandry's Torment",
+        "pr": "6.85",
+        "wr": "50.88"
+      }
+    ]
+  },
+  {
+    "slug": "tryndamere",
+    "name_cn": "蛮族之王",
+    "name_en": "Tryndamere",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.96% 选取) | 起始: Blade of The Ruined King、Infinity Edge、Heartsteel、Navori Flickerblade | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: Heartsteel Blade of The Ruined King Navori Flickerblade (47.82% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.96% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Infinity Edge",
+      "Heartsteel",
+      "Navori Flickerblade"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Blade of The Ruined King Navori Flickerblade",
+        "pr": "4.36",
+        "wr": "47.82"
+      },
+      {
+        "items": "Heartsteel Blade of The Ruined King Phantom Dancer",
+        "pr": "3.00",
+        "wr": "49.38"
+      },
+      {
+        "items": "Heartsteel Blade of The Ruined King Infinity Edge",
+        "pr": "2.89",
+        "wr": "50.19"
+      }
+    ]
+  },
+  {
+    "slug": "syndra",
+    "name_cn": "暗黑元首",
+    "name_en": "Syndra",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.88% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Void Staff | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (52.44% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.88% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Void Staff"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "23.85",
+        "wr": "52.44"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "8.44",
+        "wr": "50.57"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "7.32",
+        "wr": "50.55"
+      }
+    ]
+  },
+  {
+    "slug": "velkoz",
+    "name_cn": "虚空之眼",
+    "name_en": "Vel'Koz",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.96% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Luden's Echo、Liandry's Torment | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (49.09% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.96% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Luden's Echo",
+      "Liandry's Torment"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "11.28",
+        "wr": "49.09"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "6.79",
+        "wr": "52.58"
+      },
+      {
+        "items": "Luden's Echo Liandry's Torment Shadowflame",
+        "pr": "4.58",
+        "wr": "50.38"
+      }
+    ]
+  },
+  {
+    "slug": "smolder",
+    "name_cn": "炽炎雏龙",
+    "name_en": "Smolder",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.56% 选取) | 起始: Infinity Edge、Essence Reaver、Spear of Shojin、Lord Dominik's Regards | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Essence Reaver Infinity Edge Lord Dominik's Regards (49.18% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.56% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "Essence Reaver",
+      "Spear of Shojin",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Essence Reaver Infinity Edge Lord Dominik's Regards",
+        "pr": "8.61",
+        "wr": "49.18"
+      },
+      {
+        "items": "Essence Reaver Spear of Shojin Infinity Edge",
+        "pr": "4.62",
+        "wr": "49.05"
+      },
+      {
+        "items": "Essence Reaver Rapid Firecannon Infinity Edge",
+        "pr": "4.59",
+        "wr": "44.99"
+      }
+    ]
+  },
+  {
+    "slug": "aurora",
+    "name_cn": "双界灵兔",
+    "name_en": "Aurora",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.65% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Luden's Echo、Stormsurge | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (51.96% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.65% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Luden's Echo",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "20.56",
+        "wr": "51.96"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "10.44",
+        "wr": "50.77"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "9.85",
+        "wr": "50.45"
+      }
+    ]
+  },
+  {
+    "slug": "twitch",
+    "name_cn": "瘟疫之源",
+    "name_en": "Twitch",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.35% 选取) | 起始: Runaan's Hurricane、Infinity Edge、The Collector、Blade of The Ruined King | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Runaan's Hurricane Infinity Edge (54.14% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.35% 选取)",
+    "start_items": [
+      "Runaan's Hurricane",
+      "Infinity Edge",
+      "The Collector",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Runaan's Hurricane Infinity Edge",
+        "pr": "11.95",
+        "wr": "54.14"
+      },
+      {
+        "items": "The Collector Fiendhunter Bolts Infinity Edge",
+        "pr": "5.59",
+        "wr": "53.52"
+      },
+      {
+        "items": "The Collector Runaan's Hurricane Blade of The Ruined King",
+        "pr": "4.98",
+        "wr": "52.04"
+      }
+    ]
+  },
+  {
+    "slug": "tristana",
+    "name_cn": "麦林炮手",
+    "name_en": "Tristana",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.73% 选取) | 起始: Infinity Edge、The Collector、Navori Flickerblade、Blade of The Ruined King | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Navori Flickerblade Infinity Edge (53.07% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.73% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "The Collector",
+      "Navori Flickerblade",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Navori Flickerblade Infinity Edge",
+        "pr": "11.46",
+        "wr": "53.07"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "3.79",
+        "wr": "55.04"
+      },
+      {
+        "items": "The Collector Infinity Edge Navori Flickerblade",
+        "pr": "3.33",
+        "wr": "54.05"
+      }
+    ]
+  },
+  {
+    "slug": "lux",
+    "name_cn": "光辉女郎",
+    "name_en": "Lux",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.92% 选取) | 起始: Luden's Echo、Shadowflame、Rabadon's Deathcap、Malignance | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (48.98% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.92% 选取)",
+    "start_items": [
+      "Luden's Echo",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Malignance"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "14.41",
+        "wr": "48.98"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "5.44",
+        "wr": "47.20"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "5.14",
+        "wr": "46.98"
+      }
+    ]
+  },
+  {
+    "slug": "garen",
+    "name_cn": "德玛西亚之力",
+    "name_en": "Garen",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.27% 选取) | 起始: Stridebreaker、Phantom Dancer、Infinity Edge、Heartsteel | 鞋子: Boots of Swiftness、Berserker's Greaves | 核心: Stridebreaker Phantom Dancer Infinity Edge (51.37% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.27% 选取)",
+    "start_items": [
+      "Stridebreaker",
+      "Phantom Dancer",
+      "Infinity Edge",
+      "Heartsteel"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Stridebreaker Phantom Dancer Infinity Edge",
+        "pr": "22.02",
+        "wr": "51.37"
+      },
+      {
+        "items": "Stridebreaker Phantom Dancer Mortal Reminder",
+        "pr": "5.88",
+        "wr": "50.67"
+      },
+      {
+        "items": "Stridebreaker Infinity Edge Phantom Dancer",
+        "pr": "2.74",
+        "wr": "51.04"
+      }
+    ]
+  },
+  {
+    "slug": "jhin",
+    "name_cn": "戏命师",
+    "name_en": "Jhin",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.60% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Rapid Firecannon | 鞋子: Boots of Swiftness、Berserker's Greaves | 核心: The Collector Infinity Edge Lord Dominik's Regards (48.74% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.60% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Rapid Firecannon"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "17.25",
+        "wr": "48.74"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "9.79",
+        "wr": "49.35"
+      },
+      {
+        "items": "The Collector Infinity Edge Rapid Firecannon",
+        "pr": "9.59",
+        "wr": "48.03"
+      }
+    ]
+  },
+  {
+    "slug": "ekko",
+    "name_cn": "时间刺客",
+    "name_en": "Ekko",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.69% 选取) | 起始: Dusk and Dawn、Shadowflame、Rabadon's Deathcap、Void Staff | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Dusk and Dawn Shadowflame Rabadon's Deathcap (53.96% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.69% 选取)",
+    "start_items": [
+      "Dusk and Dawn",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Void Staff"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Dusk and Dawn Shadowflame Rabadon's Deathcap",
+        "pr": "24.16",
+        "wr": "53.96"
+      },
+      {
+        "items": "Dusk and Dawn Shadowflame Stormsurge",
+        "pr": "6.29",
+        "wr": "52.02"
+      },
+      {
+        "items": "Luden's Echo Dusk and Dawn Shadowflame",
+        "pr": "4.78",
+        "wr": "51.08"
+      }
+    ]
+  },
+  {
+    "slug": "nautilus",
+    "name_cn": "深海泰坦",
+    "name_en": "Nautilus",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.18% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (50.55% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.18% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "12.38",
+        "wr": "50.55"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "8.33",
+        "wr": "52.53"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "6.44",
+        "wr": "46.94"
+      }
+    ]
+  },
+  {
+    "slug": "ornn",
+    "name_cn": "山隐之焰",
+    "name_en": "Ornn",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.26% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Warmog's Armor Unending Despair (53.04% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.26% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "21.46",
+        "wr": "53.04"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "15.31",
+        "wr": "52.73"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "6.46",
+        "wr": "48.78"
+      }
+    ]
+  },
+  {
+    "slug": "shen",
+    "name_cn": "暮光之眼",
+    "name_en": "Shen",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.29% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Heartsteel Unending Despair Warmog's Armor (53.78% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.29% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "14.47",
+        "wr": "53.78"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "10.35",
+        "wr": "52.67"
+      },
+      {
+        "items": "Heartsteel Unending Despair Thornmail",
+        "pr": "7.81",
+        "wr": "48.85"
+      }
+    ]
+  },
+  {
+    "slug": "jarvaniv",
+    "name_cn": "德玛西亚皇子",
+    "name_en": "Jarvan IV",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.53% 选取) | 起始: Hubris、Heartsteel、The Collector、Axiom Arc | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Hubris The Collector Axiom Arc (48.28% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.53% 选取)",
+    "start_items": [
+      "Hubris",
+      "Heartsteel",
+      "The Collector",
+      "Axiom Arc"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "11.30",
+        "wr": "48.28"
+      },
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "7.34",
+        "wr": "48.91"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "3.63",
+        "wr": "50.73"
+      }
+    ]
+  },
+  {
+    "slug": "jayce",
+    "name_cn": "未来守护者",
+    "name_en": "Jayce",
+    "status": "ok",
+    "build": "技能: Q>E>W (41.29% 选取) | 起始: Hubris、The Collector、Serylda's Grudge、Spear of Shojin | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Hubris The Collector Manamune (46.14% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (41.29% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Serylda's Grudge",
+      "Spear of Shojin"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Manamune",
+        "pr": "18.51",
+        "wr": "46.14"
+      },
+      {
+        "items": "Hubris Manamune The Collector",
+        "pr": "7.88",
+        "wr": "46.91"
+      },
+      {
+        "items": "Hubris The Collector Serylda's Grudge",
+        "pr": "7.70",
+        "wr": "45.66"
+      }
+    ]
+  },
+  {
+    "slug": "chogath",
+    "name_cn": "虚空恐惧",
+    "name_en": "Cho'Gath",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.58% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (49.14% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.58% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "21.89",
+        "wr": "49.14"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "7.07",
+        "wr": "50.90"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "6.10",
+        "wr": "44.86"
+      }
+    ]
+  },
+  {
+    "slug": "kindred",
+    "name_cn": "永猎双子",
+    "name_en": "Kindred",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.45% 选取) | 起始: The Collector、Infinity Edge、Blade of The Ruined King、Runaan's Hurricane | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Blade of The Ruined King Infinity Edge (52.70% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.45% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Blade of The Ruined King",
+      "Runaan's Hurricane"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Blade of The Ruined King Infinity Edge",
+        "pr": "7.06",
+        "wr": "52.70"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "4.56",
+        "wr": "55.53"
+      },
+      {
+        "items": "The Collector Blade of The Ruined King Runaan's Hurricane",
+        "pr": "4.19",
+        "wr": "52.89"
+      }
+    ]
+  },
+  {
+    "slug": "heimerdinger",
+    "name_cn": "大发明家",
+    "name_en": "Heimerdinger",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.77% 选取) | 起始: Liandry's Torment、Blackfire Torch、Rylai's Crystal Scepter、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (51.42% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.77% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Blackfire Torch",
+      "Rylai's Crystal Scepter",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "19.80",
+        "wr": "51.42"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "10.02",
+        "wr": "50.81"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "3.78",
+        "wr": "52.65"
+      }
+    ]
+  },
+  {
+    "slug": "zaahen",
+    "name_cn": "不落魔锋",
+    "name_en": "Zaahen",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.71% 选取) | 起始: Sundered Sky、Death's Dance、Hubris、Endless Hunger | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Hubris Sundered Sky Death's Dance (56.42% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.71% 选取)",
+    "start_items": [
+      "Sundered Sky",
+      "Death's Dance",
+      "Hubris",
+      "Endless Hunger"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Sundered Sky Death's Dance",
+        "pr": "10.39",
+        "wr": "56.42"
+      },
+      {
+        "items": "Sundered Sky Spear of Shojin Death's Dance",
+        "pr": "5.92",
+        "wr": "53.48"
+      },
+      {
+        "items": "Hubris Death's Dance Endless Hunger",
+        "pr": "3.82",
+        "wr": "58.88"
+      }
+    ]
+  },
+  {
+    "slug": "leona",
+    "name_cn": "曙光女神",
+    "name_en": "Leona",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.25% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Heartsteel Warmog's Armor Unending Despair (50.81% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.25% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "12.88",
+        "wr": "50.81"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "11.19",
+        "wr": "52.65"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "7.97",
+        "wr": "46.79"
+      }
+    ]
+  },
+  {
+    "slug": "ziggs",
+    "name_cn": "爆破鬼才",
+    "name_en": "Ziggs",
+    "status": "ok",
+    "build": "技能: Q>E>W (40.12% 选取) | 起始: Liandry's Torment、Shadowflame、Blackfire Torch、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Blackfire Torch Liandry's Torment Shadowflame (50.52% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (40.12% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Shadowflame",
+      "Blackfire Torch",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "13.34",
+        "wr": "50.52"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "5.20",
+        "wr": "48.38"
+      },
+      {
+        "items": "Luden's Echo Liandry's Torment Shadowflame",
+        "pr": "4.96",
+        "wr": "48.56"
+      }
+    ]
+  },
+  {
+    "slug": "jax",
+    "name_cn": "武器大师",
+    "name_en": "Jax",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.67% 选取) | 起始: Dusk and Dawn、Blade of The Ruined King、Sundered Sky、Death's Dance | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Trinity Force Sundered Sky Death's Dance (52.67% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.67% 选取)",
+    "start_items": [
+      "Dusk and Dawn",
+      "Blade of The Ruined King",
+      "Sundered Sky",
+      "Death's Dance"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Trinity Force Sundered Sky Death's Dance",
+        "pr": "4.68",
+        "wr": "52.67"
+      },
+      {
+        "items": "Trinity Force Sundered Sky Spear of Shojin",
+        "pr": "2.23",
+        "wr": "51.53"
+      },
+      {
+        "items": "Trinity Force Blade of The Ruined King Death's Dance",
+        "pr": "2.00",
+        "wr": "52.94"
+      }
+    ]
+  },
+  {
+    "slug": "kogmaw",
+    "name_cn": "深渊巨口",
+    "name_en": "Kog'Maw",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.39% 选取) | 起始: Blade of The Ruined King、Guinsoo's Rageblade、Runaan's Hurricane、Terminus | 鞋子: Berserker's Greaves、Sorcerer's Shoes | 核心: Blade of The Ruined King Guinsoo's Rageblade Runaan's Hurricane (50.69% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.39% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Guinsoo's Rageblade",
+      "Runaan's Hurricane",
+      "Terminus"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Runaan's Hurricane",
+        "pr": "8.72",
+        "wr": "50.69"
+      },
+      {
+        "items": "Blade of The Ruined King Runaan's Hurricane Guinsoo's Rageblade",
+        "pr": "5.77",
+        "wr": "51.66"
+      },
+      {
+        "items": "Guinsoo's Rageblade Blade of The Ruined King Runaan's Hurricane",
+        "pr": "3.13",
+        "wr": "50.80"
+      }
+    ]
+  },
+  {
+    "slug": "mel",
+    "name_cn": "流光镜影",
+    "name_en": "Mel",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.80% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Luden's Echo、Liandry's Torment | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (47.22% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.80% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Luden's Echo",
+      "Liandry's Torment"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "18.03",
+        "wr": "47.22"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "10.83",
+        "wr": "47.89"
+      },
+      {
+        "items": "Luden's Echo Liandry's Torment Shadowflame",
+        "pr": "4.60",
+        "wr": "46.45"
+      }
+    ]
+  },
+  {
+    "slug": "varus",
+    "name_cn": "惩戒之箭",
+    "name_en": "Varus",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.55% 选取) | 起始: The Collector、Blade of The Ruined King、Hubris、Runaan's Hurricane | 鞋子: Berserker's Greaves、Ionian Boots of Lucidity | 核心: Hubris The Collector Manamune (44.80% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.55% 选取)",
+    "start_items": [
+      "The Collector",
+      "Blade of The Ruined King",
+      "Hubris",
+      "Runaan's Hurricane"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Manamune",
+        "pr": "7.00",
+        "wr": "44.80"
+      },
+      {
+        "items": "Hubris Manamune The Collector",
+        "pr": "2.53",
+        "wr": "45.63"
+      },
+      {
+        "items": "The Collector Hubris Manamune",
+        "pr": "2.32",
+        "wr": "43.84"
+      }
+    ]
+  },
+  {
+    "slug": "shyvana",
+    "name_cn": "龙血武姬",
+    "name_en": "Shyvana",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.19% 选取) | 起始: Dusk and Dawn、Heartsteel、Riftmaker、Sundered Sky | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Heartsteel Unending Despair Warmog's Armor (54.14% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.19% 选取)",
+    "start_items": [
+      "Dusk and Dawn",
+      "Heartsteel",
+      "Riftmaker",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "4.35",
+        "wr": "54.14"
+      },
+      {
+        "items": "Dusk and Dawn Liandry's Torment Riftmaker",
+        "pr": "3.81",
+        "wr": "56.30"
+      },
+      {
+        "items": "Heartsteel Dusk and Dawn Riftmaker",
+        "pr": "3.56",
+        "wr": "56.85"
+      }
+    ]
+  },
+  {
+    "slug": "gangplank",
+    "name_cn": "海洋之灾",
+    "name_en": "Gangplank",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.08% 选取) | 起始: The Collector、Infinity Edge、Essence Reaver、Lord Dominik's Regards | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Essence Reaver The Collector Infinity Edge (50.81% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.08% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Essence Reaver",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Essence Reaver The Collector Infinity Edge",
+        "pr": "14.97",
+        "wr": "50.81"
+      },
+      {
+        "items": "The Collector Essence Reaver Infinity Edge",
+        "pr": "8.29",
+        "wr": "50.03"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "7.47",
+        "wr": "48.44"
+      }
+    ]
+  },
+  {
+    "slug": "malphite",
+    "name_cn": "熔岩巨兽",
+    "name_en": "Malphite",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.66% 选取) | 起始: Malignance、Shadowflame、Rabadon's Deathcap、Heartsteel | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Malignance Shadowflame Rabadon's Deathcap (47.29% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.66% 选取)",
+    "start_items": [
+      "Malignance",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Heartsteel"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "9.69",
+        "wr": "47.29"
+      },
+      {
+        "items": "Malignance Stormsurge Shadowflame",
+        "pr": "9.04",
+        "wr": "46.58"
+      },
+      {
+        "items": "Malignance Shadowflame Stormsurge",
+        "pr": "6.77",
+        "wr": "46.22"
+      }
+    ]
+  },
+  {
+    "slug": "aphelios",
+    "name_cn": "残月之肃",
+    "name_en": "Aphelios",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.46% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Runaan's Hurricane | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: The Collector Infinity Edge Lord Dominik's Regards (54.64% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.46% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Runaan's Hurricane"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "18.44",
+        "wr": "54.64"
+      },
+      {
+        "items": "The Collector Runaan's Hurricane Infinity Edge",
+        "pr": "9.85",
+        "wr": "51.81"
+      },
+      {
+        "items": "The Collector Infinity Edge Runaan's Hurricane",
+        "pr": "6.70",
+        "wr": "52.66"
+      }
+    ]
+  },
+  {
+    "slug": "gwen",
+    "name_cn": "灵罗娃娃",
+    "name_en": "Gwen",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.96% 选取) | 起始: Dusk and Dawn、Riftmaker、Nashor's Tooth、Shadowflame | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Dusk and Dawn Nashor's Tooth Riftmaker (58.86% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.96% 选取)",
+    "start_items": [
+      "Dusk and Dawn",
+      "Riftmaker",
+      "Nashor's Tooth",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Dusk and Dawn Nashor's Tooth Riftmaker",
+        "pr": "18.43",
+        "wr": "58.86"
+      },
+      {
+        "items": "Dusk and Dawn Riftmaker Nashor's Tooth",
+        "pr": "8.04",
+        "wr": "58.86"
+      },
+      {
+        "items": "Nashor's Tooth Dusk and Dawn Riftmaker",
+        "pr": "5.58",
+        "wr": "59.43"
+      }
+    ]
+  },
+  {
+    "slug": "alistar",
+    "name_cn": "牛头酋长",
+    "name_en": "Alistar",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.16% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (50.38% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.16% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "9.17",
+        "wr": "50.38"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "7.60",
+        "wr": "52.25"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "4.73",
+        "wr": "45.93"
+      }
+    ]
+  },
+  {
+    "slug": "ezreal",
+    "name_cn": "探险家",
+    "name_en": "Ezreal",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.41% 选取) | 起始: Trinity Force、Spear of Shojin、The Collector、Serylda's Grudge | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Trinity Force Manamune Spear of Shojin (47.26% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.41% 选取)",
+    "start_items": [
+      "Trinity Force",
+      "Spear of Shojin",
+      "The Collector",
+      "Serylda's Grudge"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Trinity Force Manamune Spear of Shojin",
+        "pr": "12.51",
+        "wr": "47.26"
+      },
+      {
+        "items": "Trinity Force Manamune Serylda's Grudge",
+        "pr": "5.39",
+        "wr": "47.99"
+      },
+      {
+        "items": "Trinity Force Manamune Blade of The Ruined King",
+        "pr": "3.88",
+        "wr": "45.68"
+      }
+    ]
+  },
+  {
+    "slug": "sejuani",
+    "name_cn": "北地之怒",
+    "name_en": "Sejuani",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.52% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (50.94% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.52% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "17.11",
+        "wr": "50.94"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "11.05",
+        "wr": "52.09"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "6.78",
+        "wr": "47.57"
+      }
+    ]
+  },
+  {
+    "slug": "zilean",
+    "name_cn": "时光守护者",
+    "name_en": "Zilean",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.88% 选取) | 起始: Luden's Echo、Shadowflame、Rabadon's Deathcap、Cosmic Drive | 鞋子: Ionian Boots of Lucidity、Berserker's Greaves | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (48.37% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.88% 选取)",
+    "start_items": [
+      "Luden's Echo",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Cosmic Drive"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "7.20",
+        "wr": "48.37"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "4.19",
+        "wr": "46.40"
+      },
+      {
+        "items": "Luden's Echo Rabadon's Deathcap Shadowflame",
+        "pr": "2.11",
+        "wr": "52.11"
+      }
+    ]
+  },
+  {
+    "slug": "briar",
+    "name_cn": "狂厄蔷薇",
+    "name_en": "Briar",
+    "status": "ok",
+    "build": "技能: Q>E>W (33.87% 选取) | 起始: Hubris、Death's Dance、The Collector、Sundered Sky | 鞋子: Mercury's Treads、Berserker's Greaves | 核心: Hubris The Collector Death's Dance (54.81% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (33.87% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "The Collector",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Death's Dance",
+        "pr": "17.88",
+        "wr": "54.81"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "8.55",
+        "wr": "56.06"
+      },
+      {
+        "items": "Hubris The Collector Lord Dominik's Regards",
+        "pr": "3.79",
+        "wr": "56.48"
+      }
+    ]
+  },
+  {
+    "slug": "fiddlesticks",
+    "name_cn": "远古恐惧",
+    "name_en": "Fiddlesticks",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.24% 选取) | 起始: Malignance、Shadowflame、Liandry's Torment、Zhonya's Hourglass | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Malignance Liandry's Torment Shadowflame (48.99% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.24% 选取)",
+    "start_items": [
+      "Malignance",
+      "Shadowflame",
+      "Liandry's Torment",
+      "Zhonya's Hourglass"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "12.54",
+        "wr": "48.99"
+      },
+      {
+        "items": "Malignance Liandry's Torment Zhonya's Hourglass",
+        "pr": "7.32",
+        "wr": "47.57"
+      },
+      {
+        "items": "Malignance Zhonya's Hourglass Shadowflame",
+        "pr": "6.28",
+        "wr": "46.60"
+      }
+    ]
+  },
+  {
+    "slug": "sivir",
+    "name_cn": "战争女神",
+    "name_en": "Sivir",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.01% 选取) | 起始: Infinity Edge、Navori Flickerblade、The Collector、Yun Tal Wildarrows | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: Yun Tal Wildarrows Navori Flickerblade Infinity Edge (50.03% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.01% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "Navori Flickerblade",
+      "The Collector",
+      "Yun Tal Wildarrows"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Yun Tal Wildarrows Navori Flickerblade Infinity Edge",
+        "pr": "7.55",
+        "wr": "50.03"
+      },
+      {
+        "items": "The Collector Navori Flickerblade Infinity Edge",
+        "pr": "4.96",
+        "wr": "52.12"
+      },
+      {
+        "items": "Statikk Shiv The Collector Infinity Edge",
+        "pr": "2.61",
+        "wr": "47.40"
+      }
+    ]
+  },
+  {
+    "slug": "pantheon",
+    "name_cn": "不屈之枪",
+    "name_en": "Pantheon",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.98% 选取) | 起始: Hubris、The Collector、Death's Dance、Eclipse | 鞋子: Boots of Swiftness、Berserker's Greaves | 核心: Hubris The Collector Eclipse (49.20% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.98% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Death's Dance",
+      "Eclipse"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Eclipse",
+        "pr": "8.77",
+        "wr": "49.20"
+      },
+      {
+        "items": "Hubris The Collector Death's Dance",
+        "pr": "6.18",
+        "wr": "50.93"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "3.29",
+        "wr": "51.52"
+      }
+    ]
+  },
+  {
+    "slug": "darius",
+    "name_cn": "诺克萨斯之手",
+    "name_en": "Darius",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.12% 选取) | 起始: Heartsteel、Sundered Sky、Death's Dance、Spirit Visage | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Heartsteel Unending Despair Spirit Visage (47.43% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.12% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Sundered Sky",
+      "Death's Dance",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "2.81",
+        "wr": "47.43"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "2.52",
+        "wr": "49.86"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "1.41",
+        "wr": "49.69"
+      }
+    ]
+  },
+  {
+    "slug": "sylas",
+    "name_cn": "解脱者",
+    "name_en": "Sylas",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.32% 选取) | 起始: Riftmaker、Shadowflame、Rod of Ages、Rabadon's Deathcap | 鞋子: Ionian Boots of Lucidity、Sorcerer's Shoes | 核心: Heartsteel Rod of Ages Riftmaker (47.65% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.32% 选取)",
+    "start_items": [
+      "Riftmaker",
+      "Shadowflame",
+      "Rod of Ages",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Rod of Ages Riftmaker",
+        "pr": "4.83",
+        "wr": "47.65"
+      },
+      {
+        "items": "Rod of Ages Riftmaker Shadowflame",
+        "pr": "2.89",
+        "wr": "50.14"
+      },
+      {
+        "items": "Rod of Ages Riftmaker Cosmic Drive",
+        "pr": "2.27",
+        "wr": "49.34"
+      }
+    ]
+  },
+  {
+    "slug": "vex",
+    "name_cn": "愁云使者",
+    "name_en": "Vex",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.04% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Stormsurge | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (51.35% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.04% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "17.91",
+        "wr": "51.35"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "8.58",
+        "wr": "50.38"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "6.85",
+        "wr": "50.61"
+      }
+    ]
+  },
+  {
+    "slug": "viego",
+    "name_cn": "破败之王",
+    "name_en": "Viego",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.31% 选取) | 起始: The Collector、Infinity Edge、Death's Dance、Lord Dominik's Regards | 鞋子: Mercury's Treads、Berserker's Greaves | 核心: The Collector Infinity Edge Lord Dominik's Regards (53.76% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.31% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Death's Dance",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "15.44",
+        "wr": "53.76"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "9.41",
+        "wr": "52.26"
+      },
+      {
+        "items": "Hubris The Collector Lord Dominik's Regards",
+        "pr": "3.95",
+        "wr": "52.67"
+      }
+    ]
+  },
+  {
+    "slug": "pyke",
+    "name_cn": "血港鬼影",
+    "name_en": "Pyke",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.75% 选取) | 起始: Hubris、Axiom Arc、The Collector、Edge of Night | 鞋子: Boots of Swiftness、Plated Steelcaps | 核心: Hubris Axiom Arc The Collector (47.44% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.75% 选取)",
+    "start_items": [
+      "Hubris",
+      "Axiom Arc",
+      "The Collector",
+      "Edge of Night"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "14.72",
+        "wr": "47.44"
+      },
+      {
+        "items": "Hubris Axiom Arc Voltaic Cyclosword",
+        "pr": "9.19",
+        "wr": "53.07"
+      },
+      {
+        "items": "Hubris Axiom Arc Edge of Night",
+        "pr": "8.59",
+        "wr": "48.73"
+      }
+    ]
+  },
+  {
+    "slug": "fiora",
+    "name_cn": "无双剑姬",
+    "name_en": "Fiora",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.54% 选取) | 起始: Ravenous Hydra、Death's Dance、Trinity Force、Sundered Sky | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Trinity Force Ravenous Hydra Death's Dance (55.47% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.54% 选取)",
+    "start_items": [
+      "Ravenous Hydra",
+      "Death's Dance",
+      "Trinity Force",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Trinity Force Ravenous Hydra Death's Dance",
+        "pr": "12.02",
+        "wr": "55.47"
+      },
+      {
+        "items": "Ravenous Hydra Trinity Force Death's Dance",
+        "pr": "8.68",
+        "wr": "56.39"
+      },
+      {
+        "items": "Hubris Ravenous Hydra Death's Dance",
+        "pr": "2.09",
+        "wr": "58.33"
+      }
+    ]
+  },
+  {
+    "slug": "shaco",
+    "name_cn": "恶魔小丑",
+    "name_en": "Shaco",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.40% 选取) | 起始: The Collector、Infinity Edge、Hubris、Voltaic Cyclosword | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Hubris The Collector Infinity Edge (43.37% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.40% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Hubris",
+      "Voltaic Cyclosword"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "16.10",
+        "wr": "43.37"
+      },
+      {
+        "items": "Hubris The Collector Voltaic Cyclosword",
+        "pr": "8.03",
+        "wr": "42.98"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "6.62",
+        "wr": "52.52"
+      }
+    ]
+  },
+  {
+    "slug": "vladimir",
+    "name_cn": "猩红收割者",
+    "name_en": "Vladimir",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.36% 选取) | 起始: Riftmaker、Rabadon's Deathcap、Cosmic Drive、Heartsteel | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Heartsteel Riftmaker Spirit Visage (45.52% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.36% 选取)",
+    "start_items": [
+      "Riftmaker",
+      "Rabadon's Deathcap",
+      "Cosmic Drive",
+      "Heartsteel"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Riftmaker Spirit Visage",
+        "pr": "5.95",
+        "wr": "45.52"
+      },
+      {
+        "items": "Heartsteel Riftmaker Cosmic Drive",
+        "pr": "3.52",
+        "wr": "44.64"
+      },
+      {
+        "items": "Riftmaker Cosmic Drive Rabadon's Deathcap",
+        "pr": "3.50",
+        "wr": "52.52"
+      }
+    ]
+  },
+  {
+    "slug": "kassadin",
+    "name_cn": "虚空行者",
+    "name_en": "Kassadin",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.87% 选取) | 起始: Rod of Ages、Malignance、Rabadon's Deathcap、Shadowflame | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Rod of Ages Archangel's Staff Malignance (52.90% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.87% 选取)",
+    "start_items": [
+      "Rod of Ages",
+      "Malignance",
+      "Rabadon's Deathcap",
+      "Shadowflame"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Archangel's Staff Malignance",
+        "pr": "16.82",
+        "wr": "52.90"
+      },
+      {
+        "items": "Rod of Ages Malignance Archangel's Staff",
+        "pr": "12.47",
+        "wr": "53.30"
+      },
+      {
+        "items": "Rod of Ages Archangel's Staff Shadowflame",
+        "pr": "6.42",
+        "wr": "51.69"
+      }
+    ]
+  },
+  {
+    "slug": "talon",
+    "name_cn": "刀锋之影",
+    "name_en": "Talon",
+    "status": "ok",
+    "build": "技能: Q>E>W (33.75% 选取) | 起始: Hubris、Axiom Arc、The Collector、Serylda's Grudge | 鞋子: Boots of Swiftness、Ionian Boots of Lucidity | 核心: Hubris The Collector Axiom Arc (50.15% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (33.75% 选取)",
+    "start_items": [
+      "Hubris",
+      "Axiom Arc",
+      "The Collector",
+      "Serylda's Grudge"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "23.26",
+        "wr": "50.15"
+      },
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "12.62",
+        "wr": "51.16"
+      },
+      {
+        "items": "Hubris Axiom Arc Serylda's Grudge",
+        "pr": "4.79",
+        "wr": "53.89"
+      }
+    ]
+  },
+  {
+    "slug": "ambessa",
+    "name_cn": "铁血狼母",
+    "name_en": "Ambessa",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.00% 选取) | 起始: Hubris、Death's Dance、Endless Hunger、Eclipse | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Hubris Eclipse Death's Dance (51.25% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.00% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "Endless Hunger",
+      "Eclipse"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Eclipse Death's Dance",
+        "pr": "11.36",
+        "wr": "51.25"
+      },
+      {
+        "items": "Hubris Death's Dance Endless Hunger",
+        "pr": "6.76",
+        "wr": "55.53"
+      },
+      {
+        "items": "Hubris Eclipse Spear of Shojin",
+        "pr": "4.48",
+        "wr": "49.58"
+      }
+    ]
+  },
+  {
+    "slug": "mordekaiser",
+    "name_cn": "铁铠冥魂",
+    "name_en": "Mordekaiser",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.26% 选取) | 起始: Riftmaker、Heartsteel、Spirit Visage、Rylai's Crystal Scepter | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Unending Despair Spirit Visage (48.00% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.26% 选取)",
+    "start_items": [
+      "Riftmaker",
+      "Heartsteel",
+      "Spirit Visage",
+      "Rylai's Crystal Scepter"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "5.19",
+        "wr": "48.00"
+      },
+      {
+        "items": "Heartsteel Riftmaker Spirit Visage",
+        "pr": "3.16",
+        "wr": "50.10"
+      },
+      {
+        "items": "Riftmaker Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "2.67",
+        "wr": "50.76"
+      }
+    ]
+  },
+  {
+    "slug": "renata",
+    "name_cn": "炼金男爵",
+    "name_en": "Renata Glasc",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.77% 选取) | 起始: Malignance、Imperial Mandate、Redemption、Shurelya's Battlesong | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Malignance Imperial Mandate Shurelya's Battlesong (52.88% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.77% 选取)",
+    "start_items": [
+      "Malignance",
+      "Imperial Mandate",
+      "Redemption",
+      "Shurelya's Battlesong"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Imperial Mandate Shurelya's Battlesong",
+        "pr": "5.79",
+        "wr": "52.88"
+      },
+      {
+        "items": "Malignance Imperial Mandate Redemption",
+        "pr": "3.65",
+        "wr": "52.41"
+      },
+      {
+        "items": "Imperial Mandate Malignance Shurelya's Battlesong",
+        "pr": "1.87",
+        "wr": "53.10"
+      }
+    ]
+  },
+  {
+    "slug": "akshan",
+    "name_cn": "影哨",
+    "name_en": "Akshan",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.58% 选取) | 起始: The Collector、Infinity Edge、Blade of The Ruined King、Lord Dominik's Regards | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Infinity Edge Lord Dominik's Regards (52.54% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.58% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Blade of The Ruined King",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "14.86",
+        "wr": "52.54"
+      },
+      {
+        "items": "Statikk Shiv The Collector Infinity Edge",
+        "pr": "4.99",
+        "wr": "50.41"
+      },
+      {
+        "items": "The Collector Infinity Edge Mortal Reminder",
+        "pr": "4.48",
+        "wr": "50.23"
+      }
+    ]
+  },
+  {
+    "slug": "janna",
+    "name_cn": "风暴之怒",
+    "name_en": "Janna",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.86% 选取) | 起始: Moonstone Renewer、Diadem of Songs、Imperial Mandate、Luden's Echo | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (56.44% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.86% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Diadem of Songs",
+      "Imperial Mandate",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "6.09",
+        "wr": "56.44"
+      },
+      {
+        "items": "Luden's Echo Horizon Focus Shadowflame",
+        "pr": "3.17",
+        "wr": "46.90"
+      },
+      {
+        "items": "Moonstone Renewer Whispering Circlet Redemption",
+        "pr": "2.85",
+        "wr": "53.12"
+      }
+    ]
+  },
+  {
+    "slug": "blitzcrank",
+    "name_cn": "蒸汽机器人",
+    "name_en": "Blitzcrank",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.68% 选取) | 起始: Heartsteel、Warmog's Armor、Fimbulwinter、Malignance | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Heartsteel Winter's Approach Warmog's Armor (46.86% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.68% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Fimbulwinter",
+      "Malignance"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Winter's Approach Warmog's Armor",
+        "pr": "8.94",
+        "wr": "46.86"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Winter's Approach",
+        "pr": "4.93",
+        "wr": "47.21"
+      },
+      {
+        "items": "Malignance Stormsurge Shadowflame",
+        "pr": "4.90",
+        "wr": "45.49"
+      }
+    ]
+  },
+  {
+    "slug": "illaoi",
+    "name_cn": "海兽祭司",
+    "name_en": "Illaoi",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.88% 选取) | 起始: Heartsteel、Spirit Visage、Sundered Sky、Warmog's Armor | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Sundered Sky Spirit Visage (46.50% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.88% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Spirit Visage",
+      "Sundered Sky",
+      "Warmog's Armor"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Sundered Sky Spirit Visage",
+        "pr": "8.11",
+        "wr": "46.50"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "3.94",
+        "wr": "52.78"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "3.28",
+        "wr": "50.71"
+      }
+    ]
+  },
+  {
+    "slug": "monkeyking",
+    "name_cn": "齐天大圣",
+    "name_en": "Wukong",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.38% 选取) | 起始: Heartsteel、Sundered Sky、Death's Dance、Hubris | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Heartsteel Warmog's Armor Overlord's Bloodmail (48.89% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.38% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Sundered Sky",
+      "Death's Dance",
+      "Hubris"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "6.69",
+        "wr": "48.89"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "2.40",
+        "wr": "50.59"
+      },
+      {
+        "items": "Heartsteel Sundered Sky Death's Dance",
+        "pr": "2.22",
+        "wr": "46.35"
+      }
+    ]
+  },
+  {
+    "slug": "thresh",
+    "name_cn": "魂锁典狱长",
+    "name_en": "Thresh",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.11% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Fimbulwinter | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Heartsteel Warmog's Armor Unending Despair (46.39% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.11% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Fimbulwinter"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "11.14",
+        "wr": "46.39"
+      },
+      {
+        "items": "Heartsteel Winter's Approach Warmog's Armor",
+        "pr": "6.67",
+        "wr": "46.06"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "6.08",
+        "wr": "48.10"
+      }
+    ]
+  },
+  {
+    "slug": "amumu",
+    "name_cn": "殇之木乃伊",
+    "name_en": "Amumu",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.61% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (50.47% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.61% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "6.24",
+        "wr": "50.47"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "4.19",
+        "wr": "52.42"
+      },
+      {
+        "items": "Malignance Stormsurge Shadowflame",
+        "pr": "3.39",
+        "wr": "46.45"
+      }
+    ]
+  },
+  {
+    "slug": "riven",
+    "name_cn": "放逐之刃",
+    "name_en": "Riven",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.50% 选取) | 起始: Hubris、Death's Dance、Sundered Sky、Eclipse | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Hubris Sundered Sky Death's Dance (53.54% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.50% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "Sundered Sky",
+      "Eclipse"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Sundered Sky Death's Dance",
+        "pr": "14.04",
+        "wr": "53.54"
+      },
+      {
+        "items": "Hubris Eclipse Death's Dance",
+        "pr": "5.67",
+        "wr": "52.65"
+      },
+      {
+        "items": "Hubris Death's Dance Spear of Shojin",
+        "pr": "2.82",
+        "wr": "52.34"
+      }
+    ]
+  },
+  {
+    "slug": "samira",
+    "name_cn": "沙漠玫瑰",
+    "name_en": "Samira",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.83% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Bloodthirster | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: The Collector Infinity Edge Lord Dominik's Regards (49.94% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.83% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Bloodthirster"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "27.26",
+        "wr": "49.94"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "12.23",
+        "wr": "48.25"
+      },
+      {
+        "items": "The Collector Infinity Edge Mortal Reminder",
+        "pr": "6.49",
+        "wr": "47.53"
+      }
+    ]
+  },
+  {
+    "slug": "gragas",
+    "name_cn": "酒桶",
+    "name_en": "Gragas",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.68% 选取) | 起始: Heartsteel、Shadowflame、Luden's Echo、Unending Despair | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (50.63% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.68% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Shadowflame",
+      "Luden's Echo",
+      "Unending Despair"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "7.23",
+        "wr": "50.63"
+      },
+      {
+        "items": "Heartsteel Winter's Approach Unending Despair",
+        "pr": "3.95",
+        "wr": "47.05"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "3.89",
+        "wr": "49.23"
+      }
+    ]
+  },
+  {
+    "slug": "orianna",
+    "name_cn": "发条魔灵",
+    "name_en": "Orianna",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.64% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Malignance | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (50.06% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.64% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Malignance"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "15.98",
+        "wr": "50.06"
+      },
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "5.94",
+        "wr": "49.33"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "5.67",
+        "wr": "48.30"
+      }
+    ]
+  },
+  {
+    "slug": "kalista",
+    "name_cn": "复仇之矛",
+    "name_en": "Kalista",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.81% 选取) | 起始: Blade of The Ruined King、Runaan's Hurricane、Guinsoo's Rageblade、Terminus | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: Blade of The Ruined King Guinsoo's Rageblade Runaan's Hurricane (55.19% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.81% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Runaan's Hurricane",
+      "Guinsoo's Rageblade",
+      "Terminus"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Guinsoo's Rageblade Runaan's Hurricane",
+        "pr": "9.37",
+        "wr": "55.19"
+      },
+      {
+        "items": "Blade of The Ruined King Runaan's Hurricane Guinsoo's Rageblade",
+        "pr": "8.86",
+        "wr": "55.88"
+      },
+      {
+        "items": "Blade of The Ruined King Runaan's Hurricane Terminus",
+        "pr": "5.30",
+        "wr": "56.09"
+      }
+    ]
+  },
+  {
+    "slug": "nilah",
+    "name_cn": "不羁之悦",
+    "name_en": "Nilah",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.95% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Navori Flickerblade | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: The Collector Infinity Edge Lord Dominik's Regards (56.97% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.95% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Navori Flickerblade"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "17.46",
+        "wr": "56.97"
+      },
+      {
+        "items": "The Collector Infinity Edge Navori Flickerblade",
+        "pr": "5.40",
+        "wr": "53.22"
+      },
+      {
+        "items": "The Collector Navori Flickerblade Infinity Edge",
+        "pr": "5.23",
+        "wr": "51.94"
+      }
+    ]
+  },
+  {
+    "slug": "lissandra",
+    "name_cn": "冰霜女巫",
+    "name_en": "Lissandra",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.24% 选取) | 起始: Shadowflame、Malignance、Zhonya's Hourglass、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Malignance Zhonya's Hourglass Shadowflame (46.97% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.24% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Malignance",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Zhonya's Hourglass Shadowflame",
+        "pr": "10.11",
+        "wr": "46.97"
+      },
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "6.11",
+        "wr": "50.56"
+      },
+      {
+        "items": "Malignance Shadowflame Zhonya's Hourglass",
+        "pr": "5.36",
+        "wr": "47.54"
+      }
+    ]
+  },
+  {
+    "slug": "udyr",
+    "name_cn": "兽灵行者",
+    "name_en": "Udyr",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.72% 选取) | 起始: Shadowflame、Liandry's Torment、Malignance、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Malignance Liandry's Torment Shadowflame (49.90% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.72% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Liandry's Torment",
+      "Malignance",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "12.63",
+        "wr": "49.90"
+      },
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "6.36",
+        "wr": "44.68"
+      },
+      {
+        "items": "Liandry's Torment Shadowflame Rabadon's Deathcap",
+        "pr": "3.43",
+        "wr": "52.20"
+      }
+    ]
+  },
+  {
+    "slug": "karma",
+    "name_cn": "天启者",
+    "name_en": "Karma",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.44% 选取) | 起始: Malignance、Shadowflame、Rabadon's Deathcap、Luden's Echo | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Malignance Shadowflame Rabadon's Deathcap (48.04% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.44% 选取)",
+    "start_items": [
+      "Malignance",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "7.90",
+        "wr": "48.04"
+      },
+      {
+        "items": "Malignance Luden's Echo Shadowflame",
+        "pr": "5.73",
+        "wr": "45.76"
+      },
+      {
+        "items": "Luden's Echo Malignance Shadowflame",
+        "pr": "3.37",
+        "wr": "45.36"
+      }
+    ]
+  },
+  {
+    "slug": "nocturne",
+    "name_cn": "永恒梦魇",
+    "name_en": "Nocturne",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.76% 选取) | 起始: Hubris、Axiom Arc、The Collector、Experimental Hexplate | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Hubris Axiom Arc The Collector (50.60% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.76% 选取)",
+    "start_items": [
+      "Hubris",
+      "Axiom Arc",
+      "The Collector",
+      "Experimental Hexplate"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "15.18",
+        "wr": "50.60"
+      },
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "14.30",
+        "wr": "50.42"
+      },
+      {
+        "items": "Hubris Axiom Arc Experimental Hexplate",
+        "pr": "5.36",
+        "wr": "49.52"
+      }
+    ]
+  },
+  {
+    "slug": "aatrox",
+    "name_cn": "暗裔剑魔",
+    "name_en": "Aatrox",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.70% 选取) | 起始: Hubris、Death's Dance、Sundered Sky、Endless Hunger | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Hubris Sundered Sky Death's Dance (47.05% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.70% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "Sundered Sky",
+      "Endless Hunger"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris Sundered Sky Death's Dance",
+        "pr": "16.09",
+        "wr": "47.05"
+      },
+      {
+        "items": "Hubris Death's Dance Endless Hunger",
+        "pr": "3.75",
+        "wr": "50.07"
+      },
+      {
+        "items": "Hubris Endless Hunger Death's Dance",
+        "pr": "2.37",
+        "wr": "48.99"
+      }
+    ]
+  },
+  {
+    "slug": "khazix",
+    "name_cn": "虚空掠夺者",
+    "name_en": "Kha'Zix",
+    "status": "ok",
+    "build": "技能: Q>E>W (33.50% 选取) | 起始: Hubris、The Collector、Serylda's Grudge、Edge of Night | 鞋子: Boots of Swiftness、Plated Steelcaps | 核心: Hubris The Collector Serylda's Grudge (47.86% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (33.50% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Serylda's Grudge",
+      "Edge of Night"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Serylda's Grudge",
+        "pr": "18.06",
+        "wr": "47.86"
+      },
+      {
+        "items": "Hubris The Collector Manamune",
+        "pr": "9.46",
+        "wr": "47.76"
+      },
+      {
+        "items": "The Collector Hubris Serylda's Grudge",
+        "pr": "5.60",
+        "wr": "45.76"
+      }
+    ]
+  },
+  {
+    "slug": "draven",
+    "name_cn": "荣耀行刑官",
+    "name_en": "Draven",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.57% 选取) | 起始: The Collector、Infinity Edge、Lord Dominik's Regards、Hubris | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: Hubris The Collector Infinity Edge (50.13% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.57% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards",
+      "Hubris"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "18.08",
+        "wr": "50.13"
+      },
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "13.69",
+        "wr": "50.10"
+      },
+      {
+        "items": "Hubris The Collector Lord Dominik's Regards",
+        "pr": "6.39",
+        "wr": "48.87"
+      }
+    ]
+  },
+  {
+    "slug": "poppy",
+    "name_cn": "圣锤之毅",
+    "name_en": "Poppy",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.46% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Unending Despair Warmog's Armor (51.11% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.46% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "11.01",
+        "wr": "51.11"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "10.32",
+        "wr": "49.68"
+      },
+      {
+        "items": "Heartsteel Unending Despair Thornmail",
+        "pr": "6.42",
+        "wr": "47.52"
+      }
+    ]
+  },
+  {
+    "slug": "sona",
+    "name_cn": "琴瑟仙女",
+    "name_en": "Sona",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.07% 选取) | 起始: Moonstone Renewer、Diadem of Songs、Ardent Censer、Luden's Echo | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (52.88% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.07% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Diadem of Songs",
+      "Ardent Censer",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "10.21",
+        "wr": "52.88"
+      },
+      {
+        "items": "Luden's Echo Lich Bane Shadowflame",
+        "pr": "4.18",
+        "wr": "46.64"
+      },
+      {
+        "items": "Moonstone Renewer Whispering Circlet Dawncore",
+        "pr": "3.97",
+        "wr": "52.73"
+      }
+    ]
+  },
+  {
+    "slug": "soraka",
+    "name_cn": "众星之子",
+    "name_en": "Soraka",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.53% 选取) | 起始: Moonstone Renewer、Diadem of Songs、Warmog's Armor、Rod of Ages | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Warmog's Armor (48.35% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.53% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Diadem of Songs",
+      "Warmog's Armor",
+      "Rod of Ages"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Warmog's Armor",
+        "pr": "11.79",
+        "wr": "48.35"
+      },
+      {
+        "items": "Whispering Circlet Moonstone Renewer Warmog's Armor",
+        "pr": "3.84",
+        "wr": "49.19"
+      },
+      {
+        "items": "Moonstone Renewer Whispering Circlet Dawncore",
+        "pr": "3.73",
+        "wr": "53.44"
+      }
+    ]
+  },
+  {
+    "slug": "katarina",
+    "name_cn": "不祥之刃",
+    "name_en": "Katarina",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.90% 选取) | 起始: Blade of The Ruined King、Kraken Slayer、Terminus、Titanic Hydra | 鞋子: Berserker's Greaves、Sorcerer's Shoes | 核心: Kraken Slayer Blade of The Ruined King Terminus (48.43% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.90% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Kraken Slayer",
+      "Terminus",
+      "Titanic Hydra"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Terminus",
+        "pr": "13.31",
+        "wr": "48.43"
+      },
+      {
+        "items": "Blade of The Ruined King Kraken Slayer Terminus",
+        "pr": "3.83",
+        "wr": "47.71"
+      },
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Titanic Hydra",
+        "pr": "2.56",
+        "wr": "45.75"
+      }
+    ]
+  },
+  {
+    "slug": "diana",
+    "name_cn": "皎月女神",
+    "name_en": "Diana",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.70% 选取) | 起始: Shadowflame、Heartsteel、Stormsurge、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Heartsteel Unending Despair Riftmaker (50.03% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.70% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Heartsteel",
+      "Stormsurge",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Riftmaker",
+        "pr": "5.52",
+        "wr": "50.03"
+      },
+      {
+        "items": "Stormsurge Shadowflame Rabadon's Deathcap",
+        "pr": "3.81",
+        "wr": "50.53"
+      },
+      {
+        "items": "Heartsteel Unending Despair Hollow Radiance",
+        "pr": "2.79",
+        "wr": "48.15"
+      }
+    ]
+  },
+  {
+    "slug": "volibear",
+    "name_cn": "不灭狂雷",
+    "name_en": "Volibear",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.62% 选取) | 起始: Heartsteel、Unending Despair、Spirit Visage、Warmog's Armor | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Heartsteel Unending Despair Spirit Visage (47.88% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.62% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Spirit Visage",
+      "Warmog's Armor"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "10.81",
+        "wr": "47.88"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "6.17",
+        "wr": "50.54"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "4.51",
+        "wr": "49.31"
+      }
+    ]
+  },
+  {
+    "slug": "cassiopeia",
+    "name_cn": "魔蛇之拥",
+    "name_en": "Cassiopeia",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.53% 选取) | 起始: Liandry's Torment、Rod of Ages、Rylai's Crystal Scepter、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Rod of Ages Archangel's Staff Liandry's Torment (49.40% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.53% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Rod of Ages",
+      "Rylai's Crystal Scepter",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Archangel's Staff Liandry's Torment",
+        "pr": "11.22",
+        "wr": "49.40"
+      },
+      {
+        "items": "Rod of Ages Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "6.08",
+        "wr": "47.74"
+      },
+      {
+        "items": "Rod of Ages Archangel's Staff Rylai's Crystal Scepter",
+        "pr": "5.97",
+        "wr": "47.77"
+      }
+    ]
+  },
+  {
+    "slug": "leesin",
+    "name_cn": "盲僧",
+    "name_en": "Lee Sin",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.77% 选取) | 起始: Hubris、Death's Dance、The Collector、Eclipse | 鞋子: Plated Steelcaps、Boots of Swiftness | 核心: Hubris The Collector Eclipse (43.57% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.77% 选取)",
+    "start_items": [
+      "Hubris",
+      "Death's Dance",
+      "The Collector",
+      "Eclipse"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Eclipse",
+        "pr": "10.09",
+        "wr": "43.57"
+      },
+      {
+        "items": "Hubris The Collector Death's Dance",
+        "pr": "6.49",
+        "wr": "44.63"
+      },
+      {
+        "items": "Hubris Eclipse Death's Dance",
+        "pr": "5.87",
+        "wr": "46.69"
+      }
+    ]
+  },
+  {
+    "slug": "annie",
+    "name_cn": "黑暗之女",
+    "name_en": "Annie",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.29% 选取) | 起始: Malignance、Shadowflame、Rabadon's Deathcap、Liandry's Torment | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Malignance Liandry's Torment Rylai's Crystal Scepter (52.17% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.29% 选取)",
+    "start_items": [
+      "Malignance",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Liandry's Torment"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Malignance Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "7.42",
+        "wr": "52.17"
+      },
+      {
+        "items": "Malignance Stormsurge Shadowflame",
+        "pr": "6.72",
+        "wr": "48.71"
+      },
+      {
+        "items": "Malignance Liandry's Torment Shadowflame",
+        "pr": "6.38",
+        "wr": "52.75"
+      }
+    ]
+  },
+  {
+    "slug": "nami",
+    "name_cn": "唤潮鲛姬",
+    "name_en": "Nami",
+    "status": "ok",
+    "build": "技能: Q>E>W (33.73% 选取) | 起始: Moonstone Renewer、Imperial Mandate、Diadem of Songs、Ardent Censer | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Imperial Mandate Whispering Circlet Moonstone Renewer (51.30% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (33.73% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Imperial Mandate",
+      "Diadem of Songs",
+      "Ardent Censer"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Imperial Mandate Whispering Circlet Moonstone Renewer",
+        "pr": "6.85",
+        "wr": "51.30"
+      },
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "4.98",
+        "wr": "51.33"
+      },
+      {
+        "items": "Imperial Mandate Moonstone Renewer Whispering Circlet",
+        "pr": "3.72",
+        "wr": "52.58"
+      }
+    ]
+  },
+  {
+    "slug": "milio",
+    "name_cn": "明烛",
+    "name_en": "Milio",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.62% 选取) | 起始: Moonstone Renewer、Luden's Echo、Diadem of Songs、Ardent Censer | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (53.75% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.62% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Luden's Echo",
+      "Diadem of Songs",
+      "Ardent Censer"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "8.53",
+        "wr": "53.75"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "5.19",
+        "wr": "47.27"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "4.83",
+        "wr": "44.90"
+      }
+    ]
+  },
+  {
+    "slug": "quinn",
+    "name_cn": "德玛西亚之翼",
+    "name_en": "Quinn",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.29% 选取) | 起始: The Collector、Infinity Edge、Blade of The Ruined King、Lord Dominik's Regards | 鞋子: Berserker's Greaves、Boots of Swiftness | 核心: The Collector Infinity Edge Lord Dominik's Regards (52.44% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.29% 选取)",
+    "start_items": [
+      "The Collector",
+      "Infinity Edge",
+      "Blade of The Ruined King",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "The Collector Infinity Edge Lord Dominik's Regards",
+        "pr": "12.20",
+        "wr": "52.44"
+      },
+      {
+        "items": "The Collector Infinity Edge Mortal Reminder",
+        "pr": "3.41",
+        "wr": "50.48"
+      },
+      {
+        "items": "The Collector Voltaic Cyclosword Infinity Edge",
+        "pr": "3.10",
+        "wr": "49.09"
+      }
+    ]
+  },
+  {
+    "slug": "taliyah",
+    "name_cn": "岩雀",
+    "name_en": "Taliyah",
+    "status": "ok",
+    "build": "技能: Q>E>W (40.82% 选取) | 起始: Shadowflame、Luden's Echo、Liandry's Torment、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Plated Steelcaps | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (47.96% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (40.82% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Liandry's Torment",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "12.71",
+        "wr": "47.96"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "8.37",
+        "wr": "50.44"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "5.93",
+        "wr": "45.60"
+      }
+    ]
+  },
+  {
+    "slug": "trundle",
+    "name_cn": "巨魔之王",
+    "name_en": "Trundle",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.50% 选取) | 起始: Imperial Mandate、Heartsteel、Blade of The Ruined King、Spirit Visage | 鞋子: Ionian Boots of Lucidity、Sorcerer's Shoes | 核心: Imperial Mandate Bandlepipes Winter's Approach (49.24% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.50% 选取)",
+    "start_items": [
+      "Imperial Mandate",
+      "Heartsteel",
+      "Blade of The Ruined King",
+      "Spirit Visage"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Imperial Mandate Bandlepipes Winter's Approach",
+        "pr": "7.57",
+        "wr": "49.24"
+      },
+      {
+        "items": "Imperial Mandate Winter's Approach Bandlepipes",
+        "pr": "2.48",
+        "wr": "49.98"
+      },
+      {
+        "items": "Imperial Mandate Malignance Shadowflame",
+        "pr": "1.93",
+        "wr": "39.20"
+      }
+    ]
+  },
+  {
+    "slug": "taric",
+    "name_cn": "瓦洛兰之盾",
+    "name_en": "Taric",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.30% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Fimbulwinter | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Heartsteel Winter's Approach Unending Despair (50.26% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.30% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Fimbulwinter"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Winter's Approach Unending Despair",
+        "pr": "8.61",
+        "wr": "50.26"
+      },
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "5.22",
+        "wr": "48.80"
+      },
+      {
+        "items": "Heartsteel Winter's Approach Spirit Visage",
+        "pr": "5.16",
+        "wr": "47.83"
+      }
+    ]
+  },
+  {
+    "slug": "rengar",
+    "name_cn": "傲之追猎者",
+    "name_en": "Rengar",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.59% 选取) | 起始: Hubris、The Collector、Infinity Edge、Lord Dominik's Regards | 鞋子: Boots of Swiftness、Ionian Boots of Lucidity | 核心: Hubris The Collector Infinity Edge (50.62% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.59% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "21.02",
+        "wr": "50.62"
+      },
+      {
+        "items": "Hubris The Collector Profane Hydra",
+        "pr": "9.60",
+        "wr": "48.94"
+      },
+      {
+        "items": "Hubris The Collector Lord Dominik's Regards",
+        "pr": "8.82",
+        "wr": "50.62"
+      }
+    ]
+  },
+  {
+    "slug": "nidalee",
+    "name_cn": "狂野女猎手",
+    "name_en": "Nidalee",
+    "status": "ok",
+    "build": "技能: Q>E>W (40.38% 选取) | 起始: Luden's Echo、Shadowflame、Rabadon's Deathcap、Stormsurge | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (45.29% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (40.38% 选取)",
+    "start_items": [
+      "Luden's Echo",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "18.50",
+        "wr": "45.29"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "7.68",
+        "wr": "42.72"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "7.68",
+        "wr": "42.73"
+      }
+    ]
+  },
+  {
+    "slug": "nasus",
+    "name_cn": "沙漠死神",
+    "name_en": "Nasus",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.37% 选取) | 起始: Heartsteel、Spirit Visage、Liandry's Torment、Blackfire Torch | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Blackfire Torch Liandry's Torment Rylai's Crystal Scepter (49.42% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.37% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Spirit Visage",
+      "Liandry's Torment",
+      "Blackfire Torch"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Blackfire Torch Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "10.04",
+        "wr": "49.42"
+      },
+      {
+        "items": "Blackfire Torch Liandry's Torment Shadowflame",
+        "pr": "3.76",
+        "wr": "48.57"
+      },
+      {
+        "items": "Blackfire Torch Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "2.40",
+        "wr": "49.36"
+      }
+    ]
+  },
+  {
+    "slug": "yuumi",
+    "name_cn": "魔法猫咪",
+    "name_en": "Yuumi",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.94% 选取) | 起始: Moonstone Renewer、Diadem of Songs、Ardent Censer、Mikael's Blessing | 鞋子: Ionian Boots of Lucidity、Sorcerer's Shoes | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (52.23% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.94% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Diadem of Songs",
+      "Ardent Censer",
+      "Mikael's Blessing"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "9.78",
+        "wr": "52.23"
+      },
+      {
+        "items": "Whispering Circlet Moonstone Renewer Ardent Censer",
+        "pr": "4.56",
+        "wr": "53.41"
+      },
+      {
+        "items": "Moonstone Renewer Ardent Censer Whispering Circlet",
+        "pr": "3.92",
+        "wr": "52.74"
+      }
+    ]
+  },
+  {
+    "slug": "naafiri",
+    "name_cn": "百裂冥犬",
+    "name_en": "Naafiri",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.35% 选取) | 起始: Hubris、The Collector、Axiom Arc、Death's Dance | 鞋子: Ionian Boots of Lucidity、Mercury's Treads | 核心: Hubris The Collector Axiom Arc (48.45% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.35% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Axiom Arc",
+      "Death's Dance"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "13.65",
+        "wr": "48.45"
+      },
+      {
+        "items": "Hubris The Collector Serylda's Grudge",
+        "pr": "7.29",
+        "wr": "47.18"
+      },
+      {
+        "items": "Hubris The Collector Eclipse",
+        "pr": "6.30",
+        "wr": "45.83"
+      }
+    ]
+  },
+  {
+    "slug": "vi",
+    "name_cn": "皮城执法官",
+    "name_en": "Vi",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.79% 选取) | 起始: Hubris、The Collector、Death's Dance、Eclipse | 鞋子: Plated Steelcaps、Mercury's Treads | 核心: Hubris The Collector Infinity Edge (48.66% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.79% 选取)",
+    "start_items": [
+      "Hubris",
+      "The Collector",
+      "Death's Dance",
+      "Eclipse"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Infinity Edge",
+        "pr": "9.58",
+        "wr": "48.66"
+      },
+      {
+        "items": "Hubris The Collector Eclipse",
+        "pr": "6.28",
+        "wr": "47.19"
+      },
+      {
+        "items": "Hubris The Collector Death's Dance",
+        "pr": "5.18",
+        "wr": "49.76"
+      }
+    ]
+  },
+  {
+    "slug": "urgot",
+    "name_cn": "无畏战车",
+    "name_en": "Urgot",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.27% 选取) | 起始: Heartsteel、Titanic Hydra、Warmog's Armor、Overlord's Bloodmail | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Titanic Hydra Overlord's Bloodmail (48.15% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.27% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Titanic Hydra",
+      "Warmog's Armor",
+      "Overlord's Bloodmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Titanic Hydra Overlord's Bloodmail",
+        "pr": "11.94",
+        "wr": "48.15"
+      },
+      {
+        "items": "Heartsteel Titanic Hydra Warmog's Armor",
+        "pr": "5.35",
+        "wr": "48.44"
+      },
+      {
+        "items": "Heartsteel Titanic Hydra Black Cleaver",
+        "pr": "4.99",
+        "wr": "48.10"
+      }
+    ]
+  },
+  {
+    "slug": "zoe",
+    "name_cn": "暮光星灵",
+    "name_en": "Zoe",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.72% 选取) | 起始: Luden's Echo、Shadowflame、Rabadon's Deathcap、Stormsurge | 鞋子: Sorcerer's Shoes、Boots of Swiftness | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (47.19% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.72% 选取)",
+    "start_items": [
+      "Luden's Echo",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "23.83",
+        "wr": "47.19"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "11.05",
+        "wr": "46.08"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "10.58",
+        "wr": "46.08"
+      }
+    ]
+  },
+  {
+    "slug": "rammus",
+    "name_cn": "披甲龙龟",
+    "name_en": "Rammus",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.56% 选取) | 起始: Heartsteel、Thornmail、Warmog's Armor、Unending Despair | 鞋子: Boots of Swiftness、Mercury's Treads | 核心: Heartsteel Thornmail Warmog's Armor (47.26% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.56% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Thornmail",
+      "Warmog's Armor",
+      "Unending Despair"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Thornmail Warmog's Armor",
+        "pr": "16.24",
+        "wr": "47.26"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "8.16",
+        "wr": "45.13"
+      },
+      {
+        "items": "Heartsteel Thornmail Unending Despair",
+        "pr": "8.06",
+        "wr": "48.10"
+      }
+    ]
+  },
+  {
+    "slug": "azir",
+    "name_cn": "沙漠皇帝",
+    "name_en": "Azir",
+    "status": "ok",
+    "build": "技能: Q>E>W (33.64% 选取) | 起始: Nashor's Tooth、Shadowflame、Liandry's Torment、Rabadon's Deathcap | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Nashor's Tooth Liandry's Torment Shadowflame (48.32% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (33.64% 选取)",
+    "start_items": [
+      "Nashor's Tooth",
+      "Shadowflame",
+      "Liandry's Torment",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Nashor's Tooth Liandry's Torment Shadowflame",
+        "pr": "11.78",
+        "wr": "48.32"
+      },
+      {
+        "items": "Nashor's Tooth Shadowflame Rabadon's Deathcap",
+        "pr": "6.65",
+        "wr": "52.18"
+      },
+      {
+        "items": "Nashor's Tooth Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "4.58",
+        "wr": "46.68"
+      }
+    ]
+  },
+  {
+    "slug": "braum",
+    "name_cn": "弗雷尔卓德之心",
+    "name_en": "Braum",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.90% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Thornmail | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Unending Despair (49.49% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.90% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Thornmail"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "12.04",
+        "wr": "49.49"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "8.37",
+        "wr": "51.00"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Thornmail",
+        "pr": "7.84",
+        "wr": "46.53"
+      }
+    ]
+  },
+  {
+    "slug": "lulu",
+    "name_cn": "仙灵女巫",
+    "name_en": "Lulu",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.79% 选取) | 起始: Moonstone Renewer、Ardent Censer、Diadem of Songs、Redemption | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (53.19% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.79% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Ardent Censer",
+      "Diadem of Songs",
+      "Redemption"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "11.14",
+        "wr": "53.19"
+      },
+      {
+        "items": "Moonstone Renewer Ardent Censer Whispering Circlet",
+        "pr": "5.49",
+        "wr": "54.66"
+      },
+      {
+        "items": "Whispering Circlet Moonstone Renewer Ardent Censer",
+        "pr": "3.48",
+        "wr": "51.65"
+      }
+    ]
+  },
+  {
+    "slug": "anivia",
+    "name_cn": "冰晶凤凰",
+    "name_en": "Anivia",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.91% 选取) | 起始: Liandry's Torment、Rod of Ages、Malignance、Rabadon's Deathcap | 鞋子: Mercury's Treads、Sorcerer's Shoes | 核心: Rod of Ages Archangel's Staff Liandry's Torment (47.22% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.91% 选取)",
+    "start_items": [
+      "Liandry's Torment",
+      "Rod of Ages",
+      "Malignance",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Rod of Ages Archangel's Staff Liandry's Torment",
+        "pr": "13.34",
+        "wr": "47.22"
+      },
+      {
+        "items": "Rod of Ages Liandry's Torment Archangel's Staff",
+        "pr": "5.79",
+        "wr": "48.54"
+      },
+      {
+        "items": "Malignance Liandry's Torment Rylai's Crystal Scepter",
+        "pr": "2.25",
+        "wr": "44.36"
+      }
+    ]
+  },
+  {
+    "slug": "neeko",
+    "name_cn": "万花通灵",
+    "name_en": "Neeko",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.84% 选取) | 起始: Shadowflame、Malignance、Rabadon's Deathcap、Luden's Echo | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (46.63% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.84% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Malignance",
+      "Rabadon's Deathcap",
+      "Luden's Echo"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "7.97",
+        "wr": "46.63"
+      },
+      {
+        "items": "Malignance Shadowflame Rabadon's Deathcap",
+        "pr": "4.10",
+        "wr": "47.17"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "3.94",
+        "wr": "45.90"
+      }
+    ]
+  },
+  {
+    "slug": "qiyana",
+    "name_cn": "元素女皇",
+    "name_en": "Qiyana",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.86% 选取) | 起始: Hubris、Axiom Arc、The Collector、Serylda's Grudge | 鞋子: Plated Steelcaps、Ionian Boots of Lucidity | 核心: Hubris The Collector Axiom Arc (45.25% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.86% 选取)",
+    "start_items": [
+      "Hubris",
+      "Axiom Arc",
+      "The Collector",
+      "Serylda's Grudge"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hubris The Collector Axiom Arc",
+        "pr": "15.85",
+        "wr": "45.25"
+      },
+      {
+        "items": "Hubris Axiom Arc Serylda's Grudge",
+        "pr": "10.11",
+        "wr": "49.89"
+      },
+      {
+        "items": "Hubris Axiom Arc The Collector",
+        "pr": "9.21",
+        "wr": "45.96"
+      }
+    ]
+  },
+  {
+    "slug": "nunu",
+    "name_cn": "雪原双子",
+    "name_en": "Nunu & Willump",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.33% 选取) | 起始: Shadowflame、Stormsurge、Luden's Echo、Rabadon's Deathcap | 鞋子: Plated Steelcaps、Sorcerer's Shoes | 核心: Luden's Echo Stormsurge Shadowflame (44.57% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.33% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Stormsurge",
+      "Luden's Echo",
+      "Rabadon's Deathcap"
+    ],
+    "boots": [
+      "Plated Steelcaps",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "11.20",
+        "wr": "44.57"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "5.36",
+        "wr": "46.63"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "4.87",
+        "wr": "44.62"
+      }
+    ]
+  },
+  {
+    "slug": "gnar",
+    "name_cn": "迷失之牙",
+    "name_en": "Gnar",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.89% 选取) | 起始: Heartsteel、Trinity Force、Blade of The Ruined King、Wit's End | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Warmog's Armor Overlord's Bloodmail (48.78% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.89% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Trinity Force",
+      "Blade of The Ruined King",
+      "Wit's End"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Overlord's Bloodmail",
+        "pr": "4.43",
+        "wr": "48.78"
+      },
+      {
+        "items": "Heartsteel Trinity Force Black Cleaver",
+        "pr": "2.55",
+        "wr": "45.82"
+      },
+      {
+        "items": "Trinity Force Black Cleaver Death's Dance",
+        "pr": "1.94",
+        "wr": "46.94"
+      }
+    ]
+  },
+  {
+    "slug": "kennen",
+    "name_cn": "狂暴之心",
+    "name_en": "Kennen",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.01% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Hextech Rocketbelt、Stormsurge | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Hextech Rocketbelt Shadowflame Rabadon's Deathcap (47.74% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.01% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Hextech Rocketbelt",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Hextech Rocketbelt Shadowflame Rabadon's Deathcap",
+        "pr": "6.51",
+        "wr": "47.74"
+      },
+      {
+        "items": "Hextech Rocketbelt Stormsurge Shadowflame",
+        "pr": "5.64",
+        "wr": "47.18"
+      },
+      {
+        "items": "Hextech Rocketbelt Zhonya's Hourglass Shadowflame",
+        "pr": "4.22",
+        "wr": "43.84"
+      }
+    ]
+  },
+  {
+    "slug": "belveth",
+    "name_cn": "虚空女皇",
+    "name_en": "Bel'Veth",
+    "status": "ok",
+    "build": "技能: Q>E>W (37.92% 选取) | 起始: Blade of The Ruined King、Kraken Slayer、Death's Dance、Wit's End | 鞋子: Berserker's Greaves、Mercury's Treads | 核心: Kraken Slayer Blade of The Ruined King Death's Dance (48.84% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (37.92% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Kraken Slayer",
+      "Death's Dance",
+      "Wit's End"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Death's Dance",
+        "pr": "8.33",
+        "wr": "48.84"
+      },
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Wit's End",
+        "pr": "4.22",
+        "wr": "46.35"
+      },
+      {
+        "items": "Kraken Slayer Blade of The Ruined King Guinsoo's Rageblade",
+        "pr": "2.95",
+        "wr": "50.76"
+      }
+    ]
+  },
+  {
+    "slug": "reksai",
+    "name_cn": "虚空遁地兽",
+    "name_en": "Rek'Sai",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.31% 选取) | 起始: Heartsteel、Titanic Hydra、Unending Despair、Sundered Sky | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Unending Despair Spirit Visage (48.59% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.31% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Titanic Hydra",
+      "Unending Despair",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "9.76",
+        "wr": "48.59"
+      },
+      {
+        "items": "Heartsteel Unending Despair Titanic Hydra",
+        "pr": "3.29",
+        "wr": "49.36"
+      },
+      {
+        "items": "Heartsteel Unending Despair Thornmail",
+        "pr": "2.30",
+        "wr": "47.66"
+      }
+    ]
+  },
+  {
+    "slug": "ivern",
+    "name_cn": "翠神",
+    "name_en": "Ivern",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.93% 选取) | 起始: Moonstone Renewer、Diadem of Songs、Ardent Censer、Malignance | 鞋子: Ionian Boots of Lucidity、Boots of Swiftness | 核心: Moonstone Renewer Whispering Circlet Ardent Censer (55.23% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.93% 选取)",
+    "start_items": [
+      "Moonstone Renewer",
+      "Diadem of Songs",
+      "Ardent Censer",
+      "Malignance"
+    ],
+    "boots": [
+      "Ionian Boots of Lucidity",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Moonstone Renewer Whispering Circlet Ardent Censer",
+        "pr": "7.64",
+        "wr": "55.23"
+      },
+      {
+        "items": "Malignance Rylai's Crystal Scepter Liandry's Torment",
+        "pr": "4.49",
+        "wr": "44.42"
+      },
+      {
+        "items": "Moonstone Renewer Whispering Circlet Redemption",
+        "pr": "3.89",
+        "wr": "51.43"
+      }
+    ]
+  },
+  {
+    "slug": "elise",
+    "name_cn": "蜘蛛女皇",
+    "name_en": "Elise",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.84% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Stormsurge | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (48.39% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.84% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "14.68",
+        "wr": "48.39"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "8.84",
+        "wr": "46.44"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "8.82",
+        "wr": "46.61"
+      }
+    ]
+  },
+  {
+    "slug": "skarner",
+    "name_cn": "上古领主",
+    "name_en": "Skarner",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.49% 选取) | 起始: Heartsteel、Unending Despair、Warmog's Armor、Thornmail | 鞋子: Boots of Swiftness、Mercury's Treads | 核心: Heartsteel Warmog's Armor Unending Despair (46.02% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.49% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Warmog's Armor",
+      "Thornmail"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "11.62",
+        "wr": "46.02"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "7.13",
+        "wr": "48.58"
+      },
+      {
+        "items": "Heartsteel Winter's Approach Unending Despair",
+        "pr": "5.64",
+        "wr": "45.42"
+      }
+    ]
+  },
+  {
+    "slug": "leblanc",
+    "name_cn": "诡术妖姬",
+    "name_en": "LeBlanc",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.40% 选取) | 起始: Shadowflame、Luden's Echo、Rabadon's Deathcap、Stormsurge | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Shadowflame Rabadon's Deathcap (44.68% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.40% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Luden's Echo",
+      "Rabadon's Deathcap",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Shadowflame Rabadon's Deathcap",
+        "pr": "21.68",
+        "wr": "44.68"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "12.62",
+        "wr": "43.30"
+      },
+      {
+        "items": "Luden's Echo Shadowflame Stormsurge",
+        "pr": "11.69",
+        "wr": "43.49"
+      }
+    ]
+  },
+  {
+    "slug": "zac",
+    "name_cn": "生化魔人",
+    "name_en": "Zac",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.17% 选取) | 起始: Heartsteel、Spirit Visage、Unending Despair、Warmog's Armor | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Spirit Visage Unending Despair (45.65% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.17% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Spirit Visage",
+      "Unending Despair",
+      "Warmog's Armor"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Spirit Visage Unending Despair",
+        "pr": "14.58",
+        "wr": "45.65"
+      },
+      {
+        "items": "Heartsteel Unending Despair Spirit Visage",
+        "pr": "9.17",
+        "wr": "46.81"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Spirit Visage",
+        "pr": "6.89",
+        "wr": "45.57"
+      }
+    ]
+  },
+  {
+    "slug": "rakan",
+    "name_cn": "幻翎",
+    "name_en": "Rakan",
+    "status": "ok",
+    "build": "技能: Q>E>W (34.25% 选取) | 起始: Heartsteel、Warmog's Armor、Unending Despair、Fimbulwinter | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Heartsteel Winter's Approach Unending Despair (46.55% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (34.25% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Warmog's Armor",
+      "Unending Despair",
+      "Fimbulwinter"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Winter's Approach Unending Despair",
+        "pr": "6.79",
+        "wr": "46.55"
+      },
+      {
+        "items": "Heartsteel Warmog's Armor Unending Despair",
+        "pr": "5.54",
+        "wr": "48.35"
+      },
+      {
+        "items": "Heartsteel Unending Despair Warmog's Armor",
+        "pr": "5.29",
+        "wr": "49.82"
+      }
+    ]
+  },
+  {
+    "slug": "warwick",
+    "name_cn": "祖安怒兽",
+    "name_en": "Warwick",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.94% 选取) | 起始: Blade of The Ruined King、Heartsteel、Spirit Visage、Sundered Sky | 鞋子: Mercury's Treads、Berserker's Greaves | 核心: Heartsteel Blade of The Ruined King Spirit Visage (45.84% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.94% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Heartsteel",
+      "Spirit Visage",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Berserker's Greaves"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Blade of The Ruined King Spirit Visage",
+        "pr": "6.71",
+        "wr": "45.84"
+      },
+      {
+        "items": "Heartsteel Sundered Sky Blade of The Ruined King",
+        "pr": "2.17",
+        "wr": "44.95"
+      },
+      {
+        "items": "Heartsteel Blade of The Ruined King Sundered Sky",
+        "pr": "1.93",
+        "wr": "46.09"
+      }
+    ]
+  },
+  {
+    "slug": "renekton",
+    "name_cn": "荒漠屠夫",
+    "name_en": "Renekton",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.62% 选取) | 起始: Sundered Sky、Death's Dance、Heartsteel、Eclipse | 鞋子: Mercury's Treads、Ionian Boots of Lucidity | 核心: Sundered Sky Eclipse Death's Dance (48.17% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.62% 选取)",
+    "start_items": [
+      "Sundered Sky",
+      "Death's Dance",
+      "Heartsteel",
+      "Eclipse"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Sundered Sky Eclipse Death's Dance",
+        "pr": "3.98",
+        "wr": "48.17"
+      },
+      {
+        "items": "Heartsteel Sundered Sky Death's Dance",
+        "pr": "3.45",
+        "wr": "43.29"
+      },
+      {
+        "items": "Hubris Sundered Sky Death's Dance",
+        "pr": "2.74",
+        "wr": "48.93"
+      }
+    ]
+  },
+  {
+    "slug": "zeri",
+    "name_cn": "祖安花火",
+    "name_en": "Zeri",
+    "status": "ok",
+    "build": "技能: Q>E>W (42.66% 选取) | 起始: Infinity Edge、Runaan's Hurricane、Statikk Shiv、Yun Tal Wildarrows | 鞋子: Berserker's Greaves、Plated Steelcaps | 核心: Yun Tal Wildarrows Runaan's Hurricane Infinity Edge (46.13% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (42.66% 选取)",
+    "start_items": [
+      "Infinity Edge",
+      "Runaan's Hurricane",
+      "Statikk Shiv",
+      "Yun Tal Wildarrows"
+    ],
+    "boots": [
+      "Berserker's Greaves",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Yun Tal Wildarrows Runaan's Hurricane Infinity Edge",
+        "pr": "9.05",
+        "wr": "46.13"
+      },
+      {
+        "items": "Statikk Shiv Runaan's Hurricane Infinity Edge",
+        "pr": "6.10",
+        "wr": "44.91"
+      },
+      {
+        "items": "Yun Tal Wildarrows Fiendhunter Bolts Infinity Edge",
+        "pr": "3.90",
+        "wr": "46.18"
+      }
+    ]
+  },
+  {
+    "slug": "evelynn",
+    "name_cn": "痛苦之拥",
+    "name_en": "Evelynn",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.49% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Stormsurge、Lich Bane | 鞋子: Sorcerer's Shoes、Mercury's Treads | 核心: Lich Bane Shadowflame Rabadon's Deathcap (49.15% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.49% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Stormsurge",
+      "Lich Bane"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Lich Bane Shadowflame Rabadon's Deathcap",
+        "pr": "7.71",
+        "wr": "49.15"
+      },
+      {
+        "items": "Stormsurge Shadowflame Rabadon's Deathcap",
+        "pr": "5.04",
+        "wr": "49.93"
+      },
+      {
+        "items": "Luden's Echo Stormsurge Shadowflame",
+        "pr": "3.96",
+        "wr": "43.87"
+      }
+    ]
+  },
+  {
+    "slug": "akali",
+    "name_cn": "离群之刺",
+    "name_en": "Akali",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.83% 选取) | 起始: Shadowflame、Rabadon's Deathcap、Hextech Gunblade、Stormsurge | 鞋子: Sorcerer's Shoes、Plated Steelcaps | 核心: Hextech Gunblade Shadowflame Rabadon's Deathcap (45.51% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.83% 选取)",
+    "start_items": [
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Hextech Gunblade",
+      "Stormsurge"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Hextech Gunblade Shadowflame Rabadon's Deathcap",
+        "pr": "7.39",
+        "wr": "45.51"
+      },
+      {
+        "items": "Hextech Rocketbelt Stormsurge Shadowflame",
+        "pr": "3.28",
+        "wr": "43.94"
+      },
+      {
+        "items": "Hextech Rocketbelt Shadowflame Rabadon's Deathcap",
+        "pr": "3.25",
+        "wr": "44.87"
+      }
+    ]
+  },
+  {
+    "slug": "olaf",
+    "name_cn": "狂战士",
+    "name_en": "Olaf",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.72% 选取) | 起始: Experimental Hexplate、Death's Dance、Stridebreaker、Heartsteel | 鞋子: Boots of Swiftness、Mercury's Treads | 核心: Stridebreaker Experimental Hexplate Death's Dance (49.36% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.72% 选取)",
+    "start_items": [
+      "Experimental Hexplate",
+      "Death's Dance",
+      "Stridebreaker",
+      "Heartsteel"
+    ],
+    "boots": [
+      "Boots of Swiftness",
+      "Mercury's Treads"
+    ],
+    "core_builds": [
+      {
+        "items": "Stridebreaker Experimental Hexplate Death's Dance",
+        "pr": "11.69",
+        "wr": "49.36"
+      },
+      {
+        "items": "Experimental Hexplate Stridebreaker Death's Dance",
+        "pr": "3.34",
+        "wr": "49.71"
+      },
+      {
+        "items": "Ravenous Hydra Experimental Hexplate Death's Dance",
+        "pr": "2.18",
+        "wr": "49.80"
+      }
+    ]
+  },
+  {
+    "slug": "kled",
+    "name_cn": "暴怒骑士",
+    "name_en": "Kled",
+    "status": "ok",
+    "build": "技能: Q>E>W (36.79% 选取) | 起始: Heartsteel、Titanic Hydra、Overlord's Bloodmail、Sundered Sky | 鞋子: Mercury's Treads、Boots of Swiftness | 核心: Heartsteel Titanic Hydra Overlord's Bloodmail (49.52% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (36.79% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Titanic Hydra",
+      "Overlord's Bloodmail",
+      "Sundered Sky"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Boots of Swiftness"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Titanic Hydra Overlord's Bloodmail",
+        "pr": "17.96",
+        "wr": "49.52"
+      },
+      {
+        "items": "Heartsteel Titanic Hydra Sundered Sky",
+        "pr": "3.82",
+        "wr": "48.00"
+      },
+      {
+        "items": "Heartsteel Titanic Hydra Warmog's Armor",
+        "pr": "3.05",
+        "wr": "51.35"
+      }
+    ]
+  },
+  {
+    "slug": "yorick",
+    "name_cn": "牧魂人",
+    "name_en": "Yorick",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.99% 选取) | 起始: Heartsteel、Sundered Sky、Spirit Visage、Iceborn Gauntlet | 鞋子: Mercury's Treads、Sorcerer's Shoes | 核心: Heartsteel Sundered Sky Iceborn Gauntlet (45.48% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.99% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Sundered Sky",
+      "Spirit Visage",
+      "Iceborn Gauntlet"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Sorcerer's Shoes"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Sundered Sky Iceborn Gauntlet",
+        "pr": "6.18",
+        "wr": "45.48"
+      },
+      {
+        "items": "Heartsteel Sundered Sky Spirit Visage",
+        "pr": "3.35",
+        "wr": "45.55"
+      },
+      {
+        "items": "Heartsteel Iceborn Gauntlet Spirit Visage",
+        "pr": "2.25",
+        "wr": "45.30"
+      }
+    ]
+  },
+  {
+    "slug": "ksante",
+    "name_cn": "纳祖芒荣耀",
+    "name_en": "K'Sante",
+    "status": "ok",
+    "build": "技能: Q>E>W (38.20% 选取) | 起始: Heartsteel、Unending Despair、Iceborn Gauntlet、The Protean | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Heartsteel Iceborn Gauntlet Unending Despair (42.60% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (38.20% 选取)",
+    "start_items": [
+      "Heartsteel",
+      "Unending Despair",
+      "Iceborn Gauntlet",
+      "The Protean"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Heartsteel Iceborn Gauntlet Unending Despair",
+        "pr": "11.42",
+        "wr": "42.60"
+      },
+      {
+        "items": "The Protean",
+        "pr": "5.96",
+        "wr": "43.79"
+      },
+      {
+        "items": "The Protean",
+        "pr": "4.15",
+        "wr": "41.43"
+      }
+    ]
+  },
+  {
+    "slug": "irelia",
+    "name_cn": "刀锋舞者",
+    "name_en": "Irelia",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.26% 选取) | 起始: Blade of The Ruined King、Death's Dance、Sundered Sky、Wit's End | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Blade of The Ruined King Sundered Sky Death's Dance (46.16% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.26% 选取)",
+    "start_items": [
+      "Blade of The Ruined King",
+      "Death's Dance",
+      "Sundered Sky",
+      "Wit's End"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Blade of The Ruined King Sundered Sky Death's Dance",
+        "pr": "10.85",
+        "wr": "46.16"
+      },
+      {
+        "items": "Sundered Sky Blade of The Ruined King Death's Dance",
+        "pr": "3.75",
+        "wr": "46.72"
+      },
+      {
+        "items": "Heartsteel Blade of The Ruined King Sundered Sky",
+        "pr": "3.14",
+        "wr": "42.28"
+      }
+    ]
+  },
+  {
+    "slug": "camille",
+    "name_cn": "青钢影",
+    "name_en": "Camille",
+    "status": "ok",
+    "build": "技能: Q>E>W (39.36% 选取) | 起始: Trinity Force、Death's Dance、Sundered Sky、Ravenous Hydra | 鞋子: Mercury's Treads、Plated Steelcaps | 核心: Trinity Force Sundered Sky Death's Dance (45.90% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (39.36% 选取)",
+    "start_items": [
+      "Trinity Force",
+      "Death's Dance",
+      "Sundered Sky",
+      "Ravenous Hydra"
+    ],
+    "boots": [
+      "Mercury's Treads",
+      "Plated Steelcaps"
+    ],
+    "core_builds": [
+      {
+        "items": "Trinity Force Sundered Sky Death's Dance",
+        "pr": "14.30",
+        "wr": "45.90"
+      },
+      {
+        "items": "Trinity Force Ravenous Hydra Death's Dance",
+        "pr": "10.20",
+        "wr": "49.67"
+      },
+      {
+        "items": "Heartsteel Trinity Force Sundered Sky",
+        "pr": "3.59",
+        "wr": "42.29"
+      }
+    ]
+  },
+  {
+    "slug": "bard",
+    "name_cn": "星界游神",
+    "name_en": "Bard",
+    "status": "ok",
+    "build": "技能: Q>E>W (35.69% 选取) | 起始: Statikk Shiv、Luden's Echo、Nashor's Tooth、Blade of The Ruined King | 鞋子: Sorcerer's Shoes、Ionian Boots of Lucidity | 核心: Luden's Echo Lich Bane Nashor's Tooth (42.04% 胜率)",
+    "tips": "The ultimate League of Legends ARAM Mayhem guide",
+    "skill_order": "Q>E>W (35.69% 选取)",
+    "start_items": [
+      "Statikk Shiv",
+      "Luden's Echo",
+      "Nashor's Tooth",
+      "Blade of The Ruined King"
+    ],
+    "boots": [
+      "Sorcerer's Shoes",
+      "Ionian Boots of Lucidity"
+    ],
+    "core_builds": [
+      {
+        "items": "Luden's Echo Lich Bane Nashor's Tooth",
+        "pr": "4.09",
+        "wr": "42.04"
+      },
+      {
+        "items": "Statikk Shiv Rapid Firecannon Blade of The Ruined King",
+        "pr": "2.31",
+        "wr": "39.04"
+      },
+      {
+        "items": "Statikk Shiv Blade of The Ruined King Guinsoo's Rageblade",
+        "pr": "2.00",
+        "wr": "40.96"
+      }
+    ]
+  }
+]
