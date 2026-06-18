@@ -321,10 +321,9 @@ document.getElementById('synSearch').addEventListener('input',()=>{synLimit=12;r
 document.getElementById('heroSearch').addEventListener('input',renderHeroes);
 document.getElementById('augSearch').addEventListener('input',renderAugs);
 
-/* ===== Form ===== */
-function toggleForm(){document.getElementById('submitForm').classList.toggle('open')}
-function submitReport(){document.getElementById('submitForm').classList.remove('open');const o=document.getElementById('formOk');o.style.display='block';setTimeout(()=>o.style.display='none',3000)}
-document.getElementById('fStars').addEventListener('click',e=>{if(e.target.tagName!=='SPAN')return;const v=+e.target.dataset.v;document.querySelectorAll('#fStars span').forEach(s=>s.classList.toggle('on',+s.dataset.v<=v))});
+/* ===== Form (placeholder for future submission feature) ===== */
+function toggleForm(){}
+function submitReport(){}
 
 /* ===== Populate Form Dropdowns ===== */
 function populateFormDropdowns(){
