@@ -1,0 +1,13 @@
+{
+  "patch": "26.12",
+  "last_updated": "2026-06-17T10:38:01Z",
+  "last_updated_ts": 1781692681,
+  "source_file": "champions.json",
+  "stats": {
+    "champions": 172,
+    "augments": 260,
+    "synergies": 3019,
+    "reports": 0,
+    "issues": 8
+  }
+}

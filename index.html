@@ -211,7 +211,7 @@ footer{text-align:center;padding:28px;font-size:11px;color:var(--txt3);border-to
 <button class="tab" data-t="issues">问题追踪</button>
 <button class="tab" data-t="candidates">候选发现</button>
 </div>
-<span class="ver">v26.12 · 数据更新于 2h 前</span>
+<span class="ver" id="verInfo">v26.12 · 加载中…</span>
 </div></nav>
 <div class="mvp-banner">⚠ 当前为原型版本，部分数据为示例/人工整理，真实数据接入开发中。</div>
 <div class="wrap">
@@ -347,6 +347,22 @@ async function loadData(){
     REPORTS=await rRes.json();
     ISSUES=await iRes.json();
     renderToday();renderSyn();renderHeroes();renderAugs();renderReports();renderIssues();renderCandidates();populateFormDropdowns();
+    /* 加载 meta.json 更新版本信息 */
+    fetch('data/meta.json').then(r=>r.json()).then(m=>{
+      const el=document.getElementById('verInfo');if(!el)return;
+      const t=new Date(m.last_updated),now=new Date(),d=Math.floor((now-t)/1e3);
+      let ago;
+      if(d<60)ago='刚刚';else if(d<3600)ago=Math.floor(d/60)+'分钟前';
+      else if(d<86400)ago=Math.floor(d/3600)+'小时前';
+      else if(d<604800)ago=Math.floor(d/86400)+'天前';
+      else ago=t.toLocaleDateString('zh-CN');
+      const st=m.stats||{};
+      const parts=[];
+      if(st.champions)parts.push(st.champions+'英雄');
+      if(st.augments)parts.push(st.augments+'增强');
+      if(st.synergies)parts.push(st.synergies+'组合');
+      el.textContent='v'+(m.patch||'26.12')+' · 数据更新于 '+ago+(parts.length?' · '+parts.join(' / '):'');
+    }).catch(()=>{});
   }catch(e){
     console.error('数据加载或渲染失败:',e);
     document.querySelector('.wrap').innerHTML='<div style="text-align:center;padding:60px 20px;color:var(--txt3)"><h2 style="color:var(--t-bug);margin-bottom:12px">数据加载或渲染失败，请查看 Console 具体报错。</h2><p>请确保项目通过 HTTP 服务器访问（如 <code>python -m http.server</code>），而非直接打开文件。</p></div>';
