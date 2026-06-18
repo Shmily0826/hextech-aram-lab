@@ -193,7 +193,8 @@ footer{text-align:center;padding:28px;font-size:11px;color:var(--txt3);border-to
 <script>
 /* ===== Data: loaded from JSON files via fetch() ===== */
 let CK={},SYN=[],HEROES=[],AUGS=[],ISSUES=[],CHAMP_RECS={},HERO_RECS={};
-function img(n){return `https://ddragon.leagueoflegends.com/cdn/16.12.1/img/champion/${CK[n]||n}.png`}
+let CDN_VER='16.12.1';
+function img(n){return `https://ddragon.leagueoflegends.com/cdn/${CDN_VER}/img/champion/${CK[n]||n}.png`}
 
 /* ===== Label / Class Maps ===== */
 let tierF='all',rarF='all',roleF='all',augRF='all',augStF='all',dataF='all',heroTierF='all';
@@ -292,6 +293,7 @@ async function loadData(){
     /* 加载 meta.json 更新版本信息 */
     fetch('data/meta.json').then(r=>r.json()).then(m=>{
       const el=document.getElementById('verInfo');if(!el)return;
+      if(m.cdn_version&&m.cdn_version!==CDN_VER){CDN_VER=m.cdn_version;renderSyn();renderHeroes();renderAugs()}
       const t=new Date(m.last_updated),now=new Date(),d=Math.floor((now-t)/1e3);
       let ago;
       if(d<60)ago='刚刚';else if(d<3600)ago=Math.floor(d/60)+'分钟前';

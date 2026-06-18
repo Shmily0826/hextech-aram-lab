@@ -7,6 +7,7 @@ pipeline/output/cleaned_items.jsonl
 pipeline/output/manual_items.jsonl
 
 # 数据修复过程中的备份文件
+backups/
 pipeline/output/*_backup*.json
 pipeline/output/*_fixdupes_*.json
 pipeline/output/*.en_backup

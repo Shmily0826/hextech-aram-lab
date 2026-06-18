@@ -18,6 +18,7 @@ DATA_FILES = [
 ]
 
 PATCH_VERSION = "26.12"
+CDN_VERSION = "16.12.1"
 
 
 def get_stats():
@@ -68,6 +69,7 @@ def main():
 
     meta = {
         "patch": PATCH_VERSION,
+        "cdn_version": CDN_VERSION,
         "last_updated": iso_time,
         "last_updated_ts": int(ts),
         "source_file": src,
@@ -77,7 +79,7 @@ def main():
     with open(META, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
 
-    print(f"[meta] 版本: {PATCH_VERSION}")
+    print(f"[meta] 版本: {PATCH_VERSION} (CDN: {CDN_VERSION})")
     print(f"[meta] 最后更新: {iso_time} ({src})")
     print(f"[meta] 数据统计: {json.dumps(stats, ensure_ascii=False)}")
     print(f"[meta] 已写入 {META}")

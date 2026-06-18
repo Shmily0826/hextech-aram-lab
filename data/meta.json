@@ -1,7 +1,8 @@
 {
   "patch": "26.12",
-  "last_updated": "2026-06-18T09:03:08Z",
-  "last_updated_ts": 1781773388,
+  "cdn_version": "16.12.1",
+  "last_updated": "2026-06-18T09:58:17Z",
+  "last_updated_ts": 1781776697,
   "source_file": "augments.json",
   "stats": {
     "champions": 172,
