@@ -7,3 +7,10 @@ docs
 *.md
 requirements.txt
 .vercelignore
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.backup*.json
+champions.backup*
