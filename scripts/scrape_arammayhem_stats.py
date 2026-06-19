@@ -77,8 +77,8 @@ def parse_augment_list(html, lang='zh'):
         # Extract percentages: patterns like "69.86%" or "67.38%"
         percents = re.findall(r'(\d+\.?\d*)%', text_content)
         if len(percents) >= 2:
-            entry['win_rate'] = float(percents[0])
-            entry['pick_rate'] = float(percents[1])
+            entry['pick_rate'] = float(percents[0])  # page order: pick_rate first
+            entry['win_rate'] = float(percents[1])   # then win_rate
         elif len(percents) == 1:
             entry['win_rate'] = float(percents[0])
         
