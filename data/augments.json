@@ -5109,7 +5109,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Your Recall is now functional and is upgraded to Empowered Recall. Additionally, you no longer lose the ability to purchase items from the shop after exiting the shop area, and the fountain will now provide healing and resource restoration for you.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/cheating"
@@ -5147,7 +5147,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Your shields detonate upon expiration, creating an explosion that deals magic damage equal to 100% of the shield's strength to nearby enemies.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/crack-open-that-egg"
@@ -5204,7 +5204,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Critical strikes launch 1 (+ 1 per 33.33% critical strike chance) firecracker missiles at the target that each deal 11 to 40 (+ 7% bonus AD) (+ 10% AP) magic damage (4 second cooldown). Additionally, gain 25% critical strike chance.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/critical-missile"
@@ -5223,7 +5223,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Your critical strikes grant you 6% bonus attack speed for 6 seconds, stacking up to 10 times for a total of 60%. Additionally, gain 25% critical strike chance.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/critical-rhythm"
@@ -5242,7 +5242,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Gain the Fleet Footwork and Grasp of the Undying keystone runes.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/demons-dance"
@@ -5379,7 +5379,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Automatically cast Ring of Frost, creating a cold pulse around you in 450 radius that roots nearby enemies for 1.25 seconds (6.5 second cooldown).",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/frost-wraith"
@@ -5436,7 +5436,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Gain 15 ability power and 8 bonus magic resistance for each headwear item or hat you have in your inventory, reduced to 8 ability power and 4 bonus magic resistance for hats obtained from Cappa Juice and Stat Bonus. Eligible Items: Abyssal Mask, Bloodletter's Curse, Cosmic Drive, Edge of Night, Experimental Hexplate, Fimbulwinter, Haunting Guise, Hollow Radiance, Hubris, Jak'Sho, The Protean, Knight's Vow, Liandry's Torment, Rabadon's Deathcap, Riftmaker, Shurelya's Battlesong, Spectre's Cowl, Wooglet's Witchcap",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/hat-on-a-hat"
@@ -5474,7 +5474,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Your heals and shields cause you to fire a missile to the nearest enemy unit within 650 units over 0.32 seconds, applying a Burn upon arrival that deals magic damage equal to 0.2% of the target's maximum health every second over 5 seconds, for a total of 1% (1.5-second cooldown). The Burn's per-tick damage increases to up to 0.8% of the target's maximum health based on the relative value of the triggering heal or shield against the maximum health of the ally recipient, for a total maximum damage of 4% of the target's maximum health.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/holy-fire"
@@ -5512,7 +5512,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Grants 50% critical strike chance.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/its-critical"
@@ -5531,7 +5531,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Gain the Arcane Comet and Summon Aery keystone runes.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/keystone-conjurer"
@@ -5550,7 +5550,7 @@
     "tier": "prismatic",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Replace a summoner spell with Laser Heal. Laser Heal:",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/laser-heal"
@@ -5610,7 +5610,7 @@
     "tier": "prismatic",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Replaces the summoner spell in the slot not occupied by Flash with Orbital Laser. Orbital Laser: Call upon an orbital laser to fire down on the target location after 2.5 seconds, immediately dealing true damage equal to the 25% of the target's maximum health then every 0.5 seconds over 3 seconds to enemies within a 550 radius, up to a total of magic damage. Deals 70% damage to Minions. This augment is only offered to up to 1 player on each team for a given game.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/orbitallaser"
@@ -5648,7 +5648,7 @@
     "tier": "gold",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "You summon a Poro alongside yourself every 5 seconds, up to 4 at a time. Damaging an enemy champion with an ability commands all of your Poros to launch themselves at the target, each dealing true damage equal to 3% of the target's maximum health and knocking them back a short distance. This augment is only offered to up to 1 player on each team for a given game.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/poro-blaster"
@@ -5724,7 +5724,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Upon dropping below 35% of your maximum health, you knock back all enemies within a 500 radius by 750 units and slow them by 90% for 1.5 seconds (25 second cooldown, resets upon death).",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/repulsor"
@@ -5857,7 +5857,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Whenever you damage an enemy champion with an ability, gain 200 bonus movement speed decaying over 1 second.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/speed-demon"
@@ -5921,7 +5921,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Grants 25 bonus attack damage, 10 ability haste, and 5 lethality.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/the-brutalizer"
@@ -5978,7 +5978,7 @@
     "tier": "prismatic",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Upon damaging an enemy while located at over 700 units away at the time of the hit, cast Trueshot Barrage in their direction. The barrage deals 100 to 350 (+ 80% bonus AD) (+ 60% AP) magic damage to enemies it passes through (15 second cooldown). This augment is only offered to up to 1 player on each team for a given game.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/trueshotprodigy"
@@ -6016,7 +6016,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Upgrades both Lifeline and Spectral Cutlass, reducing the cooldown of Soul Anchor to 30 seconds and empowering its active to grant you 25% increased damage while it is in effect. Additionally, gain 250 gold.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/upgrade-cutlass"
@@ -6149,7 +6149,7 @@
     "tier": "silver",
     "status": "removed",
     "effect": "",
-    "effect_en": "",
+    "effect_en": "Gain 1.5 bonus movement speed per 1 Lethality or flat magic penetration, and 5 bonus movement speed per 10% armor penetration or magic penetration.",
     "source": {
       "type": "arammayhem_com",
       "url": "https://arammayhem.com/zh-cn/augments/wind-beneath-blade"

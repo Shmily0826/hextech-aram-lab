@@ -1,0 +1,387 @@
+{
+  "scraped_at": "2026-06-19T06:39:58Z",
+  "total_requested": 54,
+  "found": 54,
+  "errors": 0,
+  "results": [
+    {
+      "id": "bounce_of_the_poro_king",
+      "name": "魄罗之王的弹跳",
+      "name_en": "Bounce of the Poro King",
+      "effect_en": "Open E then Bounce of the Poro King â full-time damage reduction + CC.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "buff_buddies",
+      "name": "霸符兄弟",
+      "name_en": "Buff Buddies",
+      "effect_en": "Morgana's Q and W cooldowns overlap heavily. With Archmage's Q-reduces-W / W-reduces-Q loop, you can perma-root and burn enemies. Only ~80 ability haste needed for infinite QW â high tolerance, miserable to play against.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "cheating",
+      "name": "作弊：我能回城！",
+      "name_en": "Cheating",
+      "effect_en": "Your Recall is now functional and is upgraded to Empowered Recall. Additionally, you no longer lose the ability to purchase items from the shop after exiting the shop area, and the fountain will now provide healing and resource restoration for you.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "clown_college",
+      "name": "小丑学院",
+      "name_en": "Clown College",
+      "effect_en": "Go invisible during ult for full damage while untargetable.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "crack_open_that_egg",
+      "name": "砸开那颗蛋",
+      "name_en": "Crack Open That Egg",
+      "effect_en": "Your shields detonate upon expiration, creating an explosion that deals magic damage equal to 100% of the shield's strength to nearby enemies.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "crit_n_cast",
+      "name": "由暴生急",
+      "name_en": "Crit 'n Cast",
+      "effect_en": "Keep exploring Crit 'n Cast through champions, items, sets, and combo examples.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "critical_healing",
+      "name": "会心治疗",
+      "name_en": "Critical Healing",
+      "effect_en": "Keep exploring Critical Healing through champions, items, sets, and combo examples.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "critical_missile",
+      "name": "暴击飞弹",
+      "name_en": "Critical Missile",
+      "effect_en": "Critical strikes launch 1 (+ 1 per 33.33% critical strike chance) firecracker missiles at the target that each deal 11 to 40 (+ 7% [b]bonus[/b] AD) (+ 10% AP) magic damage (4 second cooldown). Additionally, gain 25% critical strike chance.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "critical_rhythm",
+      "name": "暴击律动",
+      "name_en": "Critical Rhythm",
+      "effect_en": "Your critical strikes grant you 6% [b]bonus[/b] attack speed for 6 seconds, stacking up to 10 times for a total of 60%. Additionally, gain 25% critical strike chance.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "demons_dance",
+      "name": "魔鬼之舞",
+      "name_en": "Demon's Dance",
+      "effect_en": "Gain the Fleet Footwork and Grasp of the Undying keystone runes.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "devil_on_your_shoulder",
+      "name": "你肩上的恶魔",
+      "name_en": "Devil on Your Shoulder",
+      "effect_en": "Keep exploring Devil on Your Shoulder through champions, items, sets, and combo examples.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "double_tap",
+      "name": "双发快射",
+      "name_en": "Double Tap",
+      "effect_en": "E with crit â instant triple-ring. Long CD â pick your engage; vs shield comps, build shield-shred.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "droppybara",
+      "name": "卡皮巴拉空投",
+      "name_en": "Droppybara",
+      "effect_en": "Capybara airdrop perfectly times during ult's stasis â pair with Redemption and Killing Time amps for great damage.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "feel_the_burn",
+      "name": "感受燃烧",
+      "name_en": "Feel the Burn",
+      "effect_en": "Use heavy armor pen + Axiom Arc's CDR return + damage amps to focus-kill enemy backline squishies. Watch mana early; Q is low-accuracy so grab Tear; this is a squishy cleanup assassin â engage after a teammate or enemy initiates, never first.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "final_city_transit",
+      "name": "最终都市列车",
+      "name_en": "Final City Transit",
+      "effect_en": "Use Jarvan's R to lock down enemies, then chain Dive Bomber's set with the death-revive timer to trigger Final City Transit + Dive Bomber for huge self-destruct damage. R should hit multiple targets; flag-stack with the barricade to nail the boom. Best for aggressive players trading lives for teamfight damage. Gold lead is key â Gold Rain set helps the transition.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "frost_wraith",
+      "name": "冰霜 幽灵",
+      "name_en": "Frost Wraith",
+      "effect_en": "Automatically cast Ring of Frost, creating a cold pulse around you in 450 radius that roots nearby enemies for 1.25 seconds (6.5 second cooldown).",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "gash",
+      "name": "砍伤",
+      "name_en": "Gash",
+      "effect_en": "Rammus W perfectly procs Ethereal Weapon; W also procs Gash. Core items: Heartsteel, Thornmail, Sterak's. When attacked, you trigger W damage + Thornmail damage + Gash damage + Heartsteel stacks and damage.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "grandmas_chili_oil",
+      "name": "祖母的辣椒油",
+      "name_en": "Grandma's Chili Oil",
+      "effect_en": "Burn build. WQ amps Q damage; E kills credited to others still count for stacks.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "hat_on_a_hat",
+      "name": "帽上加帽",
+      "name_en": "Hat on a Hat",
+      "effect_en": "Gain 15 ability power and 8 [b]bonus[/b] magic resistance for each headwear item or hat you have in your inventory, reduced to 8 ability power and 4 [b]bonus[/b] magic resistance for hats obtained from Cappa Juice and Stat Bonus. [b]Eligible Items:[/b] Abyssal Mask, Bloodletter's Curse, Cosmic Drive, Edge of Night, Experimental Hexplate, Fimbulwinter, Haunting Guise, Hollow Radiance, Hubris, Jak'Sho, The Protean, Knight's Vow, Liandry's Torment, Rabadon's Deathcap, Riftmaker, Shurelya's Battlesong, Spectre's Cowl, Wooglet's Witchcap<!--interaction with Quest and Upgraded Items?-->",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "heads_up_cupcake",
+      "name": "当心小蛋糕！",
+      "name_en": "Heads Up Cupcake!",
+      "effect_en": "Build around the Upgrade: Thornmail hex. Use W's huge resists with Heartsteel and Warmog's for HP, then stack magic pen via Void Staff, Abyssal Mask, and forge. Once enemy MR is fully penetrated, Thornmail damage becomes near-true. Forge: magic pen > resists > HP. W also benefits from Jak'sho's % resist scaling. If enemies refuse to attack you, taunt with E to force the reflect.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "holy_fire",
+      "name": "圣火",
+      "name_en": "Holy Fire",
+      "effect_en": "Your heals and shields cause you to fire a missile to the nearest enemy unit within 650 units over 0.32 seconds, applying a Burn upon arrival that deals magic damage equal to 0.2% of the target's [b]maximum[/b] health every second over 5 seconds, for a total of 1% (1.5-second cooldown). The Burn's per-tick damage increases to up to 0.8% of the target's [b]maximum[/b] health based on the relative value of the triggering heal or shield against the [b]maximum[/b] health of the ally recipient, for a total maximum damage of 4% of the target's [b]maximum[/b] health.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "im_a_baby_kitty_where_is_mama",
+      "name": "小猫咪找妈妈",
+      "name_en": "I'm a Baby Kitty Where is Mama",
+      "effect_en": "RE gives a large AoE shield â stack CDR and healing power.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "its_critical",
+      "name": "关键暴击",
+      "name_en": "It's Critical",
+      "effect_en": "Grants 50% critical strike chance.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "keystone_conjurer",
+      "name": "基石法师",
+      "name_en": "Keystone Conjurer",
+      "effect_en": "Gain the Arcane Comet and Summon Aery keystone runes.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "laser_heal",
+      "name": "激光治疗",
+      "name_en": "Laser Heal",
+      "effect_en": "Replace a summoner spell with Laser Heal. [b]Laser Heal:[/b]",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "lightning_strikes",
+      "name": "闪电打击",
+      "name_en": "Lightning Strikes",
+      "effect_en": "Use Marksmage to convert Thresh's infinite passive AP (via souls) into 75% bonus physical on autos. Combined with E passive's soul-based bonus magic damage and item on-hits, it's a triple-mixed-damage hit â melts squishies and tanks alike. Thresh's passive permanently gives AP and armor, so Marksmage scales endlessly. Stack souls + AS + AP.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "orbitallaser",
+      "name": "轨道镭射",
+      "name_en": "OrbitalLaser",
+      "effect_en": "Replaces the summoner spell in the slot not occupied by Flash with [i]Orbital Laser[/i]. [b]Orbital Laser:[/b] Call upon an orbital laser to fire down on the target location after 2.5 seconds, immediately dealing true damage equal to the 25% of the target's [b]maximum[/b] health then every 0.5 seconds over 3 seconds to enemies within a 550 radius, up to a total of magic damage. Deals 70% damage to Minions. This augment is only offered to up to 1 player on each team for a given game.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "perseverance",
+      "name": "坚韧",
+      "name_en": "Perseverance",
+      "effect_en": "Endless tank-heal + damage. Take HP and regen runes.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "poro_blaster",
+      "name": "魄罗爆破手",
+      "name_en": "Poro Blaster",
+      "effect_en": "You summon a Poro alongside yourself every 5 seconds, up to 4 at a time. Damaging an enemy champion with an ability commands all of your Poros to launch themselves at the target, each dealing true damage equal to 3% of the target's [b]maximum[/b] health and knocking them back a short distance. This augment is only offered to up to 1 player on each team for a given game.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "quantum_computing",
+      "name": "量子计算",
+      "name_en": "Quantum Computing",
+      "effect_en": "Lethality Quinn with Quantum Computing can dive for massive team damage, heal through the burst, then reposition out.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "rabble_rousing",
+      "name": "古式佳酿",
+      "name_en": "Rabble Rousing",
+      "effect_en": "Q triggers healing 3 times, other abilities trigger it twice.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "red_envelopes",
+      "name": "红包",
+      "name_en": "Red Envelopes",
+      "effect_en": "Build around the Upgrade: Thornmail hex. Use W's huge resists with Heartsteel and Warmog's for HP, then stack magic pen via Void Staff, Abyssal Mask, and forge. Once enemy MR is fully penetrated, Thornmail damage becomes near-true. Forge: magic pen > resists > HP. W also benefits from Jak'sho's % resist scaling. If enemies refuse to attack you, taunt with E to force the reflect.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "repulsor",
+      "name": "退敌力场",
+      "name_en": "Repulsor",
+      "effect_en": "Upon dropping below 35% of your [b]maximum[/b] health, you knock back all enemies within a 500 radius by 750 units and slow them by 90% for 1.5 seconds (25 second cooldown, resets upon death).",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "restless_restoration",
+      "name": "无休回复",
+      "name_en": "Restless Restoration",
+      "effect_en": "Huge MS and heal/shield uptime.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "self_destruct",
+      "name": "自我毁灭",
+      "name_en": "Self Destruct",
+      "effect_en": "Use Jarvan's R to lock down enemies, then chain Dive Bomber's set with the death-revive timer to trigger Final City Transit + Dive Bomber for huge self-destruct damage. R should hit multiple targets; flag-stack with the barricade to nail the boom. Best for aggressive players trading lives for teamfight damage. Gold lead is key â Gold Rain set helps the transition.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "slow_and_steady",
+      "name": "一板一眼",
+      "name_en": "Slow And Steady",
+      "effect_en": "Slow and Steady converts attack speed to AD without reducing Q's cooldown â Q's tooltip damage is already huge.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "slow_cooker",
+      "name": "慢炖",
+      "name_en": "Slow Cooker",
+      "effect_en": "Chili Oil build â just cast abilities.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "snowball_roulette",
+      "name": "雪球扭蛋机",
+      "name_en": "Snowball Roulette",
+      "effect_en": "Snowballs Zoe W-picks all trigger the snowball hex effects â Biggest Snowball Ever's size bonus and Snowball Upgrade's AoE damage both proc. Hunt snowballs on the map â they hit absurdly hard.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "snowball_upgrade",
+      "name": "升级：雪球",
+      "name_en": "Snowball Upgrade",
+      "effect_en": "Exploits a special interaction between Aurora's passive triple-ring and Snowball Upgrade. Upgraded Snowball has multiple magic-damage ticks â one hit stacks 8-10 passive layers and instantly detonates % damage multiple times. Pair with Ethereal Weapon or Biggest Snowball for even more frequency and ceiling. QEQ combo with Ethereal Weapon triggers two passive procs. Both Snowball Upgrade + Biggest Snowball cut the snowball cooldown to 1.7s for seamless ranged poke.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "speed_demon",
+      "name": "速度恶魔",
+      "name_en": "Speed Demon",
+      "effect_en": "Whenever you damage an enemy champion with an ability, gain 200 [b]bonus[/b] movement speed decaying over 1 second.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "tank_it_or_leave_it",
+      "name": "会心防御",
+      "name_en": "Tank It Or Leave It",
+      "effect_en": "Doubles crit chance via passive â Ruined King alone takes you near max crit. Yasuo's high-frequency Q and E refresh shields constantly, while Death's Dance bleed makes him both tanky and bursty.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "the_brutalizer",
+      "name": "残暴之力",
+      "name_en": "The Brutalizer",
+      "effect_en": "Grants 25 [b]bonus[/b] attack damage, 10 ability haste, and 5 lethality.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "tormentor",
+      "name": "折磨者",
+      "name_en": "Tormentor",
+      "effect_en": "Spicy enough to make enemy moms cry â huge sustain.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "trailblazer",
+      "name": "开拓者",
+      "name_en": "Trailblazer",
+      "effect_en": "Last updated Â· Jun 18, 2026",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "trueshotprodigy",
+      "name": "精准奇才",
+      "name_en": "TrueshotProdigy",
+      "effect_en": "Upon damaging an enemy while located at over 700 units away at the time of the hit, cast Trueshot Barrage in their direction. The barrage deals 100 to 350 (+ 80% [b]bonus[/b] AD) (+ 60% AP) magic damage to enemies it passes through (15 second cooldown). This augment is only offered to up to 1 player on each team for a given game.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "twice_thrice",
+      "name": "接二连三",
+      "name_en": "Twice Thrice",
+      "effect_en": "E has high AP ratios â core idea is using E's burst as your damage. Even on AP, rend stays physical, so build armor pen.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "upgrade_cutlass",
+      "name": "升级：弯刀",
+      "name_en": "Upgrade Cutlass",
+      "effect_en": "Upgrades both Lifeline and Spectral Cutlass, reducing the cooldown of Soul Anchor to 30 seconds and empowering its active to grant you 25% increased damage while it is in effect. Additionally, gain 250 gold.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "upgrade_hubris",
+      "name": "升级：狂妄",
+      "name_en": "Upgrade Hubris",
+      "effect_en": "Stack Shrink Engine synergies â Nasus already gets bonus per stack; on a TF Mobi Q stacks 24 normally, 36 with two, 48 with three, 72 with four Shrink Engines.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "upgrade_thornmail",
+      "name": "升级：荆棘之甲",
+      "name_en": "Upgrade Thornmail",
+      "effect_en": "Build around the Upgrade: Thornmail hex. Use W's huge resists with Heartsteel and Warmog's for HP, then stack magic pen via Void Staff, Abyssal Mask, and forge. Once enemy MR is fully penetrated, Thornmail damage becomes near-true. Forge: magic pen > resists > HP. W also benefits from Jak'sho's % resist scaling. If enemies refuse to attack you, taunt with E to force the reflect.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "vampirism",
+      "name": "吸血习性",
+      "name_en": "Vampirism",
+      "effect_en": "Back to Basics massively boosts Q damage â paired with other damage amp hexes, Q hits like a truck.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "void_rift",
+      "name": "虚空裂隙",
+      "name_en": "Void Rift",
+      "effect_en": "E, Q, and R all deal AoE damage on short cooldowns â perfect for Void Rift.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "vulnerability",
+      "name": "易损",
+      "name_en": "Vulnerability",
+      "effect_en": "Ult benefits from Vulnerability. Insane damage.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "weighted_popoffs",
+      "name": "负重爆气",
+      "name_en": "Weighted Popoffs",
+      "effect_en": "Crit chance + Death's Dance â abilities grant shields based on crit, while Death's Dance converts 30% damage into bleed that the shields absorb. Keep ability frequency high and you maintain a permanent 30% damage reduction.",
+      "source": "arammayhem.com/en"
+    },
+    {
+      "id": "wind_beneath_blade",
+      "name": "刃下生风",
+      "name_en": "Wind Beneath Blade",
+      "effect_en": "Gain 1.5 [b]bonus[/b] movement speed per 1 Lethality or flat magic penetration, and 5 [b]bonus[/b] movement speed per 10% armor penetration or magic penetration.",
+      "source": "arammayhem.com/en"
+    }
+  ],
+  "error_details": []
+}

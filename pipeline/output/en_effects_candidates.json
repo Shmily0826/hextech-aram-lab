@@ -1,0 +1,180 @@
+{
+  "description": "English effect candidates for removed augments - real effect descriptions only",
+  "total_scraped": 54,
+  "real_effects": 19,
+  "strategy_tips": 27,
+  "boilerplate": 8,
+  "candidates": [
+    {
+      "id": "cheating",
+      "name": "作弊：我能回城！",
+      "name_en": "Cheating",
+      "effect_en": "Your Recall is now functional and is upgraded to Empowered Recall. Additionally, you no longer lose the ability to purchase items from the shop after exiting the shop area, and the fountain will now provide healing and resource restoration for you.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "crack_open_that_egg",
+      "name": "砸开那颗蛋",
+      "name_en": "Crack Open That Egg",
+      "effect_en": "Your shields detonate upon expiration, creating an explosion that deals magic damage equal to 100% of the shield's strength to nearby enemies.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "critical_missile",
+      "name": "暴击飞弹",
+      "name_en": "Critical Missile",
+      "effect_en": "Critical strikes launch 1 (+ 1 per 33.33% critical strike chance) firecracker missiles at the target that each deal 11 to 40 (+ 7% bonus AD) (+ 10% AP) magic damage (4 second cooldown). Additionally, gain 25% critical strike chance.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "critical_rhythm",
+      "name": "暴击律动",
+      "name_en": "Critical Rhythm",
+      "effect_en": "Your critical strikes grant you 6% bonus attack speed for 6 seconds, stacking up to 10 times for a total of 60%. Additionally, gain 25% critical strike chance.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "demons_dance",
+      "name": "魔鬼之舞",
+      "name_en": "Demon's Dance",
+      "effect_en": "Gain the Fleet Footwork and Grasp of the Undying keystone runes.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "frost_wraith",
+      "name": "冰霜 幽灵",
+      "name_en": "Frost Wraith",
+      "effect_en": "Automatically cast Ring of Frost, creating a cold pulse around you in 450 radius that roots nearby enemies for 1.25 seconds (6.5 second cooldown).",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "hat_on_a_hat",
+      "name": "帽上加帽",
+      "name_en": "Hat on a Hat",
+      "effect_en": "Gain 15 ability power and 8 bonus magic resistance for each headwear item or hat you have in your inventory, reduced to 8 ability power and 4 bonus magic resistance for hats obtained from Cappa Juice and Stat Bonus. Eligible Items: Abyssal Mask, Bloodletter's Curse, Cosmic Drive, Edge of Night, Experimental Hexplate, Fimbulwinter, Haunting Guise, Hollow Radiance, Hubris, Jak'Sho, The Protean, Knight's Vow, Liandry's Torment, Rabadon's Deathcap, Riftmaker, Shurelya's Battlesong, Spectre's Cowl, Wooglet's Witchcap",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "holy_fire",
+      "name": "圣火",
+      "name_en": "Holy Fire",
+      "effect_en": "Your heals and shields cause you to fire a missile to the nearest enemy unit within 650 units over 0.32 seconds, applying a Burn upon arrival that deals magic damage equal to 0.2% of the target's maximum health every second over 5 seconds, for a total of 1% (1.5-second cooldown). The Burn's per-tick damage increases to up to 0.8% of the target's maximum health based on the relative value of the triggering heal or shield against the maximum health of the ally recipient, for a total maximum damage of 4% of the target's maximum health.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "its_critical",
+      "name": "关键暴击",
+      "name_en": "It's Critical",
+      "effect_en": "Grants 50% critical strike chance.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "keystone_conjurer",
+      "name": "基石法师",
+      "name_en": "Keystone Conjurer",
+      "effect_en": "Gain the Arcane Comet and Summon Aery keystone runes.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "laser_heal",
+      "name": "激光治疗",
+      "name_en": "Laser Heal",
+      "effect_en": "Replace a summoner spell with Laser Heal. Laser Heal:",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "orbitallaser",
+      "name": "轨道镭射",
+      "name_en": "OrbitalLaser",
+      "effect_en": "Replaces the summoner spell in the slot not occupied by Flash with Orbital Laser. Orbital Laser: Call upon an orbital laser to fire down on the target location after 2.5 seconds, immediately dealing true damage equal to the 25% of the target's maximum health then every 0.5 seconds over 3 seconds to enemies within a 550 radius, up to a total of magic damage. Deals 70% damage to Minions. This augment is only offered to up to 1 player on each team for a given game.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "poro_blaster",
+      "name": "魄罗爆破手",
+      "name_en": "Poro Blaster",
+      "effect_en": "You summon a Poro alongside yourself every 5 seconds, up to 4 at a time. Damaging an enemy champion with an ability commands all of your Poros to launch themselves at the target, each dealing true damage equal to 3% of the target's maximum health and knocking them back a short distance. This augment is only offered to up to 1 player on each team for a given game.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "repulsor",
+      "name": "退敌力场",
+      "name_en": "Repulsor",
+      "effect_en": "Upon dropping below 35% of your maximum health, you knock back all enemies within a 500 radius by 750 units and slow them by 90% for 1.5 seconds (25 second cooldown, resets upon death).",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "speed_demon",
+      "name": "速度恶魔",
+      "name_en": "Speed Demon",
+      "effect_en": "Whenever you damage an enemy champion with an ability, gain 200 bonus movement speed decaying over 1 second.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "the_brutalizer",
+      "name": "残暴之力",
+      "name_en": "The Brutalizer",
+      "effect_en": "Grants 25 bonus attack damage, 10 ability haste, and 5 lethality.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "trueshotprodigy",
+      "name": "精准奇才",
+      "name_en": "TrueshotProdigy",
+      "effect_en": "Upon damaging an enemy while located at over 700 units away at the time of the hit, cast Trueshot Barrage in their direction. The barrage deals 100 to 350 (+ 80% bonus AD) (+ 60% AP) magic damage to enemies it passes through (15 second cooldown). This augment is only offered to up to 1 player on each team for a given game.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "upgrade_cutlass",
+      "name": "升级：弯刀",
+      "name_en": "Upgrade Cutlass",
+      "effect_en": "Upgrades both Lifeline and Spectral Cutlass, reducing the cooldown of Soul Anchor to 30 seconds and empowering its active to grant you 25% increased damage while it is in effect. Additionally, gain 250 gold.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    },
+    {
+      "id": "wind_beneath_blade",
+      "name": "刃下生风",
+      "name_en": "Wind Beneath Blade",
+      "effect_en": "Gain 1.5 bonus movement speed per 1 Lethality or flat magic penetration, and 5 bonus movement speed per 10% armor penetration or magic penetration.",
+      "current_effect": "",
+      "current_effect_en": "",
+      "status": "removed"
+    }
+  ]
+}
