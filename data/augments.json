@@ -514,7 +514,7 @@
     "name": "大地苏醒",
     "name_en": "Earthwake",
     "tier": "prismatic",
-    "status": "removed",
+    "status": "active",
     "effect": "你的冲刺、闪烁或传送类技能会留下一条在0.75秒后爆炸的轨迹。",
     "effect_en": "Your dash, blink, or teleport Abilities leave behind a trail that detonates after 0.75 second.",
     "source": {
@@ -1359,7 +1359,7 @@
     "name": "艾卡西亚的陷落",
     "name_en": "Icathian Fall",
     "tier": "prismatic",
-    "status": "removed",
+    "status": "active",
     "effect": "即刻：获得1个【斑比的熔渣】。任务：持有日炎圣盾和璀璨回响。奖励：将这些装备合成为虚空献祭。",
     "effect_en": "Immediately: Gain a Bami's Cinder. QUEST: Possess Sunfire Aegis and Hollow Radiance. REWARD: These Items combine into Void Immolation.",
     "source": {
@@ -3282,7 +3282,7 @@
     "name": "闪现向前",
     "name_en": "Flash Forward",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "你的闪现有3层充能。在120秒后，再次获得所有充能。",
     "effect_en": "Your Flash has 3 charges. After 120 seconds, regain all charges.",
     "source": {
@@ -3957,7 +3957,7 @@
     "name": "坚若磐石",
     "name_en": "Solid As Rock",
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "每当定身或缚地一个敌人时，获得10护甲和10魔抗，持续4秒，最高叠加5层。",
     "effect_en": "Each time you Immobilize or Ground an enemy, gain Armor and Magic Resist.",
     "source": {
@@ -4243,7 +4243,7 @@
       "guiltypleasure"
     ],
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "定身或缚地敌方英雄时对你进行治疗。",
     "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
     "tags": [
@@ -4709,7 +4709,7 @@
     "name": "质变：黄金阶",
     "name_en": "Transmute Gold",
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "获得1个随机黄金阶强化符文。",
     "effect_en": "Gain a random  Gold Augment.",
     "source": {
@@ -4830,7 +4830,7 @@
     "name": "防护面纱",
     "name_en": "Veil Of Protection",
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "每30秒获得一层法术护盾来格挡下一个敌方技能。",
     "effect_en": "Gain a Spell Shield every 30 seconds that blocks the next enemy Ability.",
     "source": {
@@ -4876,7 +4876,7 @@
     "name": "加固护盾",
     "name_en": "Bolstered",
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "来自【?】技能的护盾变得更强并且受益于目标的已损失生命值。",
     "effect_en": "Shields granted from your chosen ability are stronger and scaling with target's missing Health.",
     "source": {
@@ -5156,7 +5156,7 @@
     "name": "会心治疗",
     "name_en": "Critical Healing",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5232,7 +5232,7 @@
     "name": "你肩上的恶魔",
     "name_en": "Devil on Your Shoulder",
     "tier": "prismatic",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5331,7 +5331,7 @@
     "name": "最终都市列车",
     "name_en": "Final City Transit",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5483,7 +5483,7 @@
     "name": "关键暴击",
     "name_en": "It's Critical",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "Grants 50% critical strike chance.",
     "source": {
@@ -5581,7 +5581,7 @@
     "name": "轨道镭射",
     "name_en": "OrbitalLaser",
     "tier": "prismatic",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "Replaces the summoner spell in the slot not occupied by Flash with Orbital Laser. Orbital Laser: Call upon an orbital laser to fire down on the target location after 2.5 seconds, immediately dealing true damage equal to the 25% of the target's maximum health then every 0.5 seconds over 3 seconds to enemies within a 550 radius, up to a total of magic damage. Deals 70% damage to Minions. This augment is only offered to up to 1 player on each team for a given game.",
     "source": {
@@ -5600,7 +5600,7 @@
     "name": "坚韧",
     "name_en": "Perseverance",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5771,7 +5771,7 @@
     "name": "慢炖",
     "name_en": "Slow Cooker",
     "tier": "prismatic",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5809,7 +5809,7 @@
     "name": "升级：雪球",
     "name_en": "Snowball Upgrade",
     "tier": "gold",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5873,7 +5873,7 @@
     "name": "会心防御",
     "name_en": "Tank It Or Leave It",
     "tier": "silver",
-    "status": "removed",
+    "status": "active",
     "effect": "",
     "effect_en": "",
     "source": {
