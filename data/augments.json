@@ -1140,33 +1140,6 @@
     ]
   },
   {
-    "id": "can_t_touch_this",
-    "name": "碰不到我",
-    "name_en": "Can't Touch This",
-    "aliases": [
-      "can't touch this",
-      "can'ttouchthis",
-      "ctt"
-    ],
-    "tier": "prismatic",
-    "status": "removed",
-    "effect": "施放你的终极技能会使你进入短时间的免疫伤害状态。",
-    "effect_en": "Casting your Ultimate makes you Invulnerable for a short duration.",
-    "tags": [
-      "技能"
-    ],
-    "patch_added": "",
-    "patch_removed": null,
-    "source": {
-      "type": "lol_wiki_module",
-      "url": "https://wiki.leagueoflegends.com/en-us/Module:MayhemAugmentData/data",
-      "verified_at": "2026-06-14"
-    },
-    "notes": "",
-    "tests": [],
-    "removed_reason": "不在 arammayhem.com 26.12 版本列表中"
-  },
-  {
     "id": "holy_snowball",
     "name": "神圣雪球",
     "name_en": "Holy Snowball",
