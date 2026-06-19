@@ -247,7 +247,7 @@
     "name": "升级：花晓之剑",
     "name_en": "Upgrade Mikael's Blessing",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "获得100%攻击速度。你对英雄的攻击会使来自【花晓之剑】的治疗效果提升250%。",
     "effect_en": "Gain 100% Attack Speed. Increase Sword of Blossoming Dawn's healing to 250% when you attack enemy champions.",
     "source": {
@@ -376,7 +376,7 @@
   {
     "id": "spell_splitting",
     "name": "咒语裂变",
-    "name_en": "Spell Splitting",
+    "name_en": "Spellsplit",
     "tier": "prismatic",
     "status": "active",
     "effect": "在命中时、最大距离时或再次施放时，你的【所选技能】技能的飞弹会分裂为两部分。",
@@ -399,7 +399,7 @@
   {
     "id": "echoing_release",
     "name": "回响施放",
-    "name_en": "Echoing Release",
+    "name_en": "Echo Cast",
     "tier": "prismatic",
     "status": "active",
     "effect": "施放你的【所选技能】技能时会朝你的鼠标位置派出一个复制体并再次施放该技能。",
@@ -1097,7 +1097,7 @@
     "name": "珠光护手",
     "name_en": "Jeweled Gauntlet",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "你的技能可以造成暴击，造成145%总伤害。获得25%(+4.5%每100AP)暴击几率。",
     "effect_en": "Your abilities can now critically strike for (145% + bonus critical damage) damage. Additionally, gain 25% (+ 4.5% per 100 AP) critical strike chance. If both Jeweled Gauntlet and Vulnerability are equipped, only rolls the critical strike chance of the augment that has the higher critical damage (or either if equal).",
     "source": {
@@ -1422,7 +1422,7 @@
   {
     "id": "overload",
     "name": "超负荷",
-    "name_en": "Overload",
+    "name_en": "Overloaded",
     "tier": "prismatic",
     "status": "active",
     "effect": "使用另一个技能会重置【所选技能】技能的冷却时间。",
@@ -1702,7 +1702,7 @@
   {
     "id": "merciful_strike",
     "name": "仁慈打击",
-    "name_en": "Merciful Strike",
+    "name_en": "Mercy's Strike",
     "tier": "gold",
     "status": "active",
     "effect": "在使用【所选技能】技能之后，你的下一次普攻获得50攻击距离、50%攻击速度并造成额外10%最大生命值魔法伤害。",
@@ -1820,7 +1820,7 @@
   {
     "id": "ice_burst",
     "name": "冰雪爆裂",
-    "name_en": "Ice Burst",
+    "name_en": "Snowblast",
     "tier": "gold",
     "status": "active",
     "effect": "再次施放雪球会造成提升伤害、击飞该目标、并击退附近的敌人们。",
@@ -1947,7 +1947,7 @@
   {
     "id": "ouch_my_coins",
     "name": "哎哟，我的硬币！",
-    "name_en": "Ouch My Coins",
+    "name_en": "Yowch, My Coins!",
     "tier": "gold",
     "status": "active",
     "effect": "在参与击杀敌方英雄后，该英雄会在附近掉落多枚硬币，你和友军可以收集它们。每枚硬币价值10金币。",
@@ -1970,7 +1970,7 @@
   {
     "id": "wee_oo_wee_oo",
     "name": "喂呜喂呜",
-    "name_en": "Wee Oo Wee Oo",
+    "name_en": "Wee Woo Wee Woo",
     "tier": "gold",
     "status": "active",
     "effect": "在朝着低生命值的友军移动时，获得移动速度。你的治疗和护盾获得提升，基于你目标的低生命值程度。",
@@ -2023,7 +2023,7 @@
   {
     "id": "terrain_expert",
     "name": "地形专家",
-    "name_en": "Terrain Expert",
+    "name_en": "Terrain'd",
     "tier": "gold",
     "status": "active",
     "effect": "你的【所选技能】技能会在它周围的一个区域内造成伤害。",
@@ -2095,7 +2095,7 @@
     "name": "威能之追求",
     "name_en": "Pursuit of Power",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "任务：用【所选技能】技能命中敌人10次。奖励：永久提升【所选技能】技能伤害。",
     "effect_en": "QUEST: Hit enemy champions with your chosen ability the required number of times.REWARD: Permanently increase your chosen ability damage.",
     "source": {
@@ -2375,7 +2375,7 @@
   {
     "id": "endless_rampage",
     "name": "无尽大杀四方",
-    "name_en": "Endless Rampage",
+    "name_en": "Endless Decimation",
     "tier": "gold",
     "status": "active",
     "effect": "在战斗状态下，自动施放一次环形斧头挥舞从而造成物理伤害。被斧刃命中的敌人们受到额外伤害并治疗你。",
@@ -2720,7 +2720,7 @@
   {
     "id": "burst_of_vitality",
     "name": "生机迸发",
-    "name_en": "Burst Of Vitality",
+    "name_en": "Growth Spurt",
     "tier": "gold",
     "status": "active",
     "effect": "获得生机迸发作为一个召唤师技能。生机迸发会猛然提升你20%体型，击飞附近敌人并提供25%最大生命值。",
@@ -2918,7 +2918,7 @@
   {
     "id": "nature_heals",
     "name": "自然即是治愈",
-    "name_en": "Nature Heals",
+    "name_en": "Nature is Healing",
     "tier": "gold",
     "status": "active",
     "effect": "站在草丛中时，每秒回复2%最大生命值。",
@@ -2942,7 +2942,7 @@
   {
     "id": "bush_hide",
     "name": "藏身草丛",
-    "name_en": "Bush Hide",
+    "name_en": "Hide on Bush",
     "tier": "gold",
     "status": "active",
     "effect": "在进入草丛后，多造成20%伤害，持续2秒。留在草丛中会刷新这个效果。",
@@ -3016,7 +3016,7 @@
     "name": "虹吸",
     "name_en": "Soul Siphon",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "你的暴击会治疗你，治疗量相当于所造成伤害的12%。此外，获得25%暴击几率。",
     "effect_en": "Your critical strikes heal you for 12% of damage dealt. Additionally, gain 25% critical strike chance.",
     "source": {
@@ -3118,7 +3118,7 @@
   {
     "id": "greedy_grasp",
     "name": "贪欲束缚",
-    "name_en": "Greedy Grasp",
+    "name_en": "Ravenous Bind",
     "tier": "gold",
     "status": "active",
     "effect": "用【所选技能】技能定身或缚地敌方英雄时造成40-120(+15%AP)额外伤害并治疗你自身。",
@@ -3212,7 +3212,7 @@
     "name": "轻拍背部",
     "name_en": "Pat On The Back",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "友军走过时为你提供60-180护盾和25%移动速度(持续2秒)。",
     "effect_en": "Allies encourage you when you walk past, granting you a Shield and Movement Speed.",
     "source": {
@@ -3257,7 +3257,7 @@
   {
     "id": "bang",
     "name": "邦！",
-    "name_en": "Bang",
+    "name_en": "BONK!",
     "tier": "gold",
     "status": "active",
     "effect": "被【所选技能】技能强化的攻击或技能对目标和附近敌人造成20-60(+20%额外AD)(+10%AP)额外魔法伤害。",
@@ -3426,7 +3426,7 @@
   {
     "id": "shark_storm",
     "name": "鲨鱼暴风",
-    "name_en": "Shark Storm",
+    "name_en": "Shark Tempest",
     "tier": "gold",
     "status": "active",
     "effect": "鲨鱼环绕雪球，对附近敌人每秒造成20-80魔法伤害并减速30%。雪球命中英雄时触发鲨鱼风暴。",
@@ -3546,7 +3546,7 @@
   {
     "id": "support_main",
     "name": "主玩辅助",
-    "name_en": "Support Main",
+    "name_en": "Quest Support Main",
     "tier": "silver",
     "status": "active",
     "effect": "任务：治疗友方英雄2500生命值。奖励：你提供的任何治疗效果现在还会在初始治疗之后提供持续治疗。",
@@ -3600,7 +3600,7 @@
   {
     "id": "stay_firm",
     "name": "保持坚定",
-    "name_en": "Stay Firm",
+    "name_en": "Stay Resolute",
     "tier": "silver",
     "status": "active",
     "effect": "当【所选技能】技能对敌方英雄造成伤害时，获得10护甲和魔法抗性。可叠加至5层。",
@@ -3682,7 +3682,7 @@
   {
     "id": "don_t_stop_channeling",
     "name": "别停止引导",
-    "name_en": "Don't Stop Channeling",
+    "name_en": "Don't Change the Channel",
     "tier": "silver",
     "status": "active",
     "effect": "你每引导一秒获得30-90护盾值(基于等级)，最高叠加至900。",
@@ -3707,7 +3707,7 @@
   {
     "id": "time_to_advance",
     "name": "前进时间到",
-    "name_en": "Time To Advance",
+    "name_en": "It's Go Time",
     "tier": "silver",
     "status": "active",
     "effect": "激活【所选技能】技能期间获得30%移动速度。",
@@ -3830,7 +3830,7 @@
   {
     "id": "stackasaurus",
     "name": "叠角龙",
-    "name_en": "Stackasaurus",
+    "name_en": "Stackosaurus Rex",
     "tier": "silver",
     "status": "active",
     "effect": "在你获得一个技能、强化符文或装备的永久层数时，多获得100%！",
@@ -3853,7 +3853,7 @@
   {
     "id": "reliable_weapon",
     "name": "可靠武器",
-    "name_en": "Reliable Weapon",
+    "name_en": "Trusty Weapon",
     "tier": "silver",
     "status": "active",
     "effect": "用【所选技能】技能打击敌方英雄时铸造友谊纽带。每层友谊提供5-15额外伤害。",
@@ -3957,7 +3957,7 @@
     "name": "坚若磐石",
     "name_en": "Solid As Rock",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "每当定身或缚地一个敌人时，获得10护甲和10魔抗，持续4秒，最高叠加5层。",
     "effect_en": "Each time you Immobilize or Ground an enemy, gain Armor and Magic Resist.",
     "source": {
@@ -4012,7 +4012,7 @@
   {
     "id": "master_crafted",
     "name": "大师铸就",
-    "name_en": "Master Crafted",
+    "name_en": "Forged By The Master",
     "tier": "silver",
     "status": "active",
     "effect": "使你的装备和强化符文伤害提升12%。",
@@ -4243,7 +4243,7 @@
       "guiltypleasure"
     ],
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "定身或缚地敌方英雄时对你进行治疗。",
     "effect_en": "Immobilize or ground an enemy champion heal you for 30 to 250 (+ (5 second cooldown per cast instance).",
     "tags": [
@@ -4566,7 +4566,7 @@
     "name": "狂热者",
     "name_en": "Zealot",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "获得25%暴击几率(+5%每100AP)和35%攻击速度(+5%每100AP)。",
     "effect_en": "Gain 35% (+ 5% per 100 AP) bonus attack speed and 25% (+ 5% per 100 AP) critical strike chance.",
     "source": {
@@ -4683,7 +4683,7 @@
   {
     "id": "adaptive_defense",
     "name": "自适应防护",
-    "name_en": "Adaptive Defense",
+    "name_en": "Adaptive Ward",
     "tier": "silver",
     "status": "active",
     "effect": "用【所选技能】技能打击一个敌方英雄时，为你提供持续6秒的8护甲或魔法抗性，基于该技能的伤害类型。可叠加至5层。",
@@ -4830,7 +4830,7 @@
     "name": "防护面纱",
     "name_en": "Veil Of Protection",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "每30秒获得一层法术护盾来格挡下一个敌方技能。",
     "effect_en": "Gain a Spell Shield every 30 seconds that blocks the next enemy Ability.",
     "source": {
@@ -4876,7 +4876,7 @@
     "name": "加固护盾",
     "name_en": "Bolstered",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "来自【?】技能的护盾变得更强并且受益于目标的已损失生命值。",
     "effect_en": "Shields granted from your chosen ability are stronger and scaling with target's missing Health.",
     "source": {
@@ -5156,7 +5156,7 @@
     "name": "会心治疗",
     "name_en": "Critical Healing",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5232,7 +5232,7 @@
     "name": "你肩上的恶魔",
     "name_en": "Devil on Your Shoulder",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5331,7 +5331,7 @@
     "name": "最终都市列车",
     "name_en": "Final City Transit",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5483,7 +5483,7 @@
     "name": "关键暴击",
     "name_en": "It's Critical",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "Grants 50% critical strike chance.",
     "source": {
@@ -5581,7 +5581,7 @@
     "name": "轨道镭射",
     "name_en": "OrbitalLaser",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "Replaces the summoner spell in the slot not occupied by Flash with Orbital Laser. Orbital Laser: Call upon an orbital laser to fire down on the target location after 2.5 seconds, immediately dealing true damage equal to the 25% of the target's maximum health then every 0.5 seconds over 3 seconds to enemies within a 550 radius, up to a total of magic damage. Deals 70% damage to Minions. This augment is only offered to up to 1 player on each team for a given game.",
     "source": {
@@ -5600,7 +5600,7 @@
     "name": "坚韧",
     "name_en": "Perseverance",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5771,7 +5771,7 @@
     "name": "慢炖",
     "name_en": "Slow Cooker",
     "tier": "prismatic",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5809,7 +5809,7 @@
     "name": "升级：雪球",
     "name_en": "Snowball Upgrade",
     "tier": "gold",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
@@ -5873,7 +5873,7 @@
     "name": "会心防御",
     "name_en": "Tank It Or Leave It",
     "tier": "silver",
-    "status": "active",
+    "status": "removed",
     "effect": "",
     "effect_en": "",
     "source": {
