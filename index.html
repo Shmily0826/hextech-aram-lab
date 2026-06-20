@@ -111,13 +111,23 @@ select.ctrl-sel{padding:7px 12px;border-radius:8px;background:var(--card);border
 .aug-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 
 
-.report-list{display:flex;flex-direction:column;gap:12px}
-.report-card{padding:18px}
-.report-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap}
-.report-author{font-size:13px;font-weight:600;color:var(--gold)}.report-stars{color:var(--r-gold);font-size:13px}
-.report-body{font-size:13px;color:var(--txt2);line-height:1.6;margin-bottom:10px}
-.report-meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
-.report-actions{display:flex;gap:16px;font-size:13px;color:var(--txt3)}.report-actions span{cursor:pointer;transition:.2s}.report-actions span:hover{color:var(--gold)}
+.report-list{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.report-card{padding:18px;position:relative;overflow:hidden}
+.report-card .rep-champ-strip{position:absolute;left:0;top:0;bottom:0;width:4px;border-radius:4px 0 0 4px}
+.rep-strip-transform{background:var(--t-transform)}.rep-strip-recommend{background:var(--t-recommend)}.rep-strip-avoid{background:var(--t-avoid)}.rep-strip-bug{background:var(--t-bug)}
+.report-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;padding-left:8px;flex-wrap:wrap}
+.report-head img{width:36px;height:36px;border-radius:50%;border:2px solid var(--bd)}
+.report-hero-info{flex:1;min-width:0}
+.report-hero-name{font-size:15px;font-weight:700}
+.report-aug-name{font-size:12px;color:var(--gold);margin-top:1px}
+.report-author{font-size:12px;color:var(--txt3);display:flex;align-items:center;gap:6px}
+.report-stars{color:var(--r-gold);font-size:13px;letter-spacing:1px}
+.report-body{font-size:13px;color:var(--txt2);line-height:1.7;margin-bottom:10px;padding-left:8px}
+.report-trigger{font-size:11px;color:var(--txt3);padding:6px 10px;background:rgba(200,170,110,.04);border:1px solid rgba(200,170,110,.08);border-radius:6px;margin-bottom:10px;margin-left:8px;line-height:1.5}
+.report-meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px;padding-left:8px}
+.report-actions{display:flex;gap:16px;font-size:12px;color:var(--txt3);padding-left:8px;align-items:center}.report-actions span{cursor:pointer;transition:.2s;display:inline-flex;align-items:center;gap:3px}.report-actions span:hover{color:var(--gold)}
+.rep-count{text-align:right;font-size:12px;color:var(--txt3);margin-bottom:8px}
+@media(max-width:1024px){.report-list{grid-template-columns:1fr}}
 .issue-list{display:flex;flex-direction:column;gap:12px}
 .issue-card{padding:18px;border-left:3px solid var(--t-bug)}.issue-card.critical{border-left-color:var(--red)}.issue-card.major{border-left-color:var(--t-bug)}.issue-card.minor{border-left-color:var(--blue)}
 .issue-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap}
@@ -186,7 +196,7 @@ footer{text-align:center;padding:28px;font-size:11px;color:var(--txt3);border-to
 <div class="pnl on" id="p-synergy"><div class="ctrl"><div class="search"><input id="synSearch" placeholder="搜索英雄或海克斯名称..."></div><button class="pill on" onclick="fTier(this,'all')">全部</button><button class="pill" onclick="fTier(this,'transform')">质变</button><button class="pill" onclick="fTier(this,'recommend')">推荐</button></div><div class="data-filter-bar"><button class="pill rrf on" onclick="fRar(this,'all')">全部海克斯</button><button class="pill rrf" onclick="fRar(this,'silver')">白银</button><button class="pill rrf" onclick="fRar(this,'gold')">黄金</button><button class="pill rrf" onclick="fRar(this,'prism')">棱彩</button><button class="pill elite" onclick="fElite(this)">精选</button><select class="ctrl-sel" id="synSort" onchange="synLimit=12;renderSyn()" style="margin-left:auto"><option value="wr">胜率 ↓</option><option value="hero">英雄名 ↓</option></select></div><div class="syn-grid" id="synGrid"></div></div>
 <div class="pnl" id="p-heroes"><div class="ctrl"><div class="search"><input id="heroSearch" placeholder="搜索英雄..."></div><button class="pill on" onclick="fRole(this,'all')">全部</button><button class="pill" onclick="fRole(this,'法师')">法师</button><button class="pill" onclick="fRole(this,'射手')">射手</button><button class="pill" onclick="fRole(this,'战士')">战士</button><button class="pill" onclick="fRole(this,'坦克')">坦克</button><button class="pill" onclick="fRole(this,'辅助')">辅助</button><button class="pill" onclick="fRole(this,'刺客')">刺客</button></div><div class="data-filter-bar"><button class="pill htf on" onclick="fHeroTier(this,'all')">全部等级</button><button class="pill htf" onclick="fHeroTier(this,'S')">S</button><button class="pill htf" onclick="fHeroTier(this,'A')">A</button><button class="pill htf" onclick="fHeroTier(this,'B')">B</button><button class="pill htf" onclick="fHeroTier(this,'C')">C</button><button class="pill htf" onclick="fHeroTier(this,'D')">D</button></div><div class="hero-info-bar" id="heroInfo"></div><div class="hero-grid" id="heroGrid"></div></div>
 <div class="pnl" id="p-augments"><div class="ctrl"><div class="search"><input id="augSearch" placeholder="搜索海克斯（中/英文、别名）..."></div><button class="pill on" onclick="fAugRar(this,'all')">全部</button><button class="pill" onclick="fAugRar(this,'prismatic')">棱彩</button><button class="pill" onclick="fAugRar(this,'gold')">金色</button><button class="pill" onclick="fAugRar(this,'silver')">银色</button><button class="pill" onclick="fAugRar(this,'unknown')">未知</button></div><div class="data-filter-bar"><button class="pill dfp on" onclick="fAugSt(this,'all')">全部状态</button><button class="pill dfp" onclick="fAugSt(this,'active')">活跃</button><button class="pill dfp" onclick="fAugSt(this,'removed')">已移除</button></div><div class="aug-grid" id="augGrid"></div></div>
-<div class="pnl" id="p-community"><div style="text-align:center;padding:60px 20px"><div style="font-size:48px;margin-bottom:16px">📝</div><div style="font-size:18px;font-weight:600;color:var(--gold);margin-bottom:8px">投稿功能开发中</div><div style="font-size:13px;color:var(--txt3);max-width:400px;margin:0 auto;line-height:1.7">社区投稿系统正在搭建中，届时你可以分享自己发现的英雄×海克斯质变组合。目前可以通过下方 GitHub 链接提交反馈。</div><a class="ext-link" href="https://github.com/Shmily0826/hextech-aram-lab/issues" target="_blank" rel="noopener" style="margin-top:20px">前往 GitHub 提交反馈</a></div></div>
+<div class="pnl" id="p-community"><div class="ctrl"><div class="search"><input id="repSearch" placeholder="搜索英雄或海克斯名称..."></div><button class="pill on rep-tier" onclick="fRepTier(this,'all')">全部</button><button class="pill rep-tier" onclick="fRepTier(this,'transform')">质变</button><button class="pill rep-tier" onclick="fRepTier(this,'recommend')">推荐</button><button class="pill rep-tier" onclick="fRepTier(this,'avoid')">避雷</button><button class="pill rep-tier" onclick="fRepTier(this,'bug')">Bug</button></div><div class="data-filter-bar"><button class="pill rep-st on" onclick="fRepSt(this,'all')">全部状态</button><button class="pill rep-st" onclick="fRepSt(this,'verified')">已验证</button><button class="pill rep-st" onclick="fRepSt(this,'community')">社区验证中</button><button class="pill rep-st" onclick="fRepSt(this,'investigating')">调查中</button><select class="ctrl-sel" id="repSort" onchange="renderReports()" style="margin-left:auto"><option value="likes">最多点赞</option><option value="stars">最高评分</option><option value="time">最新发布</option></select></div><div class="report-list" id="repList"></div></div>
 <div class="pnl" id="p-issues"><div class="issue-list" id="issueList"></div></div>
 
 </div>
@@ -194,8 +204,9 @@ footer{text-align:center;padding:28px;font-size:11px;color:var(--txt3);border-to
 <footer>海克斯乱斗实验室 © 2026 &nbsp;|&nbsp; 非 Riot Games 认可或赞助 &nbsp;|&nbsp; 数据来源：arammayhem.com / blitz.gg / 社区整理 &nbsp;|&nbsp; <a href="https://github.com/Shmily0826/hextech-aram-lab" target="_blank" rel="noopener" style="color:var(--gold);text-decoration:none">GitHub</a></footer>
 <script>
 /* ===== Data: loaded from JSON files via fetch() ===== */
-let CK={},SYN=[],HEROES=[],AUGS=[],ISSUES=[],CHAMP_RECS={},HERO_RECS={},AUG_WR={};
+let CK={},SYN=[],HEROES=[],AUGS=[],ISSUES=[],CHAMP_RECS={},HERO_RECS={},AUG_WR={},REPORTS=[];
 let CDN_VER='16.12.1';
+let repTierF='all',repStF='all';
 function img(n){return `https://ddragon.leagueoflegends.com/cdn/${CDN_VER}/img/champion/${CK[n]||n}.png`}
 
 /* ===== Label / Class Maps ===== */
@@ -229,6 +240,33 @@ function renderAugs(){const q=document.getElementById('augSearch').value.toLower
 
 
 function renderIssues(){document.getElementById('issueList').innerHTML=ISSUES.length?ISSUES.map(b=>`<div class="card issue-card ${b.sev}"><div class="issue-head"><span class="issue-sev ${b.sev}">${b.sev==='critical'?'严重':b.sev==='major'?'重要':'轻微'}</span><span class="issue-title">${b.title}</span></div><div class="issue-desc">${b.desc}</div><div class="issue-meta">${b.heroes.map(h=>`<span class="badge b-src-comm">${h}</span>`).join('')}${b.augs.map(a=>`<span class="badge b-src-data">${a}</span>`).join('')}<span>v${b.ver}</span><span>${b.time}</span><span>${b.confirm}人确认</span><span class="badge ${STC[b.status]}">${STL[b.status]}</span>${b.confidence!=null?`<span style="font-size:11px;color:var(--txt3)">可信度 ${cBar(b.confidence)} ${b.confidence}%</span>`:''}</div>${b.tip?`<div class="issue-tip">💡 规避建议: ${b.tip}</div>`:''}</div>`).join(''):'<div style="text-align:center;padding:40px 20px;color:var(--txt3)">暂无已知问题。</div>'}
+
+function renderReports(){
+const q=document.getElementById('repSearch').value.toLowerCase();
+const sortBy=document.getElementById('repSort').value;
+let l=REPORTS.filter(r=>{
+if(q&&!fz(q,r.hero.toLowerCase())&&!fz(q,r.aug.toLowerCase()))return false;
+if(repTierF!=='all'&&r.tier!==repTierF)return false;
+if(repStF!=='all'&&r.status!==repStF)return false;
+return true;
+});
+if(sortBy==='likes')l.sort((a,b)=>(b.likes||0)-(a.likes||0));
+else if(sortBy==='stars')l.sort((a,b)=>(b.stars||0)-(a.stars||0));
+else if(sortBy==='time')l.sort((a,b)=>(b.time||'').localeCompare(a.time||''));
+const el=document.getElementById('repList');
+if(!l.length){el.innerHTML='<div style="text-align:center;padding:48px 20px;color:var(--txt3);grid-column:1/-1">暂无符合条件的投稿。</div>';return}
+el.innerHTML='<div class="rep-count" style="grid-column:1/-1">'+l.length+' 篇投稿</div>'+l.map(r=>{
+const heroObj=HEROES.find(h=>h.name===r.hero);
+const tierLabel=TL[r.tier]||r.tier;
+const tierCls=TC[r.tier]||'';
+const stLabel=STL[r.status]||r.status;
+const stCls=STC[r.status]||'';
+const stars='★'.repeat(r.stars||0)+'☆'.repeat(5-(r.stars||0));
+return `<div class="card report-card"><div class="rep-champ-strip rep-strip-${r.tier}"></div><div class="report-head"><img src="${img(r.hero)}" onerror="this.style.display='none'"><div class="report-hero-info"><div class="report-hero-name">${r.hero} <span style="font-size:12px;color:var(--txt3);font-weight:400">×</span> ${r.aug}</div><div class="report-author">${r.author} · ${r.time||''}</div></div><div><span class="report-stars">${stars}</span></div></div><div class="report-body">${r.desc}</div>${r.trigger?`<div class="report-trigger">⚡ 触发机制：${r.trigger}</div>`:''}<div class="report-meta"><span class="badge ${tierCls}">${tierLabel}</span><span class="badge ${stCls}">${stLabel}</span><span style="font-size:11px;color:var(--txt3)">v${r.ver}</span></div><div class="report-actions"><span>👍 ${r.likes||0}</span><span>👎 ${r.dislikes||0}</span><span>💬 ${r.comments||0}</span></div></div>`;
+}).join('');
+}
+function fRepTier(b,v){repTierF=v;b.parentElement.querySelectorAll('.rep-tier').forEach(p=>p.classList.remove('on'));b.classList.add('on');renderReports()}
+function fRepSt(b,v){repStF=v;b.parentElement.querySelectorAll('.rep-st').forEach(p=>p.classList.remove('on'));b.classList.add('on');renderReports()}
 
 
 
@@ -283,18 +321,20 @@ document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{doc
 document.getElementById('synSearch').addEventListener('input',()=>{synLimit=12;renderSyn();});
 document.getElementById('heroSearch').addEventListener('input',renderHeroes);
 document.getElementById('augSearch').addEventListener('input',renderAugs);
+document.getElementById('repSearch').addEventListener('input',renderReports);
 
-/* ===== Form (placeholder for future submission feature) ===== */
+/* ===== Report Filters ===== */
 
 
 /* ===== Data Loading via fetch() ===== */
 async function loadData(){
   try{
-    const [cRes,aRes,sRes,iRes]=await Promise.all([
+    const [cRes,aRes,sRes,iRes,rRes]=await Promise.all([
       fetch('data/champions.json'),
       fetch('data/augments.json'),
       fetch('data/synergies.json'),
-      fetch('data/issues.json')
+      fetch('data/issues.json'),
+      fetch('data/reports.json')
     ]);
     const cData=await cRes.json();
     CK=cData.championKeys||{};
@@ -304,7 +344,8 @@ async function loadData(){
     AUG_WR={};AUGS.forEach(a=>{if(a.win_rate!=null)AUG_WR[a.name]=a.win_rate});
     SYN=await sRes.json();
     ISSUES=await iRes.json();
-    renderSyn();renderHeroes();renderAugs();renderIssues();
+    REPORTS=rRes.ok?await rRes.json():[];
+    renderSyn();renderHeroes();renderAugs();renderIssues();renderReports();
     /* 加载 meta.json 更新版本信息 */
     fetch('data/meta.json').then(r=>r.json()).then(m=>{
       const el=document.getElementById('verInfo');if(!el)return;
